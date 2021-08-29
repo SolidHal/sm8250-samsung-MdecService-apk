@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="about_page_app_name_text_color">#fffafafa</color>
+    <color name="about_page_tnc_pp_oslicences_button_text_color">#ff252525</color>
+    <color name="body_text_color">#fffafafa</color>
+    <color name="bold_text_color">#fffafafa</color>
+    <color name="bottom_bar_button_icon_color">#ffcccccc</color>
+    <color name="bottom_bar_button_text_icon_color">#ffcccccc</color>
+    <color name="colorPrimary">#ff008cff</color>
+    <color name="colorPrimaryDark">#ff008cff</color>
+    <color name="layout_background_color">@color/sesl_round_and_bgcolor_dark</color>
+    <color name="normal_text_color">#fff0f0f0</color>
+    <color name="pp_contents_text_color">#fffafafa</color>
+    <color name="qs_detail_disable_text_color">#ffe5e5e5</color>
+    <color name="qs_item_text">#fffafafa</color>
+    <color name="sec_widget_ripple_color">@color/sesl_ripple_color_dark</color>
+    <color name="sec_widget_round_and_bgcolor">@color/sesl_round_and_bgcolor_dark</color>
+    <color name="sec_widget_round_stroke_color">@color/sesl_round_stroke_dark</color>
+    <color name="sec_widget_stroke_color">@color/sesl_list_divider_color_dark</color>
+    <color name="sec_widget_switchbar_background_color">#26fafafa</color>
+    <color name="sep_10_light_theme">#ff080808</color>
+    <color name="sesl_text_input_layout_hint_text_color">#ff999999</color>
+    <color name="subheader_dots">#fffafafa</color>
+    <color name="tnc_pp_bold_text_color">#fffafafa</color>
+</resources>

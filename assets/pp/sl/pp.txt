@@ -1,0 +1,98 @@
+﻿Obvestilo o zasebnosti za storitev Call & Message Continuity
+
+Datum začetka veljavnosti: 30. 03. 2018
+
+Samsung Electronics (UK) Limited (»Samsung« ali »mi«) in z njim povezana podjetja upoštevajo vaše pomisleke glede zasebnosti. To obvestilo o zasebnosti velja za osebne podatke, ki jih zbiramo prek storitve Call & Message Continuity (v nadaljevanju »storitev«). Obvestilo ne velja za podatke, ki se zbirajo prek drugih aplikacij, spletnih mest ali storitev, ki jih zagotavljajo Samsung ali z njim povezana podjetja.
+
+Storitev je komunikacijska storitev za več naprav. Med njene funkcije spadajo odložitev dohodnih in odhodnih klicev, zgodovina klicev in sporočil ter sinhronizacija sporočil med primarno napravo (npr. pametnim telefonom) in sekundarno napravo/sekundarnimi napravami (npr. ura, tablični računalnik, prenosnik itd.), tako da lahko prejemate dohodne klice in berete sporočila v sekundarnih napravah ter opravljate odhodne klice in pošiljate nova sporočila s primarno napravo.
+
+Če želite uporabljati to storitev, se morate najprej vpisati v račun Samsung account v primarni napravi in sekundarnih napravah. Če je vaša sekundarna naprava ura, morate nastaviti omrežno storitev, tako da se prek sistema, ki ga omogoča vaš omrežni operater in vam omogoča uporabo ure z običajno telefonsko številko, naročite na naročnino za prenos podatkov prek mobilnega omrežja. Če je vaša sekundarna naprava tablični računalnik, ki podpira le podatke, morate vzpostaviti povezavo z omrežjem Wi-Fi ali s sistemom, ki ga ponuja vaš omrežni operater in vam omogoča uporabo tabličnega računalnika. Naš pravilnik o zasebnosti na spletnem mestu https://account.samsung.com/membership/pp (»Samsungov pravilnik o zasebnosti«) velja za vašo uporabo računa Samsung account in storitve Call & Message Continuity. To obvestilo o zasebnosti vsebuje dodatne informacije o tem, kako se vaši osebni podatki uporabljajo v povezavi s storitvijo, in ga je treba brati skupaj s Samsungovim pravilnikom o zasebnosti.
+
+V tem obvestilu o zasebnosti so opisane vrste podatkov, ki jih zbiramo prek storitve, načini, na katere lahko te podatke uporabljamo, kako dolgo hranimo podatke, s kom lahko podatke delimo, ter možnosti, ki jih imate na voljo glede naše uporabe podatkov in uveljavljanja vaših pravic. Opisani so tudi ukrepi, ki jih izvajamo za zaščito podatkov, in navedene so informacije, kako se lahko obrnete na nas glede naših postopkov, povezanih z zasebnostjo. Pri obdelavi osebnih podatkov ima Samsung vlogo upravljavca podatkov.
+
+Kliknite želeno povezavo spodaj, da se pomaknete na navedeni razdelek:
+
+•	Podatki, ki jih pridobivamo
+•	Načini, na katere uporabljamo pridobljene podatke
+•	Deljenje podatkov z drugimi
+•	Hramba osebnih podatkov
+•	Možnosti izbire
+•	Vaše pravice
+•	Načini, s katerimi varujemo osebne podatke
+•	Posodobitve obvestila o zasebnosti
+•	Stik z nami
+
+Podatki, ki jih pridobivamo
+
+Prek storitve podatke o vas pridobivamo na različne načine. Med vrstami osebnih podatkov, ki jih pridobivamo, so:
+
+•	Podatki o računu Samsung account. Zbiramo podatke, povezane z vašim računom Samsung account, ki se uporabljajo za dostop do storitve, na primer vaš ID za račun Samsung account.
+
+•	Interakcije s storitvijo. Zbiramo podatke, ki jih izmenjate prek interakcij s storitvijo, vključno z informacijami o klicateljih in prejemnikih, informacijami o pošiljateljih in prejemnikih sporočil, vsebino sporočil, ki jih pošiljate in prejemate, ter zgodovino klicev in sporočil v aplikacijah pametnega telefona. Zbiramo tudi druge podatke o uporabi, na primer interakcije z dotikom in drugimi načini vnosa, ter podatke, ki jih prejmete iz storitve (kot so odzivi in odgovori). Če storitvi pošljete občutljive podatke (na primer zdravstvene podatke), kot so sporočila z občutljivimi podatki, ki jih pošljete ali prejmete, bodo tudi ti podatki zbrani in obdelani za spodaj opisane namene. Teh podatkov ne bomo aktivno zbirali, ne da bi najprej pridobili vaše ločeno izrecno soglasje oziroma kot to določa veljavna zakonodaja.
+
+•	Podatki o napravi in aplikacijah. Podatke o vaših napravah z omogočeno storitvijo, na primer mobilno številko, omrežni naslov MAC, identifikatorje naprav in druge enolične identifikatorje, zbiramo na avtomatiziran način.
+
+Načini, na katere uporabljamo pridobljene podatke
+Podatke, ki jih pridobimo prek storitve, uporabljamo za to, da:
+
+•	vas prepoznamo in preverimo vašo pristnost, da lahko uporabljate določeno storitev;
+•	vam zagotovimo storitev, na primer izmenjavo dohodnih in odhodnih klicev med vašimi napravami ter sinhronizacijo vaše zgodovine klicev in sporočil v napravah (pametnem telefonu, uri, tabličnem računalniku ali prenosniku itd.);
+•	izboljšamo in prilagodimo vašo izkušnjo s storitvijo;
+•	se odzovemo na vaše zahteve in poizvedbe;
+•	izvajamo, ocenjujemo in izboljšujemo naše poslovanje (vključno z razvojem novih izdelkov, dodelovanjem in izboljševanjem naših izdelkov in storitev, upravljanjem naše komunikacije, analiziranjem naših izdelkov, kroga strank in storitev, izvajanjem tržnih raziskav, izvajanjem analize podatkov ter izvajanjem računovodskih, revizijskih in drugih internih funkcij);
+•	vam omogočimo interakcijo z nekaterimi aplikacijami in storitvami tretjih oseb ter njihovo uporabo;
+•	poskrbimo za zaščito pred goljufijami, drugimi kaznivimi dejanji, zahtevki in drugo odgovornostjo ter za njihovo prepoznavanje in preprečevanje; ter
+•	ravnamo skladno z veljavnimi zakonskimi zahtevami, ustreznimi panožnimi standardi in našimi pravilniki, vključno s tem obvestilom o zasebnosti in pravilnikom o zasebnosti podjetja Samsung.
+
+Prek storitve lahko zbiramo osebne podatke o vaših spletnih dejavnostih v napravah z omogočeno storitvijo v določenem časovnem obdobju ter v aplikacijah, povezanih s storitvami za klice in sporočila v pametnem telefonu. V storitvi lahko uporabljamo analitične storitve tretjih oseb. Ponudniki, ki upravljajo te analitične storitve, nam pomagajo analizirati vašo uporabo storitve in izboljšati storitev. Pridobljene podatke lahko razkrijemo tem ponudnikom in drugim ustreznim tretjim osebam oziroma jih ti neposredno zberejo sami, uporabljajo pa jih na primer za ocenjevanje uporabe storitve, pomoč pri zagotavljanju storitve in diagnosticiranje tehničnih težav.
+
+
+Samsung osebne podatke obdeluje za zgoraj opisane namene. Samsungova pravna podlaga za obdelavo osebnih podatkov vključuje obdelavo, ki je potrebna za izvajanje pogodbe med vami in Samsungom (na primer za to, da vam zagotavljamo storitev in vas prepoznamo ter preverimo vašo pristnost, tako da lahko uporabljate določeno storitev), ravnanje, skladno z zakonskimi zahtevami (na primer za ravnanje, skladno z računovodskimi pravili, in obvezna razkritja organom pregona), Samsungove utemeljene interese (na primer za upravljanje našega odnosa z vami in izboljševanje storitve) in ki temelji na pridobitvi vašega ločenega soglasja (na primer za komuniciranje z vami glede naših izdelkov in storitev ter zagotavljanje trženjskih informacij), ki ga je mogoče naknadno kadarkoli preklicati tako, da se obrnete na nas, kot je navedeno v razdelku Stik z nami v tem obvestilu o zasebnosti, kar pa ne vpliva na zakonitost obdelave, ki temelji na soglasju pred njegovim preklicem.
+
+Kot pogoj za sklenitev pogodbe morate navesti osebne podatke za obdelavo, kot je opisano zgoraj. Če ne navedete osebnih podatkov, vam ne moremo zagotoviti vseh funkcij, ki so na voljo prek storitve.
+
+Deljenje podatkov z drugimi
+
+Vaših osebnih podatkov ne razkrivamo prek storitve, razen kot je opisano v tem obvestilu o zasebnosti. Dostop do osebnih podatkov in njihova obdelava sta dovoljena le omejenemu številu članov Samsungove ekipe za storitev v okviru njihovih službenih zadolžitev ali pogodbenih obveznosti. Vaše osebne podatke lahko delimo z našimi podružnicami in z nami povezanimi podjetji ter s ponudniki storitev, ki za nas izvajajo storitve. Našim ponudnikom storitev ne dovolimo uporabe ali razkrivanja podatkov, razen kot je to potrebno za izvajanje storitev v našem imenu ali upoštevanje zakonskih zahtev.
+
+Nekateri člani osebja, z nami povezana podjetja in zunanji ponudniki storitev, so zunaj Evropskega gospodarskega prostora in tudi v državah, ki morda ne zagotavljajo enake ravni varstva podatkov, kot jo zagotavljajo domače države naših strank, vključno z Republiko Korejo, Združenimi državami Amerike in Japonsko, vendar ne omejeno nanje. Samsung z ustreznimi ukrepi zagotavlja, da take prejemnike zavezujejo obveznosti glede zaupnosti, hkrati pa z uveljavljanjem ukrepov, kot so standardne pogodbene klavzule o varstvu podatkov, zagotavlja, da vsi preneseni osebni podatki ostanejo zaščiteni in varni. Izvod teh klavzul lahko dobite tako, da se obrnete na nas, kot je navedeno v razdelku Stik z nami v tem obvestilu o zasebnosti.
+
+Samsung, naše podružnice in z nami povezana podjetja ter zunanji ponudniki storitev lahko podatke o vas razkrijemo tudi (1) če to od nas zahteva zakonodaja ali pravni postopek (na primer odločba sodišča ali sodni poziv priči); (2) kot odgovor na zahteve državnih organov, kot so organi pregona; (3) da vzpostavimo, uveljavimo ali zaščitimo svoje zakonite pravice; (4) ko menimo, da je razkritje potrebno ali primerno za preprečitev fizične ali druge škode ali finančne izgube; (5) v povezavi s preiskavo domnevne ali dejanske nezakonite dejavnosti; (6) v primeru delne ali celotne prodaje ali prenosa našega podjetja ali sredstev (tudi v primeru združitve, prevzema, prodaje, prenosa, reorganizacije, razpustitve ali likvidacije); ali (7) na drug način z vašim ločeno podanim soglasjem.
+
+
+Hramba osebnih podatkov
+
+Z ustreznimi ukrepi zagotavljamo, da se podatki o vas hranijo samo po naslednjih načelih:
+1. vsaj za obdobje, v katerem se podatki uporabljajo za zagotavljanje storitve;
+2. skladno z zakonodajo, pogodbo ali našimi zakonskimi obveznostmi ali
+3. le za toliko časa, kot je to potrebno za namene, za katere so obdelani, ali dlje časa, če to zahteva kakršna koli pogodba in veljavna zakonodaja, ali za statistične namene, za katere veljajo ustrezni zaščitni ukrepi.
+
+Možnosti izbire
+
+V zvezi z osebnimi podatki, ki jih pridobivamo o vas, vam ponujamo nekaj možnosti izbire. Če želite posodobiti nastavitve, omejiti količino sporočil, ki jih prejemate od nas, ali poslati zahtevo, se obrnite na nas, kot je navedeno v razdelku Stik z nami v tem obvestilu o zasebnosti.
+
+Za možnosti izbire, ki so vam na voljo v zvezi z uporabo storitve, v svoji napravi odprite nastavitve »Oddaljena povezava«. Če ne dovolite storitve, upoštevajte, da morda ne boste mogli uporabljati vseh funkcij, ki so na voljo prek storitve.
+
+Vaše pravice
+
+Imate pravico zahtevati podrobnosti o podatkih, ki jih zbiramo o vas, in od nas zahtevati, da popravimo nepravilnosti v njih, ter nasprotovati obdelavi svojih podatkov ali zahtevati omejitev njihove obdelave ter zahtevati dostop do svojih podatkov, njihov izbris ali prenosljivost. Obdelavo zahtev, ki se nerazumno ponavljajo, zahtevajo nesorazmeren tehnični trud, ogrožajo zasebnost drugih ali so izredno nepraktične oziroma dostopa do njih sicer ne zahteva lokalna zakonodaja, lahko v skladu z zakonodajo nekaterih držav zavrnemo. Če želite zahtevati dostop do svojih podatkov, stopite v stik z nami na naši strani Podpora za zasebnost (https://www.samsung.com/request-desk).
+
+Če zahtevate izbris osebnih podatkov, se strinjate, da morda ne boste mogli uporabljati poslovnih storitev ali imeti dostopa do njih ter da bodo drugi osebni podatki lahko še naprej shranjeni v Samsungovih evidencah in arhivih za določeno obdobje v skladu z veljavno zakonodajo, vendar Samsung ne bo uporabljal teh podatkov za komercialne namene. Razumete, da si Samsung kljub vaši zahtevi za izbris pridržuje pravico, da vse vaše osebne podatke ali večino njih hrani v skladu z našim pravilnikom o hrambi podatkov in veljavnimi zakoni, če Samsung ukine, omeji ali prekine vaš dostop do spletnega mesta zaradi kršenja Samsungovih pogojev storitve, kadar mora zaščititi pravice, premoženje ali varnost Samsunga ali katerega koli z nami povezanega podjetja, poslovnega partnerja, zaposlenega ali stranke.
+
+Načini, s katerimi varujemo osebne podatke
+
+Vzpostavljene imamo ustrezne administrativne, tehnične in fizične varnostne ukrepe, ki so zasnovani tako, da osebne podatke, ki jih pridobimo prek storitve, varujejo pred nenamernim, nezakonitim ali nepooblaščenim uničenjem, poseganjem vanje, izgubo, spreminjanjem, dostopom do njih, razkrivanjem ali uporabo. Samsung ima vzpostavljene tudi razumne postopke, s katerimi skrbi za to, da so takšni podatki zanesljivi za predvideno uporabo ter so točni, popolni in ažurirani.
+
+Posodobitve obvestila o zasebnosti
+
+To obvestilo o zasebnosti lahko občasno posodobimo, tako da odraža spremembe naših postopkov glede osebnih podatkov v zvezi s storitvijo ali spremembe veljavne zakonodaje. Na našem spletnem mestu in/ali v vaši napravi bomo vnaprej objavili obvestilo o bistvenih spremembah obvestila o zasebnosti, na vrhu obvestila pa bomo navedli, kdaj je bilo nazadnje posodobljeno.
+
+Stik z nami
+
+Če imate določena vprašanja, stopite v stik z nami (upravljavcem podatkov za EU) na naslovu:
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+V stik z nami lahko stopite tudi na naši strani Podpora za zasebnost (https://www.samsung.com/request-desk).
+
+Če menite, da naša obdelava vaših osebnih podatkov krši veljavno zakonodajo, lahko pri nadzornem organu vložite pritožbo.

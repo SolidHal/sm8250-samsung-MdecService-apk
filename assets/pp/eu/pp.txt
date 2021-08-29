@@ -1,0 +1,98 @@
+﻿Call & Message Continuity-ren Pribatutasun oharra
+
+Indarrean jartzea: 2018/03/30
+
+Samsung Electronics (UK) Limited enpresak (“Samsung” edo “Gu”) eta bere filialek pribatutasunaz dituzun zalantzak errespetatzen dituzte. Honako Pribatutasun ohar hau Call & Message Continuity zerbitzuaren bitartez (“Zerbitzua”) bilduko dugun informazio pertsonalean aplikatuko da. Ez da aplikatuko Samsung-ek edo bere filialek eskainitako beste aplikazio, webgune edo zerbitzuen bitartez bildutako informazioan.
+
+Zerbitzua gailu anitzeko komunikazio zerbitzu bat da. Eskaintzen dituen eginbideen artean daude sarrera eta irteera deien birbidalketa, deien eta mezuen historia eta mezu sinkronizazioa gailu nagusiaren (smartphonea) eta bigarren mailako gailu(ar)en (erlojua, tableta, ordenagailu eramangarria, etab.) artean, bigarren mailako gailu(et)an ere sarrera deiak jasotzeko eta mezuak irakurtzeko eta gailu nagusia erabiliz irteera deiak egiteko eta mezu berriak bidaltzeko.
+
+Zerbitzua erabiltzeko, lehenik Samsung account-eko saioa hasita izan behar duzu gailu nagusian eta bigarren mailako gailu(et)an. Gainera, bigarren mailako gailua erlojua bada, sare zerbitzua konfiguratu behar duzu sare operadoreak eskaintzen duen sistemaren bidezko datu mugikorreko plan batera harpidetuta, erlojua ohiko telefono zenbaki batekin erabili ahal izateko. Bigarren mailako gailua datuak soilik onartzen dituen tableta bat bada, Wi-Fi sare baterako konexioa edo tableta erabili ahal izateko sare operadoreak eskaintzen duen sistema ezarri behar duzu. Gure Pribatutasun politika, https://account.samsung.com/membership/pp helbidean dagoena (“Samsung-en Pribatutasun politika”), zure Samsung account eta Call & Message Continuityerabiltzean aplikatuko da. Pribatutasun ohar honen bidez jakinarazten zaizu zein eratara erabiliko diren zure datu pertsonalak, Zerbitzuaren bitartez lorturikoak. Gainera, Samsung-en Pribatutasun politika ere irakurri behar zenuke.
+
+Pribatutasun ohar honetan, Zerbitzuaren bitartez bildutako informazio motak azaltzen ditugu, hala nola zein eratara erabil dezakegun informazioa, noiz arte gorde dezakegun, norekin parteka dezakegun eta zein aukera dauzkazun baliagarri, informazioaz egingo dugun erabilerari eta dagozkizun eskubideak gauzatzeari dagokienez. Informazioa babesteko hartu ditugun neurriak ere azalduko ditugu, eta gure pribatutasun jarduerei buruz gurekin aritzeko harremanetarako bidea adieraziko dizugu. Samsung da datuen kontrolatzailea, datu pertsonalak prozesatzeari dagokionez.
+
+Egin klik beheko esteketako batean aipatutako atalera joateko:
+
+•	Zer informazio lortuko dugun
+•	Lortuko dugun informazioa nola erabiltzen dugun
+•	Informazioa partekatzea
+•	Datu pertsonalak atxikitzea
+•	Zure aukerak
+•	Zure eskubideak
+•	Zer nola babesten dugun informazio pertsonala
+•	Gure Pribatutasun oharra eguneratzea
+•	Gurekin harremanetan jartzeko bidea
+
+Zer informazio lortuko dugun
+
+Zerbitzuaren bidez, askotariko moduetan bilduko dugu zuri buruzko informazioa. Lortzen dugun informazio pertsonala mota hauetakoa da:
+
+•	Samsung account-en informazioa. Zerbitzuan sartzeko erabili duzun Samsung account-i buruzko informazioa bilduko dugu, adibidez, zure izena, helbide elektronikoa eta Samsung account-en IDa.
+
+•	Zerbitzuaren interakzioak. Zure interakzioetan Zerbitzuarekin partekatzen duzun informazioa bilduko dugu, tartean, deitzaileen eta hartzaileen gaineko informazioa, mezu bidaltzaileen eta hartzaileen gaineko informazioa, bidali eta jaso dituzun mezuen edukia eta smartphoneko aplikazioen bidezko deien eta mezuen historia. Gainera, bestelako erabilera informazioa ere bilduko dugu, esaterako, ukipen elkarreraginak eta bestelako sarrerak, eta Zerbitzuarengandik jaso duzun informazioa (adibidez, galderak eta erantzunak). Berez babes berezia behar duen informazioa (adibidez, osasun informazioa) ematen badiozu Zerbitzuari, esaterako, babes bereziko informazioa duten mezu bidali eta jasoak, hori ere bilduta geratuko da eta prozesatu egingo da, behean adierazitako helburuetarako. Berariaz, edo lege aplikagarriak adierazitako moduan, zure baimena lortu gabe ez dugu halako informaziorik bilduko.
+
+•	Gailu eta App informazioa. Bitarteko automatikoen bidez, Zerbitzua gaituta duten gailuei buruzko informazioa biltzen dugu, tartean, mugikorraren zenbakia, sareko MAC helbidea, gailu identifikatzaileak eta beste identifikatzaile berezi batzuk.
+
+Lortuko dugun informazioa nola erabiltzen dugun
+Zerbitzuaren bidez lortutako informazioa honakoetarako erabiltzen dugu:
+
+•	zu identifikatu eta egiaztatzeko, zerbitzu jakin bat erabil dezazun;
+•	zuri Zerbitzua eskaintzeko, esaterako, gailuen artean sarrera eta irteera deiak birbidaltzeko eta gailuetan deien historia eta mezuak sinkronizatzeko (smartphonea, erlojua, tableta, ordenagailu eramangarria, etab.);
+•	Zerbitzuaren esperientzia hobetzeko eta pertsonalizatzeko;
+•	zure eskaerei eta zalantzei erantzuteko;
+•	gure jarduketak gauzatu, ebaluatu eta hobetzeko (tartean, produktu berriak garatzea; gure produktuak eta zerbitzuak hobetzea; gure komunikazioak kudeatzea; gure produktuak, kontsumitzaile multzoa eta zerbitzuak aztertzea; merkatu ikerketak egitea; datu estatistikak egitea; kontularitzako, aholkularitzako eta barne kudeaketako bestelako eginkizunak egitea);
+•	hirugarrenen aplikazioekin eta zerbitzuekin elkarreragin dezazun eta horiek erabil ditzazun onartzeko;
+•	iruzurraren eta bestelako delituzko jardueren, erreklamazioen eta erantzukizunen aurreko babesa emateko, eta horiek identifikatu eta prebenitzeko; eta
+•	lege eskakizun aplikagarriak, industriako estandar esanguratsuenak eta gure politikak, Pribatutasun ohar hau eta Samsung Pribatutasun politika barne, betetzeko eta betearazteko.
+
+Zerbitzua dela medio, Zerbitzua gaituta duzun gailuetako online jarduerari buruzko informazio pertsonala bil dezakegu, smartphonearen deien eta mezuen zerbitzuetarako aplikazioen bitartez. Hirugarrenen estatistika zerbitzuak erabil ditzakegu guk emandako Zerbitzuan. Estatistika zerbitzu horiek kudeatzen dituzten hornitzaileen laguntzari esker, Zerbitzua nola erabiltzen duzun azter dezakegu, eta Zerbitzua hobe dezakegu. Lortzen dugun informazioa hornitzaile horien eta beste hirugarren garrantzitsu batzuen bitartez argitaratu edo zuzenean bilduko da, informazio hori erabiltzen dutelako, besteak beste, Zerbitzuaren erabilera ebaluatzeko, Zerbitzua ematen laguntzeko eta arazo teknikoak diagnostikatzeko.
+
+
+Samsung-ek datu pertsonalak prozesatzen ditu arestian adierazitako helburuetarako. Datu pertsonalak prozesatzeko Samsung-en lege oinarrien arabera, honelakoa izan behar da prozesatzea: zure eta Samsung-en arteko kontratua gauzatzeko beharrezkoa (esaterako, zuri Zerbitzua eskaintzeko eta zu identifikatu eta egiaztatzeko, zerbitzu jakin batzuk erabil dezazun); lege eskakizunak betetzeko beharrezkoa (esaterako, indarrean dauden kontularitzako arauak betetzeko eta legea betearazteko nahitaezko jakinarazpenak egiteko); Samsung-en interes bidezkoetarako beharrezkoa (esaterako, zurekin dugun harremana kudeatzeko eta Zerbitzua hobetzeko); eta zure berariazko baimenean oinarritua (esaterako, gure produktuen eta zerbitzuen berri emateko eta marketin informazioa eskaintzeko). Baimen hori edozein unetan ukatu ahal izango duzu gurekin harremanetan jarrita, Pribatutasun ohar honetako Gurekin harremanetan jartzeko bidea atalean zehaztukoaren arabera, eta baimena ukatzeak ez dio eragingo baimenpean egindako prozesatzeen legezkotasunari.
+
+Kontratu oro izenpetzeko ezinbestekoa da datu pertsonalak jakinaraz diezazkiguzun, lerrootan adierazitako prozesatzeetarako. Datu pertsonalik jakinarazi ezean, ezingo dizkizugu eskaini Zerbitzuaren eginbide baliagarri guztiak.
+
+Informazioa partekatzea
+
+Ez dugu zure informazio pertsonalik argitaratuko Zerbitzuaren bidez, Pribatutasun ohar honetan zehaztutakoaren arabera salbu. Hala ere, baliteke Samsung-en Zerbitzu honetako zenbait kidek, beren lan ardurak eta kontratu betebeharrak betetzeko, datu pertsonalak atzitzea eta prozesatzea. Zure informazio pertsonala parteka dezakegu gure filialekin eta gure izenean zerbitzu ematen duten zerbitzu hornitzaileekin. Ez diegu baimenik ematen gure zerbitzu hornitzaileei informazio hori argitara dezaten, salbu eta gure izenean zerbitzu emateko beharrezkoa bada edo lege eskakizunak betetzeko.
+
+Langile, filial eta hirugarren zerbitzu hornitzaile horietako batzuk EEEtik kanpo kokatuta daude, baita gure bezeroen herrialdeetan adinako babes mailarik ez duten herrialdeetan ere, besteak beste, Koreako Errepublikan, Ameriketako Estatu Batuetan eta Japonian. Samsung-ek neurri egokiak hartu ohi ditu hartzaile horiek konfidentzialtasun betekizunen mende egon daitezen eta Samsung-ek, esaterako, datuen gaineko babes estandarrari buruzko baldintzak txertatzen ditu kontratuetan, transferitutako datu pertsonal oro babespean eta seguru dagoela ziurtatzeko. Baldintza horien kopia bat eskura daiteke gurekin harremanetan jarrita, Pribatutasun ohar honetako Gurekin harremanetan jartzeko bidea atalean zehaztutakoaren arabera.
+
+Samsung-ek, gure filialek eta gure hirugarren zerbitzu hornitzaileek zuri buruzko informazioa argitaratu ahal izango dute ere, (1) baldin eta legeak edo auzibide batek horretara behartzen bagaitu (esaterako, auzitegi baten agindua edo zitazioa); (2) gobernu agentziek, tartean, legeak betearazteko agintariak, egindako eskaerei erantzuteko; (3) gure legezko eskubideak ezartzeko, gauzatzeko edo defendatzeko; (4) kalte fisikoa edo bestelakoa edo finantzarioa ekiditeko, argitaratzea beharrezkoa dela uste badugu; (5) ustez edo izatez legez kanpokoa den jarduera baten ikerketa kasuan; (6) gure negozioak edo aktiboak guztiz edo zati batean saltzen edo besterentzen baditugu (bat egitea, erostea, saltzea, eskuordetzea, berregituratzea, desegitea edo likidatzea barne); edo (7) zuk berariaz baimendutako guztian.
+
+
+Datu pertsonalak atxikitzea
+
+Neurriak hartzen ditugu zuri buruzko informazioa hurrengo hauen arabera soilik atxikitzen dugula bermatzeko:
+1. Zerbitzua emateko informazioa erabili bitartean gutxienez;
+2. legeak, kontratu batez edo gure erregelamenduek eskatzen badute; edo
+3. bilduz eta prozesatuz lortu nahi den helburua bete artean bakarrik, edo tarte luzeagoan, kontratuak edo lege aplikagarriak hala zehaztuta edo estatistika helburuetarako, eta betiere babes egokien pean.
+
+Zure aukerak
+
+Zenbait aukera eskaintzen dizkizugu zugandik lortzen dugun informazio pertsonalari dagokionez. Lehentasunak eguneratzeko, gugandik jasotzen dituzun komunikazioak mugatzeko edo eskaera bat bidaltzeko, jarri harremanetan gurekin Pribatutasun ohar honetako Gurekin harremanetan jartzeko bidea atalean zehaztutakoaren arabera.
+
+Aztertu “Urrutiko konexioa” ezarpenak zure gailuan, Zerbitzua erabiltzean eskuragarri izan ditzakezun aukerak ezagutzeko. Hartu kontuan Zerbitzuari baimena ukatuz gero, Zerbitzuan eskuragarri dauden eginbideetako batzuk ez dituzula erabilgarri izango.
+
+Zure eskubideak
+
+Eskubidea duzu zuri buruz biltzen dugun informazioaren xehetasunei buruzko argibideak eskatzeko, nola informazio horrek izan ditzakeen akatsak zuzentzeko, prozesatzeari uko egiteko edo prozesatze mugak eskatzeko eta informaziorako sarbidea, informazioa ezabatzea eta lekualdatzea eskatzeko. Jurisdikzio batzuetako legeen arabera, uko egin ahal izango diogu honakoak prozesatzeari: zentzugabeki errepikatzen diren eskaerak, ahalegin tekniko neurriz kanpokoa eskatzen dutenak, besteen pribatutasuna urratzen dutenak, erabat egingaitzak direnak edota tokiko legediaren arabera sartzeko eskubiderik behar ez dutenak. Zure informazioa eskuratzeko eskaerarik egin nahi izanez gero, jarri gurekin harremanetan Pribatutasunerako laguntza teknikoaren orrian (https://www.samsung.com/request-desk).
+
+Informazio pertsonala ezabatzea eskatzen baduzu, badakizu ezingo dituzula enpresaren zerbitzuak eskuratu edo erabili eta hondarreko informazio pertsonal hori Samsung-en erregistroetan eta fitxategietan gordeta egongo dela aldi batez, lege aplikagarriari jarraikiz, baina Samsung-ek ez du informazio hori erabiliko helburu komertzialetarako. Ulertzen duzu, ezabatzeko eskaera egin arren, Samsung-ek eskubidea duela zure informazio pertsonala, edo zati adierazgarri bat, gordetzeko, datuak atxikitzeko politikari eta lege aplikagarriei jarraikiz, baldin eta Samsung-ek eten, mugatu edo amaitu badu webgunerako sarbidea Samsung-en Zerbitzu baldintzak urratu dituzulako, eta Samsung-en edo bere filialen, bazkide komertzialen, langileen edo bezeroen eskubideak, ondasunak edo segurtasuna babesteko beharrezkoa bada.
+
+Zer nola babesten dugun informazio pertsonala
+
+Babes administratibo, tekniko eta fisiko egokiak erabiltzen ditugu, Zerbitzuaren bidez lortzen dugun informazio pertsonala babestuta egon dadin istripuz, legez kanpo edo baimenik gabe suntsitzearen, esku sartzearen, galtzearen, eraldatzearen, sartzearen, argitaratzearen edo erabiltzearen aurrean. Samsung-ek, halaber, zentzuzko prozedurak erabiltzen ditu datu horiek helburuko erabilerarako fidagarriak, zehatzak, osoak eta egungoak direla ziurtatzeko.
+
+Gure Pribatutasun oharra eguneratzea
+
+Aldian behin eguneratuko da Pribatutasun oharra, informazio pertsonalaren arloko gure jardunbideak, Zerbitzuari loturikoan, izan ditzakeen aldaketak edo lege aplikagarriak izandako aldaketak barne hartzeko. Ohar bat argitaratuko dugu gure webgunean eta/edo zure gailuan, gure Pribatutasun oharrean aldaketak egingo ditugula aurreratzeko, eta albistearen goiburuan eguneraketa berrienaren data agertuko da.
+
+Gurekin harremanetan jartzeko bidea
+
+Zalantzarik argitzea nahi baduzu, jarri harremanetan gurekin (EBko Datu kontrolatzailea) helbide honetan:
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+Gure Pribatutasunerako laguntza teknikoaren orriaren bidez ere jar zaitezke gurekin harremanetan (https://www.samsung.com/request-desk).
+
+Ikuskatze agintaritzaren aurrean kexa aurkeztu ahal izango duzu, zure datu pertsonalak prozesatzean legedia aplikagarria urratu dugula uste baduzu.

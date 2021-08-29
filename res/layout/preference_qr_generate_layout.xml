@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:background="@color/layout_background_color" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:descendantFocusability="afterDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/about_page_links_text_size" android:textColor="?android:textColorPrimary" android:gravity="center" android:layout_gravity="center" android:id="@id/clickable_view" android:background="@drawable/about_page_button_background" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="32.0dip" android:layout_marginTop="16.0dip" android:layout_marginRight="32.0dip" android:layout_marginBottom="16.0dip" android:minHeight="@dimen/button_min_height" android:text="@string/link_this_tablet_to_your_phone" android:focusedByDefault="true" style="@style/RobotoRegular" />
+</RelativeLayout>

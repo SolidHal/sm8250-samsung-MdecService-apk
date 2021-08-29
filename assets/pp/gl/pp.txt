@@ -1,0 +1,98 @@
+﻿Aviso de privacidade de Call & Message Continuity
+
+Data efectiva: 30/03/2018
+
+Samsung Electronics (UK) Limited (“Samsung” ou “Nós”) e as súas empresas afiliadas respectan o teu interese pola privacidade. Este Aviso de privacidade aplícase á información persoal que recompilamos a través do servizo de Call & Message Continuity (o “Servizo”). Non se aplica á información recollida por outras aplicacións, páxinas web ou servizos proporcionados por Samsung ou polas súas entidades afiliadas.
+
+O Servizo é un servizo de comunicación de varios dispositivos. Entre as súas funcións inclúese o relé de chamadas entrantes e saíntes, o historial de chamadas e mensaxes e a sincronización de mensaxes entre o teu dispositivo principal (por exemplo, o teu smartphone) e os dispositivos secundarios (por exemplo, o reloxo, a tableta, o portátil, etc.) para que poidas recibir chamadas entrantes e ler mensaxes nos teus dispositivos secundarios e realizar chamadas saíntes e enviar mensaxes novas mediante o dispositivo principal.
+
+Para utilizar o Servizo, primeiro debes iniciar sesión nunha Samsung account no teu dispositivo principal e nos secundarios. Se o teu dispositivo secundario é un reloxo, debes configurar un servizo de rede subscribíndote a un plan de datos móbiles a través do sistema fornecido polo teu operador de rede que che permita utilizar o reloxo co teu número de teléfono normal. Se o teu dispositivo secundario é unha tableta que só admite datos, deberás configurar unha conexión cunha rede Wi-Fi ou co sistema fornecido polo teu operador de rede que che permita utilizar a tableta. A nosa Política de privacidade, que se atopa en https://account.samsung.com/membership/pp (“Política de privacidade de Samsung”) aplicarase ao uso que fagas da túa Samsung account e da Call & Message Continuity. Este Aviso de privacidade proporciona información adicional sobre o modo de utilización dos teus datos persoais en relación co Servizo e deberías lelo conxuntamente coa Política de privacidade de Samsung.
+
+Neste Aviso de privacidade describimos o tipo de información recollida a través do Servizo, de que xeito utilizamos esa información, durante canto tempo gardamos a información, con quen a compartimos e as opcións das que dispós en relación co uso desta información e co exercicio dos seus dereitos. Tamén describimos as medidas que tomamos para protexer a información e che indicamos como contactar connosco acerca das nosas prácticas en relación coa privacidade. Samsung é o controlador de datos para o procesamento dos datos persoais.
+
+Fai clic nunha das ligazóns seguintes para ir á sección indicada:
+
+•	A información que obtemos
+•	Como usamos a información que obtemos
+•	Intercambio de información
+•	Retención de datos persoais
+•	As túas decisións
+•	Os teus dereitos
+•	Como protexemos a información persoal
+•	Actualizacións do noso Aviso de privacidade
+•	Como contactar connosco
+
+A información que obtemos
+
+Por medio do Servizo, obtemos información sobre ti de diversas formas. Entre os tipos de información persoal que obtemos inclúense:
+
+•	Información da Samsung account. Recollemos información relacionada coa Samsung account que utilizas para acceder ao Servizo, como o identificador da túa Samsung account.
+
+•	Interaccións do Servizo. Recollemos a información que intercambias a través das interaccións co Servizo, incluíndo a información acerca dos emisores e receptores, dos emisores e receptores das mensaxes, o contido das mensaxes que envías e recibes e o historial de chamadas e mensaxes das aplicacións de smartphone. Ademais, recollerase tamén outra información do uso, como as interaccións táctiles e outro tipo de entradas, alén da información que recibes do Servizo (como as respostas e as contestacións). Se lle envías de forma voluntaria información de natureza confidencial ao Servizo (por exemplo, información sobre a túa saúde), como mensaxes que envías ou recibes que conteñen información confidencial, eses datos tamén se recollerán e procesarán para os propósitos expostos a continuación. Non recompilaremos esa información de forma activa sen obter antes o teu consentimento explícito por separado ou segundo o previsto pola lexislación aplicable.
+
+•	Información do Dispositivo e das Aplicacións. A través de medios automatizados, recollemos datos sobre os dispositivos compatibles co Servizo, como o número móbil, o enderezo MAC de rede, os identificadores de dispositivo e outros identificadores únicos.
+
+Como usamos a información que obtemos
+Utilizamos a información que obtemos por medio do Servizo para:
+
+•	identificarte e autenticarte para que poidas utilizar un determinado servizo;
+•	fornecerche o Servizo, como o relé de chamadas entrantes e saíntes entre os teus dispositivos e a sincronización do teu historial de chamadas e das mensaxes dos teus dispositivos (smartphone, reloxo, tableta, portátil, etc.);
+•	mellorar e personalizar a túa experiencia co Servizo;
+•	responder ás túas solicitudes e consultas;
+•	xestionar, avaliar e mellorar as nosas actividades (como por exemplo desenvolver novos produtos; potenciar e mellorar os nosos produtos e servizos; administrar as nosas comunicacións; analizar os nosos produtos, os nosos clientes e os servizos; levar a cabo estudos de mercado; efectuar análises de datos; realizar a contabilidade e levar a cabo auditorías e outras actividades internas);
+•	permitirche interactuar e usar certas aplicacións e servizos de terceiros;
+•	identificar, protexerte e previrte contra a fraude e outras actividades delituosas, reclamacións e outras obrigas; e
+•	cumprir e facer cumprir os requirimentos legais aplicables, os estándares industriais correspondentes e as nosas políticas, incluíndo este Aviso de privacidade e a Política de privacidade de Samsung.
+
+Podemos recoller información persoal a través do Servizo acerca das túas actividades en liña nos dispositivos compatibles co Servizo ao longo do tempo e mediante as aplicacións relacionadas cos servizos de mensaxes e chamadas do smartphone. Podemos facer uso dos servizos analíticos de terceiros no Servizo. Os provedores que administran estes servizos analíticos axúdannos a analizar o teu uso do Servizo e a mellorar o Servizo. A información que obtemos pode ser ofrecida ou recollida directamente por estes provedores e terceiros pertinentes que utilizan os datos para, por exemplo, avaliar a utilización do Servizo, axudar a facilitar o Servizo e diagnosticar problemas técnicos.
+
+
+Samsung procesa os datos persoais para os propósitos descritos con anterioridade. A base legal de Samsung para procesar datos persoais inclúe o procesamento, que é: necesario para o cumprimento do contrato entre Samsung e ti (por exemplo, para proporcionarche o Servizo e para identificarte e autenticarte para que poidas utilizar un determinado Servizo); necesario para cumprir cos requirimentos legais (por exemplo, para cumprir coas normas de contabilidade aplicables ou efectuar divulgacións obrigatorias en cumprimento da lei); necesario para os intereses lexítimos de Samsung (por exemplo, para xestionar a nosa relación contigo e mellorar o Servizo); e, por último, este procesamento de datos baséase en obter o teu consentimento individual (por exemplo, para comunicarnos contigo acerca dos nosos produtos e servizos e para proporcionarche información comercial), o cal pode ser anulado en calquera momento contactando connosco como se especifica na sección Como contactar connosco deste Aviso de privacidade sen que isto afecte á legalidade do procesamento en base ao consentimento anterior á anulación.
+
+É necesario, como parte indispensable para subscribir o contrato, que nos facilites os teus datos persoais para o seu procesamento como se describiu con anterioridade. Se non nos facilitas os teus datos persoais non che poderemos proporcionar todas as funcións dispoñibles a través do Servizo.
+
+Intercambio de información
+
+Non revelamos a túa información persoal a través do Servizo, agás segundo o descrito neste Aviso de privacidade. Un número limitado de membros do equipo do Servizo en Samsung poderá acceder e procesar datos persoais en relación coas responsabilidades do seu posto de traballo ou coas obrigas contractuais. É posible que compartamos a túa información persoal coas nosas empresas filiais e con provedores de servizos que realizan traballos para nós. Non autorizamos aos nosos provedores de servizos a usar ou revelar información a non ser que sexa necesario para levar a cabo servizos no noso nome ou para cumprir requirimentos legais.
+
+Algúns destes traballadores, filiais e provedores de servizos de terceiros encóntranse en países fóra do EEE que poden non ofrecer o mesmo nivel de protección de datos existente no país de orixe dos nosos clientes. Entre eses países inclúense sen limitación, por exemplo, a República de Corea, os Estados Unidos de América e Xapón. Samsung toma as medidas axeitadas para asegurar que os devanditos destinatarios estean vinculados ás obrigas de confidencialidade e, ademais, implementa medidas como cláusulas contractuais de protección de datos estándar para asegurar que calquera información persoal transferida continúe estando segura e protexida. Podes obter unha copia destas cláusulas contactando connosco tal e como se especifica na sección Como contactar connosco deste Aviso de privacidade.
+
+Samsung, as nosas empresas subsidiarias e filiais, e os nosos provedores de servizos tamén podemos revelar información sobre ti (1) se nolo requiren por lei ou proceso legal (como pode ser unha orde xudicial ou unha citación); (2) en resposta ás solicitudes por parte de entidades gobernamentais como as autoridades policiais; (3) para probar, exercitar ou defender os nosos dereitos legais; (4) cando creamos que a revelación de datos sexa necesaria ou axeitada para previr danos físicos e outros ou perdas financeiras; (5) en relación cunha investigación por unha presunta ou probada actividade ilegal; (6) no caso de que vendamos ou transfiramos todo ou parte do negocio ou dos activos (no caso de fusións, adquisicións, vendas, transferencias, reorganizacións, disolucións ou liquidacións); ou (7) co teu consentimento por separado.
+
+
+Retención de datos persoais
+
+Levaremos a cabo os pasos correspondentes para garantir que só se conserve información sobre ti nos seguintes casos:
+1. como mínimo durante o período no que se utilice para fornecerche o Servizo;
+2. segundo o esixa a lei, un contrato ou as nosas obrigas legais; ou
+3. só o tempo que resulte necesario para o fin para o que se recompilou, procesou, ou máis tempo segundo o requira un contrato, segundo a lexislación aplicable ou con fins estatísticos, suxeito ás salvagardas adecuadas.
+
+As túas decisións
+
+Ofrecémosche algunhas opcións relacionadas coa información persoal que obtemos sobre ti. Para actualizar as túas preferencias, limitar as comunicacións que recibes da nosa parte ou enviar unha solicitude, contacta connosco tal e como se especifica na sección Como contactar connosco deste Aviso de privacidade.
+
+Accede a través do teu dispositivo aos axustes da “Conexión remota” para ver as opcións que podes ter dispoñibles en relación co teu uso do Servizo. Ten en conta que se non permites o Servizo, é posible que non poidas utilizar todas as funcións dispoñibles no Servizo.
+
+Os teus dereitos
+
+Tes dereito a solicitar detalles acerca da información que recompilamos sobre ti e a solicitarnos que corrixamos as imprecisións que conteña a devandita información, a negarte ou solicitar a restrición do procesamento e a solicitar o acceso, o borrado ou a transferencia da túa información. Conforme ás leis dalgunhas xurisdicións, é posible que rexeitemos o procesamento de solicitudes excesivamente repetitivas, que requiran un esforzo técnico desproporcionado, que poñan en perigo a privacidade dos demais, que resulten extremadamente pouco prácticas ou para as que o acceso non sexa requirido pola lei local. Se desexas efectuar unha solicitude para acceder á túa información, contacta connosco visitando a nosa Páxina de asistencia sobre privacidade (https://www.samsung.com/request-desk).
+
+Se solicitas a eliminación de información persoal, recoñeces que é posible que non poidas usar e acceder aos servizos de empresa e que pode que continúe permanecendo información persoal residual nos rexistros e arquivos de Samsung durante algún tempo, de acordo coa lexislación aplicable, pero Samsung non utilizará esa información para fins comerciais. Recoñeces que, a pesar da túa solicitude de eliminación, Samsung reserva o dereito a conservar a túa información persoal ou unha parte importante desta, de acordo coa nosa política de conservación de datos e a lexislación aplicable, se Samsung suspendeu, limitou ou cancelou o teu acceso ao sitio web por infrinxir as Condicións do servizo de Samsung, cando sexa necesario, para protexer os dereitos, a propiedade ou a seguridade de Samsung, dalgunhas das nosas filiais correspondentes, dos socios empresariais, dos empregados ou dos clientes.
+
+Como protexemos a información persoal
+
+Dispoñemos de garantías axeitadas, administrativas, técnicas e físicas deseñadas para protexer a información persoal que obtemos a través do Servizo contra a destrución, inxerencia, perda, alteración, acceso, revelación ou uso accidentais, ilegais ou non autorizados. Samsung tamén dispón de procedementos razoables que aseguran que os devanditos datos utilízanse para o seu debido uso, dun xeito preciso, completo e actualizado.
+
+Actualizacións do noso Aviso de privacidade
+
+Este Aviso de privacidade pode actualizarse de forma periódica para reflectir os trocos das nosas prácticas de información persoal con respecto ao Servizo ou os trocos da lexislación aplicable. Publicaremos un aviso na nosa páxina web e/ou no teu dispositivo para notificarche con antelación trocos significativos no noso Aviso de privacidade e indicaremos a actualización máis recente ao comezo do aviso.
+
+Como contactar connosco
+
+Se tes preguntas específicas, ponte en contacto connosco (Responsable do tratamento de datos da Unión Europea) en:
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+Tamén podes contactar connosco visitando a nosa páxina de asistencia sobre privacidade (https://www.samsung.com/request-desk).
+
+Poderás presentar unha queixa ás autoridades de control se consideras que o procesamento dos teus datos persoais infrinxe a lexislación aplicable.

@@ -1,0 +1,98 @@
+﻿Zasady prywatności dotyczące usługi Call & Message Continuity
+
+Data wejścia w życie: 30.03.2018
+
+Samsung Electronics (UK) Limited („Samsung”) i spółki stowarzyszone Samsung rozumieją obawy Użytkownika o kwestie dotyczące prywatności. Niniejsze Zasady prywatności mają zastosowanie do informacji osobistych zbieranych przez Samsung za pośrednictwem usługi Call & Message Continuity („Usługa”). Nie mają natomiast zastosowania do informacji zbieranych przez inne aplikacje, witryny internetowe lub usługi udostępniane przez Samsung lub podmioty stowarzyszone Samsung.
+
+Niniejsza Usługa jest rozwiązaniem umożliwiającym płynną komunikację z poziomu różnych urządzeń. Obejmuje takie funkcje, jak na przykład przekazywanie połączeń przychodzących i wychodzących, historia połączeń i wiadomości oraz synchronizacja wiadomości między urządzeniem głównym (np. smartfonem) a urządzeniem dodatkowym (zegarkiem, tabletem, laptopem itp.). Funkcje te umożliwiają Użytkownikowi odbieranie połączeń przychodzących i odczytywanie wiadomości za pomocą urządzenia dodatkowego oraz wykonywanie połączeń wychodzących i wysyłanie nowych wiadomości za pomocą urządzenia głównego.
+
+Aby korzystać z Usługi, Użytkownik musi najpierw zalogować się do konta Samsung account zarówno na urządzeniu głównym, jak i na urządzeniu dodatkowym. Jeśli urządzenie dodatkowe jest zegarkiem, Użytkownik musi skonfigurować usługę sieciową poprzez zasubskrybowanie w systemie swojego operatora sieci komórkowej abonamentu z możliwością przesyłania danych w sieci komórkowej, który pozwoli Użytkownikowi na korzystanie z tego zegarka za pomocą swojego zwykłego numeru telefonu. Jeśli urządzenie dodatkowe jest tabletem, który jedynie przetwarza dane, Użytkownik musi skonfigurować połączenie z siecią Wi-Fi lub z systemem udostępnionym przez swojego operatora sieci, które pozwoli Użytkownikowi na korzystanie z tego tabletu. Korzystanie z konta Samsung account i usługi Call & Message Continuity podlega Polityce prywatności Samsung dostępnej pod adresem https://account.samsung.com/membership/pp („Polityka Prywatności Samsung”). Niniejsze Zasady prywatności zawierają dodatkowe informacje na temat korzystania z danych osobowych w związku z Usługą i należy je interpretować łącznie z Polityką Prywatności Samsung.
+
+W niniejszych Zasadach prywatności opisano rodzaje informacji zbieranych przez Usługę; sposób, w jaki Samsung może korzystać z tych informacji; okres ich przechowywania przez Samsung; podmioty, którym Samsung może je udostępniać; możliwości wyboru dostępne Użytkownikowi w zakresie korzystania przez Samsung z tych informacji oraz możliwości korzystania przez Użytkownika z przysługujących mu praw. Opisano tu także środki podejmowane przez Samsung w celu ochrony tych informacji oraz możliwe sposoby kontaktu z Samsung w sprawach dotyczących prywatności. Administratorem danych do celów przetwarzania danych osobowych jest Samsung.
+
+Aby przejść do odpowiedniego punktu, należy kliknąć jedno z poniższych łączy:
+
+•	Informacje uzyskiwane przez Samsung
+•	Jak Samsung korzysta z uzyskanych informacji
+•	Udostępnianie informacji
+•	Zatrzymywanie danych osobowych
+•	Decyzje Użytkownika
+•	Prawa Użytkownika
+•	Jak Samsung chroni informacje osobiste
+•	Zmiany w Zasadach prywatności
+•	Kontakt z Samsung
+
+Informacje uzyskiwane przez Samsung
+
+Za pośrednictwem Usługi Samsung na różne sposoby uzyskuje informacje o Użytkowniku. Przykładowe rodzaje informacji osobistych uzyskiwanych przez Samsung:
+
+•	Informacje o koncie Samsung account. Samsung zbiera informacje powiązane z kontem Samsung account, z którego Użytkownik korzysta w celu uzyskiwania dostępu do Usługi, takie jak identyfikator konta Samsung account.
+
+•	Interakcje z Usługą. Samsung zbiera informacje wymieniane w drodze interakcji Użytkownika z Usługą, w tym informacje na temat rozmówców oraz nadawców i odbiorców wiadomości, treści wysyłane i odbierane przez Użytkownika w wiadomościach, a także historię połączeń i wiadomości zapisaną w aplikacjach na smartfonie. Ponadto zbierane też będą inne informacje o korzystaniu z Usługi, takie jak informacje na temat interakcji dotykowych i innych metod wprowadzania danych, oraz informacje otrzymywane z Usługi (takie jak reakcje i odpowiedzi). Jeśli Użytkownik udostępni Usłudze informacje wrażliwe (np. na temat stanu zdrowia) za pośrednictwem wysyłanych lub odbieranych przez Użytkownika wiadomości, informacje takie również będą zbierane i przetwarzane do celów opisanych poniżej. Samsung nie będzie aktywnie zbierać informacji wrażliwych bez wcześniejszego uzyskania na to wyraźnej zgody Użytkownika ani w sposób niezgodny z przepisami prawa właściwego.
+
+•	Informacje o urządzeniu i aplikacji. W sposób automatyczny Samsung zbiera informacje o urządzeniach obsługujących Usługę, takie jak numer telefonu komórkowego, adres MAC sieci, identyfikatory urządzeń i inne unikatowe identyfikatory.
+
+Jak Samsung korzysta z uzyskanych informacji
+Samsung korzysta z informacji uzyskanych w ramach Usługi do:
+
+•	identyfikacji i autoryzacji Użytkownika w celu umożliwienia mu korzystania z określonej usługi;
+•	świadczenia Użytkownikowi Usługi, w tym usługi przekazywania połączeń przychodzących i wychodzących miedzy urządzeniami oraz synchronizacji historii połączeń i wiadomości na urządzeniach Użytkownika (smartfonie, zegarku, tablecie, laptopie itp.);
+•	zapewnienia lepszej i bardziej spersonalizowanej obsługi Użytkownika w ramach Usługi;
+•	odpowiadania na prośby i zapytania Użytkownika;
+•	prowadzenia, badania i poprawy działalności Samsung (w tym opracowywania nowych produktów; poprawy i udoskonalania istniejących produktów i usług; zarządzania komunikacją; analizy produktów, bazy klientów i usług; przeprowadzania badań rynku; przeprowadzania analizy danych; a także wykonywania działań z zakresu księgowości, audytu i innych funkcji wewnętrznych);
+•	zapewnienia Użytkownikowi możliwości interakcji z aplikacjami i usługami dostawców zewnętrznych oraz korzystania z takich aplikacji i usług;
+•	identyfikowania przypadków, zapobiegania przypadkom i ochrony przed przypadkami oszustw i innych przestępstw, roszczeń i innego rodzaju odpowiedzialności;
+•	przestrzegania przepisów prawa właściwego, norm branżowych oraz zasad Samsung, w tym niniejszych Zasad prywatności oraz Polityki Prywatności Samsung.
+
+Za pośrednictwem Usługi Samsung może zbierać informacje osobiste dotyczące działań Użytkownika w trybie online na urządzeniach obsługujących Usługę w ramach różnych aplikacji związanych z usługami połączeń i wiadomości dostępnymi na smartfonach. W ramach Usługi Samsung może korzystać z usług analitycznych dostawców zewnętrznych. Dostawcy zarządzający takimi usługami analitycznymi pomagają Samsung w analizie korzystania przez Użytkownika z Usługi oraz udoskonalaniu Usługi. Uzyskane przez Samsung informacje mogą być przekazywane tym dostawcom i innym odpowiednim dostawcom zewnętrznym lub zbierane bezpośrednio przez tych dostawców lub osoby trzecie, na przykład w celu dokonania analizy sposobu korzystania z Usługi, łatwiejszego udostępniania Usługi i diagnozowania problemów technicznych.
+
+
+Samsung przetwarza dane osobowe do celów określonych powyżej. Podstawa prawna Samsung do przetwarzania danych osobowych obejmuje także przetwarzanie, które jest konieczne do realizacji umowy zawartej między Użytkownikiem a Samsung (na przykład na potrzeby świadczenia Usługi i identyfikacji oraz autoryzacji Użytkownika do korzystania z danej usługi); konieczne do spełnienia wymagań prawnych (na przykład obowiązujących zasad w zakresie księgowości oraz żądań przekazania danych organom ścigania); konieczne z punktu widzenia uzasadnionych interesów Samsung (na przykład do zarządzania stosunkami z Użytkownikiem i poprawy Usługi); a także zależne od uzyskania odrębnej zgody Użytkownika (na przykład na kontaktowanie się z nim w sprawie produktów i usług Samsung oraz przekazywania informacji marketingowych), którą można później wycofać w dowolnym momencie, kontaktując się z Samsung w sposób określony w punkcie Kontakt z Samsung niniejszych Zasad prywatności, co jednak nie ma wpływu na zgodność z prawem przetwarzania danych, które miało miejsce przed cofnięciem zgody.
+
+Przekazanie danych osobowych przez Użytkownika na potrzeby opisanego powyżej przetwarzania jest wymogiem wstępnym zawarcia umowy. Jeśli Użytkownik nie przekaże Samsung swoich danych osobowych, Samsung nie będzie w stanie zapewnić mu wszystkich funkcji dostępnych w ramach Usługi.
+
+Udostępnianie informacji
+
+Informacji osobistych Użytkownika uzyskanych w ramach Usługi Samsung nie ujawnia, chyba że w sytuacji opisanej w niniejszych Zasadach prywatności. Dostęp do danych osobowych oraz możliwość ich przetwarzania ma ograniczona liczba członków zespołu ds. Usługi w Samsung w związku z ich zakresem obowiązków lub zobowiązaniami umownymi. Informacje osobiste Użytkownika Samsung może przekazywać swoim spółkom zależnym lub stowarzyszonym oraz dostawcom usług, którzy świadczą usługi w imieniu Samsung. Samsung nie zezwala swoim dostawcom usług na korzystanie z tych informacji ani na ich ujawnianie, chyba że nastąpi sytuacja, kiedy jest to niezbędne do świadczenia usług w imieniu Samsung lub przestrzegania wymogów prawnych.
+
+Niektórzy pracownicy, niektóre spółki stowarzyszone i niektórzy zewnętrzni dostawcy usług mają siedziby poza EOG (zwłaszcza w Republice Korei, Stanach Zjednoczonych i Japonii), m.in. w krajach, które mogą nie zapewniać tego samego stopnia bezpieczeństwa danych co kraje macierzyste klientów Samsung. Samsung podejmuje odpowiednie działania mające na celu objęcie takich odbiorców obowiązkami zachowania poufności oraz stosuje odpowiednie środki, takie jak standardowe klauzule umowne o ochronie danych, aby zapewnić, że wszelkie przekazywane dane osobowe pozostaną bezpieczne. Egzemplarze takich klauzul można uzyskać, kontaktując się z Samsung w sposób określony w punkcie „Kontakt z Samsung” niniejszych Zasad prywatności.
+
+Samsung, spółki zależne i stowarzyszone Samsung oraz odpowiedni dostawcy zewnętrzni usług także mogą ujawniać informacje o Użytkowniku, (1) jeśli zobowiązują ich do tego przepisy prawa lub pisma sądowe (takie jak postanowienie sądu lub wezwanie do sądu); (2) w odpowiedzi na żądania organów administracji publicznej, np. organów ochrony porządku publicznego; (3) w celu stwierdzenia, wykonania lub obrony praw Samsung; (4) w przypadku przekonania Samsung, że ujawnienie takie jest konieczne lub stosowne, aby zapobiec szkodom, w tym szkodom na osobie, lub stratom finansowym; (5) w związku z dochodzeniem w sprawie rzeczywistej lub domniemanej działalności przestępczej; (6) w przypadku sprzedaży lub przekazania przez Samsung całości lub części swojego przedsiębiorstwa lub jego aktywów (w tym w przypadku fuzji, przejęcia, sprzedaży, przekazania, reorganizacji, rozwiązania lub likwidacji) lub (7) w innych przypadkach za oddzielną zgodą Użytkownika.
+
+
+Zatrzymywanie danych osobowych
+
+Samsung podejmuje odpowiednie środki w celu zapewnienia, że informacje o Użytkowniku są zatrzymywane wyłącznie:
+1. co najmniej przez okres, w którym informacje te służą do udostępniania Usługi Użytkownikowi;
+2. zgodnie z przepisami prawa, postawieniami umowy lub zobowiązaniami prawnymi Samsung;
+3. wyłącznie przez okres wymagany w celu, w jakim takie informacje zostały zebrane lub są przetwarzane, lub też dłużej, jeśli wymagają tego postanowienia umowy lub przepisy prawa właściwego, lub też w celach statystycznych, z zachowaniem odpowiednich zabezpieczeń.
+
+Decyzje Użytkownika
+
+Samsung daje Użytkownikowi możliwość podejmowania określonych decyzji w związku z uzyskanymi od niego informacjami osobistymi. Aby zaktualizować własne preferencje, ograniczyć kontakt ze strony Samsung lub przesłać prośbę, należy skontaktować się z Samsung w sposób określony w punkcie „Kontakt z Samsung” niniejszych Zasad prywatności.
+
+Aby dokonać ewentualnego wyboru w związku z korzystaniem z Usługi, należy przejść do ustawień usługi Połączenie zdalne w urządzeniu. Należy mieć na uwadze, że jeśli nie zezwoli się Usłudze na określone działania, korzystanie z niektórych funkcji Usługi może być ograniczone.
+
+Prawa Użytkownika
+
+Użytkownik może zażądać przekazania mu specyfikacji informacji zbieranych o nim przez Samsung oraz skorygowania nieścisłości w tych informacjach, sprzeciwić się przetwarzaniu informacji Użytkownika, zażądać ograniczenia tego przetwarzania, a także zażądać dostępu do swoich informacji, ich usunięcia lub przeniesienia. Na mocy przepisów prawa przyjętych w niektórych jurysdykcjach Samsung może odrzucić żądania, które są nieracjonalnie powtarzane, wymagają nieproporcjonalnych działań technicznych, narażają prywatność innych osób, są rażąco niepraktyczne lub w przypadku których inne przepisy prawa nie wymagają zapewnienia takiego dostępu. Aby złożyć wniosek o dostęp do swoich informacji, należy skontaktować się z Samsung za pośrednictwem strony pomocy dotyczącej prywatności (https://www.samsung.com/request-desk).
+
+Jeśli Użytkownik zażąda usunięcia informacji osobistych, zgadza się wówczas, że może nie mieć możliwości uzyskiwania dostępu do Usług Biznesowych lub korzystania z nich oraz że fragmenty informacji osobistych mogą przez jakiś czas nadal być obecne w archiwach i rejestrach Samsung zgodnie z przepisami prawa właściwego, Samsung nie będzie jednak używać tych informacji do celów handlowych. Użytkownik zgadza się, że niezależnie od zgłoszonego przez Użytkownika żądania usunięcia informacji, Samsung zastrzega sobie prawo do zachowania informacji osobistych Użytkownika lub odpowiedniej ich części zgodnie z obowiązującymi w Samsung zasadami zatrzymywania danych oraz przepisami prawa właściwego, jeśli dostęp Użytkownika do witryny został zawieszony, ograniczony lub wypowiedziany przez Samsung z powodu naruszenia przez Użytkownika obowiązujących w Samsung Warunków korzystania, jeśli jest to niezbędne w celu ochrony praw, własności lub bezpieczeństwa Samsung lub odpowiednich spółek stowarzyszonych, partnerów biznesowych, pracowników lub klientów Samsung.
+
+Jak Samsung chroni informacje osobiste
+
+Aby chronić uzyskane w ramach Usługi informacje osobiste przed przypadkowym, nielegalnym lub nieupoważnionym uszkodzeniem, utraceniem, modyfikowaniem, dostępem, ujawnieniem, użyciem lub ingerowaniem w nie, Samsung stosuje odpowiednie zabezpieczenia administracyjne, techniczne i fizyczne. Samsung stosuje także odpowiednie procedury mające na celu zapewnienie, że dane takie są rzetelne pod kątem ich przeznaczenia, prawdziwe, kompletne i aktualne.
+
+Zmiany w Zasadach prywatności
+
+Niniejsze Zasady prywatności mogą być aktualizowane, aby odzwierciedlać zmiany w sposobie traktowania informacji osobistych przez Samsung w odniesieniu do Usługi lub zmiany w przepisach prawa właściwego. W celu powiadomienia Użytkownika z wyprzedzeniem o istotnych zmianach w niniejszych Zasadach prywatności Samsung będzie publikować w swojej witrynie internetowej odpowiedni komunikat lub przesyłać go na urządzenie Użytkownika. W górnej części tego komunikatu zawarta będzie informacja o dacie ostatniej aktualizacji.
+
+Kontakt z Samsung
+
+Ewentualne bardziej szczegółowe pytania należy kierować do Samsung (administrator danych w UE) na adres:
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+Można też kierować je za pośrednictwem strony pomocy dotyczącej prywatności (https://www.samsung.com/request-desk).
+
+Jeśli Użytkownik uważa, że przetwarzanie jego danych osobowych narusza przepisy prawa właściwego, może wnieść skargę do stosownego organu nadzorczego.

@@ -1,0 +1,98 @@
+﻿Datenschutzhinweise zu Call & Message Continuity
+
+Wirksamkeitsdatum: 30.03.2018
+
+Samsung Electronics (UK) Limited („Samsung“ oder „wir“) und dessen verbundene Unternehmen respektieren Ihre Bedenken zum Datenschutz. Diese Datenschutzhinweise beziehen sich auf die persönlichen Informationen, die wir über den Call & Message Continuity-Dienst (der „Dienst“) erfassen. Sie gelten nicht für Daten, die von anderen Apps, Websites oder Diensten erfasst werden, die von Samsung oder verbundenen juristischen Personen bereitgestellt werden.
+
+Der Dienst ist ein Kommunikationsdienst für mehrere Geräte. Seine Funktionen umfassen die Weiterleitung eingehender und ausgehender Anrufe, Anruf-/Nachrichtenverlauf und die Nachrichtensynchronisierung zwischen Ihrem Primärgerät (z. B. Ihrem Smartphone) und Sekundärgerät(en) (z. B. Ihrer Uhr, Ihrem Tablet, Ihrem Laptop usw.), sodass Sie auf Ihrem/Ihren Sekundärgerät(en) eingehende Anrufe empfangen und Nachrichten lesen und mit Ihrem Primärgerät ausgehende Anrufe tätigen und neue Nachrichten senden können.
+
+Zur Nutzung des Dienstes müssen Sie sich zunächst sowohl an Ihrem Primärgerät als auch an Ihrem/Ihren Sekundärgerät(en) mit einem Samsung Account anmelden. Wenn es sich bei Ihrem Sekundärgerät um eine Uhr handelt, müssen Sie außerdem einen Netzdienst einrichten, indem Sie über das von Ihrem Netzanbieter bereitgestellte System einen Tarif für mobile Daten abschließen, mit dem Sie Ihre Uhr mit Ihrer normalen Telefonnummer nutzen können. Wenn es sich bei Ihrem Sekundärgerät um ein Tablet handelt, das nur Datenübertragung unterstützt, müssen Sie eine Verbindung mit einem WLAN-Netzwerk oder mit dem von Ihrem Netzanbieter bereitgestellten System einrichten, die Ihnen die Nutzung Ihres Tablets ermöglicht. Unsere Datenschutzrichtlinie unter https://account.samsung.com/membership/pp („Samsung-Datenschutzrichtlinie“) gilt für die Verwendung Ihres Samsung Accounts und von Call & Message Continuity durch Sie. Diese Datenschutzhinweise enthalten weitere Informationen darüber, wie Ihre persönlichen Daten im Zusammenhang mit dem Dienst verwendet werden, und sind in Verbindung mit der Samsung-Datenschutzrichtlinie zu sehen.
+
+In diesen Datenschutzhinweisen beschreiben wir, welche Art von Daten über den Dienst erfasst werden, wie wir die Daten verwenden dürfen, wie lange wir die Daten aufbewahren dürfen, an wen wir sie weitergeben dürfen und welche Möglichkeiten Sie im Zusammenhang mit unserer Verwendung der Daten und der Ausübung Ihrer Rechte haben. Wir beschreiben auch die Maßnahmen, mit denen wir die Daten sichern, und teilen Ihnen mit, wie Sie sich im Zusammenhang mit unseren Datenschutzpraktiken an uns wenden können. Samsung ist das für die Verarbeitung persönlicher Daten verantwortliche Unternehmen.
+
+Klicken Sie auf einen der unten angezeigten Links, um zum aufgeführten Abschnitt zu gelangen:
+
+•	Von uns erhaltene Daten
+•	Verwendung der von uns erhaltenen Daten
+•	Weitergabe von Daten
+•	Aufbewahrung persönlicher Daten
+•	Ihre Wahlmöglichkeiten
+•	Ihre Rechte
+•	Schutz persönlicher Informationen
+•	Aktualisierungen unserer Datenschutzhinweise
+•	Kontakt
+
+Von uns erhaltene Daten
+
+Über den Dienst erhalten wir auf verschiedene Arten Daten über Sie. Die von uns erhaltenen persönlichen Informationen sind unter anderem folgender Art:
+
+•	Samsung Account-Daten. Wir erfassen Daten in Verbindung mit Ihrem Samsung Account, über den der Zugriff auf den Dienst erfolgt, wie etwa Ihre Samsung Account-ID.
+
+•	Interaktionen mit dem Dienst. Wir erfassen Daten, die Sie über Ihre Interaktionen mit dem Dienst austauschen, darunter Informationen über Anrufer und Empfänger, Informationen über Absender und Empfänger von Nachrichten, die Inhalte von Nachrichten, die Sie senden und empfangen, und Ihren Anruf- und Nachrichtenverlauf in Smartphone-Anwendungen. Außerdem werden weitere Nutzungsdaten, wie etwa Ihre Touch-Interaktionen und sonstige Eingaben, und die Ihrerseits von dem Dienst erhaltenen Daten (wie etwa Reaktionen und Antworten) erfasst. Wenn Sie Daten an den Dienst übermitteln, die sensibler Art sind (d. h. Gesundheitsdaten), wie etwa von Ihnen gesendete oder empfangene Nachrichten, die sensible Daten enthalten, werden diese ebenfalls für die unten dargelegten Zwecke erfasst und verarbeitet. Wir erfassen derartige Daten nicht aktiv, ohne zunächst Ihre gesonderte ausdrückliche Zustimmung einzuholen oder wie durch anwendbares Recht gestattet.
+
+•	Geräte- und App-Daten. Wir erfassen über automatisierte Verfahren Daten über Ihre für den Dienst aktivierten Geräte, wie etwa Mobilfunknummer, Netzwerk-MAC-Adresse, Gerätekennungen und andere eindeutige Kennungen.
+
+Verwendung der von uns erhaltenen Daten
+Wir verwenden die von uns über den Dienst erhaltenen Daten, um:
+
+•	Sie zu identifizieren und zu authentifizieren, damit Sie einen bestimmten Dienst nutzen können;
+•	Ihnen den Dienst bereitzustellen, etwa zur Weiterleitung eingehender und ausgehender Anrufe zwischen Ihren Geräten und zur Synchronisierung Ihres Anrufverlaufs und von Nachrichten auf Ihren Geräten (Smartphone, Uhr, Tablet, Laptop usw.);
+•	Ihre Nutzung des Dienstes zu optimieren und an Ihren Bedarf anzupassen;
+•	auf Ihre Anfragen und Fragen zu reagieren;
+•	unsere Geschäftsabläufe durchzuführen, zu bewerten und zu verbessern (einschließlich Entwicklung neuer Produkte; Weiterentwicklung und Verbesserung unserer Produkte und Dienste; Verwalten unserer Kommunikation; Analyse unserer Produkte, unserer Kundenbasis und Dienste; Marktforschung; Datenanalysen sowie Buchhaltung, Buchprüfung und anderer interner Funktionen);
+•	Ihnen die Interaktion mit bestimmten Apps und Diensten von Drittanbietern und deren Verwendung zu ermöglichen;
+•	Sie vor Betrug und sonstiger krimineller Aktivität, Forderungen und sonstiger Haftung zu schützen und diese zu erkennen und zu verhindern; und
+•	rechtliche Anforderungen, einschlägige Branchenstandards und unsere Richtlinien, einschließlich dieser Datenschutzhinweise und der Samsung-Datenschutzrichtlinie, zu erfüllen und durchzusetzen.
+
+Über den Dienst erfassen wir möglicherweise persönliche Informationen über Ihre Online-Aktivitäten auf für den Dienst aktivierten Geräten im zeitlichen Verlauf und mit diversen Apps im Zusammenhang mit Smartphone-Anruf- und  Nachrichtendiensten. Wir nutzen bei dem Dienst möglicherweise Analysedienste von Drittanbietern. Die Anbieter, die diese Analysedienste verwalten, unterstützen uns dabei, Ihre Verwendung des Dienstes zu analysieren und den Dienst zu verbessern. Die von uns erfassten Daten können diesen Anbietern und entsprechenden anderen Dritten gegenüber offengelegt oder direkt von diesen erhoben werden, um mit diesen Daten beispielsweise die Verwendung des Dienstes auszuwerten, den Dienst bereitzustellen und technische Probleme zu diagnostizieren.
+
+
+Samsung verarbeitet persönliche Daten nur für die oben beschriebenen Zwecke. Die rechtliche Grundlage für die Verarbeitung persönlicher Daten durch Samsung bildet eine Verarbeitung, die: für die Erbringung des Vertrags zwischen Ihnen und Samsung (beispielsweise um den Dienst an Sie bereitzustellen und Sie zu identifizieren und zu authentifizieren, damit Sie einen bestimmten Dienst nutzen können) erforderlich ist; zur Erfüllung rechtlicher Anforderungen (beispielsweise zur Erfüllung anwendbarer Buchhaltungsgrundsätze und gegebenenfalls für obligatorische Meldungen an Strafverfolgungsbehörden) erforderlich ist; für legitime Interessen von Samsung (beispielsweise zur Verwaltung unserer Geschäftsbeziehung mit Ihnen und zur Verbesserung des Dienstes) erforderlich ist; und gegebenenfalls auf Einholung Ihrer gesonderten Zustimmung basiert (zum Beispiel, dass wir mit Ihnen bezüglich unserer Produkte und Dienste in Verbindung treten und Ihnen Marketing-Materialien zukommen lassen), die nachträglich jederzeit zurückgenommen werden kann, indem Sie sich über die Angaben im Abschnitt Kontakt in diesen Datenschutzhinweisen an uns wenden, ohne dabei die Rechtmäßigkeit der Verarbeitung einzuschränken, die vor dem Widerruf stattgefunden hat.
+
+Für den Abschluss eines Vertrags ist es zwingend erforderlich, dass Sie uns wie oben beschrieben persönliche Daten für eine Verarbeitung zur Verfügung stellen. Wenn Sie uns keine persönlichen Daten zur Verfügung stellen, können wir Ihnen nicht alle über den Dienst verfügbaren Funktionen bereitstellen.
+
+Weitergabe von Daten
+
+Wir legen persönliche Informationen über Sie nicht über den Dienst offen, außer wie in diesen Datenschutzhinweisen dargelegt. Eine begrenzte Anzahl Mitglieder des Teams für den Dienst innerhalb von Samsung kann im Zusammenhang mit ihren beruflichen Zuständigkeiten oder vertraglichen Verpflichtungen auf persönliche Daten zugreifen und diese anderweitig verarbeiten. Wir geben Ihre persönlichen Informationen möglicherweise an unsere Tochtergesellschaften und verbundenen Unternehmen und an Dienstanbieter weiter, die Dienste für uns erbringen. Wir ermächtigen unsere Dienstanbieter nicht, die Daten zu verwenden oder offenzulegen, außer in dem Umfang, in dem es zur Erbringung von Diensten in unserem Namen oder zur Erfüllung rechtlicher Anforderungen erforderlich ist.
+
+Einige der Mitarbeiter, verbundenen Unternehmen und als Drittanbieter agierenden Dienstanbieter sind außerhalb des EWR ansässig, einschließlich in Ländern, die möglicherweise keinen Datenschutz auf dem gleichen Niveau bieten wie das Wohnsitzland unserer Kunden, darunter beispielsweise, aber nicht beschränkt auf, die Republik Korea, die Vereinigten Staaten von Amerika und Japan. Samsung unternimmt angemessene Schritte, um sicherzustellen, dass derartige Empfänger an Vertraulichkeitsverpflichtungen gebunden sind, und Samsung setzt Maßnahmen wie Standardvertragsklauseln zum Datenschutz ein, um sicherzustellen, dass jegliche übertragenen persönlichen Daten geschützt und sicher bleiben. Eine Kopie dieser Klauseln ist bei uns über die Angaben im Abschnitt Kontakt in diesen Datenschutzhinweisen erhältlich.
+
+Samsung, unsere Tochtergesellschaften und verbundenen Unternehmen und unsere als Drittanbieter agierenden Dienstanbieter sind auch berechtigt, unter folgenden Umständen Daten über Sie offenzulegen: (1) wenn wir gesetzlich oder aufgrund eines Rechtsvorgangs (etwa eines Gerichtsbeschlusses oder einer Vorladung) dazu verpflichtet sind; (2) auf amtliche Anfragen hin, etwa von Strafverfolgungsbehörden; (3) zur Durchsetzung, Ausübung oder Verteidigung unserer gesetzlichen Rechte; (4) wenn wir der Ansicht sind, dass eine Offenlegung zur Vermeidung von Personen- oder sonstigen Schäden oder finanzieller Verluste erforderlich oder angemessen ist; (5) im Zusammenhang mit einer Untersuchung aufgrund einer mutmaßlichen oder tatsächlichen illegalen Handlung; (6) falls wir unsere Geschäftstätigkeit oder Vermögenswerte ganz oder teilweise abtreten (einschließlich im Fall einer Fusion, Übernahme, Veräußerung, Übergabe, Umstrukturierung, Auflösung oder Liquidation); oder (7) mit Ihrer gesonderten Zustimmung bei sonstigen Umständen.
+
+
+Aufbewahrung persönlicher Daten
+
+Wir unternehmen angemessene Schritte, um sicherzustellen, dass Daten über Sie nur folgendermaßen aufbewahrt werden:
+1. mindestens über den Zeitraum, in dem die Daten verwendet werden, um Ihnen den Dienst bereitzustellen;
+2. wie gesetzlich, vertraglich oder im Hinblick auf unsere rechtlichen Verpflichtungen erforderlich; oder
+3. nur so lange, wie es für den Zweck notwendig ist, zu dem sie erfasst wurden oder verarbeitet werden, oder länger, wenn dies, vorbehaltlich angemessener Schutzmaßnahmen, zu vertraglichen, gesetzlichen oder statistischen Zwecken erforderlich ist.
+
+Ihre Wahlmöglichkeiten
+
+Wir bieten Ihnen im Zusammenhang mit den von uns über Sie erhaltenen persönlichen Informationen bestimmte Wahlmöglichkeiten. Wenn Sie Ihre Einstellungen aktualisieren, die von uns erhaltenen Mitteilungen beschränken oder uns eine Anfrage stellen möchten, wenden Sie sich bitte wie im Abschnitt Kontakt dieser Datenschutzhinweise dargelegt an uns.
+
+In den Einstellungen zu „Remote-Verbindung“ auf Ihrem Gerät finden Sie Auswahlmöglichkeiten, die Ihnen im Zusammenhang mit Ihrer Verwendung des Dienstes gegebenenfalls zur Verfügung stehen. Bitte beachten Sie, dass Sie über den Dienst möglicherweise nicht alle Funktionen nutzen können, wenn Sie es ablehnen, dass der Dienst bestimmte Daten erfassen oder weitergeben kann.
+
+Ihre Rechte
+
+Sie haben das Recht, Details über die von uns über Sie erfassten Daten anzufordern und bei uns eine Korrektur von Fehlern in diesen Daten zu verlangen, der Verarbeitung zu widersprechen oder eine Einschränkung der Verarbeitung anzufordern und Zugriff auf Ihre Daten, deren Löschung oder deren Übertragbarkeit zu verlangen. Gemäß dem Recht mancher Rechtsordnungen können wir die Bearbeitung von Anfragen ablehnen, die sich in unangemessener Weise wiederholen, unverhältnismäßigen technischen Aufwand bedeuten, den Datenschutz anderer gefährden, nur mit außerordentlichen Schwierigkeiten praktikabel sind oder für die der Zugriff laut vor Ort geltendem Recht nicht anderweitig erforderlich ist. Wenn Sie eine Anfrage auf Zugriff auf Ihre Daten stellen möchten, wenden Sie sich bitte über unsere Seite für Datenschutz-Support (https://www.samsung.com/request-desk) an uns.
+
+Wenn Sie eine Löschung persönlicher Informationen anfordern, bestätigen Sie, dass Sie möglicherweise nicht auf die Unternehmensdienste zugreifen oder diese verwenden können und dass in den Datensätzen und Archiven von Samsung im Einklang mit geltendem Recht weiterhin über eine gewisse Zeit restliche persönliche Informationen verbleiben können, Samsung diese Informationen jedoch nicht zu gewerblichen Zwecken verwendet. Sie nehmen zur Kenntnis, dass sich Samsung trotz Ihrer Löschungsanforderung das Recht vorbehält, Ihre persönlichen Informationen oder einen bestimmten Teil davon im Einklang mit unserer Datenaufbewahrungsrichtlinie und geltendem Recht aufzubewahren, falls Samsung Ihren Zugriff auf die Website aufgrund eines Verstoßes gegen die Nutzungsbedingungen des Dienstes von Samsung ausgesetzt, beschränkt oder gekündigt hat, wenn dies zum Schutz der Rechte, des Eigentums oder der Sicherheit von Samsung oder jeglicher unserer verbundenen Unternehmen, Geschäftspartner, Mitarbeiter oder Kunden erforderlich war.
+
+Schutz persönlicher Informationen
+
+Wir setzen angemessene administrative, technische und physische Sicherheitsmaßnahmen ein, die die von uns über den Dienst erhaltenen persönlichen Informationen vor versehentlicher, unrechtmäßiger oder unbefugter Vernichtung, Störung, Verlust, Veränderung, Zugriff, Offenlegung oder Nutzung schützen sollen. Samsung setzt außerdem verhältnismäßige Verfahren ein, die dazu beitragen, dass derartige Daten für die beabsichtigte Verwendung zuverlässig und zutreffend, vollständig und aktuell sind.
+
+Aktualisierungen unserer Datenschutzhinweise
+
+Diese Datenschutzhinweise werden möglicherweise von Zeit zu Zeit bei Änderungen unserer Praktiken im Zusammenhang mit persönlichen Informationen im Hinblick auf den Dienst oder bei Änderungen des anwendbaren Rechts aktualisiert. Wir benachrichtigen Sie über einen Hinweis auf unserer Website und/oder Ihrem Gerät im Voraus über jegliche wesentliche Änderungen unserer Datenschutzhinweise und geben oben im Hinweis an, wann dieser zuletzt aktualisiert wurde.
+
+Kontakt
+
+Wenn Sie konkrete Fragen haben, wenden Sie sich bitte unter folgender Adresse an uns (EU-Datenverantwortlicher):
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+Sie können sich auch über unsere Seite für Datenschutz-Support (https://www.samsung.com/request-desk) an uns wenden.
+
+Sie sind berechtigt, eine Beschwerde bei einer Aufsichtsbehörde einzureichen, wenn unsere Verarbeitung Ihrer persönlichen Daten Ihrer Ansicht nach gegen geltendes Recht verstößt.

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:padding="@dimen/routine_open_popup_side_padding" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/routine_open_popup_text_size" android:textColor="@color/body_text_color" android:id="@id/openLayoutTitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/routine_popup_heading_padding_bottom" android:text="@string/routine_cmc_guide" />
+    <TextView android:id="@id/cancel_action" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/routine_popup_cancel_padding_bottom" android:text="@string/routine_cmc_cancel" style="@style/RoutineOpenPopupTextStyle" />
+    <TextView android:id="@id/launch_cmc_action" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/routine_popup_open_cmc_padding_bottom" android:text="@string/routine_open_cmc" style="@style/RoutineOpenPopupTextStyle" />
+</LinearLayout>

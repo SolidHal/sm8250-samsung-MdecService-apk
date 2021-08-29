@@ -1,0 +1,98 @@
+﻿Declaración de privacidad de Call & Message Continuity
+
+Fecha de entrada en vigor: 30/03/2018
+
+Samsung Electronics (UK) Limited (“Samsung” o “Nosotros”) y sus empresas filiales respetamos su preocupación respecto a la privacidad. Esta Declaración de privacidad se aplica a la información personal que recopilamos a través del servicio Call & Message Continuity (el “Servicio”). No se aplica a la información recopilada por otras aplicaciones, sitios web o servicios proporcionados por Samsung o sus entidades filiales.
+
+El Servicio es un servicio de comunicación multidispositivo. Este servicio incluye llamadas entrantes y salientes de intermediación telefónica, historial de llamadas y mensajes, sincronización de mensajes entre el dispositivo principal (p. ej., el smartphone) y los dispositivos secundarios (p. ej., reloj, tableta, portátil, etc.) para que pueda recibir llamadas entrantes y leer mensajes en los dispositivos secundarios, así como realizar llamadas y enviar mensajes nuevos con el dispositivo principal.
+
+Para usar el Servicio, primero debe iniciar sesión en una Samsung account en su dispositivo principal y en sus dispositivos secundarios. Si el dispositivo secundario es un reloj, deberá configurar un servicio de red en este. Para hacerlo, debe contratar una tarifa de datos móviles mediante el sistema proporcionado por su operador de red que le permita usar el reloj con su número de teléfono habitual. Si el dispositivo secundario es una tableta que solo admite datos, deberá configurar una conexión con una red Wi-Fi o con el sistema proporcionado por su operador de red que le permita usar la tableta. Nuestra Política de privacidad en https://account.samsung.com/membership/pp (“Política de privacidad de Samsung”) se aplicará al uso que usted haga de su Samsung account y de Call & Message Continuity. Esta Declaración de privacidad proporciona información adicional acerca de cómo se usan sus datos personales en relación con el Servicio y debe leerse junto con la Política de privacidad de Samsung.
+
+En la presente Declaración de privacidad se describen los tipos de datos que se recopilan mediante el Servicio, el uso que podemos hacer de la información, el tiempo que la conservamos y con quién podemos compartirla, así como las opciones disponibles para usted respecto al uso que hacemos de la información y al ejercicio de sus derechos. Asimismo, describimos las medidas que tomamos para salvaguardar la información y le indicamos cómo ponerse en contacto con nosotros acerca de nuestras prácticas de privacidad. Samsung es el controlador de datos para el procesamiento de datos personales.
+
+Haga clic en uno de los vínculos siguientes para ir a la sección enumerada:
+
+•	Información que obtenemos
+•	Cómo utilizamos la información que obtenemos
+•	Compartir información
+•	Retención de datos personales
+•	Sus opciones
+•	Sus derechos
+•	Cómo protegemos la información personal
+•	Actualizaciones de nuestra Declaración de privacidad
+•	Cómo ponerse en contacto con nosotros
+
+Información que obtenemos
+
+Mediante el Servicio, obtenemos información de varios modos. Estos son los tipos de información personal que obtenemos:
+
+•	Información de Samsung account. Recopilamos información relacionada con la Samsung account que utiliza para acceder al Servicio, como por ejemplo, su ID de Samsung account.
+
+•	Interacciones con el Servicio. Recopilamos la información que intercambia mediante sus interacciones con el Servicio, incluida la información acerca de las personas que llaman y los destinatarios de las llamadas, los remitentes y destinatarios de mensajes, los contenidos de los mensajes que envía y recibe, así como el historial de llamadas y mensajes en aplicaciones de smartphone. Asimismo, recopilaremos otro tipo de información de uso, como por ejemplo, sus interacciones táctiles y otras acciones de entrada, así como la información que recibe por parte del Servicio (tales como respuestas y preguntas). Si envía al Servicio información que sea sensible por su naturaleza (p. ej., información sobre su salud), como por ejemplo, los mensajes que envía y recibe y que contienen información confidencial, esta también se recopilará y procesará para los fines establecidos a continuación. No recopilaremos de forma activa dicha información si no disponemos de su consentimiento explícito previo por separado o según se establezca en la legislación aplicable.
+
+•	Información del dispositivo y de las aplicaciones. Recopilamos información de forma automática acerca de sus dispositivos habilitados para el Servicio, como por ejemplo, el número de móvil, la dirección MAC, los identificadores de los dispositivos y otros identificadores únicos.
+
+Cómo utilizamos la información que obtenemos
+Utilizamos la información que obtenemos mediante el Servicio para los siguientes fines:
+
+•	identificarle y autenticarle para que pueda usar un determinado servicio;
+•	proporcionarle el Servicio, como por ejemplo, las llamadas entrantes y salientes de intermediación telefónica y la sincronización del historial de llamadas y mensajes en sus dispositivos (smartphone, reloj, tableta, portátil, etc.);
+•	mejorar y personalizar su experiencia con el Servicio;
+•	responder a sus solicitudes y consultas;
+•	operar, evaluar y mejorar nuestra actividad comercial (incluido el desarrollo de productos nuevos, la mejora de nuestros productos y servicios, la administración de nuestras comunicaciones, el análisis de nuestros productos, de nuestra cartera de clientes y de los servicios, la realización de estudios de mercado, la ejecución de análisis de datos, así como la ejecución de tareas contables, de auditoría y de otras funciones internas);
+•	permitir que pueda interactuar y usar determinadas aplicaciones y servicios de terceros;
+•	proteger frente a fraudes y otras actividades delictivas, reclamaciones y otras responsabilidades, así como identificarlos y prevenirlos; y
+•	cumplir con los requisitos legales aplicables, las normativas pertinentes del sector y nuestras políticas, incluidas esta Declaración de privacidad y la Política de privacidad de Samsung.
+
+Mediante el Servicio, podemos recopilar información personal sobre sus actividades en dispositivos habilitados para el Servicio a lo largo del tiempo y en aplicaciones relacionadas con los servicios de llamadas y mensajes de smartphones. Podemos usar servicios de análisis de terceros en el Servicio. Los proveedores que administran dichos servicios de análisis nos ayudan a analizar el uso del Servicio y a mejorar el Servicio. La información que obtenemos puede compartirse con —o ser recopilada por— dichos proveedores y otras terceras partes pertinentes que usen la información, por ejemplo, para evaluar el uso del Servicio, ayudar a proporcionar el Servicio y diagnosticar problemas técnicos.
+
+
+Samsung procesa los datos personales para los fines descritos anteriormente. La base legal de Samsung para procesar los datos personales incluye el procesamiento: que resulta necesario para la ejecución del contrato establecido entre usted y Samsung (por ejemplo, para proporcionarle el Servicio e identificarle y autenticarle para el uso de determinados Servicios); que resulta necesario para cumplir con los requisitos legales (por ejemplo, para cumplir con las normativas de contabilidad aplicables y permitir el acceso a la información que obligue la ley); que resulta necesario para los intereses legítimos de Samsung (por ejemplo, para gestionar nuestra relación con usted y mejorar el Servicio); que se basa en la obtención de su consentimiento (por ejemplo, para comunicarnos con usted acerca de nuestros productos y servicios y proporcionarle información comercial), que se podrá anular posteriormente en cualquier momento poniéndose en contacto con nosotros según se especifica en la sección Cómo ponerse en contacto con nosotros de la presente Declaración de privacidad, sin que afecte a la legalidad del procesamiento basado en el consentimiento antes de su retirada.
+
+Debe proporcionarnos datos personales para su procesamiento como requisito para poder establecer un contrato, según se describe anteriormente. Si no nos proporciona datos personales, no podremos proporcionarle todas las funciones disponibles mediante el Servicio.
+
+Compartir información
+
+No compartimos información personal sobre usted mediante el Servicio, excepto según se describe en la presente Declaración de privacidad. Es posible que un número limitado de miembros del equipo de el Servicio en Samsung puedan acceder y procesar datos personales relacionados con las responsabilidades profesionales u obligaciones contractuales que estos tienen. Podemos compartir su información personal con nuestras subsidiarias y filiales y con proveedores de servicios que prestan servicios para nosotros. No autorizamos a nuestros proveedores de servicios a usar ni compartir la información, salvo cuando sea necesario para el funcionamiento de los servicios en nuestro nombre o para cumplir con requisitos legales.
+
+Algunas de las personas, filiales y proveedores de servicios de terceros están ubicados fuera del EEE, incluidos en países cuyo nivel de protección de datos puede no ser el mismo que el del país de origen de nuestros clientes, incluidos entre otros, por ejemplo, la República de Corea, los Estados Unidos y Japón. Samsung da los pasos adecuados para garantizar que dichos destinatarios estén sujetos a la obligación de confidencialidad y Samsung ejecuta medidas, tales como las disposiciones contractuales de protección de datos estándar, para garantizar que cualquier información personal transferida permanezca segura y protegida. Se puede obtener una copia de estas disposiciones poniéndose en contacto con nosotros según se específica en la sección Cómo ponerse en contacto con nosotros de la presente Declaración de privacidad.
+
+Samsung, nuestras subsidiarias y filiales, y nuestros proveedores de servicios externos también pueden compartir información acerca de usted (1) si así se exige legalmente o por una acción legal (como una orden judicial o una citación); (2) como respuesta a solicitudes por parte de organismos gubernamentales (como autoridades del orden público); (3) para establecer, ejercer o defender nuestros derechos legales; (4) cuando consideremos que compartir dicha información resulta necesario o adecuado para evitar daños físicos o de otro tipo o evitar la pérdida financiera; (5) con relación a una investigación de actividades ilegales o presuntamente ilegales; (6) en el caso de que vendamos o cedamos parte o la totalidad de nuestro negocio o de nuestros activos (incluido en el caso de una fusión, una adquisición, una venta, una cesión, una reorganización, una disolución o una liquidación); o (7) de otra manera con el consentimiento por separado que usted dé.
+
+
+Retención de datos personales
+
+Tomamos las medidas adecuadas para garantizar que la información acerca de usted solo se retiene basándose en la siguiente lógica:
+1. por lo menos el periodo en el que se utiliza la información para proporcionarle el Servicio;
+2. conforme a lo que exija la ley, un contrato o en relación a nuestras obligaciones legales; o
+3. únicamente durante el tiempo necesario para la finalidad para la que se recopiló, para su procesado, o más tiempo si se exige en virtud de un contrato o de la legislación vigente, o para fines estadísticos, sujeto a las garantías pertinentes.
+
+Sus opciones
+
+Ofrecemos determinadas opciones respecto a los datos personales que obtenemos acerca de usted. Para actualizar sus preferencias, limitar las comunicaciones que le enviamos o enviar una solicitud, póngase en contacto con nosotros según se especifica en la sección Cómo ponerse en contacto con nosotros de la presente Declaración de privacidad.
+
+Consulte los ajustes de “Conexión remota” en su dispositivo para ver las opciones que puede haber disponibles respecto al uso que usted hace del Servicio. Tenga en cuenta que si no concede permiso al Servicio, es posible que no pueda usar todas las funciones disponibles mediante el Servicio.
+
+Sus derechos
+
+Tiene derecho a solicitar detalles sobre la información que recopilamos acerca de usted y a solicitarnos que corrijamos las imprecisiones que esta contenga, así como a oponerse al procesamiento de su información personal o a solicitar que se limite el procesamiento de esta, así como a solicitar el acceso a su información personal y la eliminación o portabilidad de esta. En virtud de la legislación de algunas jurisdicciones, nos reservamos el derecho de rechazar las solicitudes que sean repetitivas sin responder a causas razonables, exijan un esfuerzo técnico desproporcionado, pongan en riesgo la privacidad de otros, no resulten viables en la práctica o no estén contempladas en la legislación local. Si desea realizar una solicitud de acceso a su información, póngase en contacto con nosotros visitando nuestra página Asistencia sobre privacidad (https://www.samsung.com/request-desk).
+
+Si solicita que se elimine su información personal, reconoce que es posible que no pueda acceder o usar los Servicios comerciales y que información personal residual pueda permanecer almacenada en los registros y archivos de Samsung durante algún tiempo, conforme a la legislación aplicable, pero que Samsung no usará dicha información para fines comerciales. Entiende que, a pesar de su solicitud de eliminación, Samsung se reserva el derecho a mantener su información personal, o una parte significativa de esta, en consonancia con nuestra política de retención de datos y la legislación aplicable, si Samsung anula, limita o da por finalizado el acceso que usted tiene al sitio web basándose en la vulneración de los Condiciones de servicio de Samsung, cuando resulte necesario para proteger los derechos, la propiedad o la seguridad de Samsung y de cualesquiera de sus correspondientes filiales, socios comerciales, empleados o clientes.
+
+Cómo protegemos la información personal
+
+Contamos con controles de seguridad administrativos, técnicos y físicos adecuados diseñados para proteger la información personal que obtenemos mediante el Servicio frente a la destrucción, la interferencia, la pérdida, la modificación, el acceso, la divulgación o el uso accidentales, ilegales o no autorizados. Samsung cuenta asimismo con procedimientos razonables para garantizar que dichos datos son fiables para el uso previsto, son exactos y están completos y actualizados.
+
+Actualizaciones de nuestra Declaración de privacidad
+
+Esta Declaración de privacidad puede actualizarse periódicamente para reflejar los cambios en nuestras prácticas relativas a la información personal con respecto al Servicio o cambios en la legislación aplicable. Publicaremos un aviso en nuestro sitio web y/o en su dispositivo para notificarle con antelación de cambios sustanciales en nuestra Declaración de privacidad, indicándole al principio de la declaración cuándo se realizó la actualización más reciente.
+
+Cómo ponerse en contacto con nosotros
+
+Si tiene alguna pregunta específica, póngase en contacto con nosotros (Responsable del tratamiento de datos en la UE) en:
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+Puede ponerse en contacto visitando nuestra página Asistencia sobre privacidad (https://www.samsung.com/request-desk).
+
+Puede interponer una queja ante un organismo de supervisión si considera que el tratamiento que hacemos de sus datos personales vulnera la ley.

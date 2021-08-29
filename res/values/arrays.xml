@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_server_entries">
+        <item>DEV</item>
+        <item>STG</item>
+        <item>PRD</item>
+    </string-array>
+    <string-array name="ac_server_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="device_type_entries">
+        <item>pd</item>
+        <item>sd</item>
+    </string-array>
+    <string-array name="device_type_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <array name="simcard_esim_icon_res">
+        <item>@drawable/sec_esim_card_01</item>
+        <item>@drawable/sec_esim_card_02</item>
+        <item>@drawable/sec_esim_card_travel</item>
+        <item>@drawable/sec_esim_card_business_trip</item>
+        <item>@drawable/sec_esim_card_call</item>
+        <item>@drawable/sec_esim_card_sms</item>
+        <item>@drawable/sec_esim_card_mms</item>
+        <item>@drawable/sec_esim_card_internet</item>
+        <item>@drawable/sec_esim_card_home</item>
+        <item>@drawable/sec_esim_card_office</item>
+        <item>@drawable/sec_esim_card_heart</item>
+    </array>
+    <array name="simcard_psim_icon_res">
+        <item>@drawable/sim_card_23_ic_01</item>
+        <item>@drawable/sim_card_23_ic_02</item>
+        <item>@drawable/sim_card_23_ic_travel</item>
+        <item>@drawable/sim_card_23_ic_business_trip</item>
+        <item>@drawable/sim_card_23_ic_call</item>
+        <item>@drawable/sim_card_23_ic_sms</item>
+        <item>@drawable/sim_card_23_ic_mms</item>
+        <item>@drawable/sim_card_23_ic_internet</item>
+        <item>@drawable/sim_card_23_ic_home</item>
+        <item>@drawable/sim_card_23_ic_office</item>
+        <item>@drawable/sim_card_23_ic_heart</item>
+    </array>
+</resources>

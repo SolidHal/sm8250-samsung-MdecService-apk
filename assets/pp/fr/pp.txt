@@ -1,0 +1,98 @@
+﻿Déclaration de confidentialité de Call & Message Continuity
+
+Date d’effet : 30/03/2018
+
+Samsung Electronics (UK) Limited (“Samsung” ou “Nous”) et ses filiales respectent vos préoccupations relatives à la confidentialité. La présente Déclaration de confidentialité s’applique aux informations personnelles que nous collectons au moyen du service Call & Message Continuity (le “Service”). Elle ne s’applique pas aux informations collectées par d’autres applications, sites Web ou services fournis par Samsung ou ses filiales.
+
+Le Service est un service de communication multi-appareils. Ses fonctionnalités incluent le relais des appels entrants et sortants, l’historique des appels et messages et la synchronisation des messages entre votre appareil principal (par exemple, un smartphone) et un ou plusieurs appareils secondaires (par exemple, montre, tablette, ordinateur portable, etc.) afin que vous puissiez recevoir les appels entrants et lire les messages sur votre ou vos appareils secondaires ainsi que passer des appels et envoyer de nouveaux messages à l’aide de votre appareil principal.
+
+Pour utiliser ce Service, vous devez au préalable vous connecter à un compte Samsung sur votre appareil principal et sur votre ou vos appareils secondaires. Si votre appareil secondaire est une montre, vous devez configurer un service réseau en souscrivant un forfait mobile via le système fourni par votre opérateur réseau qui vous permet de vous servir de votre montre en utilisant votre numéro de téléphone habituel. Si votre appareil secondaire est une tablette qui prend uniquement en charge les données, vous devez configurer une connexion avec un réseau Wi-Fi ou avec le système fourni par votre opérateur réseau qui vous permet de vous servir de votre tablette. Notre Politique de confidentialité accessible à l’adresse https://account.samsung.com/membership/pp (“Politique de confidentialité Samsung”) s’applique à l’utilisation de votre compte Samsung et du service Call & Message Continuity. La présente Déclaration de confidentialité fournit plus d’informations sur l’utilisation de vos données personnelles dans le cadre du Service et doit être lue en association avec la Politique de confidentialité Samsung.
+
+Dans la présente Déclaration de confidentialité, nous décrivons les types d’informations collectées au moyen du Service, les fins auxquelles nous sommes susceptibles d’utiliser les informations, la période pendant laquelle nous sommes susceptibles de les conserver, les personnes avec lesquelles nous sommes susceptibles de les partager et les choix à votre disposition concernant notre utilisation des informations et l’exercice de vos droits. Nous y décrivons également les mesures que nous prenons pour protéger les informations et vous indiquons comment nous contacter en ce qui concerne notre politique de confidentialité. Samsung est le contrôleur de données chargé du traitement des données personnelles.
+
+Cliquez sur un des liens ci-dessous pour passer à la section répertoriée :
+
+•	Informations que nous obtenons
+•	Comment nous utilisons les informations que nous obtenons
+•	Partage d’informations
+•	Rétention de données personnelles
+•	Les choix qui s’offrent à vous
+•	Vos droits
+•	Mesures de protection des informations personnelles
+•	Mises à jour de notre Déclaration de confidentialité
+•	Comment nous contacter
+
+Informations que nous obtenons
+
+Au moyen du Service, nous obtenons des informations vous concernant de différentes manières. Les types d’informations personnelles que nous obtenons incluent :
+
+•	Informations du compte Samsung. Nous collectons des informations associées à votre compte Samsung utilisé pour accéder au Service, telles que votre ID de compte Samsung.
+
+•	Les interactions avec le Service. Nous collectons les informations que vous échangez avec le Service, y compris les informations relatives aux appelants et aux destinataires, aux expéditeurs et aux destinataires de messages, au contenu des messages que vous envoyez et recevez et à votre historique des appels et messages dans les applications de votre smartphone. En outre, d’autres informations d’utilisation, telles que vos interactions tactiles et autres entrées, ainsi que les informations que vous recevez du Service (notamment les réponses et contenus) seront également collectées. Si vous envoyez des informations sensibles au Service (par exemple, des informations de santé), notamment les messages que vous envoyez ou recevez contenant des informations sensibles, elles seront également collectées et traitées aux fins définies ci-dessous. Nous ne collecterons pas activement lesdites informations sans avoir au préalable obtenu votre consentement explicite ou tel que la loi applicable l’exige.
+
+•	Informations sur l’appareil et les applications. Nous collectons automatiquement des informations relatives à vos appareils compatibles avec le Service, notamment le numéro d’appareil mobile, l’adresse MAC réseau, les identificateurs et autres identificateurs uniques d’appareil.
+
+Comment nous utilisons les informations que nous obtenons
+Nous utilisons les informations que nous recueillons dans le cadre du Service aux fins suivantes :
+
+•	vous identifier et vous authentifier pour que vous puissiez utiliser certains services ;
+•	vous fournir le Service, notamment le relais des appels entrants et sortants entre vos appareils et la synchronisation de l’historique des appels et messages sur vos appareils (smartphone, montre, tablette, ordinateur portable, etc.) ;
+•	améliorer et personnaliser votre expérience du Service ;
+•	répondre à vos demandes et questions ;
+•	exploiter, évaluer et améliorer notre activité (y compris développer de nouveaux produits ; améliorer nos produits et les services ; gérer nos communications ; analyser nos produits, notre base de clients et les services ; effectuer des études de marché ; effectuer des analyses de données ; et assurer les fonctions de comptable, d’audit et d’autres fonctions internes) ;
+•	vous autoriser à interagir avec certains services et applications tiers et à les utiliser ;
+•	protéger contre, identifier et empêcher la fraude et d’autres activités délictueuses, les réclamations et autres responsabilités ; et
+•	respecter et faire respecter les obligations légales applicables, les normes du secteur concernées et nos politiques, y compris la présente Déclaration de confidentialité et la Politique de confidentialité Samsung.
+
+Au moyen du Service, nous sommes susceptibles de collecter des informations personnelles relatives à vos activités en ligne sur des appareils compatibles avec le Service et dans des applications associées aux services d’appels et de messages. Nous sommes susceptibles d’utiliser des services d’analyse tiers dans le Service. Les opérateurs qui gèrent ces services d’analyse nous aident à analyser votre utilisation du Service et à l’améliorer. Les informations que nous obtenons peuvent être divulguées ou collectées directement par ces opérateurs et d’autres tiers concernés qui utilisent les informations, par exemple, pour évaluer l’utilisation du Service, fournir le Service et diagnostiquer des problèmes techniques.
+
+
+Samsung traite les données personnelles aux fins décrites ci-dessus. La base juridique de Samsung pour traiter les données personnelles inclut le traitement qui est : nécessaire pour l’exécution du contrat entre vous et Samsung (par exemple, pour vous fournir le Service et pour vous identifier et vous authentifier de façon à ce que vous puissiez utiliser certains services) ; nécessaire pour se conformer aux obligations légales (par exemple, se conformer aux règles comptables applicables et pour effectuer les divulgations obligatoires en application de la loi) ; nécessaire pour les intérêts légitimes de Samsung (par exemple, pour gérer nos relations avec vous et pour améliorer le Service) ; et en fonction de votre consentement distinct (par exemple, pour communiquer avec vous sur nos produits et services et vous fournir des informations commerciales), qui peut par la suite être retiré à tout moment en nous contactant de la façon indiquée dans la section Comment nous contacter de la présente Déclaration de confidentialité sans affecter la légalité du traitement reposant sur le consentement avant retrait.
+
+Vous devez, pour conclure un contrat, nous fournir des données personnelles pour traitement, tel que décrit ci-dessus. À défaut de nous fournir de telles données personnelles, nous ne serons pas en mesure de vous fournir toutes les fonctionnalités disponibles dans le cadre du Service.
+
+Partage d’informations
+
+Nous ne divulguons pas d’informations personnelles vous concernant au moyen du Service, à l’exception de celles décrites dans la présente Déclaration de confidentialité. Un nombre limité de membres de l’équipe du Service chez Samsung a accès aux données personnelles et peut les traiter dans le cadre de leurs responsabilités ou obligations contractuelles. Nous pouvons partager vos informations personnelles avec nos filiales et sociétés affiliées et avec les opérateurs qui agissent en notre nom. Nous n’autorisons pas nos opérateurs à utiliser ou divulguer les informations, sauf quand cela s’avère nécessaire pour agir en notre nom ou se conformer aux obligations légales.
+
+Certains collaborateurs, affiliés et opérateurs tiers se trouvent en dehors de l’EEE, y compris dans des pays qui ne proposent pas le même niveau de protection des données que le pays d’origine de nos clients, y compris, par exemple et sans s’y limiter, la République de Corée, les États-Unis d’Amérique et le Japon. Samsung prend les mesures appropriées pour garantir que les destinataires sont liés par des obligations de confidentialité et met en œuvre des mesures telles que des clauses contractuelles de protection des données standard pour garantir que les données personnelles transférées sont protégées et sécurisées. Vous pouvez obtenir une copie de ces clauses en nous contactant de la façon indiquée dans la section Comment nous contacter de la présente Déclaration de confidentialité.
+
+Samsung, nos filiales et sociétés affiliées et nos opérateurs tiers sont également susceptibles de divulguer des informations vous concernant (1) si cela est requis par la loi ou une procédure légale (telle qu’une ordonnance du tribunal ou une citation à comparaître) ; (2) en réponse à des demandes d’une administration, telle que l’autorité en charge de faire respecter la loi ; (3) pour établir, exercer ou défendre nos droits légaux ; (4) quand nous estimons qu’une telle divulgation est nécessaire ou appropriée pour prévenir toute atteinte à l’intégrité physique ou tout autre dommage ou perte financière ; (5) dans le cadre d’une enquête sur une activité illégale avérée ou présumée ; (6) si nous cédons ou transférons tout ou partie de notre activité ou de nos actifs (y compris en cas de fusion, acquisition, vente, transfert, réorganisation, dissolution ou liquidation) ; ou (7) autrement avec votre consentement distinct.
+
+
+Rétention de données personnelles
+
+Nous prenons les mesures appropriées pour veiller à ce que les informations vous concernant ne soient conservées qu’en fonction de la logique suivante :
+1. au moins la durée pour laquelle les informations sont utilisées pour vous fournir le Service ;
+2. comme la loi l’exige, un contrat, ou conformément à nos obligations légales ; ou
+3. le temps nécessaire à leur traitement uniquement, ou plus long longtemps si la loi applicable l’exige ou si cela est nécessaire en vertu d’un quelconque contrat ou à des fins statistiques, sous réserve des garanties appropriées.
+
+Les choix qui s’offrent à vous
+
+Nous vous offrons plusieurs choix relatifs aux informations personnelles que nous obtenons vous concernant. Pour mettre à jour vos préférences, limiter les communications que vous recevez de notre part ou soumettre une demande, contactez-nous de la façon indiquée dans la section Comment nous contacter de la présente Déclaration de confidentialité.
+
+Consultez les paramètres “Connexion à distance” de votre appareil pour connaître les choix à votre disposition concernant votre utilisation du Service. Notez que si vous refusez d’autoriser le Service, vous ne serez peut-être pas en mesure d’utiliser toutes les fonctionnalités disponibles via le Service.
+
+Vos droits
+
+Vous avez le droit de demander des détails au sujet des informations que nous collectons et de faire corriger toute inexactitude présente dans celles-ci, de contester ou demander la limitation du traitement, et de demander le droit d’accès, de suppression ou la portabilité de vos informations. En vertu des lois de certaines juridictions, nous nous réservons le droit de décliner toute demande qui serait déraisonnable par son caractère répétitif, nécessiterait des efforts techniques disproportionnés, porterait atteinte à la confidentialité de tiers, serait extrêmement difficile à satisfaire ou concernerait des informations auxquelles l’accès n’est pas exigé par la législation locale. Si vous souhaitez introduire une demande d’accès à vos informations, veuillez nous contacter en consultant la page Assistance sur la confidentialité (https://www.samsung.com/request-desk).
+
+Si vous demandez la suppression d’informations personnelles, vous reconnaissez que vous ne pourrez peut-être pas accéder aux Services professionnels ou les utiliser et que des informations personnelles demeureront dans les enregistrements et archives de Samsung pendant un certain temps, conformément à la loi applicable, mais Samsung n’utilisera pas ces informations à des fins commerciales. Vous comprenez, qu’en dépit de votre demande de suppression, Samsung se réserve le droit de conserver vos informations personnelles, ou une partie, conformément à notre politique de rétention des données et aux lois applicables, si Samsung a suspendu, limité ou résilié l’accès au site Web en raison du non respect des Conditions d’utilisation de Samsung, si cela s’avère nécessaire pour protéger les droits, la propriété ou la sécurité de Samsung ou de l’un de nos affiliés, partenaires commerciaux, employés ou clients respectifs.
+
+Mesures de protection des informations personnelles
+
+Nous avons mis en place des mesures de protection administratives, techniques et physiques appropriées pour protéger les informations personnelles que nous obtenons au moyen du Service contre toute destruction, interférence, perte, modification accidentelles ou illicites, et contre la divulgation, l’utilisation ou l’accès non autorisés. Samsung met également en œuvre des mesures raisonnables qui donnent l’assurance que ces données sont fiables pour l’utilisation prévue et exactes, actuelles et complètes.
+
+Mises à jour de notre Déclaration de confidentialité
+
+La présente Déclaration de confidentialité peut être mise à jour périodiquement pour refléter toutes évolutions de notre politique relative aux informations personnelles en ce qui a trait au Service ou toutes modifications apportées aux lois applicables. Nous publierons une notification sur notre site Web et/ou votre appareil pour vous avertir au préalable des modifications significatives apportées à notre Déclaration de confidentialité et nous indiquerons en début de notification la date de dernière mise à jour.
+
+Comment nous contacter
+
+Si vous avez des questions spécifiques, veuillez nous contacter (Responsable du traitement des données pour l’UE) à l’adresse suivante :
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+Vous pouvez également nous contacter en consultant la page Assistance sur la confidentialité (https://www.samsung.com/request-desk).
+
+Vous pouvez déposer une plainte auprès d’une autorité de surveillance si vous considérez que le traitement de vos données personnelles enfreint la loi applicable.

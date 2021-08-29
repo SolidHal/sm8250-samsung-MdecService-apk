@@ -1,0 +1,18 @@
+Consentement à la collecte et à l’utilisation des informations personnelles
+
+Le présent Consentement à la collecte et à l’utilisation des informations personnelles décrit les informations nécessaires pour fournir les fonctionnalités de base de smartphone, telles que les mises à jour du SE ou les mises à jour logicielles pour les corrections de bogues, etc.
+
+1. Informations que nous collectons
+• Informations collectées : IMEI, informations sur les composants, informations sur le statut de l’appareil, nom du modèle, code client, enregistrement d’accès, version actuelle du logiciel de l’appareil, pays, informations sur l’opérateur commercial et journal d’erreurs de l’appareil (le cas échéant)
+
+2. Objectif de la collecte et utilisation
+• Fourniture de services
+Les informations personnelles sont utilisées pour fournir des corrections de bogues, des mises à jour et des améliorations des performances des logiciels installés pour les services, produits ou appareils, sans fil, sans que les clients n’aient besoin de consulter un centre de service, et pour fournir un service client, des services de maintenance et de protection des utilisateurs.
+• Améliorations des services, développement de nouveaux services et remise de messages, etc.
+Les informations personnelles sont utilisées pour récupérer et analyser les statistiques sur le statut de l’appareil et les journaux d’erreurs, pour améliorer/développer des services (produits) existants/nouveaux et pour envoyer des notifications ou des informations commerciales au moyen de messages Push.
+
+3. Période d’utilisation et de rétention
+En principe, vos informations personnelles devraient être détruites aussitôt que le but pour lequel elles ont été collectées et utilisées a été atteint.
+Cependant, si les dispositions des lois et réglementations concernées requièrent la conservation de vos informations personnelles par la Société, la Société pourra conserver ces dernières conformément aux lois et réglementations applicables.
+
+※ Vous pouvez refuser de consentir à la collecte et à l’utilisation des informations personnelles. Cependant, vous ne pourrez pas utiliser nos services, dans la mesure où ces informations nous sont nécessaires pour vous fournir les services.

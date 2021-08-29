@@ -1,0 +1,18 @@
+﻿Đồng ý cho thu thập và sử dụng thông tin cá nhân
+
+Tài liệu đồng ý cho thu thập và sử dụng thông tin cá nhân này mô tả những thông tin cần thiết để cung cấp các tính năng cơ bản của điện thoại thông minh như bản cập nhật Hệ điều hành hoặc bản cập nhật phần mềm cho các bản vá lỗi, v.v.
+
+1. Thông tin chúng tôi thu thập
+• Thông tin cần thu thập: IMEI, thông tin về thành phần, thông tin tình trạng thiết bị, tên kiểu, mã khách hàng, hồ sơ truy cập, phiên bản phần mềm hiện tại của thiết bị, quốc gia, thông tin nhà điều hành kinh doanh và nhật ký lỗi của thiết bị (nếu có)
+
+2. Mục đích của việc thu thập và sử dụng
+• Cung cấp dịch vụ
+Thông tin cá nhân được sử dụng để cung cấp bản vá lỗi, bản cập nhật và cải tiến hiệu suất của phần mềm đã cài đặt đối với các dịch vụ, sản phẩm hoặc thiết bị không dây mà không cần khách hàng phải ghé vào một trung tâm dịch vụ và để cung cấp hỗ trợ khách hàng (CS), dịch vụ bảo trì và dịch vụ bảo vệ người dùng.
+• Cải tiến dịch vụ, phát triển dịch vụ mới và gửi tin nhắn, v.v.
+Thông tin cá nhân dùng để truy xuất và phân tích số liệu thống kê về tình trạng thiết bị và nhật ký lỗi, cải tiến/phát triển các dịch vụ (sản phẩm) hiện có/mới và gửi thông báo hoặc tài liệu quảng cáo thông qua các thông báo push.
+
+3. Thời gian sử dụng và lưu giữ
+Về nguyên tắc, chúng tôi sẽ hủy thông tin cá nhân của bạn ngay lập tức sau khi đã đạt được mục đích của việc thu thập và sử dụng thông tin.
+Tuy nhiên, nếu các điều khoản của pháp luật và quy định có liên quan yêu cầu Công ty giữ lại thông tin cá nhân của bạn thì Công ty có thể giữ lại thông tin cá nhân của bạn theo luật và quy định hiện hành.
+
+※ Bạn có thể từ chối đồng ý cho thu thập và sử dụng thông tin cá nhân, tuy nhiên bạn sẽ không thể sử dụng dịch vụ của chúng tôi bởi chúng tôi cần những thông tin đã chỉ rõ ở trên để cung cấp dịch vụ cho bạn.

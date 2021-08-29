@@ -1,0 +1,98 @@
+﻿Personvernmerknad for Call & Message Continuity
+
+Ikrafttredelsesdato: 30.03.2018
+
+Samsung Electronics (UK) Limited (“Samsung” eller “Vi”) og dets tilknyttede selskaper respekterer ditt behov for personvern. Personvernmerknaden gjelder for personlig informasjon som vi innhenter gjennom tjenesten Call & Message Continuity (“Tjenesten”). Den gjelder ikke informasjon som innhentes gjennom andre apper, nettsteder eller tjenester som Samsung eller dets tilknyttede selskaper leverer.
+
+Tjenesten er en kommunikasjonstjeneste for flere enheter. Tjenesten omfatter viderekobling av inn- og utgående anrop, anrops- og meldingshistorikk og synkronisering av meldinger mellom primærenheten din (f.eks. smarttelefonen din) og sekundærenheten(e) (f.eks. klokke, nettbrett, laptop osv.), slik at du kan motta innkommende anrop og lese meldinger på sekundærenheten(e) din(e) og foreta utgående anrop og sende nye meldinger ved hjelp av primærenheten din.
+
+For å bruke Tjenesten må du først logge på en Samsung account både på primærenheten din og sekundærenheten(e). Hvis sekundærenheten din er en klokke, må du først konfigurere en nettverkstjeneste ved å abonnere på et mobilabonnement via systemet til nettoperatøren din som tillater bruk av klokken med det vanlige telefonnummeret ditt. Hvis sekundærenheten din er et nettbrett som bare støtter data, må du først konfigurere en tilkobling til et Wi-Fi-nettverk eller til systemet som nettoperatøren din stiller til rådighet, som tillater bruk av nettbrettet. Personvernerklæringen vår på https://account.samsung.com/membership/pp (“Samsungs personvernerklæring”) vil gjelde din bruk av Samsung account og Call & Message Continuity. Personvernermerknaden gir ytterligere informasjon om hvordan dine personlige data brukes i forbindelse med tjenesten, og den bør leses i sammenheng med Samsungs personvernerklæring.
+
+I denne personvernmerknaden beskriver vi hvilken type informasjon som innhentes via tjenesten, hvordan vi bruker informasjonen, hvor lenge vi oppbevarer informasjonen, hvem vi videreformidler informasjonen til, og hvordan du kan påvirke vår bruk av informasjonen din og utøve rettighetene dine. Vi beskriver dessuten hvilke tiltak vi iverksetter for å sikre informasjonen, og hvordan du kan kontakte oss om personvernpraksisen vår. Samsung er behandlingsansvarlig for personlige data.
+
+Klikk på en av koblingene nedenfor for å gå til den angitte delen:
+
+•	Hvilken informasjon vi innhenter
+•	Hvordan vi bruker informasjonen vi innhenter
+•	Videreformidling av informasjon
+•	Lagring av personlige data
+•	Dine valg
+•	Rettighetene dine
+•	Hvordan vi beskytter personlig informasjon
+•	Oppdateringer av personvernmerknaden
+•	Hvordan kontakte oss
+
+Hvilken informasjon vi innhenter
+
+Gjennom tjenesten innhenter vi informasjon om deg på ulike måter. Vi innhenter blant annet følgende typer personlig informasjon:
+
+•	Samsung account-informasjon. Vi innhenter informasjon knyttet til din Samsung account som brukes for å få tilgang til tjenesten, som navn, e-postadresse og Samsung account-ID.
+
+•	Samhandlinger for tjenesten. Vi innhenter informasjon som du utveksler gjennom din interaksjon med Tjenesten, inkludert informasjon om anropere og mottakere, informasjon om meldingsavsendere og -mottakere, innholdet i meldinger du sender og mottar, og anrops- og meldingshistorikk på smarttelefonapplikasjoner. I tillegg kan annen bruksinformasjon bli innhentet, som berøringssamhandlinger og andre inndata og informasjonen du mottar fra tjenesten (som respons og svar). Hvis du sender inn sensitive opplysninger til tjenesten (f.eks. helseopplysninger), som meldinger du sender eller mottar, som inneholder sensitive opplysninger, så vil også slike opplysninger bli innhentet og behandlet til formålene som er beskrevet nedenfor. Vi innhenter ikke aktivt slike opplysninger uten først å innhente ditt separate, eksplisitte samtykke, eller som påkrevd i henhold til gjeldende lov.
+
+•	Informasjon om enheter og apper. Vi innhenter informasjon ved hjelp av automatiserte metoder om aktiverte enheter for tjenesten du har, som mobilnummer, MAC-adresse for nettverk, enhetsidentifikatorer og andre unike identifikatorer.
+
+Hvordan vi bruker informasjonen vi innhenter
+Vi bruker informasjonen vi innhenter gjennom tjenesten, til å:
+
+•	identifisere og godkjenne deg, slik at du kan bruke en bestemt tjeneste,
+•	levere Tjenesten til deg, for eksempel viderekobling av inn- og utgående anrop mellom enhetene dine og synkronisering av anropsloggen din og meldinger på enhetene dine (smarttelefon, klokke, nettbrett, laptop osv.),
+•	forbedre og tilpasse din opplevelse med tjenesten,
+•	svare på forespørsler og spørsmål fra deg,
+•	drive, evaluere og forbedre virksomheten vår (inkludert å utvikle nye produkter, utvide og forbedre produktene og tjenestene våre, håndtere kommunikasjon, analysere produktene, kundebasen og tjenestene våre, gjennomføre markedsundersøkelser, utføre dataanalyser samt føre og revidere regnskaper og utføre andre interne funksjoner),
+•	gjøre det mulig for deg å samhandle med og bruke visse apper og tjenester fra tredjeparter,
+•	beskytte mot, identifisere og hindre svindel, andre kriminelle handlinger, krav og annet erstatningsansvar og
+•	etterleve og håndheve gjeldende rettslige krav, relevante bransjestandarder og våre egne retningslinjer, blant annet denne personvernmerknaden og Samsungs personvernerklæring.
+
+Gjennom tjenesten kan vi innhente personlig informasjon om nettaktivitetene dine på aktiverte enheter for tjenesten over tid og på tvers av apper knyttet til anrops- og meldingstjenester for smarttelefon. Vi kan bruke analysetjenester fra tredjeparter i tjenesten. Leverandørene som utfører slike analysetjenester, hjelper oss med å analysere din bruk av tjenesten og forbedre tjenesten. Informasjonen vi innhenter, kan bli videreformidlet til eller bli innhentet direkte av slike leverandører eller andre relevante tredjeparter som bruker informasjonen til for eksempel å evaluere tjenesten, bidra til å levere tjenesten og feilsøke tekniske problemer.
+
+
+Samsung behandler personlige data til formålene som er beskrevet ovenfor. Samsungs rettslige grunnlag for å behandle personlige data omfatter behandling som er: nødvendig for å oppfylle avtalen mellom deg og Samsung (for eksempel for å levere tjenesten til deg og for å identifisere og godkjenne deg, slik at du kan bruke en bestemt tjeneste), nødvendig for å etterkomme rettslige krav (for eksempel for å etterkomme regnskapsregler og for lovpålagt formidling av opplysninger til rettshåndhevende myndigheter), nødvendig ut fra Samsungs legitime interesser (for eksempel for å håndtere vår relasjon til deg og forbedre tjenesten), og på grunnlag av innhenting av ditt separate samtykke (for eksempel til å kommunisere med deg om produktene og tjenestene våre og gi deg markedsføringsinformasjon), som når som helst kan trekkes tilbake ved å kontakte oss slik det er beskrevet i punktet Hvordan kontakte oss i denne personvernmerknaden, uten at det påvirker lovligheten av behandling basert på samtykket før det ble trukket tilbake.
+
+Det er et krav at du gir oss personlige data til behandling som beskrevet ovenfor, dersom du skal kunne inngå en avtale. Dersom du ikke gir oss personlige data, kan vi ikke levere alle funksjoner som er tilgjengelige gjennom tjenesten.
+
+Videreformidling av informasjon
+
+Vi videreformidler ikke personlig informasjon om deg via tjenesten, med unntak av det som er beskrevet i denne personvernmerknaden. Et begrenset antall medlemmer i tjenesten hos Samsung kan få tilgang til eller på annen måte behandle personlige data som del av deres arbeidsoppgaver eller kontraktsforpliktelser. Vi kan videreformidle den personlige informasjonen din til våre datterselskaper og tilknyttede selskaper og til tjenesteleverandører som utfører tjenester for oss. Vi gir ikke tjenesteleverandørene våre tillatelse til å bruke eller videreformidle informasjon, med mindre det er nødvendig for å utføre tjenester på vegne av oss eller for å etterkomme rettslige krav.
+
+Noen av disse medarbeiderne, tilknyttede selskapene og tredjeparts tjenesteleverandørene befinner seg utenfor EØS, også i land som kanskje ikke har samme databeskyttelsesnivå som hjemlandet til kundene våre, inkludert, uten begrensning, for eksempel Sør-Korea, USA og Japan. Samsung setter i verk tiltak for å sikre at slike mottakere blir bundet av kravene om taushetsplikt, og Samsung gjennomfører slike tiltak i form av standardklausuler om beskyttelse av personlig informasjon i kontrakter for å sikre at alle personlige data som overføres, beskyttes. Du kan få et eksemplar av disse klausulene ved å kontakte oss slik det er beskrevet i punktet Hvordan kontakte oss i denne personvernmerknaden.
+
+Samsung, våre datterselskaper og tilknyttede selskaper samt våre tredjeparts tjenesteleverandører kan også videreformidle informasjon om deg (1) dersom vi gjennom lov eller rettslig avgjørelse er forpliktet til det (for eksempel etter kjennelser eller vitneinnkallelser), (2) som svar på forespørsler fra myndighetsorganer, for eksempel rettshåndhevende myndigheter, (3) for å etablere, utøve eller forsvare våre juridiske rettigheter, (4) når vi finner at videreformidling er nødvendig eller hensiktsmessig for å hindre fysisk eller annen skade eller økonomisk tap, (5) i forbindelse med etterforskning av mistenkte eller faktiske ulovlige handlinger, (6) dersom vi selger eller overfører hele eller deler av virksomheten og eiendelene våre (inkludert ved fusjon, oppkjøp, salg, overføring, reorganisering, oppløsning eller likvidasjon), eller (7) etter separat samtykke fra deg.
+
+
+Lagring av personlige data
+
+Vi setter i verk nødvendige tiltak for å sikre at informasjon om deg bare lagres basert på følgende logikk:
+1. minst så lenge informasjonen brukes for å levere tjenesten til deg,
+2. i overensstemmelse med loven, en kontrakt eller med hensyn til våre lovpålagte forpliktelser eller
+3. bare så lenge det er nødvendig for behandlingen av formålet den er innhentet for, eller lenger dersom kontraktsforpliktelser, gjeldende lover og regler eller statistiske formål krever det, og for å sikre at informasjonen beskyttes gjennom egnede beskyttelsestiltak.
+
+Dine valg
+
+Vi gir deg visse valg i forbindelse med den personlige informasjonen vi innhenter om deg. Du kan endre valg, begrense mengden informasjon du får fra oss, eller sende inn en forespørsel ved å kontakte oss slik det er beskrevet i punktet Hvordan kontakte oss i denne personvernmerknaden.
+
+Ved å åpne “Ekstern tilkobling”-innstillingene på enheten finner du valgene som er tilgjengelige for deg når det gjelder din bruk av tjenesten. Vær oppmerksom på at du ikke vil kunne bruke alle funksjonene som er tilgjengelige gjennom tjenesten, dersom du nekter tjenesten å innhente eller videreformidle visse opplysninger.
+
+Rettighetene dine
+
+Du har rett til å be om detaljer om opplysningene vi har innhentet om deg, be oss om å rette unøyaktigheter i de gjeldende opplysningene, protestere mot eller be om begrensning av behandlingen og be om tilgang til, sletting eller flytting av opplysningene dine. I henhold til lovene i noen jurisdiksjoner kan vi avslå å behandle forespørsler som i urimelig grad gjentar seg, som trenger uforholdsmessig teknisk innsats, som setter andres personvern i fare, som i særlig grad er upraktiske, eller som ikke er hjemlet i lokale lover og regler. Dersom du ønsker å be om tilgang til opplysninger om deg, kan du kontakte oss ved å gå til Personvernsupport-siden (https://www.samsung.com/request-desk).
+
+Hvis du ber om å få slettet personlig informasjon, godtar du at du kanskje ikke vil få tilgang til eller kan bruke forretningstjenestene, og at den resterende personlige informasjonen fortsatt kan lagres i Samsungs registre og arkiver en stund i overensstemmelse med gjeldende lov, men Samsung bruker ikke den gjeldende informasjonen til kommersielle formål. Du er innforstått med at Samsung, til tross for forespørselen din om sletting, forbeholder seg retten til å oppbevare din personlige informasjon, eller en relevant del av den, i samsvar med våre retningslinjer for oppbevaring av personlig informasjon og gjeldende lover hvis Samsung har sperret, begrenset eller stoppet din tilgang til nettstedet fordi du har overtrådt Samsungs tjenestevilkår, når det er nødvendig for å beskytte Samsung eller noen av våre respektive tilknyttede enheter, forretningspartnere, medarbeidere eller kunders rettigheter, eiendeler eller sikkerhet.
+
+Hvordan vi beskytter personlig informasjon
+
+Vi anvender nødvendige administrative, tekniske og fysiske tiltak for å beskytte personlig informasjon som vi innhenter gjennom tjenesten, mot utilsiktet, ulovlig eller uautorisert ødeleggelse, påvirkning, tap, endring, tilgang, videreformidling eller bruk. Samsung tar dessuten i bruk hensiktsmessige prosedyrer for å sikre at slik informasjon er pålitelig ut fra hva den skal brukes til, og at den er nøyaktig, fullstendig og oppdatert.
+
+Oppdateringer av personvernmerknaden
+
+Personvernmerknaden kan fra tid til annen bli oppdatert slik at den gjenspeiler endringer i praksisen vår når det gjelder personlig informasjon knyttet til tjenesten, eller endringer i gjeldende lover og regler. Vi kommer til å legge ut en melding på nettstedet vårt og/eller enheten din på forhånd for å varsle deg om viktige endringer i personvernmerknaden vår. Den seneste oppdateringsdatoen vil være angitt øverst i meldingen.
+
+Hvordan kontakte oss
+
+Hvis du har spesifikke spørsmål, kan du kontakte oss (behandlingsansvarlig i EU) på:
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+Du kan også kontakte oss ved å besøke Personvernsupport-siden (https://www.samsung.com/request-desk).
+
+Du kan sende en klage til et tilsynsorgan dersom du mener at behandlingen vår av de personlige dataene dine er i strid med gjeldende lovgivning.

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.cmcsettings.view.base.preferences.QrCodeGeneratorPreference android:key="qr_code_generator_pref" android:order="1" />
+</PreferenceScreen>

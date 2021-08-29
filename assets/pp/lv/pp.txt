@@ -1,0 +1,98 @@
+﻿Paziņojums par konfidencialitāti attiecībā uz Call & Message Continuity
+
+Spēkā stāšanās datums: 30.03.2018.
+
+Samsung Electronics (UK) Limited (“Samsung” jeb “mēs”) un ar mums saistītie uzņēmumi respektē jūsu bažas par konfidencialitāti. Šis Paziņojums par konfidencialitāti attiecas uz personas datiem, kurus mēs ievācam, izmantojot Call & Message Continuity (turpmāk tekstā “Pakalpojums”). Tas neattiecas uz datiem, kas iegūti no citām lietotnēm, vietnēm vai pakalpojumiem, ko piedāvā Samsung vai ar to saistītās iestādes.
+
+Šis Pakalpojums nodrošina sakarus starp vairākām ierīcēm. Tā funkcijas ietver ienākošo un izejošo zvanu translāciju, zvanu un ziņu vēsturi, kā arī ziņu sinhronizāciju starp primāro ierīci (piemēram, viedtālruni) un sekundāro(-ajām) ierīci(-ēm) (piem., pulksteni, planšetdatoru, klēpjdatoru u.c.), lai jūs varētu saņemt ienākošos zvanus un lasīt ziņojumus sekundārajā(-ās) ierīcē (-ēs), kā arī veikt izejošos zvanus un nosūtīt jaunas ziņas, izmantojot primāro ierīci.
+
+Lai lietotu šo Pakalpojumu, vispirms ir jāpierakstās pakalpojumā Samsung account gan no primārās ierīces, gan no sekundārās(-ajām) ierīces(-ēm). Ja jūsu sekundārā ierīce ir pulkstenis, jāiestata tīkla pakalpojums pakalpojumu sniedzēja sistēmā, kuru nodrošina mobilā tīkla operators, veicot mobilā datu plāna abonēšanu, kas ļauj pulksteni izmantot ar savu parasto tālruņa numuru. Ja jūsu sekundārā ierīce ir planšetdators, kas atbalsta tikai datus, ir jāiestata savienojums ar Wi-Fi, tīklu vai ar sistēmu, kuru nodrošina tīkla operators, kas ļauj izmantot planšetdatoru. Mūsu konfidencialitātes politika, kas atrodama vietnē https://account.samsung.com/membership/pp (“Samsung konfidencialitātes politika”), attiecas uz jūsu Samsung account un pakalpojumu Call & Message Continuity. Šis Paziņojums par konfidencialitāti sniedz papildu informāciju par to, kā jūsu personas dati tiek lietoti saistībā ar šo Pakalpojumu, un tie ir jālasa kontekstā ar Samsung Konfidencialitātes politiku.
+
+Šajā Paziņojumā par konfidencialitāti mēs raksturojam informācijas veidus attiecībā uz informāciju, kas iegūta, izmantojot Pakalpojumu, aprakstām to, kā mēs varam izmantot informāciju, cik ilgi mēs varam saglabāt informāciju, ar ko mēs to varam kopīgot, kā arī iepazīstinām ar jums pieejamajām izvēlēm attiecībā uz informācijas izmantošanu un jūsu tiesību lietošanu. Mēs arī aprakstām pasākumus, kurus mēs veicam, lai aizsargātu datus, un informējam jūs, kā sazināties ar mums jautājumos par mūsu konfidencialitātes praksi. Datu kontrolieris attiecībā uz personas datu apstrādi ir uzņēmums Samsung.
+
+Lai izvēlētos sarakstā esošās sadaļas, noklikšķiniet uz šīm saitēm:
+
+•	Dati, kurus mēs iegūstam
+•	Iegūto datu izmantošana
+•	Datu kopīgošana
+•	Personas datu saglabāšana
+•	Jūsu izvēles
+•	Jūsu tiesības
+•	Personas datu aizsardzība
+•	Atjauninājumi mūsu Paziņojumam par konfidencialitāti
+•	Kā sazināties ar mums
+
+Dati, kurus mēs iegūstam
+
+Izmantojot Pakalpojumu, mēs dažādos veidos iegūstam informāciju par jums. Mūsu iegūto personas datu veidi ietver:
+
+•	Samsung account informācija. Mēs apkopojam informāciju, kas saistīta ar jūsu Samsung account, kuru izmantojat, lai piekļūtu Pakalpojumam, piemēram, jūsu Samsung account identifikatoru.
+
+•	Pakalpojuma mijiedarbība. Mēs apkopojam informāciju, kuru jūs kopīgojat Pakalpojumā, tostarp informāciju par zvanītājiem un zvanu saņēmējiem, informāciju par ziņojumu sūtītājiem un saņēmējiem, ziņojumu saturu, kā arī viedtālruņa lietojumprogrammās esošo zvanu un ziņu vēsturi. Turklāt tiks apkopota arī informācija par lietošanu, piemēram, pieskāriena tipa mijiedarbības un citas ievades, kā arī informāciju, ko saņemat no Pakalpojuma (piemēram, atbildes reakcijas un atbildes). Ja jūs iesniedzat Pakalpojumā tādus datus kā ziņas, ko sūtāt vai saņemat, kas ir sensitīva rakstura (piemēram, datus par veselību), tie tiks apkopoti un apstrādāti tālāk izklāstītajiem mērķiem. Mēs neveiksim aktīvu tādu datu apkopošanu, kamēr nesaņemsim jūsu atsevišķu piekrišanu vai atbilstoši piemērojamajiem tiesību aktiem.
+
+•	Informācija par ierīci un programmu. Mēs automatizēti apkopojam informāciju par jūsu ierīcēm, kurām ir iespējots Pakalpojums, piemēram, informāciju par mobilā tālruņa numuru, tīkla MAC adresi, ierīces identifikatoriem un citiem unikāliem identifikatoriem.
+
+Iegūto datu izmantošana
+Mēs izmantojam informāciju, kuru mēs iegūstam, izmantojot Pakalpojumu:
+
+•	lai jūs identificētu un autentificētu un tādējādi ļautu jums izmantot noteiktu Pakalpojumu;
+•	lai nodrošinātu jums Pakalpojumu, piemēram, ienākošo un izejošo zvanu translāciju starp jūsu ierīcēm un zvanu vēstures un ziņojumu sinhronizāciju ierīcēs (viedtālrunī, pulkstenī, planšetdatorā, klēpjdatorā utt.);
+•	lai uzlabotu un pielāgotu jūsu pieredzi ar Pakalpojumu;
+•	lai atbildētu uz jūsu lūgumiem un pieprasījumiem;
+•	lai vadītu, novērtētu un uzlabotu savu uzņēmējdarbību (tostarp veicot jaunu produktu izstrādi, pilnveidojot un uzlabojot mūsu produktus un pakalpojumus, organizējot mūsu saziņu, analizējot mūsu produktus, klientu bāzi un pakalpojumus, veicot tirgus izpēti, veicot datu analīzi, kā arī izpildot grāmatvedības, revīzijas un citas iekšējās funkcijas);
+•	lai ļautu jums mijiedarboties ar trešo pušu lietotnēm un pakalpojumiem un tos izmantot;
+•	lai identificētu un novērstu krāpšanu un citas noziedzīgas darbības, veiktu attiecīgos aizsardzības pasākumus, ierosinātu prasības un īstenotu citas saistības;
+•	lai ievērotu un izpildītu spēkā esošās juridiskās prasības, attiecīgos nozares standartus un mūsu politiku, tostarp šo Paziņojumu par konfidencialitāti un Samsung konfidencialitātes politiku.
+
+Izmantojot Pakalpojumu, mēs varam apkopot personas datus par jūsu tiešsaistes darbībām ar ierīcēm, kurām ir iespējots Pakalpojums, laika gaitā, izmantojot lietotnes, kas saistītas ar viedtālruņa zvanu un ziņu pakalpojumiem. Mēs savos pakalpojumos varam izmantot trešo pušu analītikas pakalpojumus, kas iekļauti Pakalpojumā. Pakalpojumu sniedzēji, kuri pārvalda šos analītikas pakalpojumus, palīdz mums analizēt Pakalpojuma lietošanu un uzlabot Pakalpojumu. Mūsu iegūto informāciju var tiešā veidā atklāt vai saņemt tie pakalpojumu sniedzēji un citas attiecīgās trešās personas, kuras izmanto informāciju, piemēram, lai novērtētu Pakalpojuma lietošanu, palīdzētu nodrošināt Pakalpojumu un diagnosticētu tehniskas problēmas.
+
+
+Samsung apstrādā personas datus, lai sasniegtu iepriekš aprakstītos mērķus. Samsung juridiskais pamats apstrādāt personas datus ietver apstrādi, kas ir: nepieciešama, lai izpildītu līgumu starp jums un Samsung (piemēram, lai nodrošinātu jums Pakalpojumu un jūs identificētu un autentificētu, tādējādi ļaujot jums izmantot noteiktu pakalpojumu); nepieciešama, lai izpildītu spēkā esošās prasības (piemēram, lai ievērotu piemērojamos grāmatvedības noteikumus un sniegtu obligāto informāciju tiesībaizsardzības iestādēm); nepieciešama Samsung likumīgo interešu īstenošanā (piemēram, lai pārvaldītu mūsu attiecības ar jums un uzlabotu Pakalpojumu); un kas pamatojas uz atsevišķi saņemtu piekrišanu (piemēram, lai sazinātos ar jums saistībā ar mūsu produktiem un pakalpojumiem un sniegtu jums mārketinga informāciju), kuru pēc tam var atsaukt jebkurā laikā, sazinoties ar mums, kā norādīts šī Paziņojuma par konfidencialitāti sadaļā “Kā sazināties ar mums”, neietekmējot apstrādes likumību, pamatojoties uz piekrišanu pirms tās atsaukšanas.
+
+Jums ir jānoslēdz līgums un jāiesniedz mums personas datus apstrādei, kā aprakstīts iepriekš. Ja jūs neiesniegsiet mums personas datus, mēs nevarēsim jums nodrošināt visas funkcijas, kas pieejamas, izmantojot Pakalpojumu.
+
+Datu kopīgošana
+
+Mēs neizpaužam personas datus par jums, izmantojot Pakalpojumu, izņemot gadījumus, kas aprakstīti šajā Paziņojumā par konfidencialitāti. Ierobežots Pakalpojuma sniegšanas Samsung komandas locekļu loks var piekļūt un citādi apstrādāt personas datus saistībā ar viņu darba pienākumiem vai līgumsaistībām. Mēs varam kopīgot jūsu personas datus ar mūsu meitasuzņēmumiem un filiālēm, kā arī ar pakalpojumu sniedzējiem, kuri mums sniedz pakalpojumus. Mēs neatļaujam saviem pakalpojumu sniedzējiem izmantot vai izpaust informāciju, izņemot to, kas nepieciešama, lai veiktu pakalpojumus mūsu vārdā, vai lai izpildītu likumīgās prasības.
+
+Daži no šiem darbiniekiem, filiālēm un trešo pušu pakalpojumu sniedzējiem darbojas ārpus EEZ, tostarp valstīs, kuras var nenodrošināt tādu pašu datu aizsardzības līmeni, kādu nodrošina mūsu klientu mītnes valsts, tostarp, piemēram, Korejas Republika, Amerikas Savienotās Valstis un Japāna. Samsung veic atbilstošus pasākumus, lai nodrošinātu, ka šiem saņēmējiem ir pienākums ievērot konfidencialitāti, un Samsung īsteno tādus pasākumus kā standarta datu aizsardzības līguma klauzulas, lai nodrošinātu, ka visi nodotie personas dati tiek aizsargāti un atrodas drošībā. Šo klauzulu kopiju var iegūt, sazinoties ar mums, kā norādīts šī Paziņojuma par konfidencialitāti sadaļā “Kā sazināties ar mums”.
+
+Samsung, mūsu meitasuzņēmumi un filiāles, kā arī mūsu trešo pušu pakalpojumu sniedzēji arī var izpaust informāciju par jums 1), ja mums tas ir jādara saskaņā ar likumu vai tiesas procesu (piemēram, tiesas rīkojumu vai tiesas pavēli); 2) atbildot uz valdības aģentūru, piemēram, tiesībaizsardzības iestāžu, pieprasījumiem; 3) nosakot, īstenojot vai aizstāvot mūsu likumīgās tiesības; 4), ja mēs uzskatām, ka informācijas izpaušana ir nepieciešama vai piemērota, lai novērstu fizisku vai cita veida kaitējumu vai finansiālus zaudējumus; 5) saistībā ar aizdomās turēto vai faktisko nelikumīgo darbību izmeklēšanu; 6) gadījumā, ja mēs pārdodam vai nododam visu vai daļu no mūsu uzņēmējdarbības vai aktīviem (tostarp apvienošanās, iegādes, pārdošanas, nodošanas, reorganizācijas, bankrota vai likvidācijas gadījumā); vai 7) citā nolūkā ar jūsu atsevišķu piekrišanu.
+
+
+Personas datu saglabāšana
+
+Mēs veicam atbilstošas darbības, lai nodrošinātu, ka informācija par jums tiek glabāta, tikai pamatojoties uz šādu loģiku:
+1. Vismaz laika posmā, kurā šī informācija ir izmantota, lai nodrošinātu jums Pakalpojumu.
+2. Saskaņā ar likumu, līgumu, vai mūsu likumā noteiktajām saistībām; vai
+3. Tikai tik ilgi, cik ir nepieciešams tās apkopošanas mērķa realizācijai vai ilgāk, ja tiek prasīts saskaņā ar līgumu vai piemērojamo likumu vai statistikas vajadzībām atkarībā no atbilstošajiem aizsardzības līdzekļiem.
+
+Jūsu izvēles
+
+Mēs piedāvājam jums noteiktas izvēles saistībā ar personas datiem, kurus mēs iegūstam par jums. Lai atjauninātu savas izvēles, ierobežotu no mums saņemamos paziņojumus vai iesniegtu pieprasījumu, lūdzu, sazinieties ar mums, kā norādīts šī Paziņojuma par konfidencialitāti sadaļā “Kā sazināties ar mums”.
+
+Lai izvēlētos iespējas, kuras jums varētu būt pieejamas saistībā ar Pakalpojuma lietošanu, lūdzu, apmeklējiet ierīcē pieejamos sistēmas iestatījumus “Attālais savienojums”. Lūdzu, ņemiet vērā, ka, ja jūs neatļausiet Pakalpojumu, jūs, iespējams, nevarēsit izmantot visas funkcijas, kas pieejamas, izmantojot Pakalpojumu.
+
+Jūsu tiesības
+
+Jums ir tiesības pieprasīt sīkāku informāciju par datiem, ko mēs apkopojam par jums, un pieprasīt labot neprecizitātes šajos datos, apstrīdēt vai pieprasīt apstrādes ierobežojumus, pieprasīt piekļuvi saviem datiem, dzēst vai pārnest savus datus. Saskaņā ar dažu jurisdikciju likumiem mēs varam atteikties apstrādāt pieprasījumus, kuri tiek nosūtīti nepamatoti bieži, pieprasa nesamērīgas tehniskās pūles, apdraud citu personu konfidencialitāti, ir ļoti nepraktiski vai piekļuve tiem netiek prasīta saskaņā ar vietējo likumu. Ja vēlaties pieprasīt piekļuvi saviem datiem, sazinieties ar mums, apmeklējot Konfidencialitātes atbalsta lapu (https://www.samsung.com/request-desk).
+
+Ja pieprasāt dzēst savus personas datus, jūs apzināties, ka var nebūt iespējams piekļūt vai izmantot komercpakalpojumus un ka daļa personas datu atbilstoši piemērojamajiem tiesību aktiem var kādu laiku palikt Samsung reģistros vai arhīvos, bet Samsung šo informāciju neizmantos komerciālos nolūkos. Jūs saprotat, ka, neskatoties uz jūsu dzēšanas pieprasījumu, saskaņā ar mūsu datu glabāšanas politiku un piemērojamajiem tiesību aktiem Samsung patur tiesības saglabāt jūsu personas datus vai to atbilstošu daļu, ja uzņēmums Samsung ir apturējis, ierobežojis vai pārtraucis jūsu piekļuvi tīmekļa vietnei Samsung pakalpojuma sniegšanas noteikumu pārkāpuma dēļ, ja ir nepieciešams aizsargāt Samsung, vai kāda saistītā uzņēmuma, biznesa partnera, darbinieka vai klienta tiesības, īpašumu vai drošību.
+
+Personas datu aizsardzība
+
+Mēs uzturam atbilstošus administratīvos, tehniskos un fiziskos aizsardzības līdzekļus, kas paredzēti, lai personas datus, ko mēs iegūstam, izmantojot Pakalpojumu, aizsargātu pret nejaušu, nelikumīgu vai neatļautu iznīcināšanu, traucējumiem, zudumu, pārveidošanu, piekļuvi, izpaušanu vai izmantošanu. Samsung arī izmanto pamatotas procedūras, kas palīdz nodrošināt, lai šādi dati atbilstu paredzētajam lietojumam un ir precīzi, pilnīgi un aktuāli.
+
+Atjauninājumi mūsu Paziņojumam par konfidencialitāti
+
+Šo Paziņojumu par konfidencialitāti var periodiski atjaunināt, lai atspoguļotu izmaiņas mūsu personas datu praksē attiecībā uz Pakalpojumu vai izmaiņām piemērojamajos tiesību aktos. Lai iepriekš informētu jūs par būtiskām izmaiņām mūsu Paziņojumā par konfidencialitāti, mēs ievietosim paziņojumu mūsu vietnē un/vai jūsu ierīcē, un paziņojuma augšdaļā norādīsim, kad tas pēdējo reizi tika atjaunināts.
+
+Kā sazināties ar mums
+
+Ja jums rodas jautājumi par saviem datiem, lūdzu, sazinieties ar mums (ES datu pārzini) vietnē:
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+Jūs varat arī sazināties ar mums, apmeklējot Konfidencialitātes atbalsta lapu (https://www.samsung.com/request-desk).
+
+Ja jūs uzskatāt, ka mūsu personas datu apstrāde pārkāpj piemērojamos tiesību aktus, jūs varat iesniegt sūdzību uzraudzības iestādei.

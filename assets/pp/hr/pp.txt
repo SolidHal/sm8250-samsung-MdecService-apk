@@ -1,0 +1,98 @@
+﻿Obavijest o privatnosti za uslugu Call & Message Continuity
+
+Datum stupanja na snagu: 30. 03. 2018.
+
+Tvrtka Samsung Electronics (UK) Limited („Samsung” ili „mi”) i njezina povezana društva uvažavaju vašu zabrinutost u vezi s pitanjima zaštite privatnosti. Ova Obavijest o privatnosti odnosi se na osobne podatke koje prikupljamo putem usluge Call & Message Continuity („Usluga”). Ne odnosi se na podatke koji se prikupljaju putem drugih aplikacija, web-mjesta niti usluga koje pružaju tvrtka Samsung ili njezine povezane pravne osobe.
+
+Usluga je komunikacijska usluga za više uređaja. Njezine značajke obuhvaćaju prosljeđivanje dolaznih i odlaznih poziva, povijest poziva i poruka te sinkronizaciju poruka između primarnog uređaja (npr. vašeg pametnog telefona) i sekundarnih uređaja (npr. vašeg sata, tableta, prijenosnog računala itd.) tako da možete primati dolazne pozive i čitati poruke na sekundarnim uređajima te upućivati izlazne pozive i slati nove poruke putem primarnog uređaja.
+
+Da biste upotrebljavali Uslugu, najprije se morate prijaviti na Samsung account na primarnom uređaju i sekundarnim uređajima. A ako je vaš sekundarni uređaj sat, morate postaviti mrežnu uslugu pretplaćivanjem na mobilnu podatkovnu tarifu putem sustava mrežnog operatera koji vam omogućuje upotrebu sata s vašim uobičajenim telefonskim brojem. Ako je vaš sekundarni uređaj tablet koji podržava samo podatkovnu vezu, morate postaviti vezu s Wi-Fi mrežom ili sustavom mrežnog operatera koja vam omogućuje upotrebu tableta. Na vašu upotrebu računa Samsung account i usluge Call & Message Continuity primjenjuju se naša Pravila privatnosti, koja su dostupna na adresi https://account.samsung.com/membership/pp („Pravila privatnosti tvrtke Samsung”). U ovoj se Obavijesti o privatnosti pružaju dodatne informacije o upotrebi vaših osobnih podataka u vezi s Uslugom i treba je pročitati zajedno s Pravilima privatnosti tvrtke Samsung.
+
+U ovoj Obavijesti o privatnosti opisujemo vrste podataka koji se prikupljaju putem Usluge, kako smijemo upotrijebiti te podatke, koliko ih dugo smijemo čuvati, s kime ih smijemo dijeliti i koje su vam mogućnosti dostupne u vezi s našom upotrebom podataka i na temelju vaših prava. Također opisujemo mjere koje poduzimamo za zaštitu tih podataka i kako nam se možete obratiti u vezi s našom praksom zaštite privatnosti. Tvrtka Samsung voditelj je obrade podataka pri obradi osobnih podataka.
+
+Kliknite na jednu od veza u nastavku kako biste prešli na odgovarajući odjeljak na popisu:
+
+•	Podaci koje pribavljamo
+•	Kako upotrebljavamo podatke koje pribavimo
+•	Dijeljenje podataka
+•	Čuvanje osobnih podataka
+•	Vaši izbori
+•	Vaša prava
+•	Kako štitimo osobne podatke
+•	Ažuriranja naše Obavijesti o privatnosti
+•	Kako nam se možete obratiti
+
+Podaci koje pribavljamo
+
+Putem Usluge prikupljamo podatke o vama na različite načine. Vrste osobnih podatka koje prikupljamo obuhvaćaju sljedeće:
+
+•	Podaci o računu Samsung account. Prikupljamo podatke povezane s vašim računom Samsung account koji se upotrebljava za pristup Usluzi, kao što su ime, adresa e-pošte i ID računa Samsung account.
+
+•	Usluga Interakcije. Prikupljamo podatke koje razmjenjujete s Uslugom, uključujući podatke o pozivateljima i primateljima poziva, podatke o pošiljateljima i primateljima poruka, sadržaj poruka koje šaljete i primate i povijest poziva i poruka u aplikacijama na pametnom telefonu. Dodatno prikupljamo i podatke o upotrebi, primjerice, dodirne interakcije i druge podatke te podatke koje dobivate od Usluge (kao što su reakcije i odgovori). Ako Usluzi pošaljete osjetljive podatke (npr. podatke o zdravstvenom stanju), kao što su poruke koje šaljete ili primate koje sadrže osjetljive podatke, oni će se također prikupljati i obrađivati u svrhe navedene u nastavku. Nećemo aktivno prikupljati takve podatke bez vaše prethodne zasebne izričite privole ili u skladu s primjenjivim zakonom.
+
+•	Podaci o uređaju i aplikacijama. Automatiziranim postupcima prikupljamo podatke o uređajima na kojima je omogućena Usluga, kao što su brojevi mobilnih uređaja, MAC adresa mreže, identifikatori uređaja i drugi jedinstveni identifikatori.
+
+Kako upotrebljavamo podatke koje pribavimo
+Podatke koje prikupimo putem Usluge upotrebljavamo u sljedeće svrhe:
+
+•	utvrđivanje i provjera vašeg identiteta kako biste mogli upotrebljavati određenu uslugu;
+•	pružanje Usluge, kao što je prosljeđivanje dolaznih i odlaznih poziva između uređaja i sinkronizacija povijesti poziva i poruka na vašim uređajima (pametni telefon, sat, tablet, prijenosno računalo itd.);
+•	poboljšanje i prilagodba iskustava rada s Uslugom;
+•	odgovaranje na vaše zahtjeve i upite;
+•	za vođenje, ocjenjivanje i unaprjeđenje našeg poslovanja (uključujući razvoj novih proizvoda, unaprjeđenje i poboljšanje naših proizvoda i usluga, upravljanje našom poslovnom komunikacijom, analizu naših proizvoda, baze korisnika i usluga, provođenje istraživanja tržišta, obavljanje analize podataka te obavljanje računovodstvenih, revizijskih i drugih internih poslova);
+•	omogućivanje upotrebe određenih aplikacija i usluga trećih strana i interakcija s njima
+•	za otkrivanje, sprječavanje i zaštitu od prijevara i drugih kriminalnih aktivnosti, potraživanja i drugih obveza; te
+•	za poštovanje i provođenje važećih zakonskih obveza, relevantnih industrijskih normi i naših pravila, uključujući ovu Obavijest o privatnosti i Pravila privatnosti tvrtke Samsung.
+
+Putem Usluga možemo prikupljati osobne podatke o vašim internetskim aktivnostima na uređajima s omogućenom Uslugom te u aplikacijama koje se odnose na usluge poziva i poruka na pametnim telefonima. U našoj Usluzi možemo upotrebljavati usluge analitike trećih strana. Davatelji tih usluga analitike pomažu nam u analizi vaše upotrebe Usluge i poboljšanju Usluge. Podatke koje prikupljamo možemo otkriti tim davateljima usluga i drugim relevantnim trećim stranama ili ih oni mogu izravno prikupiti te upotrijebiti za, primjerice, procjenu upotrebe Usluge, pomoć u pružanju Usluge i dijagnostiku tehničkih poteškoća.
+
+
+Samsung obrađuje osobne podatke u prethodno opisane svrhe. Samsungova pravna osnova za obradu osobnih podataka obuhvaća obradu koja je: nužna za izvršavanje ugovora između vas i tvrtke Samsung (npr. za pružanje Usluge te utvrđivanje i provjeru vašeg identiteta kako biste mogli upotrebljavati određene usluge); nužna za ispunjavanje zakonskih obveza (npr. za postupanje u skladu s važećim računovodstvenim pravilima i za obvezno otkrivanje podatka pravosudnim tijelima), nužna za Samsungove zakonom zaštićene interese (npr. za reguliranje našeg odnosa s vama i za poboljšanje Usluge); i koja se temelji na dobivanju zasebnog pristanka naših korisnika (npr. da bismo s vama komunicirali o svojim proizvodima i uslugama i pružali vam marketinške informacije), koji se kasnije u svakom trenutku može povući tako da nam se obratite na način određen u odjeljku Kako nam se možete obratiti ove Obavijesti o privatnosti bez utjecaja na zakonitost obrade koja se temelji na pristanku prije njegova povlačenja.
+
+Obvezni ste, kao preduvjet za sklapanje ugovora, pružiti nam osobne podatke za obradu na prethodno opisan način. Ako nam ne pružite osobne podatke, nećemo vam moći pružiti sve značajke dostupne putem Usluge.
+
+Dijeljenje podataka
+
+Putem Usluge ne otkrivamo osobne podatke o vama, osim sukladno ovoj Obavijesti o privatnosti. Ograničen broj članova tima Usluge iz tvrtke Samsung može pristupati osobnim podacima i na drugi ih način obrađivati u sklopu svojih poslovnih zadataka ili ugovornih obveza. Vaše osobne podatke možemo dijeliti sa svojim podružnicama i povezanim tvrtkama te s davateljima usluga koji nam pružaju usluge. Svojim davateljima usluga ne dajemo ovlasti za upotrebu ili otkrivanje podataka osim u onoj mjeri u kojoj je to nužno za pružanje usluga u naše ime ili ispunjavanje zakonskih obveza.
+
+Neki od tih zaposlenika, povezanih društava i davatelja usluga treće strane nalaze se izvan EGP-a, uključujući zemlje koje ne mogu pružati istu razinu zaštite podataka kao zemlja prebivališta naših klijenata, uključujući između ostalog Republiku Koreju, Sjedinjene Američke Države i Japan. Tvrtka Samsung poduzima odgovarajuće korake kako bi osigurala da su ti primatelji obvezani čuvati povjerljivost podataka i Samsung primjenjuje mjere kao što su standardne ugovorne odredbe o zaštiti podatka kojima se osigurava da svi preneseni osobni podaci ostanu zaštićeni i sigurni. Da biste dobili primjerak tih odredbi, obratite nam se na način koji je naveden u odjeljku Kako nam se možete obratiti ove Obavijesti o privatnosti.
+
+Tvrtka Samsung, naše podružnice i povezana društva i naši davatelji usluga treće strane također mogu otkriti podatke o vama (1) ako nas na to obvezuje zakon ili pravni postupak (npr. sudski nalog ili sudski poziv), (2) ako to zahtijevaju tijela državne uprave, kao što su pravosudna tijela, (3) radi uspostave, ostvarivanja ili obrane svojih zakonskih prava, (4) kada smatramo da je otkrivanje nužno ili prikladno radi sprječavanja tjelesnih ozljeda ili druge štete ili pak financijskih gubitaka, (5) u vezi s istragom mogućih ili stvarnih nezakonitih radnji, (6) u slučaju da prodamo ili prenesemo cijelo svoje poslovanje ili imovinu ili njihov dio (uključujući u slučaju udruživanja, pripajanja, prodaje, prijenosa, reorganizacije, raspuštanja ili likvidacije), ili (7) u drugim slučajevima uz vaš pristanak.
+
+
+Čuvanje osobnih podataka
+
+Poduzimamo odgovarajuće korake kako bismo osigurali da se podaci o vama čuvaju isključivo pod sljedećim uvjetima:
+1. podaci se čuvaju minimalno onoliko dugo koliko traje upotreba podataka u svrhu pružanja Usluge;
+2. onoliko dugo koliko je to nužno u skladu sa zakonom, ugovorom ili u vezi s našim zakonskim obvezama; ili
+3. podaci se čuvaju onoliko dugo koliko je to neophodno u svrhu radi koje se prikupljaju, obrađuju ili dulje ako je to potrebno na temelju bilo kojeg ugovora, propisano mjerodavnim zakonom ili u statističke svrhe, uz primjenu odgovarajućih zaštitnih mjera.
+
+Vaši izbori
+
+Nudimo vam određene izbore u vezi s osobnim podacima koje od vas prikupljamo. Da biste ažurirali svoje preferencije, ograničili obavijesti koje primate od nas ili nam poslali zahtjev, obratite nam se na način naveden u odjeljku Kako nam se možete obratiti ove Obavijesti o privatnosti.
+
+Izbore koji su vam dostupni u vezi s upotrebom Usluge pronaći ćete u postavkama aplikacije „Udaljena veza” na svojem uređaju. Napominjemo da ako odbijete dopustiti Usluzi prikupljanje ili dijeljenje određenih podataka, možda nećete moći upotrebljavati sve značajke dostupne putem Usluge.
+
+Vaša prava
+
+Imate pravo zahtijevati pojedinosti u vezi s podacima koje prikupljamo o vama i zatražiti od nas da ispravimo netočnosti u tim podacima, usprotiviti se obradi ili zatražiti zabranu obrade svojih podataka te zatražiti pristup svojim podacima, njihovo brisanje ili prijenos. U skladu sa zakonima u nekim državama možemo odbiti obraditi zahtjeve koji su nerazumno repetitivni, zahtijevaju neproporcionalan tehnički napor, ugrožavaju privatnost drugih, iznimno su nepraktični ili za koje pristup nije na drugi način propisan lokalnim zakonom. Ako želite uputiti zahtjev za pristup svojim podacima, možete nam se obratiti tako da posjetite našu stranicu podrške privatnosti (https://www.samsung.com/request-desk).
+
+Ako zatražite brisanje osobnih podataka, prihvaćate da možda nećete moći pristupiti poslovnim uslugama ili ih upotrebljavati i da preostali osobni podaci mogu neko vrijeme ostati u evidenciji i arhivama tvrtke Samsung, u skladu s važećim zakonom, ali tvrtka Samsung takve podatke neće upotrebljavati u komercijalne svrhe. Svjesni ste da unatoč zahtjevu za brisanje tvrtka Samsung zadržava pravo na zadržavanje vaših osobnih podataka ili njihova odgovarajućeg dijela, u skladu s našim pravilima o čuvanju podataka i primjenjivim zakonima ako tvrtka Samsung obustavi, ograniči ili prekine vaš pristup web-mjestu zbog kršenja Uvjeta korištenja tvrtke Samsung kada je to potrebno kako bi se zaštitila prava, vlasništvo ili sigurnost tvrtke Samsung ili bilo kojeg našeg odgovarajućeg povezanog društva, poslovnog partnera, zaposlenika ili klijenta.
+
+Kako štitimo osobne podatke
+
+Održavamo odgovarajuće administrativne, tehničke i fizičke zaštitne mjere osmišljene za zaštitu osobnih podataka koje prikupimo putem Usluge od slučajnog, nezakonitog ili neovlaštenog uništavanja, povrede, gubitka, preinake, pristupa, otkrivanja ili upotrebe. Samsung održava i razumne postupke kojima se osigurava pouzdanost podataka za predviđenu upotrebu te njihova točnost, potpunost i ažurnost.
+
+Ažuriranja naše Obavijesti o privatnosti
+
+Ova Obavijest o privatnosti može se povremeno ažurirati kako bi obuhvatila izmjene naših praksi obrade osobnih podataka u vezi s Uslugom ili izmjene važećih zakona. Na našem web-mjestu i/ili vašem uređaju unaprijed ćemo vas obavijestiti o bitnim izmjenama Obavijesti o privatnosti i na početku obavijesti naznačiti kada je zadnji put ažurirana.
+
+Kako nam se možete obratiti
+
+Ako imate posebna pitanja, obratite nam se (voditelju obrade podataka EU-a) na adresu:
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+Možete nam se obratiti i tako da posjetite našu stranicu podrške privatnosti (https://www.samsung.com/request-desk).
+
+Ako smatrate da naša obrada vaših osobnih podataka nije u skladu s primjenjivim zakonom, možete podnijeti pritužbu nadležnom tijelu.

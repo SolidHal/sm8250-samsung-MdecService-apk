@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="@color/pp_contents_text_color"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="false">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/about_page_tnc_pp_oslicences_button_text_color" />
+            <corners android:radius="@dimen/bottom_button_radius" />
+        </shape>
+    </item>
+</ripple>

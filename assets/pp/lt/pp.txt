@@ -1,0 +1,98 @@
+﻿Paslaugos „Call & Message Continuity“ privatumo pranešimas
+
+Įsigaliojimo data: 2018-03-30
+
+„Samsung Electronics (UK) Limited“ (toliau – Samsung arba mes) ir jos susijusios įmonės gerbia jūsų susirūpinimą privatumu. Šis privatumo pranešimas taikomas asmeninei informacijai, kurią renkame teikdami paslaugą „Call & Message Continuity“ (toliau – Paslauga). Jis netaikomas informacijai, kurią renka kitos programos, interneto svetainės arba paslaugos, teikiamos bendrovės „Samsung“ arba su ja susijusių subjektų.
+
+Paslauga – tai ryšio paslauga, skirta naudoti keliuose įrenginiuose. Į ją įeina: įeinamųjų ir išeinamųjų skambučių perdavimas, skambučių ir žinučių istorija, žinučių sinchronizavimas tarp pagrindinio įrenginio (pvz., išmaniojo telefono) ir papildomo įrenginio ar įrenginių (pvz., laikrodžio, planšetinio ar nešiojamojo kompiuterio ir pan.), kad galėtumėte gauti įeinamuosius skambučius ir perskaityti žinutes papildomame (-uose) įrenginyje (-iuose), o skambinti ir siųsti naujas žinutes – naudodami pagrindinį įrenginį.
+
+Norėdami naudotis Paslauga pirmiausia turite prisijungti prie „Samsung account“ tiek pagrindiniame, tiek papildomame (-uose) įrenginyje (-iuose). Jei jūsų papildomas įrenginys yra laikrodis, jame turite sukonfigūruoti tinklo paslaugą, tam užsiprenumeruodami mobiliojo ryšio duomenų planą tinklo operatoriaus sistemoje; tada galėsite naudoti laikrodį su įprastu telefono numeriu. Jei jūsų papildomas įrenginys yra planšetinis kompiuteris, kuris palaiko tik duomenų perdavimą, jame turite sukonfigūruoti ryšį su „Wi-Fi“ tinklu arba su jūsų planšetinį kompiuterį palaikančio tinklo operatoriaus sistema. Jums naudojantis „Samsung account“ ir paslauga „Call & Message Continuity“ taikoma mūsų Privatumo politika, pateikta adresu https://account.samsung.com/membership/pp (toliau – „Samsung“ privatumo politika). Šiame privatumo pranešime pateikiama daugiau informacijos, kaip naudojami su Paslauga susiję jūsų asmens duomenys; jį reikia skaityti kartu su „Samsung“ privatumo politika.
+
+Šiame privatumo pranešime aprašome, kokių tipų informaciją renkame naudojantis Paslauga, kaip tokią informaciją naudojame, kiek laiko ją saugome, kam galime ją atskleisti ir kaip galite daryti įtaką tokios informacijos naudojimui bei pasinaudoti savo teisėmis. Taip pat aprašome priemones, kurių imamės informacijai apsaugoti, ir nurodome, kaip galite susisiekti su mumis dėl mūsų privatumo praktikos. Asmens duomenis tvarkanti duomenų valdytoja yra bendrovė „Samsung“.
+
+Jei norite atidaryti kurį nors iš toliau pateiktų skyrių, spustelėkite jo nuorodą:
+
+•	Mūsų gaunama informacija
+•	Kaip naudojame gautą informaciją
+•	Dalijimasis informacija
+•	Asmens duomenų saugojimas
+•	Jūsų pasirinkimo galimybės
+•	Jūsų teisės
+•	Kaip saugome asmeninę informaciją
+•	Mūsų privatumo pranešimo atnaujinimai
+•	Kaip susisiekti su mumis
+
+Mūsų gaunama informacija
+
+Kai naudojatės Paslauga, informaciją apie jus gauname įvairiais būdais. Toliau nurodyti kai kurie mūsų gaunamos asmeninės informacijos tipai.
+
+•	„Samsung account“ informacija. Renkame informaciją, susijusią su jūsų „Samsung account“, kuria naudodamiesi pasiekiate Paslaugą, pvz., jūsų vardą ir pavardę, el. pašto adresą ir „Samsung account“ ID.
+
+•	Naudojantis Paslauga atliekami veiksmai. Renkame informaciją, kuria keičiatės naudodamiesi Paslauga, įskaitant informaciją apie skambintojus ir skambučių gavėjus, žinutės siuntėjus ir gavėjus, siunčiamų ir gaunamų žinučių turinį bei jūsų skambučių ir žinučių istoriją išmaniojo telefono programose. Be to, bus renkama ir kita naudojimo informacija, pavyzdžiui, veiksmai liečiant ir kitos įvestys, bei informacija, kurią gaunate iš Paslaugos (pavyzdžiui, atsakymai). Jei į Paslaugą pateiksite informaciją, kuri yra neskelbtino pobūdžio (pvz., informaciją apie sveikatą), pavyzdžiui, gaunamas ar siunčiamas žinutes, kuriose yra neskelbtino pobūdžio informacijos, ji taip pat bus renkama ir tvarkoma toliau nurodytais tikslais. Tokią informaciją aktyviai rinksime tik gavę jūsų atskirą aiškų sutikimą arba jei tai numatyta pagal taikomus teisės aktus.
+
+•	Informacija apie įrenginius ir programas. Automatinėmis priemonėmis renkame informaciją apie jūsų įrenginius, kuriuose įjungėte Paslaugą, pvz., mobiliojo įrenginio numerį, tinklo MAC adresą, įrenginio ir kitus unikalius identifikatorius.
+
+Kaip naudojame gautą informaciją
+Jums naudojantis Paslauga gautą informaciją naudojame siekdami:
+
+•	nustatyti ir patvirtinti jūsų tapatybę, kad galėtumėte naudotis tam tikra paslauga;
+•	teikti jums Paslaugą, pavyzdžiui, įeinančių ir išeinančių skambučių perdavimą iš vieno įrenginio į kitą ir skambučių istorijos bei žinučių sinchronizavimą jūsų įrenginiuose (išmaniajame telefone, laikrodyje, planšetiniame kompiuteryje, nešiojamame kompiuteryje ir pan.);
+•	tobulinti ir pritaikyti naudojimąsi Paslauga;
+•	atsakyti į jūsų užklausas ir klausimus;
+•	vykdyti, vertinti ir tobulinti savo verslą (įskaitant naujų produktų kūrimą, produktų ir paslaugų tobulinimą, ryšių valdymą, produktų, klientų bazės ir paslaugų analizę, rinkos tyrimų vykdymą, duomenų analizę, apskaitą, auditą ir kitas vidines funkcijas);
+•	suteikti jums galimybę naudotis tam tikromis trečiųjų šalių programomis ir paslaugomis bei atlikti veiksmus jose;
+•	saugoti nuo sukčiavimo ir kitos nusikalstamos veiklos, pretenzijų bei kitokios atsakomybės, ją atpažinti ir užkirsti kelią;
+•	laikytis taikomų teisės aktuose numatytų reikalavimų, atitinkamų pramonės standartų ir savo politikos, įskaitant šį privatumo pranešimą ir „Samsung“ privatumo politiką.
+
+Jums naudojantis Paslauga galime rinkti asmeninę informaciją apie jūsų veiklą internete ilguoju laikotarpiu naudojantis įrenginiais, kuriuose įjungta Paslauga, ir programomis, susijusią su išmaniųjų telefonų skambučių ir žinučių paslaugomis. Teikdami Paslaugą galime naudotis trečiųjų šalių teikiamomis analizės paslaugomis. Šias analizės paslaugas administruojantys teikėjai padeda mums analizuoti, kaip naudojatės Paslauga, ir ją tobulinti. Mūsų gaunama informacija gali būti atskleista tokiems teikėjams ir kitoms atitinkamoms trečiosioms šalims (arba renkama jų tiesiogiai), kurie naudoja šią informaciją, pavyzdžiui, vertindami Paslaugos naudojimą, padėdami Paslaugą teikti ir diagnozuodami technines problemas.
+
+
+„Samsung“ asmens duomenis tvarko pirmiau aprašytais tikslais. Teisinis pagrindas, kuriuo remdamasi „Samsung“ renka asmens duomenis, apima tvarkymą, kuris: yra būtinas vykdant jūsų sutartį su „Samsung“ (pavyzdžiui, siekiant teikti jums Paslaugą ir nustatyti bei patvirtinti jūsų tapatybę, kad galėtumėte naudotis tam tikra paslauga); yra būtinas siekiant vykdyti teisės aktų reikalavimus (pavyzdžiui, laikytis taikomų apskaitos taisyklių ir atskleisti informaciją teisėsaugos institucijoms, kai tai privaloma); yra būtinas ginant teisėtus „Samsung“ interesus (pavyzdžiui, administruojant mūsų santykius su jumis ir tobulinant Paslaugą); yra grindžiamas mūsų klientų sutikimu (pavyzdžiui, siekiant keistis su jumis informacija apie mūsų produktus ir paslaugas bei teikti jums rinkodaros informaciją), kuris vėliau gali būti bet kada atsiimtas kreipiantis į mus, kaip nurodyta šio privatumo pranešimo dalyje „Kaip susisiekti su mumis“, bet tai nesumažins tvarkymo gavus sutikimą teisėtumo prieš jį atsiimant.
+
+Kad galėtumėte sudaryti sutartį, privalote leisti mums tvarkyti savo asmens duomenis, kaip aprašyta pirmiau. Jei nepateiksite mums asmens duomenų, negalėsime pasiūlyti jums visų funkcijų, veikiančių naudojantis Paslauga.
+
+Dalijimasis informacija
+
+Jūsų asmeninės informacijos per Paslaugą neatskleidžiame, išskyrus atvejus, apibrėžtus šiame privatumo pranešime. Kai kurie „Samsung“ Paslaugos komandos nariai gali pasiekti ir kitaip tvarkyti asmens duomenis vykdydami savo tiesiogines ar sutartyse numatytas pareigas. Jūsų asmenine informacija galime dalytis su savo antrinėmis ir susijusiomis įmonėmis bei paslaugų teikėjais, kurie mums teikia paslaugas. Neleidžiame savo paslaugų teikėjams naudoti arba atskleisti tokios informacijos, išskyrus atvejus, kai tai būtina teikiant paslaugas mūsų vardu arba laikantis teisės aktų.
+
+Dalis tokių darbuotojų, susijusių subjektų ir trečiųjų šalių paslaugų teikėjų yra už EEE ribų, įskaitant valstybes, kuriose duomenų apsaugos lygis yra kitoks nei valstybėse, kur gyvena mūsų klientai (įskaitant Korėjos Respubliką, Jungtines Amerikos Valstijas, Indiją ir kt.). „Samsung“ imasi reikiamų priemonių siekdama užtikrinti, kad tokie informacijos gavėjai laikytųsi konfidencialumo įsipareigojimų, be to, „Samsung“ taiko priemones, pvz., įtraukia į sutartis standartines duomenų apsaugos sąlygas, kad perduoti asmens duomenys būtų saugūs. Tokių sąlygų kopiją galite gauti kreipdamiesi į mus, kaip nurodyta šioje Privatumo pranešimo dalyje Kaip susisiekti su mumis.
+
+„Samsung“, mūsų antrinės ir susijusios įmonės bei mūsų trečiųjų šalių paslaugų teikėjai taip pat gali atskleisti informaciją apie jus: 1) jei to reikalaujama pagal teisės aktus arba vykstant teisiniams procesams (pvz., teismo nurodymu arba gavus šaukimą į teismą); 2) vyriausybės agentūrų, pvz., teisėsaugos institucijų, reikalavimu; 3) siekdami nustatyti, vykdyti arba apginti teisės aktuose numatytas savo teises; 4) jei manome, kad toks atskleidimas yra būtinas arba deramas siekiant užkirsti kelią fizinei ar kitokiai žalai arba finansiniams nuostoliams; 5) vykstant įtariamos arba nustatytos neteisėtos veiklos tyrimui; 6) jei parduodame arba perleidžiame visą savo veiklą ar turtą arba jų dalį (įskaitant susijungimą, įsigijimą, pardavimą, perdavimą, reorganizavimą, išformavimą arba likvidavimą); 7) kitais atvejais gavę atskirą jūsų sutikimą.
+
+
+Asmens duomenų saugojimas
+
+Imamės tinkamų priemonių, kad užtikrintume, jog informacijos apie jus laikymas būtų grindžiamas toliau pateiktomis loginėmis taisyklėmis.
+1. Informacija laikoma bent laikotarpį, kuriuo ji naudojama, kad būtų galima teikti Paslaugą.
+2. Kaip reikalaujama pagal teisės aktus, sutartį ar atsižvelgiant į mūsų teisinius įsipareigojimus.
+3. Tik tol, kol jos reikia siekiant tikslo, dėl kurio ji buvo renkama ar yra tvarkoma, arba ilgiau, jei to reikalaujama pagal bet kokią sutartį ar galiojančius teisės aktus, taip pat jei reikalinga dėl statistinių duomenų (taikant tinkamas apsaugos priemones).
+
+Jūsų pasirinkimo galimybės
+
+Suteikiame jums tam tikrų pasirinkimo galimybių, susijusių su asmenine informacija, kurią gauname apie jus. Jei norite atnaujinti savo pageidavimus, riboti iš mūsų gaunamų pranešimų skaičių arba pateikti prašymą, kreipkitės į mus, kaip nurodyta šio privatumo pranešimo dalyje „Kaip susisiekti su mumis“.
+
+Norėdami susipažinti su pasirinkimo galimybėmis, kurias turite naudodamiesi Paslauga, peržiūrėkite nuotolinio ryšio nustatymus savo įrenginyje. Atminkite, kad jei atsisakysite leisti Paslaugą, galbūt galėsite naudotis ne visomis Paslaugos siūlomomis funkcijomis.
+
+Jūsų teisės
+
+Turite teisę prašyti atskleisti, kokią informaciją apie jus renkame, ir prašyti ištaisyti šios informacijos netikslumus, nesutikti su savo asmens duomenų tvarkymu arba prašyti jį apriboti, taip pat galite reikalauti suteikti prieigą prie savo asmeninės informacijos, ją ištrinti arba pakeisti jos mobilumą. Pagal kai kurių jurisdikcijų teisės aktus galime atsisakyti vykdyti prašymus, kurie nepagrįstai kartojasi, reikalauja neproporcingų techninių pastangų, pažeidžia kitų asmenų privatumą, yra visiškai nepraktiški arba prie kurių pagal vietinius teisės aktus nereikalaujama prieigos. Jei norite pateikti prašymą susipažinti su savo informacija, su mumis galite susisiekti apsilankę mūsų privatumo palaikymo puslapyje (https://www.samsung.com/request-desk).
+
+Prašydami ištrinti asmeninę informaciją sutinkate, kad galbūt negalėsite pasiekti Verslo paslaugų bei jomis naudotis ir kad kurį laiką, atsižvelgiant į taikomus teisės aktus, „Samsung“ įrašuose ir archyvuose gali būti laikoma liekamoji asmeninė informacija, tačiau „Samsung“ šios informacijos nenaudos komerciniais tikslais. Suprantate, kad nepaisant jūsų prašymo panaikinti informaciją, „Samsung“ pasilieka teisę, laikydamasi savo duomenų saugojimo politikos ir taikomų teisės aktų, pasilikti jūsų asmeninę informaciją ar svarbią jos dalį, jei dėl „Samsung“ Paslaugų teikimo sąlygų pažeidimo „Samsung“ pristabdė, apribojo ar nutraukė jūsų prieigą prie interneto svetainės, kai to reikia siekiant apsaugoti „Samsung“, bet kurios atitinkamos susijusios įmonės, verslo partnerių, darbuotojų ar klientų teises, nuosavybę arba saugumą.
+
+Kaip saugome asmeninę informaciją
+
+Naudojame tinkamas administracines, technines ir fizines apsaugos priemones, kurių paskirtis yra apsaugoti asmeninę informaciją, gautą naudojantis Paslauga, nuo netyčinio, neteisėto arba neįgalioto sunaikinimo, trukdžių, praradimo, pakeitimo, prieigos, atskleidimo ar naudojimo. Be to, „Samsung“ imasi reikiamų procedūrų, padedančių užtikrinti, kad tokie duomenys būtų tinkami naudoti pagal paskirtį ir tikslūs, išsamūs bei atnaujinti.
+
+Mūsų privatumo pranešimo atnaujinimai
+
+Šis privatumo pranešimas gali būti reguliariai atnaujinamas, kad atspindėtų su Paslauga susijusios mūsų asmeninės informacijos tvarkymo praktikos arba taikomų teisės aktų pakeitimus. Savo interneto svetainėje ir (arba) jūsų įrenginyje iš anksto paskelbsime pranešimą, kuriuo informuosime apie esminius mūsų privatumo pranešimo pakeitimus, o pranešimo viršuje nurodysime paskutinio atnaujinimo datą.
+
+Kaip susisiekti su mumis
+
+Jeigu turite konkrečių klausimų, susisiekite su mumis (ES duomenų valdytoja) toliau nurodytu adresu.
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS (Jungtinė Karalystė)
+Su mumis taip pat galite susisiekti apsilankę mūsų privatumo palaikymo puslapyje (https://www.samsung.com/request-desk).
+
+Jei manote, kad tvarkydami jūsų asmens duomenis pažeidžiame taikomus teisės aktus, galite pateikti skundą priežiūros institucijai.

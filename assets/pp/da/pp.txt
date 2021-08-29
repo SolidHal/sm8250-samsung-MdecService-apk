@@ -1,0 +1,98 @@
+﻿Fortrolighedsbemærkning for Call & Message Continuity
+
+Ikrafttrædelsesdato: 30/03/2018
+
+Samsung Electronics (UK) Limited (“Samsung” eller “Vi”) og dets associerede selskaber respekterer dine bekymringer i forhold til fortrolighed. Denne fortrolighedsbemærkning gælder for de personlige oplysninger, vi indsamler via tjenesten Call & Message Continuity (“Tjenesten”). Den gælder ikke for oplysninger, der er indsamlet af andre apps, websteder eller tjenester, som Samsung eller Samsungs associerede enheder leverer.
+
+Tjenesten er en kommunikationstjeneste til flere enheder. Dens funktioner omfatter videresendelse af ind- og udgående opkald, opkalds- og beskedhistorik og synkronisering af beskeder mellem din primære enhed (f.eks. din smartphone) og en eller flere sekundære enheder (f.eks. ur, tablet, bærbar computer osv.), så du kan modtage indgående opkald og læse beskeder på din(e) sekundære enhed(er) og foretage udgående opkald og sende nye beskeder ved hjælp af din primære enhed.
+
+Hvis du vil bruge Tjenesten, skal du først logge på en Samsung account både på din primære enhed og din(e) sekundære enhed(er). Og hvis din sekundære enhed er et ur, skal du først konfigurere en netværkstjeneste ved at abonnere på et mobilabonnement via det system, din netværksoperatør har stillet til rådighed, og som giver dig mulighed for at bruge uret sammen med dit normale telefonnummer. Hvis din sekundære enhed er en tablet, der kun understøtter data, skal du konfigurere en forbindelse med et Wi-Fi-netværk eller med det system, som din netværksoperatør har stillet til rådighed, og som giver dig mulighed for at bruge din tablet. Vores Fortrolighedspolitik på https://account.samsung.com/membership/pp (“Samsungs fortrolighedspolitik”) gælder for din brug af din Samsung account og Call & Message Continuity. Denne Fortrolighedsbemærkning indeholder yderligere oplysninger om, hvordan dine personlige data bruges i forbindelse med Tjenesten, og skal læses sammen med Samsungs Fortrolighedspolitik.
+
+I denne Fortrolighedsbemærkning beskriver vi de typer oplysninger, der indsamles via Tjenesten, hvordan vi kan bruge oplysningerne, hvor lang tid vi kan beholde oplysningerne, hvem vi kan dele dem med, og de valgmuligheder, du har, når det gælder vores brug af oplysningerne og udøvelsen af dine rettigheder. Vi beskriver også de forholdsregler, vi tager for at beskytte oplysningerne, og fortæller dig, hvordan du kan kontakte os om vores fortrolighedspolitikker. Samsung er den kontrolansvarlige, når det gælder behandlingen af personlige data.
+
+Klik på et af linkene herunder for at gå til det angivne afsnit:
+
+•	De oplysninger, vi indhenter
+•	Sådan bruger vi de oplysninger, vi indhenter
+•	Deling af oplysninger
+•	Opbevaring af personlige data
+•	Dine valgmuligheder
+•	Dine rettigheder
+•	Sådan beskytter vi personlige oplysninger
+•	Opdateringer til vores Fortrolighedsbemærkning
+•	Sådan kan vi kontaktes
+
+De oplysninger, vi indhenter
+
+Vi får oplysninger om dig på forskellig vis via Tjenesten. De typer personlige oplysninger, vi indhenter, omfatter:
+
+•	Samsung account-oplysninger. Vi indsamler oplysninger, der er knyttet til din Samsung account, og som bruges til at få adgang til Tjenesten, f.eks. dit Samsung account-id.
+
+•	Interaktioner med Tjenesten. Vi indsamler oplysninger, du udveksler gennem dine interaktioner med Tjenesten, herunder oplysninger om opkaldere og modtagere, indholdet af de beskeder, du sender og modtager, og din opkalds- og beskedhistorik på smartphoneapplikationer. Derudover vil andre brugsoplysninger som f.eks. dine berøringsinteraktioner og andet input og de oplysninger, du modtager fra Tjenesten (f.eks. reaktioner og svar), også blive indsamlet. Hvis du sender oplysninger af følsom karakter (dvs. sundhedsoplysninger) til Tjenesten, f.eks. beskeder med følsomme oplysninger, som du sender eller modtager, bliver disse også indsamlet og behandlet med henblik på de formål, der er angivet herover. Vi indsamler ikke aktivt sådanne oplysninger uden først at indhente dit separate samtykke eller som påkrævet i henhold til gældende love.
+
+•	Oplysninger om enheder og apps. Vi bruger automatiske hjælpemidler til at indsamle oplysninger om dine Tjeneste-kompatible enheder, f.eks. mobiltelefonnummeret, netværkets MAC-adresse, enheds-id’er og andre entydige id’er.
+
+Sådan bruger vi de oplysninger, vi indhenter
+Vi bruger de oplysninger, vi indhenter via Tjenesten, til at:
+
+•	identificere og godkende dig, så du kan bruge en bestemt tjeneste
+•	levere Tjenesten til dig, f.eks. videresendelse af ind- og udgående opkald mellem dine enheder og synkronisering af din opkaldshistorik og beskeder på dine enheder (smartphone, ur, tablet, bærbar computer osv.);
+•	forbedre og tilpasse din oplevelse med Tjenesten
+•	svare på dine anmodninger og forespørgsler
+•	drive, evaluere og forbedre vores virksomhed (herunder udvikling af nye produkter, styrkelse og forbedring af vores produkter og tjenester, styring af vores kommunikation, analyse af vores produkter, kundebase og tjenester, udførelse af markedsundersøgelser, udførelse af dataanalyse og udførelse af bogføring, revision og andre interne funktioner)
+•	give dig mulighed for at interagere med og bruge visse apps og tjenester fra tredjepart
+•	beskytte mod, identificere og forhindre bedrageri og anden kriminel aktivitet, krav og andre hæftelser og
+•	overholde og håndhæve juridiske krav, relevante branchestandarder og vores politikker, herunder denne Fortrolighedsbemærkning og Samsungs Fortrolighedspolitik.
+
+Vi kan via Tjenesten indsamle personlige oplysninger om dine onlineaktiviteter på enheder, der er kompatible med Tjenesten, over tid og på tværs af apps, der er relateret til opkalds- og beskedtjenester til smartphones. Vi kan bruge tredjepartsanalysetjenester til Tjenesten. De udbydere, der administrerer disse analysetjenester, hjælper os med at analysere din brug af Tjenesten og forbedre Tjenesten. De oplysninger, vi får, kan være videregivet til eller indsamlet direkte af disse udbydere og andre relevante tredjeparter, der bruger oplysningerne. Det kunne f.eks. være til at evaluere brugen af Tjenesten, levere Tjenesten og diagnosticere tekniske problemer.
+
+
+Samsung behandler personlige data til de formål, der er beskrevet herover. Samsungs juridiske grundlag for at behandle personlige data omfatter behandling, der er: nødvendig for at opfylde kontrakten mellem dig og Samsung (f.eks. for at levere Tjenesten og til at identificere og godkende dig, så du kan bruge en bestemt tjeneste), nødvendig for at overholde juridiske krav (f.eks. for at overholde gældende bogføringsregler og for at foretage obligatorisk videregivelse af oplysninger til politimyndighederne), nødvendig i forhold til Samsungs legitime interesser (f.eks. for at håndtere vores relation med dig og for at forbedre Tjenesten) og er baseret på at få dit separate samtykke (f.eks. for at kunne kommunikere med dig om vores produkter og tjenester og for at kunne give dig marketingoplysninger), der efterfølgende til enhver tid kan trækkes tilbage ved at kontakte os, sådan som det er angivet i afsnittet Sådan kan vi kontaktes i denne Fortrolighedsbemærkning, uden at påvirke lovligheden af den samtykkebaserede behandling før tilbagetrækningen af et sådant samtykke.
+
+For at kunne indgå en kontrakt skal du give os personlige data, som vi kan behandle som angivet herover. Hvis du ikke giver os personlige data, kan vi ikke levere alle de funktioner, der er tilgængelige via Tjenesten til dig.
+
+Deling af oplysninger
+
+Vi videregiver ikke personlige oplysninger om dig via Tjenesten, medmindre dette fremgår af denne Fortrolighedsbemærkning. Et begrænset antal medlemmer i Tjeneste-teamet hos Samsung kan få adgang til og på anden vis behandle personlige data i forbindelse med deres jobmæssige ansvarsopgaver eller kontraktmæssige forpligtelser. Vi kan dele dine personlige oplysninger med vores datterselskaber og associerede selskaber og med tjenesteudbydere, der udfører tjenester på vores vegne. Vi giver ikke vores tjenesteudbydere tilladelse til at bruge eller videregive oplysninger, medmindre det er nødvendigt for at udføre tjenesterne på vores vegne eller for at overholde juridiske krav.
+
+Noget af dette personale og nogle af de associerede enheder og tredjepartstjenesteudbydere er placeret uden for EØS, herunder i lande, der muligvis ikke kan yde det samme niveau af databeskyttelse som vores kunders hjemland, herunder f.eks. og uden begrænsning Republikken Korea, USA og Japan. Samsung tager de nødvendige forholdsregler for at sikre, at sådanne modtagere er bundet af fortrolighedspligt, og Samsung implementerer foranstaltninger som f.eks. standardkontraktklausuler om databeskyttelse for at sikre, at personlige data, der måtte blive overført, forbliver beskyttede og sikre. En kopi af disse klausuler kan fås ved at kontakte os som angivet i afsnittet Sådan kan vi kontaktes i denne Fortrolighedsbemærkning.
+
+Samsung, vores datterselskaber og associerede enheder og vores tredjepartstjenesteudbydere kan også videregive oplysninger om dig, (1) hvis vi er pålagt at gøre det i henhold til loven eller en juridisk proces (f.eks. en dom eller stævning), (2) som svar på anmodninger fra offentlige myndigheder, f.eks. politimyndighederne, (3) for at fastslå, udøve eller forsvare vores juridiske rettigheder, (4) når vi mener, at en videregivelse er nødvendig og relevant for at undgå fysisk eller anden skade eller økonomisk tab, (5) i forbindelse med en undersøgelse af formodet eller faktisk ulovlig aktivitet, (6) i det tilfælde vi sælger eller overdrager hele eller dele af vores forretninger eller aktiver (herunder i tilfælde af fusion, opkøb, salg, overdragelse, omorganisering, opløsning eller likvidation) eller (7) på anden vis med dit separate samtykke.
+
+
+Opbevaring af personlige data
+
+Vi tager de nødvendige forholdsregler for at sikre, at oplysningerne om dig kun opbevares baseret på følgende logik:
+1. som minimum i den periode, i hvilken oplysningerne bruges til at levere Tjenesten til dig
+2. i overensstemmelse med lov, en kontrakt, eller for så vidt angår vores lovbestemte forpligtelser eller
+3. kun så længe det er nødvendigt for behandlingen af det formål, de er indsamlet for, eller længere, hvis det kræves i henhold til kontrakt, gældende love eller til statistiske formål, der er underlagt relevante sikkerhedsforanstaltninger.
+
+Dine valgmuligheder
+
+Vi giver dig visse valgmuligheder i forbindelse med de personlige oplysninger, vi indhenter om dig. For at opdatere dine præferencer, begrænse den kommunikation, du får fra os, eller sende en anmodning kan du kontakte os, sådan som det er angivet i afsnittet Sådan kan vi kontaktes i denne Fortrolighedsbemærkning.
+
+Gå til indstillingerne for “Fjernforbindelse” på din enhed for at se de valgmuligheder, du måtte have i forbindelse med din brug af Tjenesten. Bemærk, at hvis du afviser at tillade Tjenesten, kan du muligvis ikke bruge alle de funktioner, der er tilgængelige via Tjenesten.
+
+Dine rettigheder
+
+Du har ret til at anmode om detaljer om de oplysninger, vi har indsamlet om dig, og til at bede os om at rette unøjagtigheder i de pågældende oplysninger, til at gøre indsigelse mod eller anmode om begrænsning i forhold til behandling og til at anmode om adgang til eller sletning eller overflytning af dine oplysninger. I henhold til lovene i visse jurisdiktioner kan vi afvise at behandle anmodninger, der er urimeligt repetitive, kræver uforholdsmæssig stor teknisk indsats, kompromitterer andres privatliv, er meget upraktiske, eller hvortil der ikke på anden måde kræves adgang ifølge den lokale lovgivning. Hvis du vil foretage en anmodning om at få adgang til dine oplysninger, kan du kontakte os ved at gå til vores side med support til Fortrolighed (https://www.samsung.com/request-desk).
+
+Hvis du anmoder om at få slettet personlige oplysninger, anerkender du, at du muligvis ikke vil kunne få adgang til eller bruge forretningstjenesterne, og at resterende personlige oplysninger kan forblive i Samsungs optegnelser og arkiver i noget tid i overensstemmelse med gældende love, men Samsung anvender ikke de pågældende oplysninger til kommercielle formål. Du forstår, at Samsung til trods for din anmodning om sletning forbeholder sig ret til at bevare dine personlige oplysninger eller en relevant del af dem ifølge vores dataopbevaringspolitik og gældende love, hvis Samsung har suspenderet, begrænset eller bragt din adgang til webstedet til ophør, fordi du har overtrådt Samsungs vilkår for tjeneste, når det er nødvendigt for at beskytte Samsungs eller nogen af vores respektive associerede enheders, forretningspartneres, medarbejderes eller kunders rettigheder, ejendom eller sikkerhed.
+
+Sådan beskytter vi personlige oplysninger
+
+Vi opretholder relevante administrative, tekniske og fysiske sikkerhedsforanstaltninger, der er beregnet til at beskytte personlige oplysninger, som vi indhenter via Tjenesten, mod hændelig, ulovlig eller uautoriseret destruktion, forstyrrelse, tab, ændring, adgang, videregivelse eller brug. Samsung har også rimelige procedurer, der gør det muligt at sikre, at sådanne data er pålidelige i forhold til deres tiltænkte brug, og at de er nøjagtige, fyldestgørende og aktuelle.
+
+Opdateringer til vores Fortrolighedsbemærkning
+
+Denne Fortrolighedsbemærkning kan blive opdateret med jævne mellemrum for at afspejle ændringer i vores fremgangsmåder i forhold til beskyttelse af personlige oplysninger, for så vidt angår Tjenesten, eller ændringer i gældende love. Vi offentliggør en meddelelse på vores websted og/eller din enhed for at give dig besked på forhånd om væsentlige ændringer i vores Fortrolighedsbemærkning og angiver øverst i meddelelsen, hvornår den senest er blevet opdateret.
+
+Sådan kan vi kontaktes
+
+Hvis du har specifikke spørgsmål, kan du kontakte os (EU-datakontrolansvarlig) på:
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+Du kan også kontakte os på vores side med support til Fortrolighed (https://www.samsung.com/request-desk).
+
+Du kan indgive en klage til en tilsynsførende myndighed, hvis du anser vores behandling af dine personlige data som en overtrædelse af gældende love.

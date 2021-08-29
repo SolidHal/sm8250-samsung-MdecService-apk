@@ -1,0 +1,98 @@
+﻿Avís de privadesa de Call & Message Continuity
+
+Data efectiva: 30/03/2018
+
+Samsung Electronics (UK) Limited (“Samsung” o “Nosaltres”) i les empreses associades respectem les seves preocupacions sobre privadesa. Aquest Avís de privadesa s’aplica a la informació personal que recopilem mitjançant el servei Call & Message Continuity (el “Servei”). No s’aplica a la informació recopilada per altres aplicacions, llocs web o serveis proporcionats per Samsung o les seves entitats associades.
+
+El Servei consisteix en un servei de comunicacions entre diversos dispositius. Les funcions que presenta són la retransmissió de trucades d’entrada i sortida, l’historial de missatges i trucades, i la sincronització entre el seu dispositiu principal (per exemple, l’smartphone) i els dispositius secundaris (per exemple, el rellotge, la tablet, el portàtil, etc.) de manera que pugui rebre trucades d’entrada i llegir missatges des del seu dispositiu secundari, i fer trucades de sortida i enviar missatges nous mitjançant el dispositiu principal.
+
+Per utilitzar aquest Servei, primer ha d’iniciar la sessió al Samsung account tant al dispositiu principal com al secundari. En cas que el dispositiu secundari sigui un rellotge, primer ha de configurar un servei de xarxa subscrivint-se a un pla de dades mòbils mitjançant el sistema de l’operador de xarxa que li permet utilitzar el rellotge amb el número de telèfon habitual. En cas que el dispositiu secundari sigui una tablet compatible només amb dades, primer ha de configurar una connexió amb una xarxa Wi-Fi o amb el sistema de l’operador de xarxa que li permet utilitzar la tablet. La nostra Política de privadesa, que s’exposa a https://account.samsung.com/membership/pp (“Política de privadesa de Samsung”), s’aplicarà a l’ús que faci del Samsung account i de Call & Message Continuity. Aquest Avís de privadesa aporta més informació sobre com s’utilitzen les seves dades personals en relació amb el Servei, i hauria de llegir-se conjuntament amb la Política de privadesa de Samsung.
+
+En aquest Avís de privadesa descrivim els tipus d’informació que es recopilen a través del Servei, la manera en què utilitzem la informació, durant quant de temps podem conservar-la, amb qui podem compartir-la i les opcions que té disponibles en relació amb el nostre ús de la informació i quant a l’exercici dels seus drets. També expliquem les mesures que prenem per protegir la informació i li indiquem com pot contactar amb nosaltres per obtenir informació sobre les nostres pràctiques de privadesa. Samsung és el controlador de dades per al processament de dades personals.
+
+Faci clic a un dels enllaços següents per saltar a la secció enumerada:
+
+•	Informació que obtenim
+•	Quin ús fem de la informació que obtenim
+•	Compartició de la informació
+•	Retenció de dades personals
+•	Les seves opcions
+•	Els seus drets
+•	Com protegim la informació personal
+•	Actualitzacions del nostre Avís de privadesa
+•	Com contactar amb nosaltres
+
+Informació que obtenim
+
+A través del Servei, obtenim informació sobre vostè de diverses maneres. Entre els tipus d’informació personal que obtenim, hi ha:
+
+•	Informació de Samsung account. Recopilem informació associada amb el Samsung account que s’utilitza per accedir al Servei, com ara l’ID del Samsung account.
+
+•	Interaccions del Servei. Recopilem la informació que intercanvia a través de les seves interaccions amb el Servei, incloent-hi la informació sobre les persones que truquen i els destinataris, el remitent i el receptor dels missatges, el contingut dels missatges que rep i envia, així com el seu historial de missatges i trucades a les aplicacions de l’smartphone. De manera addicional, també recopilarem altres tipus d’informació d’ús, com ara les seves interaccions tàctils i altres entrades, a més de la informació que rep del Servei (per exemple, respostes i contestes). Si envia informació de caràcter sensible al Servei (és a dir, informació de salut), com ara els missatges que rep o envia i que contenen informació confidencial, també es recopilarà i es processarà per als propòsits establerts a continuació. No recopilarem activament aquesta informació sense haver obtingut prèviament el seu consentiment explícit per separat, o si no es preveu de conformitat amb les disposicions de la llei aplicable.
+
+•	Informació del dispositiu i de l’aplicació. Recopilem la informació de manera automatitzada en relació amb els seus dispositius habilitats per al Servei, com ara el número de mòbil, l’adreça MAC de xarxa, els identificadors del dispositiu i d’altres identificadors únics.
+
+Quin ús fem de la informació que obtenim
+Utilitzem la informació que obtenim a través del Servei per:
+
+•	identificar-lo i autenticar-lo perquè pugui utilitzar un determinat servei;
+•	proporcionar-li el Servei, com ara la retransmissió de trucades d’entrada i sortida entre els seus dispositius i la sincronització de l’historial de missatges i trucades als seus dispositius (smartphone, rellotge, tablet, portàtil, etc.);
+•	millorar i personalitzar la seva experiència amb el Servei;
+•	respondre a les seves sol·licituds i consultes;
+•	dirigir, avaluar i millorar el nostre negoci (incloent-hi el desenvolupament de productes nous; la millora i l’actualització dels nostres productes i serveis; la gestió de les nostres comunicacions; l’anàlisi dels productes, la base de clients i els serveis; la preparació d’un estudi de mercat; la realització d’una anàlisi de dades; i l’execució de tasques de comptabilitat, auditoria i altres funcions internes);
+•	permetre que interactuï amb aplicacions i serveis determinats de tercers i que els utilitzi;
+•	identificar, prevenir i protegir-lo contra el frau i altres activitats criminals, les reclamacions i altres responsabilitats; i
+•	complir i aplicar els requisits legals vigents, les corresponents normes del sector i les nostres polítiques, incloent-hi aquest Avís de privadesa i la Política de privadesa de Samsung.
+
+Mitjançant el Servei, podem recopilar informació personal sobre les seves activitats en línia als dispositius habilitats per al Servei al llarg del temps i a través de les aplicacions relacionades amb els serveis de trucades i missatges per telèfon intel·ligent. És possible que utilitzem serveis d’anàlisi de tercers al Servei. Els proveïdors que administren aquests serveis d’anàlisi ens ajuden a analitzar el seu ús del Servei i a millorar el Servei. És possible que revelem la informació que obtinguem a aquests proveïdors o a altres tercers rellevants que utilitzin la informació, per exemple, per avaluar l’ús del Servei, ajudar a proporcionar el Servei i diagnosticar els problemes tècnics, o bé que ells recopilin la informació directament.
+
+
+Samsung processa les dades personals per a les finalitats indicades anteriorment. La base legal de Samsung per processar les dades personals inclou tot aquell processament que sigui: necessari per a la formalització del contracte entre vostè i Samsung (per exemple, per proporcionar-li el Servei, així com per identificar-lo i autenticar-lo perquè pugui utilitzar un determinat servei); necessari per complir amb els requeriments legals (per exemple, per complir les normes de comptabilitat vigents i revelar la informació obligatòria per a l’aplicació de la llei); necessari per als interessos legítims de Samsung (per exemple, per gestionar la nostra relació amb vostè i millorar el Servei) i; depenent de l’obtenció del seu consentiment per separat (per exemple, per parlar-li dels nostres productes i serveis, així com per aportar-li informació comercial), que posteriorment es pot retirar en qualsevol moment contactant amb nosaltres, tal com s’especifica a la secció Com contactar amb nosaltres d’aquest Avís de privadesa, sense que això afecti la legitimitat del processament basat en el consentiment anterior a la seva retirada.
+
+Vostè té l’obligació, com a requisit per formalitzar el contracte, de facilitar-nos les dades personals perquè les processem tal com es descriu anteriorment. Si no ens facilita les dades personals, no podrem proporcionar-li totes les funcions disponibles a través del Servei.
+
+Compartició de la informació
+
+No revelarem informació personal seva a través del Servei, excepte en els casos indicats en aquest Avís de privadesa. És possible que determinats membres de l’equip del Servei, a Samsung, accedeixin a les dades personals i les processin en el context de les seves responsabilitats laborals o obligacions contractuals. És possible que compartim la seva informació personal amb les nostres filials i els nostres associats, així com amb els proveïdors de serveis que ens presten els serveis. No autoritzem els nostres proveïdors de serveis perquè utilitzin o divulguin la informació, excepte en cas que sigui necessari per realitzar els serveis en nom nostre o per complir amb els requeriments legals.
+
+Alguns d’aquests empleats, associats i proveïdors de serveis de tercers estan ubicats fora de l’EEE, fins i tot en països que podrien no oferir el mateix nivell de protecció de dades que el país d’origen dels nostres clients; entre aquests països es podrien incloure, per exemple, la República de Corea, els Estats Units d’Amèrica i el Japó. Samsung emprèn les accions adequades per assegurar-se que aquests destinataris estiguin vinculats pels deures de confidencialitat; a més, Samsung aplica mesures, com ara les clàusules contractuals de protecció de dades estàndard, per tal de garantir la protecció i la seguretat de totes les dades personals que es transfereixin. Pot obtenir una còpia d’aquestes clàusules contactant amb nosaltres, tal com s’especifica a la secció Com contactar amb nosaltres d’aquest Avís de privadesa.
+
+Samsung, les nostres filials i els nostres associats, així com els nostres proveïdors de serveis de tercers, també poden divulgar informació sobre vostè (1) si ens ho requereix la llei o un procediment legal (com ara una ordre judicial o una citació); (2) en resposta a la sol·licitud de les agències governamentals, com ara les forces de seguretat; (3) per establir, exercir i defensar els nostres drets legals; (4) quan considerem que aquesta divulgació sigui necessària o adequada per evitar pèrdues financeres o danys físics o d’una altra naturalesa; (5) en el context d’una investigació d’una activitat il·legal real o presumpta; (6) si venem o transferim una part o la totalitat del nostre negoci o dels actius (per exemple, en el cas d’una fusió, adquisició, venda, transferència, reorganització, dissolució o liquidació); o (7) en qualsevol altre cas en què comptem amb el seu consentiment per separat.
+
+
+Retenció de dades personals
+
+Prenem les mesures adequades per garantir que la seva informació només es conservi basant-nos en la lògica següent:
+1. almenys durant el període de temps en què la informació s’utilitzi per proporcionar-li el Servei;
+2. sempre que sigui necessari en virtut de la llei o un contracte, o bé de conformitat amb les nostres obligacions estatutàries; o
+3. només durant el temps necessari per assolir la finalitat per la qual es va recopilar i processar, o durant un temps més prolongat si ho requereix qualsevol contracte o la llei aplicable, o bé per a propòsits estadístics que estiguin subjectes a la protecció adequada.
+
+Les seves opcions
+
+Li oferim determinades opcions relacionades amb la informació personal que obtenim sobre vostè. Per actualitzar les seves preferències, limitar les comunicacions que rep de nosaltres o enviar una sol·licitud, contacti amb nosaltres tal com s’especifica a la secció Com contactar amb nosaltres d’aquest Avís de privadesa.
+
+Accedeixi als ajustaments de la “Connexió remota” al seu dispositiu per consultar les opcions que té disponibles en relació amb el seu ús del Servei. Tingui en compte que, si es nega a permetre que el Servei funcioni amb normalitat, és possible que no pugui utilitzar totes les funcions disponibles a través del Servei.
+
+Els seus drets
+
+Té dret a sol·licitar els detalls de la informació que recopilem sobre vostè i a demanar-nos que corregim les inexactituds d’aquesta informació, a oposar-se al processament o a sol·licitar-ne la restricció, així com a sol·licitar l’accés a la seva informació i demanar-ne l’eliminació o la portabilitat. En virtut de les lleis de determinades jurisdiccions, podem rebutjar la tramitació de sol·licituds que siguin excessivament repetitives, que requereixin un esforç tècnic desproporcionat, que posin en risc la privadesa dels altres, que siguin inviables en extrem o l’accés de les quals no sigui cap requisit per a la legislació local. Si vol presentar una sol·licitud per accedir a la seva informació, contacti amb nosaltres visitant la Pàgina d’Assistència per a la privadesa (https://www.samsung.com/request-desk).
+
+Si sol·licita l’eliminació de la informació personal, accepta que és possible que no pugui accedir als Serveis empresarials ni utilitzar-los, i que la informació personal residual podria continuar residint als registres i arxius de Samsung durant un temps, de conformitat amb la llei aplicable, però Samsung no utilitzarà aquesta informació amb finalitats comercials. Entén que, malgrat la seva sol·licitud d’eliminació, Samsung es reserva el dret de conservar la seva informació personal, o una part rellevant, en línia amb la nostra política de retenció de dades i amb les lleis aplicables, si Samsung ha suspès, limitat o finalitzat el seu accés al lloc web pel fet d’infringir les Condicions de servei de Samsung, quan sigui necessari per protegir els drets, la propietat o la seguretat de Samsung, o de qualsevol dels nostres associats, socis empresarials, empleats o clients pertinents.
+
+Com protegim la informació personal
+
+Oferim mesures de protecció administratives, tècniques i físiques adequades dissenyades per protegir la informació personal que obtenim a través del Servei contra la destrucció, la interferència, la pèrdua, l’alteració, l’accés, la divulgació o l’ús, ja siguin accidentals, il·legítims o no autoritzats. Samsung també fa servir procediments raonables per ajudar a garantir que aquestes dades siguin fiables per a la finalitat prevista, a més de ser precises i estar completes i actualitzades.
+
+Actualitzacions del nostre Avís de privadesa
+
+És possible que aquest Avís de privadesa s’actualitzi de manera periòdica perquè reflecteixi els canvis realitzats a les nostres pràctiques envers la informació personal pel que fa al Servei, o bé els canvis realitzats a la llei aplicable. Publicarem un avís al nostre lloc web i/o al seu dispositiu per notificar-li amb antelació els canvis materials que realitzem al nostre Avís de privadesa i indicarem a la part superior d’aquest avís quan es va actualitzar per última vegada.
+
+Com contactar amb nosaltres
+
+Si té alguna pregunta específica, contacti amb nosaltres (Controlador de dades de la UE) a:
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+També pot contactar amb nosaltres visitant la Pàgina d’Assistència per a la privadesa (https://www.samsung.com/request-desk).
+
+Si considera que el nostre processament de les seves dades personals infringeix la llei aplicable, pot presentar una reclamació davant d’una autoritat supervisora.

@@ -1,0 +1,98 @@
+﻿Fógra Príobháide maidir le Call & Message Continuity
+
+Dáta Éifeachtach: 30/03/2018
+
+Tá meas ag Samsung Electronics (UK) Limited (“Samsung” nó “Muid”) agus a chuideachtaí cleamhnaithe ar nithe is údar imní duit maidir le príobháid. Beidh feidhm ag an bhFógra Príobháide seo ar an bhfaisnéis phearsanta a bhaileoimid tríd an tseirbhís Call & Message Continuity (an “tSeirbhís”). Ní bheidh feidhm aige ar fhaisnéis a bhaileoidh feidhmchláir, láithreáin ghréasáin, ná seirbhísí eile arna gcur ar fáil ag Samsung ná ag a n-eintitis chleamhnaithe.
+
+Seirbhís cumarsáide ilghléis is ea an tSeirbhís. I measc na ngnéithe atá ann, áirítear athsheachadadh glaonna isteach agus amach, stair glaonna agus teachtaireachtaí, agus sioncronú teachtaireachtaí idir do phríomhghléas (m.sh. d’fhón cliste) agus do ghléas tánaisteach/ghléasanna tánaisteacha (m.sh. d’uaireadóir, táibléad, ríomhaire glúine, srl.) ionas go bhféadfaidh glaonna isteach a fháil agus teachtaireachtaí a léamh ar do ghléas tánaisteach/ghléasanna tánaisteacha agus glaonna amach a chur agus teachtaireachtaí nua a sheoladh le do phríomhghléas.
+
+Leis an tSeirbhís a úsáid, ní mór duit síniú isteach chuig do Samsung account ar do phríomhghléas agus ar do ghléas tánaisteach/ghléasanna tánaisteacha araon ar dtús. Más uaireadóir é do ghléas tánaisteach, ní mór duit seirbhís líonra a shocrú, ach síntiús a ghlacadh le plean sonraí móibíleacha tríd an gcóras a chuireann d’oibreoir líonra ar fáil, le cur ar do chumas d’uaireadóir a úsáid le do ghnáthuimhir fóin. Más táibléad é do ghléas tánaisteach nach bhfuil tacú ann ach do shonraí, ní mór duit nasc a shocrú le líonra Wi-Fi nó leis an gcóras a chuireann d’oibreoir líonra ar fáil le cur ar do chumas do tháibléad a úsáid. Beidh feidhm ag ár mBeartas Príobháide, atá ag https://account.samsung.com/membership/pp (“Beartas Príobháide Samsung”), ar an úsáid a bhainfidh tú as do Samsung account agus as Call & Message Continuity. Tugtar san Fhógra Príobháide seo tuilleadh faisnéise faoin gcaoi a n-úsáidtear do chuid sonraí pearsanta i dtaca leis an tSeirbhís, agus is cóir é a léamh i dteannta Bheartas Príobháide Samsung.
+
+San Fhógra Príobháide seo, déanaimid cur síos ar na cineálacha faisnéise a bhailítear tríd an tSeirbhís, ar an gcaoi a bhféadfaimid an fhaisnéis a úsáid, ar an bhfad ama a fhéadfaimid an fhaisnéis a choinneáil, ar cé leis a bhféadfaimid an fhaisnéis a chomhroinnt, agus ar na roghanna atá ar fáil duit maidir leis an úsáid a bhainfimid as an bhfaisnéis agus i dtaobh do chearta a chleachtadh. Déanaimid cur síos freisin ar na bearta a dhéanaimid leis an bhfaisnéis a chosaint agus cuirimid in iúl duit an chaoi ar féidir leat teagmháil a dhéanamh linn maidir lenár gcleachtais phríobháide. Is é Samsung an rialaitheoir sonraí i ndáil le próiseáil sonraí pearsanta.
+
+Cliceáil ar cheann de na naisc thíos le léim chuig an gcuid liostaithe:
+
+•	Faisnéis a Fhaighimid
+•	An Chaoi a nÚsáidimid an Fhaisnéis a Fhaighimid
+•	Comhroinnt Faisnéise
+•	Coinneáil Sonraí Pearsanta
+•	Do Roghanna
+•	Do Chearta
+•	An Chaoi a gCosnaímid Faisnéis Phearsanta
+•	Nuashonruithe ar ár bhFógra Príobháide
+•	Conas Teagmháil a Dhéanamh Linn
+
+Faisnéis a Fhaighimid
+
+Tríd an tSeirbhís, faighimid faisnéis fútsa ar bhealaí éagsúla. I measc na gcineálacha faisnéise pearsanta a fhaighimid tá:
+
+•	Faisnéis faoi Samsung account. Bailímid faisnéis a bhaineann le do Samsung account a úsáidtear leis an tSeirbhís a rochtain, amhail ID do Samsung account.
+
+•	Idirghníomhaíochtaí leis an tSeirbhís. Bailímid faisnéis a mhalartaíonn tú trí do chuid idirghníomhuithe leis an tSeirbhís, lena n-áirítear faisnéis faoi ghlaoiteoirí agus faighteoirí, faisnéis faoi sheoltóirí agus faighteoirí teachtaireachtaí, inneachar teachtaireachtaí a sheolann agus a fhaigheann tú, agus do stair glaonna agus teachtaireachtaí ar fheidhmchláir fóin chliste. Ina theannta sin, baileofar faisnéis úsáide eile, amhail do chuid idirghníomhuithe tadhaill agus ionchur eile, agus an fhaisnéis a fhaigheann tú ón tSeirbhís (amhail freagairtí agus freagraí). Má chuireann tú faisnéis íogair (m.sh. faisnéis sláinte) isteach chuig an tSeirbhís, amhail teachtaireachtaí a sheolann nó a fhaigheann tú a bhfuil faisnéis íogair iontu, déanfar an fhaisnéis sin a bhailiú agus a phróiseáil freisin chun na gcríoch atá leagtha amach thíos. Ní dhéanfaimid faisnéis íogair den sórt sin a bhailiú go gníomhach gan toiliú follasach ar leith a fháil uait ar dtús nó de réir mar a fhoráiltear leis an dlí is infheidhme.
+
+•	Faisnéis Ghléis agus Feidhmchláir. Bailímid faisnéis ar bhealaí uathoibríocha faoi na gléasanna atá agat atá cumasaithe don tSeirbhís, amhail an uimhir fóin póca, an seoladh líonra MAC, aitheantóirí gléis, agus aitheantóirí uathúla eile.
+
+An Chaoi a nÚsáidimid an Fhaisnéis a Fhaighimid
+Úsáidimid an fhaisnéis a fhaighimid tríd an tSeirbhís chun na gcríoch seo a leanas:
+
+•	tú a aithint agus a fhíordheimhniú ionas go bhféadfaidh tú seirbhís áirithe a úsáid;
+•	an tSeirbhís a chur ar fáil duit, amhail athsheachadadh glaonna isteach agus amach idir do ghléasanna agus sioncronú do staire glaonna agus teachtaireachtaí ar do ghléasanna (fón cliste, uaireadóir, táibléad, ríomhaire glúine, srl.);
+•	d’eispéireas leis an tSeirbhís a fheabhsú agus a shaincheapadh;
+•	freagairt ar d’iarratais agus ar d’fhiosruithe;
+•	ár ngnó a fheidhmiú, a mheas, agus a fheabhsú (lena n-áirítear táirgí nua a fhorbairt; ár gcuid táirgí agus seirbhísí a fheabhsú agus cur leo; ár dteachtaireachtaí cumarsáide a bhainistiú; anailís a dhéanamh ar ár gcuid táirgí, ár mbonn custaiméirí, agus seirbhísí; taighde margaidh a dhéanamh; anailísíocht sonraí a dhéanamh; agus feidhmeanna cuntasaíochta, iniúchóireachta, agus feidhmeanna inmheánacha eile a dhéanamh);
+•	cur ar do chumas idirghníomhú le feidhmchláir nó seirbhísí tríú páirtí áirithe agus iad a úsáid;
+•	cosaint in aghaidh calaoise agus gníomhaíocht choiriúil eile, éileamh, agus dliteanais eile, sainaithint a dhéanamh orthu agus iad a chosc; agus
+•	na riachtanais dhlíthiúla is infheidhme, caighdeáin tionscail ábhartha, agus ár mbeartais a chomhlíonadh agus a fhorfheidhmiú, lena n-áirítear an Fógra Príobháide seo, agus Beartas Príobháide Samsung.
+
+Tríd an tSeirbhís, féadfaimid faisnéis phearsanta a bhailiú faoi do chuid gníomhaíochtaí ar líne ar na gléasanna atá cumasaithe don tSeirbhís le himeacht ama agus thar feidhmchláir a bhaineann le seirbhísí curtha glaonna agus teachtaireachtaí d’fhóin chliste. Féadfaimid seirbhísí anailísíochta tríú páirtí a úsáid ar an tSeirbhís. Cabhraíonn na soláthraithe a riarann na seirbhísí anailísíochta sin linn anailís a dhéanamh ar úsáid na Seirbhíse agat agus an tSeirbhís a fheabhsú. Féadfaidh sé go nochtfar an fhaisnéis a fhaighimid do na soláthraithe sin agus do thríú páirtithe ábhartha eile a úsáideann an fhaisnéis, nó go mbaileoidh siadsan an fhaisnéis sin go díreach, mar shampla, le húsáid na Seirbhís a mheas, le cabhrú linn an tSeirbhís a chur ar fáil, agus le diagnóis a dhéanamh ar fhadhbanna teicniúla.
+
+
+Déanann Samsung sonraí pearsanta a phróiseáil chun na gcríoch a bhfuil cur síos déanta orthu thuas. Áirítear le bonn dlíthiúil Samsung maidir le sonraí pearsanta a phróiseáil, próiseáil atá: riachtanach leis an gconradh atá ann idir tusa agus Samsung a chomhlíonadh (mar shampla, leis an tSeirbhís a chur ar fáil duit agus le tú a aithint agus a fhíordheimhniú ionas go bhféadfaidh tú seirbhís áirithe a úsáid); riachtanach le riachtanais dhlíthiúla a chomhlíonadh (mar shampla, leis na rialacha cuntasaíochta is infheidhme a chomhlíonadh agus le nochtuithe éigeantacha a dhéanamh le húdaráis um fheidhmiú an dlí); riachtanach i gcomhair leasanna dlisteanacha Samsung (mar shampla, lenár gcaidreamh leatsa a bhainistiú agus leis an tSeirbhís a fheabhsú); agus atá bunaithe ar thoiliú ar leith a fháil uait (mar shampla, le cumarsáid a dhéanamh leat faoi tháirgí agus faoi sheirbhísí dár gcuid agus le faisnéis mhargaíochta a chur ar fáil duit), rud a fhéadfar a tharraingt siar ag aon am ach teagmháil a dhéanamh linn de réir mar a shonraítear san Fhógra Príobháide seo sa chuid Conas Teagmháil a Dhéanamh Linn, ach gan cur isteach ar dhlíthiúlacht na próiseála a tharla bunaithe ar an toiliú sin sular tarraingíodh siar é.
+
+Éilítear ort, mar ghné riachtanach de dhéanamh an chonartha, sonraí pearsanta a chur ar fáil dúinn lena bpróiseáil mar atá mínithe thuas. Mura gcuireann tú na sonraí pearsanta ar fáil dúinn, ní bheimid in ann na gnéithe uile a chuirtear ar fáil tríd an tSeirbhís a chur ar fáil duitse.
+
+Comhroinnt Faisnéise
+
+Ní nochtfaimid faisnéis phearsanta fútsa tríd an tSeirbhís, ach amháin mar a dhéantar cur síos air san Fhógra Príobháide seo. D’fhéadfadh sé go ndéanfadh líon teoranta ball d’fhoireann na Seirbhíse in Samsung sonraí pearsanta a rochtain agus a phróiseáil ar bhealaí eile i dtaca le freagrachtaí a bpoist nó lena ndualgais chonarthacha. Féadfaimid do chuid faisnéise pearsanta a chomhroinnt lenár bhfochuideachtaí agus cleamhnaithe agus le soláthraithe seirbhíse a dhéanann seirbhísí dúinn. Ní thugaimid údarás dár soláthraithe seirbhíse an fhaisnéis a úsáid ná a nochtadh ach amháin oiread agus is gá le seirbhísí a dhéanamh thar ár gceann nó le riachtanais dhlíthiúla a chomhlíonadh.
+
+Tá cuid den phearsanra, de na cleamhnaithe, agus de na soláthraithe seirbhíse tríú páirtí sin lonnaithe taobh amuigh den LEE (Limistéar Eorpach Eacnamaíoch), lena n-áirítear i dtíortha a bhféadfadh sé nach gcuirtear an leibhéal céanna cosanta sonraí ar fáil iontu le tír bhaile ár gcustaiméirí, amhail Poblacht na Cóiré, Stáit Aontaithe Mheiriceá, agus an tSeapáin, ach gan a bheith teoranta dóibh. Déanann Samsung bearta cuí lena chinntiú go mbíonn a leithéid d’fhaighteoirí faoi cheangal dualgais rúndachta agus cuireann Samsung bearta i bhfeidhm, amhail clásail chaighdeánacha chonarthacha maidir le cosaint sonraí, lena chinntiú go bhfanfaidh aon sonraí pearsanta a aistreofar cosanta agus slán. Féadfar cóip de na clásail sin a fháil ach teagmháil a dhéanamh linn de réir mar a shonraítear san Fhógra Príobháide seo sa chuid Conas Teagmháil a Dhéanamh Linn.
+
+Féadfaidh Samsung, ár bhfochuideachtaí agus cleamhnaithe, agus ár soláthraithe seirbhíse tríú páirtí faisnéis fútsa a nochtadh freisin (1) sa chás go n-éilítear orainn déanamh amhlaidh leis an dlí nó le próis dhlíthiúil (amhail ordú cúirte nó subpoena); (2) mar fhreagairt ar iarratais ó ghníomhaireachtaí rialtais, amhail údaráis um fheidhmiú an dlí; (3) lenár gcearta dlíthiúla a bhunú, a chleachtadh, nó a chosaint; (4) nuair a chreidimid go bhfuil nochtadh na faisnéise riachtanach nó iomchuí le díobháil fhisiciúil nó díobháil eile nó cailliúint airgid a chosc; (5) i dtaca le fiosrúchán maidir le gníomhaíocht mhídhleathach, cibé amhrasta nó iarbhír; (6) sa chás go ndíolfaimid nó go n-aistreoimid ár ngnó nó ár sócmhainní ar fad, nó cuid díobh (lena n-áirítear i gcás cumaisc, éadála, díola, aistriú, atheagrú, díscaoileadh, nó leachtú); nó (7) ar bhealaí eile tar éis toiliú ar leith a fháil uait.
+
+
+Coinneáil Sonraí Pearsanta
+
+Déanaimid bearta cuí lena chinntiú nach gcoinnítear an fhaisnéis maidir leat ach amháin bunaithe ar an loighic seo a leanas:
+1. an fad ama a úsáidtear an fhaisnéis leis an tSeirbhís a chur ar fáil duit ar a laghad;
+2. mar a éilítear leis an dlí, le conradh, nó maidir lenár ndualgais reachtúla; nó
+3. chomh fada agus is gá chun na críche a bailíodh í, a phróiseáiltear í, nó ar feadh tréimhse níos faide ná sin má éilítear amhlaidh le haon chonradh, leis an dlí is infheidhme, nó chun críocha staidrimh, faoi réir cosaintí iomchuí.
+
+Do Roghanna
+
+Tugaimid roghanna áirithe duit i leith na faisnéise pearsanta a fhaighimid fútsa. Le do shainroghanna a nuashonrú, teorainn a chur leis na teachtaireachtaí cumarsáide a fhaigheann tú uainn, nó iarratas a chur isteach, déan teagmháil linn de réir mar a shonraítear san Fhógra Príobháide seo sa rannán Conas Teagmháil a Dhéanamh Linn.
+
+Gabh chuig socruithe “Cian-nascadh” ar do ghléas le teacht ar na roghanna a d’fhéadfadh a bheith ar fáil duit i dtaca le húsáid na Seirbhíse agat. Tabhair do d’aire mura dtugann tú cead don tSeirbhís, féadfaidh sé nach mbeidh tú in ann na gnéithe uile atá ar fáil tríd an tSeirbhís a úsáid.
+
+Do Chearta
+
+Tá sé de cheart agat sonraí a iarraidh faoin bhfaisnéis a bhailímid maidir leat agus iarraidh orainn aon mhíchruinneas san fhaisnéis sin a cheartú; cur in aghaidh a próiseála nó srian a iarraidh ar an bpróiseáil sin, agus rochtain ar do chuid faisnéise a iarraidh, nó léirscriosadh nó inaistritheacht na faisnéise sin a iarraidh. Faoi réir na ndlíthe i roinnt dlínsí, féadfaimid diúltú d’iarratais a phróiseáil atá atriallach ar bhealach míréasúnta, a bhfuil iarracht dhíréireach theicniúil ag baint leo, a chuireann príobháid daoine eile i mbaol, atá an-neamhphraiticiúil go deo, nó nach n-éilítear ar bhealach eile leis an dlí áitiúil go mbeidh rochtain ar fáil ina leith. Más mian leat iarratas a dhéanamh le do chuid faisnéise a rochtain, déan teagmháil linn trí ghabháil chuig ár Leathanach Tacaíochta Príobháide (https://www.samsung.com/request-desk).
+
+Má iarrann tú go scriosfaí faisnéis phearsanta, beidh tú ag admháil go bhféadfaidh sé nach mbeidh tú in ann na Seirbhísí Gnó a rochtain ná a úsáid agus go mbeidh faisnéis phearsanta iarmharach fós i dtaifid agus i gcartlanna Samsung go ceann tamaill, de réir an dlí is infheidhme, ach nach n-úsáidfidh Samsung an fhaisnéis sin chun críocha tráchtála. Tuigfidh tú, in ainneoin gur iarr tú go scriosfaí an fhaisnéis, go gcoimeádfaidh Samsung an ceart aige féin do chuid faisnéise pearsanta, nó cuid ábhartha di, a choinneáil de réir ár mbeartais coinneála sonraí agus de réir na ndlíthe is infheidhme, más rud é go bhfuil Samsung tar éis do rochtain ar an láithreán gréasáin a chur ar fionraí, a theorannú, nó a fhoirceannadh de bharr gur sháraigh tú Téarmaí Seirbhíse Samsung, nuair is gá déanamh amhlaidh le cearta, maoin, nó sábháilteacht Samsung, nó aon chleamhnaithe, comhpháirtithe gnó, fostaithe, nó custaiméirí dár gcuid, faoi seach, a chosaint.
+
+An Chaoi a gCosnaímid Faisnéis Phearsanta
+
+Tá cosaintí cuí riaracháin, teicniúla, agus fisiciúla i bhfeidhm againn atá ceaptha le faisnéis phearsanta a fhaighimid tríd an tSeirbhís a chosaint ionas nach ndéanfar an fhaisnéis sin a scriosadh, a chailleadh, a athrú, a rochtain, a nochtadh, ná a úsáid, agus le nach gcuirfear isteach uirthi, de thaisme, go mídhleathach, ná go neamhúdaraithe. Tá nósanna imeachta réasúnta i bhfeidhm ag Samsung freisin d’fhonn iontaofacht a leithéid de shonraí a chinntiú le haghaidh na húsáide atá beartaithe dóibh agus go mbeidh siad cruinn, iomlán, agus reatha.
+
+Nuashonruithe ar ár bhFógra Príobháide
+
+Féadfar an Fógra Príobháide seo a nuashonrú go tréimhsiúil chun athruithe ar ár gcleachtais i ndáil le faisnéis phearsanta a léiriú i leith na Seirbhíse, nó i leith athruithe ar an dlí is infheidhme. Cuirfimid fógra suas ar ár láithreán gréasáin agus/nó ar do ghléas le fógra roimh ré a thabhairt duit faoi athruithe ábhartha ar ár bhFógra Príobháide agus luafar ag barr an fhógra an uair a rinneadh é a nuashonrú go deireanach.
+
+Conas Teagmháil a Dhéanamh Linn
+
+Má bhíonn ceisteanna ar leith agat, déan teagmháil linn (Rialaitheoir Sonraí don AE) ag:
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+Is féidir leat teagmháil a dhéanamh linn freisin trí ghabháil chuig ár Leathanach Tacaíochta Príobháide (https://www.samsung.com/request-desk).
+
+Féadfaidh tú gearán a dhéanamh le húdarás maoirseachta má mheasann tú go sáraíonn próiseáil do chuid sonraí pearsanta againn an dlí is infheidhme.

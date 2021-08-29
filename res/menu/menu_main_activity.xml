@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/select_sim_card" android:visible="false" android:title="@string/select_sim_card" />
+    <item android:id="@id/move_contacts" android:visible="false" android:title="@string/move_contacts_more_options_menu" />
+    <item android:id="@id/remove" android:visible="false" android:title="@string/remove" />
+    <item android:id="@id/development_settings" android:visible="false" android:title="@string/developer_options" />
+    <item android:id="@id/register_device" android:visible="false" android:title="@string/link_this_tablet_to_your_phone" />
+    <item android:id="@id/help_me" android:visible="false" android:title="@string/help" />
+    <item android:id="@id/contact_us" android:visible="false" android:title="@string/contact_us" />
+    <item android:id="@id/privacy_policy" android:visible="false" android:title="@string/privacy_policy" />
+    <item android:id="@id/personal" android:visible="false" android:title="@string/personal_data" />
+    <item android:id="@id/about" android:visible="false" android:title="@string/about_cmc" />
+    <item android:id="@id/debug_activity" android:visible="false" android:title="CMC TEST MODE" />
+</menu>

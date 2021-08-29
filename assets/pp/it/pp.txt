@@ -1,0 +1,98 @@
+﻿Comunicazione sulla Privacy di Call & Message Continuity
+
+Data di entrata in vigore: 30/03/2018
+
+Samsung Electronics (UK) Limited (“Samsung”) e le sue consociate prendono in seria considerazione la privacy dell’utente. La presente Comunicazione sulla Privacy si applica ai dati personali che Samsung raccoglie tramite il servizio Call & Message Continuity (il “Servizio”). Non si applica ai dati raccolti tramite applicazioni, siti Web o servizi diversi forniti da Samsung o dalle sue consociate.
+
+Il Servizio è un servizio di comunicazione tra dispositivi multipli. Le funzioni includono relè di chiamate in entrata e in uscita, cronologia chiamate e messaggi e sincronizzazione dei messaggi tra il dispositivo principale (ad esempio, lo smartphone in uso) e i dispositivi secondari (ad esempio, orologio, tablet, portatile, ecc.) in modo che l’utente sia in grado di ricevere le chiamate in entrata e leggere i messaggi sui propri dispositivi secondari e di effettuare chiamate in uscita e inviare nuovi messaggi utilizzando il dispositivo principale.
+
+Per utilizzare il Servizio, l’utente dovrà innanzitutto accedere a un Samsung account sia sul dispositivo primario che sui dispositivi secondari. Nel caso in cui il dispositivo secondario sia un orologio, l’utente dovrà innanzitutto configurare un servizio di rete effettuando la sottoscrizione di un piano di connessione dati tramite il sistema fornito dal proprio operatore di rete che consenta di utilizzare il proprio numero di telefono con l’orologio personale. Nel caso in cui il dispositivo secondario sia un tablet che supporti solo dati, l’utente dovrà configurare una connessione con una rete Wi-Fi o con il sistema fornito dal proprio operatore di rete che consenta di utilizzare il tablet. L’Informativa sulla privacy di Samsung disponibile all’indirizzo https://account.samsung.com/membership/pp (“Informativa sulla privacy di Samsung”) si applicherà all’utilizzo del Samsung account e di Call & Message Continuity da parte dell’utente. La presente Comunicazione sulla Privacy fornisce ulteriori informazioni sulla modalità di trattamento dei dati personali dell’utente con il Servizio e dovrà essere letta insieme all’Informativa sulla privacy di Samsung.
+
+Nella presente Comunicazione sulla Privacy Samsung descrive i tipi di dati raccolti tramite il Servizio, il modo in cui li potrà trattare, per quanto tempo li potrà conservare, con chi li potrà condividere e le scelte che l’utente potrà operare in merito all’uso dei dati da parte di Samsung e all’esercizio dei propri diritti. Samsung descrive inoltre le misure che adotta per la tutela dei dati e comunica all’utente come contattarla in merito alle procedure sulla privacy. Samsung è la titolare del trattamento dei dati personali.
+
+L’utente dovrà fare clic su uno dei collegamenti che seguono per passare alla sezione elencata:
+
+•	Dati ricevuti da Samsung
+•	Modalità di trattamento dei dati raccolti da Samsung
+•	Condivisione dei dati
+•	Conservazione dei dati personali
+•	Scelte dell’utente
+•	Diritti dell’utente
+•	Modalità di protezione dei dati personali da parte di Samsung
+•	Aggiornamenti della Comunicazione sulla Privacy di Samsung
+•	Come contattarci
+
+Dati ricevuti da Samsung
+
+Tramite il Servizio Samsung ottiene dati relativi all’utente in diversi modi. I tipi di dati personali che Samsung riceve includono:
+
+•	Dati relativi al Samsung account. Samsung raccoglie i dati associati al Samsung account che l’utente utilizza per l’accesso al Servizio, ad esempio l’ID del Samsung account.
+
+•	Interazioni con il Servizio. Samsung raccoglie i dati che l’utente scambia attraverso le interazioni con il Servizio, tra cui i dati relativi ai chiamanti e ai destinatari delle chiamate, i dati relativi ai mittenti e ai destinatari dei messaggi, il contenuto dei messaggi inviati e ricevuti e la cronologia delle chiamate e dei messaggi sulle applicazioni dello smartphone. Samsung raccoglierà anche altri dati sull’utilizzo, quali le interazioni touch e altri input dell’utente, nonché i dati che l’utente riceverà tramite il Servizio (ad esempio, reazioni e risposte). Qualora l’utente invii al Servizio dati di natura sensibile (ad esempio, dati sul suo stato di salute), come i messaggi inviati o ricevuti contenenti dati sensibili, anch’essi verranno raccolti e trattati per le finalità stabilite di seguito. Samsung non raccoglierà attivamente tali dati senza avere prima ottenuto il consenso esplicito e specifico dell’utente o nella modalità stabilita dalla legge applicabile.
+
+•	Dati sui dispositivi e le applicazioni. Samsung utilizza mezzi automatizzati per raccogliere le informazioni sui dispositivi dell’utente abilitati al Servizio, ovvero il numero di cellulare, l’indirizzo MAC della rete, gli identificatori dei dispositivi e altri identificatori univoci.
+
+Modalità di trattamento dei dati raccolti da Samsung
+Samsung utilizza i dati che riceve attraverso il Servizio per:
+
+•	identificare e autenticare l’utente in modo che possa utilizzare un determinato servizio;
+•	erogare all’utente il Servizio, ad esempio il relè delle chiamate in entrata e in uscita tra i dispositivi e la sincronizzazione della cronologia delle chiamate e dei messaggi dell’utente sui dispositivi in uso (smartphone, orologio, tablet, portatile, ecc.);
+•	migliorare e personalizzare l’esperienza dell’utente con il Servizio;
+•	rispondere alla richieste e alle domande dell’utente;
+•	gestire, valutare e migliorare la propria attività (inclusi lo sviluppo di nuovi prodotti, l’ottimizzazione e il miglioramento dei prodotti esistenti e dei servizi, la gestione delle proprie comunicazioni, l’analisi dei propri prodotti, della base di clienti e dei servizi, lo svolgimento di ricerche di mercato, l’analisi dei dati e l’esecuzione delle funzioni di contabilità, controllo e di altre funzioni interne);
+•	consentire all’utente di interagire con determinati servizi e applicazioni di terzi e di utilizzarli;
+•	proteggere da frodi e da altre attività illecite, reclami e altre responsabilità, nonché per individuarle e prevenirle e
+•	conformarsi a, e attuare, i requisiti legali, gli standard specifici del settore e le informative di Samsung applicabili, tra cui la presente Comunicazione sulla Privacy e l’Informativa sulla privacy di Samsung.
+
+Tramite il Servizio Samsung potrà raccogliere dati personali sulle attività online svolte nel tempo dall’utente sui dispositivi abilitati al Servizio e su applicazioni correlate ai servizi di chiamata e messaggistica tramite smartphone. Samsung potrà utilizzare servizi di analisi di terzi sul Servizio. I provider che gestiscono tali servizi di analisi aiutano Samsung ad analizzare l’utilizzo del Servizio da parte dell’utente e a migliorarlo. I dati che Samsung ottiene potranno essere divulgati a, o direttamente raccolti da, tali provider e altri terzi pertinenti che li utilizzeranno, ad esempio, per valutare l’uso del Servizio, facilitarne l’erogazione e diagnosticare problemi tecnici.
+
+
+Samsung tratta i dati personali per le finalità descritte sopra. Il trattamento dei dati personali da parte di Samsung è legale qualora sia: necessario per l’adempimento del contratto stipulato tra l’utente e Samsung (ad esempio, per erogare all’utente il Servizio e per identificare e autenticare l’utente in modo che possa utilizzare un determinato servizio), necessario per conformarsi ai requisiti legali (ad esempio, per conformarsi alle regole contabili applicabili e per effettuare divulgazioni obbligatorie alle forze dell’ordine), necessario per gli interessi legittimi di Samsung (ad esempio, per gestire le relazioni di Samsung con l’utente e per migliorare il Servizio) e basato sull’ottenimento del consenso specifico dell’utente (ad esempio, per comunicare con l’utente riguardo ai prodotti e ai servizi di Samsung e per fornire all’utente informazioni commerciali). Tale consenso potrà successivamente essere revocato in qualsiasi momento contattando Samsung come indicato alla sezione Come contattarci della presente Comunicazione sulla Privacy, senza compromettere la legittimità del trattamento sulla base del consenso accordato prima della sua revoca.
+
+Per stipulare il contratto, l’utente dovrà fornire i dati personali per il trattamento di cui sopra. Diversamente, Samsung non sarà in grado di fornire all’utente tutte le funzioni disponibili tramite il Servizio.
+
+Condivisione dei dati
+
+Samsung non divulga dati personali dell’utente tramite il Servizio, tranne nella modalità descritta nella presente Comunicazione sulla Privacy. Solo un numero limitato di addetti Samsung al Servizio potrà accedere e trattare in modo diverso i dati personali in base alle proprie responsabilità professionali o ai propri obblighi contrattuali. Samsung potrà condividere i dati personali dell’utente con le proprie filiali e consociate e con i provider di servizi terzi che erogano i servizi per loro conto. Samsung non autorizza i propri provider di servizi a utilizzare o a divulgare i dati, tranne nella misura necessaria per erogare i servizi per suo conto o per conformarsi a requisiti legali.
+
+Alcuni di tali addetti, consociate e provider di servizi terzi hanno sede al di fuori dello Spazio Economico Europeo, in paesi che potrebbero non fornire lo stesso livello di protezione dei dati che è garantito nel paese di residenza dei clienti Samsung, tra cui, a titolo esemplificativo, la Repubblica di Corea, gli Stati Uniti d’America e il Giappone. Samsung adotta misure appropriate per assicurarsi che tali destinatari siano vincolati da obblighi di riservatezza e implementa misure, quali clausole contrattuali tipo per la protezione dei dati, al fine di garantire che i dati personali trasferiti rimangano protetti e al sicuro. L’utente può ottenere una copia di tali clausole contattando Samsung come indicato nella sezione Come contattarci della presente Comunicazione sulla Privacy.
+
+Samsung, le sue filiali e consociate e i suoi provider di servizi terzi potranno inoltre divulgare i dati dell’utente (1) qualora Samsung sia obbligata ad attenersi a disposizioni di legge o a quanto sancito nell’ambito di un’azione legale (ad esempio, un provvedimento del tribunale o un ordine di comparizione), (2) in risposta a richieste avanzate da enti governativi, quali le forze dell’ordine, (3) per stabilire, esercitare o difendere i propri diritti legali, (4) quando Samsung ritiene che la divulgazione sia necessaria o appropriata per impedire danni fisici o di altro tipo, o perdite finanziarie, (5) in relazione a indagini per presunte o appurate attività illegali, (6) nel caso in cui Samsung venda o trasferisca in toto o in parte la propria azienda o attività (anche nel caso di fusione, acquisizione, vendita, trasferimento, riorganizzazione, scioglimento o liquidazione) o (7) in altro modo con il consenso specifico dell’utente.
+
+
+Conservazione dei dati personali
+
+Samsung adotta misure appropriate per garantire che i dati dell’utente vengano conservati:
+1. almeno per il tempo necessario a erogare il Servizio all’utente;
+2. in conformità alla legge, a un contratto o relativamente agli obblighi legali di Samsung o
+3. per il tempo necessario ad adempiere allo scopo per il quale vengono raccolti, trattati, o per un tempo più lungo, qualora sia richiesto ai sensi di un contratto, dalla legge applicabile o per fini statistici, purché soggetti a tutele appropriate.
+
+Scelte dell’utente
+
+Samsung offre all’utente la possibilità di operare determinate scelte in relazione ai dati personali di cui Samsung è in possesso. Per aggiornare le proprie preferenze, limitare le comunicazioni che riceve da Samsung o inviare una richiesta, l’utente potrà contattare Samsung all’indirizzo indicato alla sezione Come contattarci della presente Comunicazione sulla Privacy.
+
+L’utente può accedere alle impostazioni di “Connessione remota” sul proprio dispositivo per vedere le scelte disponibili per l’utilizzo del Servizio. L’utente che neghi il proprio consenso al Servizio non potrà utilizzare tutte le funzioni disponibili tramite il Servizio.
+
+Diritti dell’utente
+
+L’utente ha il diritto di chiedere dettagli sui suoi dati personali raccolti da Samsung e di chiedere a Samsung di correggere eventuali imprecisioni presenti in tali dati, di opporsi al trattamento dei propri dati personali o di richiederne la restrizione, nonché di richiedere l’accesso ai propri dati personali, la loro cancellazione o portabilità. Ai sensi delle leggi di alcune giurisdizioni, Samsung potrà rifiutarsi di dar seguito a richieste che siano irragionevolmente ripetitive, che richiedano uno sforzo tecnico sproporzionato, che mettano a repentaglio la privacy altrui, che siano estremamente impraticabili o per le quali l’accesso non sia previsto dalla legge locale. Qualora l’utente desideri richiedere l’accesso ai dati che lo riguardano, potrà contattare Samsung visitando la pagina di supporto sulla privacy (https://www.samsung.com/request-desk).
+
+Qualora l’utente richieda l’eliminazione dei dati personali, dà atto che potrebbe non essere più in grado di accedere ai Servizi aziendali o di utilizzarli e che i dati personali rimasti potranno continuare a essere presenti nelle registrazioni e negli archivi di Samsung per un certo periodo, in conformità alla legge applicabile, ma che Samsung non li tratterà per scopi commerciali. L’utente comprende che, nonostante la sua richiesta di eliminazione, Samsung si riserva il diritto di conservare i suoi dati personali, o una parte rilevante di essi, in linea con l’informativa di Samsung sulla loro conservazione e le leggi applicabili, qualora Samsung abbia sospeso, limitato o interrotto l’accesso dell’utente al sito Web per violazione delle Condizioni di servizio di Samsung, quando necessario per proteggere i diritti, la proprietà o la sicurezza di Samsung o di una delle rispettive consociate o dei rispettivi partner commerciali, dipendenti o clienti.
+
+Modalità di protezione dei dati personali da parte di Samsung
+
+Samsung adotta precauzioni fisiche, amministrative e tecniche appropriate, studiate per proteggere i dati personali ricevuti tramite il Servizio da distruzione, interferenza, perdita, alterazione, accesso, divulgazione o utilizzo accidentale, illecito o non autorizzato. Samsung adotta anche procedure ragionevoli per garantire che tali dati siano attendibili in funzione dell’uso previsto e che siano accurati, completi e aggiornati.
+
+Aggiornamenti della Comunicazione sulla Privacy di Samsung
+
+La presente Comunicazione sulla Privacy potrà essere aggiornata periodicamente per tenere conto delle modifiche apportate alle procedure di Samsung sui dati personali in relazione al Servizio o delle modifiche della legge applicabile. Samsung pubblicherà una comunicazione sul proprio sito Web e/o sul dispositivo dell’utente per informarlo in anticipo di modifiche sostanziali alla Comunicazione sulla Privacy e indicherà nella parte superiore della comunicazione la data dell’ultimo aggiornamento.
+
+Come contattarci
+
+Per domande specifiche, l’utente può contattare Samsung (Titolare del trattamento dei dati per l’UE) all’indirizzo:
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+L’utente può contattare Samsung anche visitando la pagina di supporto sulla privacy (https://www.samsung.com/request-desk).
+
+L’utente potrà sporgere denuncia a un’autorità di controllo qualora ritenga che il trattamento dei suoi dati personali da parte di Samsung violi la legge applicabile.

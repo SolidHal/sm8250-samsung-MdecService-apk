@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="30" android:compileSdkVersionCodename="11" android:sharedUserId="android.uid.system" package="com.samsung.android.mdecservice" platformBuildVersionCode="30" platformBuildVersionName="11">
+    <protected-broadcast android:name="com.samsung.android.mdecservice.SMS_SENT"/>
+    <protected-broadcast android:name="com.samsung.android.mdecservice.POST_TIMEOUT"/>
+    <protected-broadcast android:name="com.samsung.android.mdecservice.CMC_SEND_RCS"/>
+    <protected-broadcast android:name="com.samsung.android.mdecservice.CMC_PAYLOAD_PROGRESS"/>
+    <protected-broadcast android:name="com.samsung.android.mdecservice.CMC_PUSH_RECEIVED"/>
+    <permission android:name="com.samsung.android.mdecservice.entitlement.gear.READ_ENTITLEMENT_PERMISSION" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="com.samsung.android.mdecservice.entitlement.gear.WRITE_ENTITLEMENT_PERMISSION" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="com.samsung.android.mdecservice.nms.READ_NMS_PERMISSION" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="com.samsung.android.mdecservice.nms.WRITE_NMS_PERMISSION" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="com.samsung.android.mdecservice.PERMISSION" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="com.samsung.android.mdecservice.nms.SEND_MESSAGE_VIA_CMC" android:protectionLevel="signature"/>
+    <permission android:name="com.samsung.android.mdec.provider.setting.CMC_ES_PERMISSION" android:protectionLevel="signatureOrSystem"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.READ_CALL_LOG"/>
+    <uses-permission android:name="android.permission.WRITE_CALL_LOG"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_SMS"/>
+    <uses-permission android:name="android.permission.SEND_SMS"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.UPDATE_APP_OPS_STATS"/>
+    <uses-permission android:name="android.permission.MODIFY_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.SEND_RESPOND_VIA_MESSAGE"/>
+    <uses-permission android:name="com.samsung.accessory.messageprovider.READ"/>
+    <uses-permission android:name="com.samsung.accessory.messageprovider.WRITE"/>
+    <uses-permission android:name="sec.android.permission.READ_MSG_PREF"/>
+    <uses-permission android:name="com.samsung.android.mdecservice.PERMISSION"/>
+    <uses-permission android:name="com.sec.imsservice.PERMISSION"/>
+    <uses-permission android:name="com.sec.imsservice.READ_IMS_PERMISSION"/>
+    <uses-permission android:name="com.sec.android.settings.permission.SOFT_RESET"/>
+    <uses-permission android:name="com.samsung.accessory.permission.ACCESSORY_FRAMEWORK"/>
+    <uses-permission android:name="android.permission.LOCAL_MAC_ADDRESS"/>
+    <uses-permission android:name="com.samsung.android.permission.SEM_AUTO_BIND_NOTIFICATION_LISTENER_SERVICE"/>
+    <uses-permission android:name="com.samsung.android.messaging.permission.READ_MESSAGE"/>
+    <uses-permission android:name="com.samsung.android.messaging.permission.WRITE_MESSAGE"/>
+    <uses-permission android:name="com.sec.spp.permission.TOKEN_4e6569e0fc9bf4bbb429a4c46560f90a666b142f93819bc9a9161eac19c6990481fefae30e504fae15a4e27d3ccee0239d44621f3539482905707d7d82f13cefab4e0708338d5cf9c960b472155e627e64ce2b759ac84c6edde8f35f422df7cc52429b227986a4abe015075f66027bd94e6b5cb1717a55a4d3c59d2e051ed9a5"/>
+    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="com.osp.app.signin.BROADCAST_PERMISSION"/>
+    <uses-permission android:name="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER"/>
+    <uses-permission android:name="com.samsung.android.hostmanager.permission.WRITE_APP_REGISTRY"/>
+    <uses-permission android:name="android.permission.READ_SEARCH_INDEXABLES"/>
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="com.samsung.android.samsungaccount.permission.ACCESS_SASETTINGS"/>
+    <uses-permission android:name="com.samsung.permission.WIFI_FACTORY_TEST"/>
+    <uses-permission android:name="android.Manifest.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="com.samsung.android.mdec.provider.setting.CMC_ES_PERMISSION"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+    <application android:allowBackup="false" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:defaultToDeviceProtectedStorage="true" android:directBootAware="true" android:extractNativeLibs="false" android:icon="@mipmap/ic_cmc" android:label="@string/app_name" android:name="com.samsung.android.mdecservice.mdec.MdecServiceApp" android:roundIcon="@mipmap/ic_cmc_round" android:supportsRtl="true" android:theme="@style/AppActionbarTheme" android:usesCleartextTraffic="true">
+        <meta-data android:name="cmc_message_compatibility_version" android:value="2"/>
+        <meta-data android:name="com.samsung.android.multiuser.disable_sub_user" android:value="true"/>
+        <meta-data android:name="com.samsung.android.samsungaccount.BroadcastReceive" android:value="true"/>
+        <uses-library android:name="imsmanager" android:required="false"/>
+        <receiver android:name="com.samsung.android.sdk.accessory.RegisterUponInstallReceiver">
+            <intent-filter>
+                <action android:name="com.samsung.accessory.action.REGISTER_AGENT"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.android.sdk.accessory.MessageReceiver">
+            <intent-filter>
+                <action android:name="com.samsung.accessory.action.MESSAGE_RECEIVED"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.samsung.android.sdk.accessory.SAService"/>
+        <service android:name="com.samsung.android.sdk.accessory.SAJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <service android:enabled="true" android:exported="false" android:name="com.samsung.android.mdecservice.entitlement.gm.GmService"/>
+        <service android:enabled="true" android:exported="false" android:name="com.samsung.android.mdecservice.entitlement.EntitlementService"/>
+        <service android:enabled="true" android:exported="false" android:name="com.samsung.android.mdecservice.authentication.SaService"/>
+        <service android:enabled="true" android:exported="false" android:name="com.samsung.android.mdecservice.entitlement.gm.MdecGearActivationManager"/>
+        <service android:enabled="true" android:exported="false" android:name="com.samsung.android.mdecservice.mdec.api.internal.DbDataSyncService"/>
+        <service android:enabled="true" android:exported="false" android:name="com.samsung.android.cmcsettings.view.aboutpage.ResetService"/>
+        <provider android:authorities="com.samsung.android.mdecservice.entitlementprovider" android:enabled="true" android:exported="false" android:name="com.samsung.android.mdecservice.entitlement.provider.EntitlementProvider"/>
+        <provider android:authorities="com.samsung.android.mdecservice.entitlement.gmcontentprovider" android:enabled="true" android:exported="true" android:name="com.samsung.android.mdecservice.entitlement.gm.GmContentProvider" android:readPermission="com.samsung.android.mdecservice.entitlement.gear.READ_ENTITLEMENT_PERMISSION" android:writePermission="com.samsung.android.mdecservice.entitlement.gear.WRITE_ENTITLEMENT_PERMISSION"/>
+        <service android:exported="false" android:name="com.samsung.android.mdecservice.fcm.MdecInstanceIDListenerService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+            </intent-filter>
+        </service>
+        <service android:exported="false" android:name="com.samsung.android.mdecservice.fcm.FcmMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.samsung.android.mdecservice.nms.NmsService" android:permission="com.samsung.android.mdecservice.nms.SEND_MESSAGE_VIA_CMC">
+            <intent-filter>
+                <action android:name="com.samsung.android.mdecservice.nms.NmsService"/>
+            </intent-filter>
+        </service>
+        <activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" android:launchMode="singleTop" android:name="com.samsung.android.cmcsettings.view.secondaryDevices.detail.CallAndMessageDetailActivity" android:parentActivityName="com.samsung.android.cmcsettings.view.CMCMainActivity" android:theme="@style/App.Theme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:launchMode="singleTop" android:name="com.samsung.android.cmcsettings.view.help.HelpPageActivity" android:parentActivityName="com.samsung.android.cmcsettings.view.CMCMainActivity" android:theme="@style/App.Theme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="density|orientation|screenLayout|screenSize|smallestScreenSize" android:launchMode="singleTask" android:name="com.samsung.android.cmcsettings.view.CMCWrapperActivity" android:theme="@style/App.Theme">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="setting" android:scheme="cmc"/>
+            </intent-filter>
+        </activity>
+        <provider android:authorities="com.samsung.android.mdecservice.nms.NmsProvider" android:exported="true" android:grantUriPermissions="true" android:name="com.samsung.android.mdecservice.nms.NmsProvider" android:protectionLevel="normal" android:readPermission="com.samsung.android.mdecservice.nms.READ_NMS_PERMISSION" android:writePermission="com.samsung.android.mdecservice.nms.WRITE_NMS_PERMISSION">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/provider_paths"/>
+        </provider>
+        <provider android:authorities="com.samsung.android.mdecservice.nms.fileprovider" android:exported="false" android:grantUriPermissions="true" android:name="androidx.core.content.FileProvider">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/filepaths"/>
+        </provider>
+        <service android:exported="false" android:name="com.samsung.android.mdecservice.nms.notification.NotificationListenerService" android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE">
+            <intent-filter>
+                <action android:name="android.service.notification.NotificationListenerService"/>
+            </intent-filter>
+        </service>
+        <receiver android:name="com.samsung.android.mdecservice.nms.notification.WapMessageReceiver" android:permission="android.permission.BROADCAST_WAP_PUSH">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.WAP_PUSH_RECEIVED"/>
+                <data android:mimeType="application/vnd.wap.mms-message"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="true" android:exported="false" android:name="com.samsung.android.mdecservice.nms.config.EntitlementBroadcastReceiver">
+            <intent-filter>
+                <action android:name="com.samsung.android.mdecservice.CMC_ACTIVATED"/>
+                <action android:name="com.samsung.android.mdecservice.CMC_WATCH_ACTIVATED"/>
+            </intent-filter>
+        </receiver>
+        <meta-data android:name="AccessoryServicesLocation" android:value="/res/xml/accessoryservices.xml"/>
+        <meta-data android:name="GearAppType" android:value="tpk"/>
+        <meta-data android:name="com.samsung.android.notification.listener.autobind" android:value="user"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" android:label="@string/app_name_no_did" android:launchMode="singleTask" android:name="com.samsung.android.cmcsettings.view.CMCMainActivity" android:theme="@style/App.Theme">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="android.intent.action.VIEW"/>
+                <action android:name="com.android.settings.action.IA_SETTINGS"/>
+                <action android:name="settings.CMC_SETTINGS"/>
+            </intent-filter>
+            <meta-data android:name="com.android.settings.category" android:value="com.samsung.android.settings.category.ia.usefulfeatures"/>
+            <meta-data android:name="com.android.settings.keyhint" android:value="cmc_menu_setting"/>
+            <meta-data android:name="com.android.settings.PREFERENCE_TYPE" android:value="SwitchPreferenceScreen"/>
+            <meta-data android:name="com.android.settings.order" android:value="100000"/>
+        </activity>
+        <activity android:exported="false" android:label="@string/app_name_no_did" android:name="com.samsung.android.cmcsettings.view.welcome.CMCWelcomeActivity" android:screenOrientation="user" android:theme="@style/Welcome.Theme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:exported="false" android:name="com.samsung.android.cmcsettings.view.developmentsettings.ServerAddressEditDialog" android:parentActivityName="com.samsung.android.cmcsettings.view.developmentsettings.DevelopmentSettingsActivity" android:theme="@android:style/Theme.DeviceDefault.Light.Dialog.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:exported="false" android:name="com.samsung.android.cmcsettings.view.developmentsettings.DevelopmentSettingsActivity" android:parentActivityName="com.samsung.android.cmcsettings.view.CMCMainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <provider android:authorities="com.samsung.mdecservice.cmcsettings" android:enabled="true" android:exported="false" android:name="com.samsung.android.cmcsettings.settings.CmcSettingsProvider" android:permission="com.samsung.android.permission.SEC_DYNAMIC_MENU_PROVIDER" android:process="com.samsung.android.mdecservice">
+            <intent-filter>
+                <action android:name="com.samsung.android.settings.DYNAMIC_MENU_PROVIDER"/>
+            </intent-filter>
+        </provider>
+        <provider android:authorities="com.samsung.mdecservice.cmcsettings.cmcroutineactionprovider" android:exported="true" android:name="com.samsung.android.cmcsettings.settings.CmcRoutineActionProvider">
+            <intent-filter>
+                <action android:name="com.samsung.android.SDK.routine.ROUTINE_ACTION_UPDATE"/>
+            </intent-filter>
+            <meta-data android:name="com.samsung.android.SDK.routine.meta.ACTION" android:resource="@xml/actions_provider"/>
+        </provider>
+        <service android:exported="false" android:name="com.samsung.android.mdecservice.mdec.api.internal.SdJoinServiceHandler"/>
+        <service android:exported="false" android:name="com.samsung.android.mdecservice.mdec.api.internal.PdJoinServiceHandler"/>
+        <service android:exported="false" android:name="com.samsung.android.mdecservice.mdec.api.internal.EsRestApiServiceHandler"/>
+        <service android:exported="false" android:name="com.samsung.android.mdecservice.mdec.api.internal.DeletePrimaryDeviceHandler"/>
+        <service android:exported="false" android:name="com.samsung.android.mdecservice.mdec.api.internal.DeleteSecondaryDeviceHandler"/>
+        <service android:exported="false" android:name="com.samsung.android.mdecservice.mdec.api.internal.DeleteProvisionedDeviceHandler"/>
+        <service android:exported="false" android:name="com.samsung.android.mdecservice.mdec.api.internal.RefreshServiceHandler"/>
+        <service android:exported="false" android:name="com.samsung.android.mdecservice.mdec.api.internal.RegisterPdpHandler"/>
+        <service android:exported="false" android:name="com.samsung.android.mdecservice.mdec.api.internal.UpdatePhoneNumberHandler"/>
+        <service android:exported="false" android:name="com.samsung.android.mdecservice.mdec.api.internal.UpdateJoinedService"/>
+        <service android:enabled="true" android:icon="@drawable/sec_qs_tile_icon" android:label="@string/app_name_quick_panel_title" android:name="com.samsung.android.cmcsettings.UI.qstiles.MdecServiceTiles" android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" android:process=":QuickSettingsTile">
+            <intent-filter>
+                <action android:name="android.service.quicksettings.action.QS_TILE"/>
+            </intent-filter>
+            <meta-data android:name="android.service.quicksettings.SEM_DEFAULT_TILE_NAME" android:value="CMC"/>
+            <meta-data android:name="android.service.quicksettings.SEM_DEFAULT_TILE_USER_POLICY" android:value="OWNER"/>
+            <meta-data android:name="android.service.quicksettings.SEM_DEFAULT_TILE_STATE" android:value="OFF"/>
+        </service>
+        <activity android:name="com.samsung.android.cmcsettings.view.aboutpage.AboutPageActivity" android:parentActivityName="com.samsung.android.cmcsettings.view.CMCMainActivity" android:theme="@style/App.Theme"/>
+        <activity android:launchMode="singleTop" android:name="com.samsung.android.cmcsettings.view.aboutpage.OpenSourceLicenseActivity" android:parentActivityName="com.samsung.android.cmcsettings.view.aboutpage.AboutPageActivity" android:theme="@style/AppActionbarTheme"/>
+        <activity android:name="com.samsung.android.cmcsettings.view.welcome.PPActivity" android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"/>
+        <activity android:exported="false" android:name="com.samsung.android.cmcsettings.view.aboutpage.DeveloperActivity" android:parentActivityName="com.samsung.android.cmcsettings.view.CMCMainActivity"/>
+        <activity android:name="com.samsung.android.cmcsettings.view.CMCBaseActivity"/>
+        <activity android:name="com.samsung.android.cmcsettings.view.MdecEventListenerActivity"/>
+        <activity android:exported="false" android:name="com.samsung.android.cmcsettings.view.routine.ConfigActivity" android:theme="@style/Theme.AppCompat.DayNight.Dialog"/>
+        <receiver android:enabled="false" android:exported="false" android:name="com.samsung.android.mdecservice.mdec.receivers.implicit.BootCompleteReceiver">
+            <intent-filter android:priority="1000">
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <category android:name="android.intent.category.HOME"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.android.mdecservice.mdec.receivers.implicit.LockedBootCompleteReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.LOCKED_BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="true" android:exported="true" android:name="com.samsung.android.mdecservice.mdec.receivers.implicit.PackageEventReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_FULLY_REMOVED"/>
+                <data android:scheme="package" android:ssp="com.samsung.android.app.watchmanager"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="true" android:exported="true" android:name="com.samsung.android.mdecservice.mdec.receivers.implicit.SaEventReceiver">
+            <intent-filter>
+                <action android:name="com.samsung.account.SAMSUNGACCOUNT_SIGNOUT_COMPLETED"/>
+                <action android:name="com.samsung.account.SAMSUNGACCOUNT_SIGNIN_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="true" android:exported="true" android:name="com.samsung.android.mdecservice.mdec.receivers.implicit.BtAddressChangedReceiver">
+            <intent-filter>
+                <action android:name="com.samsung.bluetooth.adapter.action.BLUETOOTH_ADDRESS_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="false" android:name="com.samsung.android.mdecservice.mdec.api.internal.SdActivationSwitchHandler"/>
+        <service android:exported="false" android:name="com.samsung.android.mdecservice.mdec.api.internal.SetDeviceServiceMode"/>
+        <service android:exported="false" android:name="com.samsung.android.mdecservice.mdec.api.internal.CMCActivationHandler"/>
+        <service android:exported="false" android:name="com.samsung.android.mdecservice.mdec.api.internal.CMCDeactivationHandler"/>
+        <service android:enabled="true" android:name="com.samsung.android.cmcsettings.services.CMCUIForegroundService"/>
+        <service android:exported="false" android:name="com.samsung.android.mdecservice.mdec.services.MdecEventHandler"/>
+        <service android:name="com.samsung.android.cmcsettings.services.CMCUIBackgroundService"/>
+        <service android:exported="false" android:name="com.samsung.android.mdecservice.entitlement.checkservices.CheckFcmInfo"/>
+        <service android:exported="false" android:name="com.samsung.android.mdecservice.entitlement.checkservices.CheckSaInfo"/>
+        <service android:exported="false" android:name="com.samsung.android.mdecservice.entitlement.checkservices.CheckServerInfo"/>
+        <service android:exported="false" android:name="com.samsung.android.mdecservice.entitlement.checkservices.CheckWifiMacInfo"/>
+        <service android:exported="false" android:name="com.samsung.android.mdecservice.mdec.receivers.implicit.service.SaEventHandleService"/>
+        <provider android:authorities="com.samsung.android.mdec.api.ContentProviderApi" android:exported="true" android:name="com.samsung.android.mdecservice.mdec.api.contentprovider.ContentProiverApi"/>
+        <provider android:authorities="com.samsung.android.mdec.provider.setting" android:exported="true" android:name="com.samsung.android.mdecservice.mdec.api.contentprovider.SettingsInternalApi" android:permission="com.samsung.android.mdec.provider.setting.CMC_ES_PERMISSION"/>
+        <provider android:authorities="com.samsung.mdecservice.cmcsettings.CmcSearchProvider" android:exported="true" android:grantUriPermissions="true" android:name="com.samsung.android.cmcsettings.settings.CmcSearchProvider" android:permission="android.permission.READ_SEARCH_INDEXABLES">
+            <intent-filter>
+                <action android:name="android.content.action.SEARCH_INDEXABLES_PROVIDER"/>
+            </intent-filter>
+        </provider>
+        <provider android:authorities="com.samsung.android.mdecservice.provider.MdecUIStateProvider" android:exported="false" android:name="com.samsung.android.cmcsettings.settings.MdecUIStateProvider"/>
+        <receiver android:name="com.samsung.android.cmcsettings.receiver.CMCSettingsReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.SIM_STATE_CHANGED"/>
+                <action android:name="com.samsung.intent.action.ACTION_DEFAULT_DATA_SUBSCRIPTION_CHANGE_SUCCESS"/>
+                <action android:name="android.intent.action.LOCALE_CHANGED"/>
+                <action android:name="com.samsung.intent.action.EMERGENCY_STATE_CHANGED"/>
+                <action android:name="android.telecom.action.DEFAULT_DIALER_CHANGED"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.samsung.android.mdeccommon.samsunganalytics.MdecAnalyticsService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <receiver android:name="com.samsung.android.mdecservice.mdec.receivers.implicit.RetailModeReceiver" android:permission="com.samsung.sea.retailagent.permission.RETAILMODE">
+            <intent-filter>
+                <action android:name="com.samsung.sea.rm.DEMO_RESET_STARTED"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="true" android:name="com.google.firebase.messaging.FirebaseMessagingService">
+            <intent-filter android:priority="-500">
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.sec.android.diagmonagent.log.ged.scheduler.GEDJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <provider android:authorities="com.samsung.android.mdecservice.lifecycle-process" android:exported="false" android:multiprocess="true" android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"/>
+        <service android:exported="false" android:name="com.google.firebase.components.ComponentDiscoveryService">
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.iid.Registrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+        </service>
+        <receiver android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementReceiver"/>
+        <receiver android:enabled="true" android:exported="true" android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver" android:permission="android.permission.INSTALL_PACKAGES">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER"/>
+            </intent-filter>
+        </receiver>
+        <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementService"/>
+        <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <receiver android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdService">
+            <intent-filter android:priority="-500">
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+            </intent-filter>
+        </service>
+        <provider android:authorities="com.samsung.android.mdecservice.firebaseinitprovider" android:exported="false" android:initOrder="100" android:name="com.google.firebase.provider.FirebaseInitProvider"/>
+        <activity android:exported="false" android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <service android:exported="false" android:name="androidx.room.MultiInstanceInvalidationService"/>
+        <meta-data android:name="SPDE.build.signature" android:value="c430ccda128c8b26b493d4afd032da4feb0158bb/69526674/release/MdecService-300039-3.0.00"/>
+        <meta-data android:name="SPDE.env.version" android:value="4.0.0/L30.1.18/0.9.14"/>
+    </application>
+</manifest>

@@ -1,0 +1,98 @@
+﻿Call & Message Continuityn Tietosuojailmoitus
+
+Voimaantulopäivä: 30.03.2018
+
+Samsung Electronics (UK) Limited (”Samsung” tai ”me”) ja sen konserniyhtiöt kunnioittavat tietosuojaasi liittyviä asioita. Tämä Tietosuojailmoitus koskee henkilökohtaisia tietoja, joita keräämme Call & Message Continuity -palvelulla (”Palvelu”). Se ei koske Samsungin tai sen konserniyhtiöiden tarjoamien muiden sovellusten, sivustojen tai palveluiden keräämiä tietoja.
+
+Palvelu on usean laitteen viestintäpalvelu. Sen ominaisuuksia ovat tulevien ja lähtevien puheluiden välittäminen, puhelu- ja viestihistoria ja viestien synkronointi ensisijaisen laitteen (esimerkiksi älypuhelimen) ja toissijaisten laitteiden (esimerkiksi kellon, tabletin ja läppärin) välillä siten, että voit vastaanottaa puheluita ja lukea viestejä toissijaisilla laitteillasi ja soittaa puheluita ja lähettää uusia viestejä ensisijaisella laitteella.
+
+Jos haluat käyttää Palvelua, sinun on kirjauduttava Samsung accountiisi sekä ensisijaisessa laitteessa että toissijaisissa laitteissa. Jos toissijainen laitteesi on kello, sinun on määritettävä verkkopalvelu tilaamalla verkko-operaattorin järjestelmästä mobiilidatapaketti, jolla voit käyttää kelloasi tavallisella puhelinnumerollasi. Jos toissijainen laitteesi on tablet, joka tukee vain datayhteyttä, sinun on määritettävä Wi-Fi-verkossa tai verkko-operaattorin järjestelmässä yhteys, jolla voit käyttää tabletiasi. Tietosuojakäytäntömme, joka on osoitteessa https://account.samsung.com/membership/pp, (”Samsungin Tietosuojakäytäntö”) koskee Samsung accountin ja Call & Message Continuityn käyttöä. Tämä Tietosuojailmoitus antaa lisätietoja siitä, miten henkilökohtaisia tietojasi käytetään Palvelun yhteydessä, ja se tulee lukea yhdessä Samsungin Tietosuojakäytännön kanssa.
+
+Tässä Tietosuojailmoituksessa kuvataan Palvelun kautta kerättyjen tietojen tyypit, se, miten tietoja voidaan käyttää, se, kuinka pitkään tietoja voidaan säilyttää, samoin kuin se, keille niitä voidaan jakaa sekä käytettävissäsi olevat tietojen käyttöön ja oikeuksien valvomiseen liittyvät vaihtoehdot. Kuvaamme myös toimia, joilla suojaamme tietoja, ja kerromme, kuinka voit ottaa meihin yhteyttä tietosuojakäytäntöihin liittyvissä asioissa. Samsung on henkilökohtaisten tietojen rekisterinpitäjä.
+
+Siirry haluamaasi kohtaan napsauttamalla jotakin alla olevista linkeistä:
+
+•	Hankkimamme tiedot
+•	Saatujen tietojen käyttötavat
+•	Tietojen jakaminen
+•	Henkilökohtaisten tietojen säilyttäminen
+•	Valintasi
+•	Käyttäjän oikeudet
+•	Henkilökohtaisten tietojesi suojaaminen
+•	Tietosuojailmoituksen päivitykset
+•	Yhteystiedot
+
+Hankkimamme tiedot
+
+Hankimme Palvelun kautta sinua koskevia tietoja eri tavoilla. Samsungin hankkimien henkilökohtaisten tietojen tyyppejä ovat seuraavat:
+
+•	Samsung accountin tiedot. Keräämme Palvelun käyttämiseen käytettävään Samsung accountiisi liittyviä tietoja, kuten Samsung account -tunnuksesi.
+
+•	Vuorovaikutus Palvelun kanssa. Keräämme tietoja, joita vaihdat Palvelua käyttäessäsi, kuten tietoja soittajasta ja vastaanottajasta, tietoja viestin lähettäjistä ja vastaanottajista, lähetettävien ja vastaanotettavien viestien sisällöstä sekä älypuhelinsovellusten puhelu- ja viestihistoriasta. Keräämme myös muita käyttötietoja, kuten tiedot kosketustoiminnoista ja muusta syötteestä, ja Palvelusta vastaanottamasi tiedot (kuten vastaukset). Jos annat Palvelulle tietoja, jotka ovat luottamuksellisia (eli terveystietoja), kuten lähettämäsi ja vastaanottamasi luottamuksellisia tietoja sisältävät viestit, myös ne kerätään ja käsitellään seuraavassa määritettyihin tarkoituksiin. Emme aktiivisesti kerää näitä tietoja pyytämättä ensin nimenomaista lupaasi tai muuten kuin sovellettavan lain mukaisesti.
+
+•	Laite- ja sovellustiedot. Keräämme automaattisin keinoin Palvelua käyttävistä laitteista tietoja, kuten matkapuhelinnumeron, verkon MAC-osoitteen, laitetunnisteet ja muut yksilölliset tunnisteet.
+
+Saatujen tietojen käyttötavat
+Käytämme Palvelun kautta keräämiämme tietoja seuraaviin asioihin:
+
+•	tunnistaaksemme ja todentaaksemme sinut, jotta voit käyttää tiettyä palvelua
+•	toimittaaksemme sinulle Palvelun, kuten saapuvien ja lähtevien puheluiden välittämisen laitteittesi välillä sekä puheluhistorian ja viestien synkronoinnin laitteissasi (älypuhelimessa, kellossa, tabletissa, läppärissä ja niin edelleen)
+•	parantaaksemme ja mukauttaaksemme kokemustasi Palvelussa
+•	vastataksemme pyyntöihisi ja kyselyihisi
+•	Samsungin liiketoiminnan harjoittamiseksi, arvioimiseksi ja parantamiseksi (mukaan lukien uusien tuotteiden kehittäminen; tuotteiden ja palvelujen parantaminen; viestinnän hallinta; tuotteiden, asiakaspohjan ja palveluiden analysointi; markkinatutkimuksen tekeminen; tilastojen tekeminen ja kirjanpidon, auditoinnin sekä muiden sisäisten toimintojen tekeminen)
+•	antaaksemme sinun käyttää tiettyjä kolmannen osapuolen sovelluksia ja palveluita
+•	suojautuaksemme petokselta ja muulta rikolliselta toiminnalta ja korvausvaatimuksilta, tunnistaaksemme ne ja estääksemme ne
+•	noudattaaksemme sovellettavia juridisia vaatimuksia, alan standardeja ja omia käytäntöjämme, kuten tätä Tietosuojailmoitusta ja Samsungin Tietosuojakäytäntöä, ja toimeenpannaksemme ne.
+
+Samsung voi Palvelun kautta kerätä henkilökohtaisia tietoja verkkotoiminnastasi Palvelua käyttävissä laitteissa ja sovelluksissa, jotka liittyvät älypuhelimen puhelu- ja viestipalveluihin. Voimme käyttää Palvelussa kolmannen osapuolen analyysipalveluita. Näitä analyysipalveluita hallinnoivat palveluntarjoajat auttavat meitä analysoimaan Palvelun käyttöäsi ja parantamaan Palvelua. Hankkimamme tiedot voidaan julkaista näille palveluntarjoajille tai muille asianmukaisille kolmansille osapuolille, tai nämä voivat kerätä niitä suoraan. Nämä tahot käyttävät tietoja esimerkiksi arvioidakseen Palvelun käyttöä samoin kuin auttamaan Palvelun tarjoamista ja suorittamaan teknisten ongelmien vianmäärityksen.
+
+
+Samsung käsittelee henkilökohtaisia tietoja edellä kuvattuihin tarkoituksiin. Samsungin juridinen perusta henkilökohtaisten tietojen käsittelyyn, joka on tarpeen sinun ja Samsungin välisen sopimuksen toimeenpanemiseksi (esimerkiksi jotta sinulle voidaan toimittaa Palvelua ja jotta sinut voidaan tunnistaa ja todentaa sekä jotta voit käyttää tiettyä palvelua). Tämä perusta on tarpeen myös lakivaatimusten noudattamiseksi (esimerkiksi sovellettavien kirjanpitosääntöjen noudattamiseksi ja pakollisten viranomaisilmoitusten tekemiseksi), samoin se on tarpeen Samsungin juridisten omaisuuksien yhteydessä (esimerkiksi sinun ja Samsungin välisen suhteen hallinnoimiseksi ja Palvelun parantamiseksi), ja se perustuu asiakkailtamme saatuun lupaan (joka mahdollistaa esimerkiksi sinulle osoitetun tuotteitamme ja palveluitamme koskevan viestinnän sekä markkinointitietojen toimittamisen sinulle). Se voidaan myöhemmin kumota koska tahansa ottamalla meihin yhteyttä tämän Tietosuojailmoituksen Yhteystiedot-kohdassa määritetyllä tavalla tämän vaikuttamatta lupaan perustuvan käsittelyn laillisuuteen ennen luvan kumoamista.
+
+Sinun on annettava henkilökohtaisia tietoja käsittelyä varten edellä kuvatulla tavalla, jotta voit solmia sopimuksen. Jos et anna meille henkilökohtaisia tietoja, emme voi toimittaa sinulle kaikkia Palvelun kautta saatavilla olevia toimintoja.
+
+Tietojen jakaminen
+
+Emme julkaise henkilökohtaisia tietojasi Palvelun kautta muulla kuin tässä Tietosuojailmoituksessa kuvatulla tavalla. Samsungin Palvelutiimin rajoitetut jäsenet voivat käyttää ja käsitellä henkilökohtaisia tietoja työtehtävissään tai sopimusvelvoitteiden puitteissa. Voimme jakaa henkilökohtaisia tietojasi tytäryhtiöillemme ja konserniyhtiöillemme sekä palveluntarjoajille, jotka suorittavat palveluita puolestamme. Emme valtuuta palveluntarjoajia käyttämään tai julkaisemaan tietoja millään muulla tavalla kuin on tarpeen palveluiden toimittamiseksi puolestamme tai lain asettamien vaatimusten noudattamiseksi.
+
+Jotkin näistä henkilöstön jäsenistä, konserniyhtiöistä ja kolmannen osapuolen palveluntarjoajista toimivat tai sijaitsevat EEA:n ulkopuolella, kuten sellaisissa maissa, joissa ei ehkä ole samantasoista tietosuojaa kuin asiakkaittemme kotimaassa. Näitä ovat rajoituksetta Etelä-Korea, Yhdysvallat ja Japani. Samsung ryhtyy kohtuullisiin toimiin sen varmistamiseksi, että nämä vastaanottajat noudattavat luottamuksellisuutta, ja Samsung käyttää esimerkiksi vakiotietosuojasopimuslausekkeita ja muita toimia varmistamaan, että siirretyt tiedot ovat suojattuja ja turvassa. Saat halutessasi näiden lausekkeiden kopion ottamalla meihin yhteyttä tämän Tietosuojailmoituksen Yhteystiedot-kohdassa määritetyllä tavalla.
+
+Samsung, sen tytäryhtiöt ja konserniyhtiöt ja kolmannen osapuolen palveluntarjoajamme voivat myös julkaista tietoja sinusta, (1) jos laki tai oikeustoimi (kuten oikeuden määräys tai haaste) edellyttää sitä, (2) vastauksena viranomaisten pyyntöihin, kuten lainvalvontaviranomaisille, (3) Samsungin juridisten oikeuksien toimeenpanemiseksi tai puolustamiseksi, (4) kun uskomme, että julkaiseminen on tarpeen tai sopivaa fyysisen tai muunlaisen harmin tai taloudellisen tappion estämiseksi, (5) epäillyn tai todellisen rikollisen toiminnan tutkinnan yhteydessä, (6) jos Samsung myy tai siirtää liiketoimintansa tai resurssinsa kokonaan tai osittain (mukaan lukien fuusio, hankinta, myynti, siirto, saneeraus, hajottaminen ja konkurssi) tai (7) muusta syystä erillisellä luvallasi.
+
+
+Henkilökohtaisten tietojen säilyttäminen
+
+Säilytämme sinua koskevia tietoja asianmukaisesti seuraavan logiikan mukaan:
+1. ainakin sen ajan, jolloin tietoja käytetään Palvelun toimittamiseksi
+2. lain, sopimuksen tai lain edellyttämien velvollisuuksien vaatimuksen mukaan
+3. vain sen ajan, joka on tarpeen siihen tarkoitukseen, jota varten niitä kerättiin tai käsiteltiin – tai pidempään, jos jokin sopimus tai sovellettava laki sitä vaatii, tai tilastotarkoituksiin asianmukaisin turvatoimin.
+
+Valintasi
+
+Tarjoamme tiettyjä valintamahdollisuuksia sinulta hankittavien henkilökohtaisten tietojen suhteen. Jos haluat päivittää asetuksesi, rajoittaa meiltä saamaasi viestintää tai lähettää pyynnön, ota meihin yhteyttä tämän Tietosuojailmoituksen kohdassa Yhteystiedot kuvatulla tavalla.
+
+Laitteesi Etäyhteys-asetuksissa on Palvelun käyttöön liittyviä vaihtoehtoja. Huomaa, että jos et anna Palvelun hankkia tai jakaa tiettyjä tietoja, et ehkä voi käyttää kaikkia Palvelun kautta saatavilla olevia ominaisuuksia.
+
+Käyttäjän oikeudet
+
+Sinulla on oikeus pyytää tietoja sinua koskevien tietojen keräämisestä ja pyytää korjaamaan näissä tiedoissa olevia virheitä, vastustaa henkilökohtaisten tietojesi käsittelyä tai pyytää tietojen käytön rajoitusta sekä pyytää omien henkilökohtaisten tietojesi poistamista tai siirtämistä. Joidenkin oikeustoimialueiden lakien mukaan Samsung voi kieltäytyä käsittelemästä pyyntöjä, jotka ovat tarpeettoman toistuvia, vaativat kohtuuttoman paljon teknistä vaivannäköä, vaarantavat muiden yksityisyyden tai ovat erittäin epäkäytännöllisiä taikka joissa paikallinen laki ei muulla tavoin edellytä käyttöoikeutta. Jos haluat tehdä tietojen käyttöpyynnön, käy tietosuojan tukisivulla (https://www.samsung.com/request-desk).
+
+Jos pyydät henkilökohtaisten tietojesi poistamista, hyväksyt sen, ettet ehkä voi käyttää Yrityspalveluita ja että henkilökohtaiset tiedot voivat olla Samsungin tietueissa ja arkistoissa jonkin aikaa sovellettavan lain noudattamiseksi, mutta Samsung ei käytä näitä tietoja kaupallisiin tarkoituksiin. Hyväksyt sen, että poistamispyynnöstäsi huolimatta Samsung pidättää itsellään oikeuden säilyttää henkilökohtaiset tietosi tai merkittävän osan niistä oman tietojensäilytyskäytäntönsä ja sovellettavien lakien mukaan, jos Samsung on jäädyttänyt, rajoittanut tai irtisanonut sivuston käyttöoikeutesi seurauksena siitä, että olet rikkonut Samsungin Palveluehtoja. Samsung säilyttää mainitut tiedot, jos se on tarpeen Samsungin, sen konserniyhtiön, liiketoimintakumppaneiden, työntekijöiden tai asiakkaiden oikeuksien, omaisuuden tai turvallisuuden suojaamiseksi tai takaamiseksi.
+
+Henkilökohtaisten tietojesi suojaaminen
+
+Ylläpidämme asianmukaisia hallinnollisia, teknisiä ja fyysisiä suojatoimia, jotka on suunniteltu suojaamaan Palvelun kautta saatuja henkilökohtaisia tietoja tahattomalta, laittomalta tai luvattomalta tuhoamiselta, häirinnältä, menettämiseltä, muutokselta, käytöltä tai julkaisemiselta. Samsung ylläpitää myös kohtuullisia menettelytapoja, joilla voidaan varmistaa, että kyseiset tiedot ovat luotettavia niiden tarkoitetussa käytössä ja että ne ovat oikeat, täydelliset ja ajan tasalla.
+
+Tietosuojailmoituksen päivitykset
+
+Tätä Tietosuojailmoitusta päivitetään säännöllisesti, jotta se heijastaa Samsungin henkilökohtaisten tietojen menettelyjen muutoksia, jotka koskevat Palvelua, tai muutoksia sovellettavassa lainsäädännössä. Julkaisemme ilmoituksen sivustoomme ja/tai laitteeseesi ilmoittamaan sinulle etukäteen Tietosuojailmoituksen merkittävistä muutoksista, ja ilmoituksen yläosassa näkyy, koska se on viimeksi päivitetty.
+
+Yhteystiedot
+
+Jos sinulla on kysyttävää, ota yhteyttä Samsungiin (EU:n rekisterinpitäjä) osoitteessa
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS, United Kingdom
+Voit ottaa yhteyttä myös käymällä tietosuojan tukisivulla (https://www.samsung.com/request-desk).
+
+Voit myös lähettää valituksen ylemmälle taholle, jos suorittamamme henkilökohtaisten tietojesi käsittely mielestäsi rikkoo sovellettavaa lakia.

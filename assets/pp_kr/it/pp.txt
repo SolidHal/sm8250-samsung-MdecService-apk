@@ -1,0 +1,18 @@
+Consenso alla raccolta e al trattamento dei dati personali
+
+Nel presente Consenso alla raccolta e al trattamento dei dati personali sono descritti i dati necessari per fornire le funzioni base dello smartphone, come, ad esempio, gli aggiornamenti del sistema operativo o del software per la correzione di errori.
+
+1. Dati raccolti da Samsung
+• Dati raccolti: IMEI, dati sui componenti, dati sullo stato del dispositivo, nome del modello, codice cliente, registrazioni degli accessi, versione corrente del software del dispositivo, Paese, dati sull’operatore commerciale ed eventuale registro degli errori del dispositivo
+
+2. Scopo della raccolta e del trattamento
+• Erogazione di servizi
+I dati personali vengono usati per fornire correzioni di errori, aggiornamenti e miglioramenti delle prestazioni del software installato per i servizi, prodotti o dispositivi in modalità wireless, senza che i clienti debbano recarsi presso un centro servizi, e per fornire assistenza ai clienti, servizi di manutenzione e di protezione dell’utente.
+• Miglioramenti dei servizi, sviluppo di nuovi servizi, consegna di messaggi, ecc.
+I dati personali vengono usati per recuperare e analizzare le statistiche dello stato del dispositivo e i registri degli errori, per migliorare/sviluppare servizi (prodotti) esistenti/nuovi e per inviare notifiche o materiali promozionali tramite le notifiche push.
+
+3. Periodo di conservazione e di utilizzo
+In linea di principio i dati personali dell’utente dovranno essere distrutti immediatamente al raggiungimento delle finalità per le quali sono stati raccolti e trattati.
+Tuttavia, qualora le disposizioni di leggi e regolamenti specifici obblighino la Società a conservare i dati personali dell’utente, la Società potrà conservarli in conformità alle leggi e ai regolamenti applicabili.
+
+※ L’utente potrà rifiutarsi di accettare il presente Consenso alla raccolta e al trattamento dei dati personali, ma in tal caso non potrà utilizzare i nostri servizi, poiché le informazioni specificate sopra servono a Samsung per erogare i servizi.

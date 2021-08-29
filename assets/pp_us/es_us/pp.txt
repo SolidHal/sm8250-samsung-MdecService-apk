@@ -1,0 +1,293 @@
+﻿ELEMENTOS DESTACADOS DE LA POLÍTICA DE PRIVACIDAD GLOBAL DE SAMSUNG
+
+Alcance
+Esta Política de Privacidad se aplica a cualquier dispositivo, sitio web o aplicación en línea de Samsung que haga referencia a la Política o se vincule a la misma (en conjunto, nuestros “Servicios”). Esta Política de Privacidad se aplica independientemente de si utiliza una computadora, un teléfono móvil, una tableta o un televisor con acceso a nuestros Servicios.
+
+Información que recopilamos
+Recopilamos diversos tipos de información relacionados con los Servicios, por ejemplo:
+•	información que nos proporciona directamente;
+•	información que recopilamos acerca del uso que hace de nuestros Servicios; e
+•	información que obtenemos de terceros.
+También podríamos solicitar su consentimiento para recopilar información no descrita en la Política de Privacidad.
+
+Uso y sesión compartida de información
+Utilizamos la información que recopilamos para, entre otras cosas:
+•	prestar los Servicios que solicite;
+•	entender la forma en que utiliza los Servicios, de modo que podamos mejorar su experiencia;
+•	proporcionar contenido y publicidad personalizados, incluso a través de Anuncios de Samsung (encontrará más detalles en https://www.samsung.com/us/account/privacy-policy/samsungads); y
+•	de otro modo, con su consentimiento.
+Podemos compartir su información con:
+•	Filiales: las empresas relacionadas con Samsung Electronics Co., Ltd. mediante propiedad o control común.
+•	Socios comerciales: empresas de confianza que podrían proporcionar información acerca de los productos y servicios que podrían gustarle.
+•	Proveedores de servicio: empresas que prestan servicios para Samsung o en nombre de Samsung.
+•	Organismos de cumplimiento de la ley: cuando se nos pide hacerlo o para proteger a Samsung y sus usuarios.
+
+Información adicional acerca de productos y servicios específicos
+•	Samsung Mobile
+•	Smart TV
+
+Cómo contactarnos
+Privacy Office
+Samsung Electronics America, Inc.
+85 Challenger Road
+Ridgefield Park, NJ 07660
+o por correo en la sección “Contáctenos” de Samsung.com
+Si tiene preguntas o solicitudes específicas con relación a su información, envíenos un correo a NAprivacy@sea.samsung.com. En la medida que lo exija la ley aplicable, si solicita acceso a su información, puede obtenerla basándose en la información de su Samsung account (por ejemplo, información acerca del uso que hace de los Servicios, de la configuración de sus dispositivos, etc.)
+
+POLÍTICA DE PRIVACIDAD GLOBAL DE SAMSUNG
+Fecha de entrada en vigencia: 02/01/2018
+Samsung Electronics Co., Ltd. y nuestras filiales (“Samsung”, “nosotros”, “nos”, “nuestro”) saben la importancia que la privacidad tiene para nuestros clientes, por lo que intentamos explicar con claridad cómo recopilamos, usamos, transferimos y almacenamos su información. En esta Política de Privacidad, se explican nuestras prácticas de información. Esta Política de Privacidad se aplica a los dispositivos, sitios web o aplicaciones en línea de Samsung que hacen referencia a la Política de Privacidad o se vinculan a la misma (en conjunto, nuestros “Servicios”). Esto incluye el servicio de soporte al cliente para tales dispositivos, sitios web o aplicaciones en línea.
+Aunque esta Política de Privacidad se aplica a todos nuestros Servicios, también hemos proporcionado determinados suplementos de privacidad específicos que contienen información adicional acerca de nuestras prácticas en relación con Servicios específicos. Estos suplementos se aplican al uso que hace de los Servicios que abarcan.
+Tenga en cuenta que la Política de Privacidad también se puede aplicar independientemente de si utiliza una computadora, un teléfono móvil, una tableta, un televisor u otro dispositivo con acceso a nuestros Servicios. Es importante que lea atentamente la Política de Privacidad, porque en cualquier momento que utilice los Servicios, usted da su consentimiento a las prácticas que describimos en la Política de Privacidad y los suplementos.
+También es importante que revise constantemente las actualizaciones a la Política de Privacidad. Si actualizamos la Política de Privacidad, le informaremos de los cambios que consideremos sustanciales mediante un aviso en los Servicios pertinentes. Al acceder a nuestros Servicios o utilizarlos después de recibir tal aviso, usted da su consentimiento a las nuevas prácticas identificadas en la actualización. La versión más actualizada de la Política de Privacidad siempre estará disponible https://account.samsung.com/membership/pp. Para saber cuándo se actualizó por última vez la Política de Privacidad, puede consultar la “fecha de entrada en vigencia” publicada en la parte superior.
+
+¿QUÉ INFORMACIÓN RECOPILAMOS ACERCA DE USTED?
+
+Información que proporciona directamente
+Algunos Servicios le permiten entregarnos la información directamente. Por ejemplo:
+• Diversos Servicios permiten a los usuarios crear cuentas o perfiles. En relación con estos Servicios, podríamos pedirle que proporcione determinada información acerca de usted para configurar la cuenta o el perfil. Por ejemplo, puede enviar determinada información acerca de usted, como su nombre y dirección de correo electrónico, al crear una Samsung account.
+• Si nos solicita un producto o servicio pagado, podríamos preguntarle su nombre, información de contacto, direcciones de envío y facturación, además de la información de su tarjeta de crédito para procesar el pedido.
+• Algunos de sus Servicios le permiten comunicarse con otras personas. Esas comunicaciones se transmitirán a través de nuestros sistemas.
+Información acerca del uso que hace de los Servicios
+Además de la información que proporcione, podemos recopilar información acerca del uso que hace de nuestros Servicios a través del software en su dispositivo y otros medios. Por ejemplo, podemos recopilar:
+• Información del dispositivo: como el modelo de hardware, el número IMEI y otros identificadores únicos del dispositivo, la dirección MAC, la dirección IP, las versiones del sistema operativo y los ajustes del dispositivo que utiliza para acceder a los Servicios.
+• Información de registro: como el tiempo y la duración del uso del Servicio, los términos de consulta de búsqueda que ingrese mediante los Servicios, y cualquier información almacenada en las cookies que hemos guardado en su dispositivo.
+• Información de ubicación: como la señal de GPS de su dispositivo o información acerca de puntos de acceso Wi-Fi y torres de telecomunicaciones cercanas que podrían transmitirse a nosotros al utilizar determinados Servicios.
+• Información de voz: como grabaciones de su voz que hacemos (y podemos almacenar en nuestros servidores) al utilizar comandos de voz para controlar un Servicio. (Tenga en cuenta que, si trabajamos con un proveedor de servicios externo que proporcione servicios de conversión de voz a texto en nuestro nombre, este proveedor puede recibir y almacenar determinados comandos de voz).
+• Otra información acerca del uso de los Servicios, como las aplicaciones que utiliza, los sitios web que visita y la forma en que interactúa con el contenido ofrecido a través de un Servicio.
+
+Información de terceros
+Podemos recibir información acerca de usted de fuentes disponibles públicamente y comercialmente (según lo permita la ley), la que podemos combinar con otra información que recibamos de usted o acerca de usted. También podemos recibir información acerca de usted de servicios de redes sociales de terceros, cuando elija conectarse con esos servicios.
+
+Otra información que recopilamos
+También recopilamos otra información acerca de usted, su dispositivo o el uso que haga de los servicios en las formas que le describimos en el momento de la recopilación o con su consentimiento.
+Puede elegir no proporcionarnos ciertos tipos de información (por ejemplo, información que solicitamos durante el registro en la Samsung account); sin embargo, hacer esto puede afectar su capacidad de utilizar algunos Servicios.
+
+¿QUÉ USO DAMOS A SU INFORMACIÓN?
+Podemos utilizar la información que recopilamos para los siguientes propósitos:
+• registrarlo a usted o su dispositivo para un Servicio;
+• proporcionar un Servicio o una función que solicite;
+• proporcionar contenido y servicios personalizados basados en sus actividades anteriores en nuestros Servicios;
+• mostrar publicidad, incluidos anuncios personalizados, contenido patrocinado y comunicaciones promocionales, como a través de Anuncios de Samsung (encontrará más detalles en https://www.samsung.com/us/account/privacy-policy/samsungads);
+• para evaluación y análisis de nuestro mercado, clientes, productos y servicios (incluso para pedirle sus opiniones con relación a nuestros productos y servicios, y para realizar encuestas a los clientes);
+• entender la forma en que las personas utilizan nuestros Servicios, de modo que podamos mejorarlos y desarrollar nuevos productos y servicios;
+• prestar servicios de mantenimiento para su dispositivo;
+• realizar sorteos de premios, competencias por premios o promociones, según lo permita la ley; y
+• de otro modo, con su consentimiento.
+Podemos combinar la información de usted o acerca de usted, lo que incluye diferentes Servicios o dispositivos, para fines coherentes con esta Política de Privacidad. Por ejemplo, podemos utilizar los detalles de su Samsung account en todos los Servicios que requieran una Samsung account. O podemos basar nuestras recomendaciones, contenidos personalizados y funciones personalizadas para su experiencia mejorada de los Servicios. Según el motivo por el cual combinemos los datos y los requisitos de la ley aplicable, los controles específicos de dicha combinación podrían estar disponibles, por ejemplo, en los menús de ajustes del dispositivo o la aplicación, o al visitar las páginas web correspondientes.
+
+¿A QUIÉN DIVULGAMOS SU INFORMACIÓN?
+No divulgaremos su información a terceros para sus propios fines de marketing o comerciales sin su consentimiento. Sin embargo, podemos divulgar su información a las siguientes entidades:
+• Filiales. Se puede compartir su información entre filiales de Samsung para los fines descritos en esta Política de Privacidad. El término ‘filiales’ se refiere a las empresas relacionadas con Samsung Electronics Co., Ltd. mediante propiedad o control común. Nuestras filiales incluyen empresas con el nombre Samsung Electronics. Las filiales también pueden incluir a otras empresas relacionadas mediante propiedad o control común, como Samsung SDS.
+• Socios comerciales. También podemos compartir su información con socios comerciales de confianza, lo que incluye operadores inalámbricos. Estas entidades pueden utilizar su información para prestarle los servicios que solicite, hacer predicciones acerca de sus intereses y proporcionarle materiales promocionales, anuncios y otros materiales. Estas entidades se encuentran limitadas en la capacidad para usar su información para fines distintos a los relacionados con la prestación de los servicios a nosotros y deben mantener la confidencialidad de sus datos personales.
+• Proveedores de servicios. También podemos divulgar su información a empresas que nos presten servicios o que lo hagan en nombre de nosotros, tal como empresas que nos ayudan a facturar o que envían correos electrónicos en nuestro nombre. Estas entidades tienen capacidades limitadas de uso de su información para fines distintos de la prestación de servicios para nosotros y deben mantener confidenciales sus datos personales.
+• Otras partes según lo exija la ley o según sea necesario para proteger nuestros servicios. Podría haber instancias en las que divulguemos su información a otras partes:
+• para cumplir con la ley o responder a un proceso legal obligatorio (como una orden de allanamiento u otra orden judicial);
+• para verificar o hacer cumplir las políticas que rigen nuestros Servicios; y
+• proteger los derechos, la propiedad o la seguridad de Samsung o de cualquiera de nuestras filiales, socios comerciales o clientes respectivos.
+• Otras partes en conexión con transacciones corporativas. Podemos divulgar su información a un tercero como parte de una fusión o transferencia, o en caso de quiebra.
+• Otras partes con su consentimiento o según sus indicaciones. Además de las divulgaciones descritas en esta Política de Privacidad, podemos compartir información acerca de usted con terceros cuando usted dé su consentimiento o solicite dicho uso compartido.
+
+SUS OPCIONES
+Ofrecemos diversas opciones acerca del uso que hacemos de su información. Puede decidir si desea recibir comunicaciones promocionales de nosotros siguiendo las instrucciones para cancelar su suscripción que se incluyen en la comunicación. Además, en ocasiones también puede optar por cambiar sus ajustes para Servicios específicos, cuando entregamos un aviso de último momento, o al visitar páginas web relevantes.
+
+¿QUÉ DEBEMOS HACER PARA MANTENER LA SEGURIDAD DE SU INFORMACIÓN?
+Hemos tomado medidas físicas y técnicas razonables para proteger la información que recopilamos en conexión con los Servicios. Sin embargo, tenga en cuenta que aunque sigamos pasos razonables para proteger su información, ningún sitio web, transmisión de Internet, sistema informático o conexión inalámbrica es completamente segura.
+
+CONSERVACIÓN DE DATOS
+Tomamos medidas razonables para asegurarnos de que la información acerca de usted esté disponible para nosotros solo durante el tiempo que sea necesario para los fines para los cuales se procesa o bien, por más tiempo si así lo exige algún contrato, la ley aplicable o para fines estadísticos, sujeto a la protección correspondiente.
+
+SUS DERECHOS DE PRIVACIDAD EN CALIFORNIA
+Los Residentes de California tienen derecho, una vez al año y sin costo, a solicitar y obtener cierta información relacionada con nuestra divulgación, si la hubiera, de información personal a terceros para sus fines de marketing directo en el año calendario anterior (por ejemplo, las solicitudes realizadas en el año 2013 recibirán inforomación acerca de las actividades de uso compartido de 2012). Cumplimos con esta ley al dar a los usuarios la posibilidad de indicarnos no compartir información personal con terceros para sus fines de marketing directo. Para realizar esta solicitud, envíe un correo electrónico a NAprivacy@sea.samsung.com. Puede que necesitemos información adicional para procesar su solicitud.
+
+VÍNCULOS Y PRODUCTOS DE TERCEROS EN NUESTROS SERVICIOS
+Nuestros Servicios pueden vincularse a sitios web y servicios que están fuera de nuestro control. No somos responsables de la seguridad o privacidad de ninguna información recopilada por sitios web u otros servicios. Debe actuar con cautela y revisar las declaraciones de privacidad aplicables a los sitios web y servicios de terceros que utiliza.
+También podemos poner a su disposición ciertos productos o servicios (por ejemplo, aplicaciones disponibles a través de Galaxy Apps o Apps) desarrolladas por terceros. Samsung no es responsable de estos productos o servicios de terceros.
+Terceros que ofrecen contenido, publicidad o funcionalidad en nuestros servicios
+Parte del contenido, la publicidad y la funcionalidad en nuestros Servicios la pueden proporcionar terceros que no sean filiales nuestras. Por ejemplo:
+• Puede ver contenido de video proporcionado por proveedores de contenido;
+• Terceros desarrollan aplicaciones que ponemos a disposición a través de Galaxy Apps o Apps;
+• Ciertos terceros pueden realizar publicidad o llevar un registro de los anuncios que ven los usuarios, la frecuencia con la que ven esos anuncios y la respuesta que tienen ante ellos; y
+• Le permitimos compartir ciertos materiales acerca de los Servicios con otras personas a través de servicios de redes sociales como Facebook, Twitter, Google+ y LinkedIn.
+Estos terceros pueden recopilar o recibir cierta información acerca del uso que hace de los Servicios, lo que incluye el uso de cookies, balizas y tecnologías similares, y esta información se puede recopilar con el tiempo y se puede combinar con la información recopilada a través de diferentes sitios web y servicios en línea. Samsung no controla la recopilación de datos ni las prácticas de uso de estas empresas. Algunas de estas empresas participan en programas desarrollados por la industria, diseñados para proporcionar a los consumidores la opción de recibir o no publicidad dirigida. Visite los sitios web operados por la Network Advertising Initiative “http://networkadvertising.org” y Digital Advertising Alliance “http://www.aboutads.info/” para obtener más información.
+Si se conecta con un servicio de redes sociales, podríamos recibir y almacenar información de autenticación de ese servicio que le permita iniciar sesión, así como otra información que nos permita recibir cuando se conecte con estos servicios.
+Además, tenga en cuenta que si elige conectarse con un servicio de redes sociales en un dispositivo utilizado por otras personas además de usted, esos otros usuarios podrían ver la información almacenada o que se muestra en relación con su cuenta en los servicios de redes sociales con los cuales se conecta.
+
+NIÑOS
+No recopilamos de foroma intencional información personal de niños menores de trece (13) años sin un consentimiento de los padres, salvo que esté permitido por ley. Si nos enteramos de que un niño menor de trece (13) años nos ha proporcionado información personal, la eliminaremos de acuerdo con la ley aplicable.
+
+COOKIES, BALIZAS Y OTRAS TECNOLOGÍAS SIMILARES
+Nosotros, así como ciertos terceros que ofrecen contenido, publicidad u otra funcionalidad sobre nuestros Servicios, podemos utilizar cookies, balizas y otras tecnologías en ciertas áreas de nuestros Servicios.
+Cookies
+Las cookies son archivos pequeños que almacenan información en su equipo, televisor, teléfono móvil u otro dispositivo. Permite a la entidad que coloca la cookie en el dispositivo reconocerlo en diferentes sitios web, servicios, dispositivos y/o sesiones de navegación. Las cookies sirven para muchos fines útiles. Por ejemplo:
+• Las cookies pueden recordarle sus credenciales de inicio de sesión para que no deba ingresarlas cada vez que inicie sesión en un servicio.
+• Las cookies nos ayudan a nosotros y a terceros a entender las partes más populares de nuestros Servicios, ya que nos ayudan a ver las páginas y funciones a las que los visitantes acceden y el tiempo que estos pasan en las páginas. Al estudiar este tipo de información, podemos adaptar de mejor manera los Servicios y brindarle una mejor experiencia.
+• Las cookies nos ayudan a nosotros y a terceros a conocer los anuncios que se han visto para que no reciba el mismo anuncio cada vez que ingresa a un Servicio.
+• Las cookies nos ayudan a nosotros y a terceros a proporcionarle contenido y publicidad relevante mediante la recopilación de información acerca del uso que hace de nuestros Servicios y de otros sitios web y aplicaciones.
+Al utilizar un navegador web para acceder a los Servicios, puede configurar el navegador para que acepte todas las cookies, rechace todas las cookies, o le notifique del envío de una cookie. Cada navegador es diferente, así que revise el menú “Ayuda” del navegador y obtenga información acerca de cómo cambiar sus preferencias de cookies. El sistema operativo de su dispositivo puede incluir controles de cookies adicionales. Sin embargo, tenga en cuenta que algunos Servicios podrían estar diseñados para funcionar con cookies y que deshabilitarlas podría afectar la capacidad de utilizar dichos Servicios, o ciertas partes de ellos.
+
+Otro almacenamiento local
+Nosotros, junto con ciertos terceros, podemos utilizar otros tipos de tecnologías de almacenamiento local, como objetos locales compartidos (también denominadas “cookies Flash”) y almacenamiento local HTML5, en relación con nuestros Servicios. Estas tecnologías son similares a las cookies analizadas anteriormente en las que estas se almacenan en el dispositivo y se pueden utilizar para almacenar cierta información acerca de sus actividades y preferencias. Sin embargo, estas tecnologías pueden hacer uso de diferentes partes del dispositivo de cookies estándar, por lo que es posible que no pueda controlarlas todas con las herramientas y los ajustes estándar del navegador. Para obtener información sobre la desactivación o eliminación de información contenida en cookies Flash, haga clic aquí “http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html”.
+
+Balizas
+Nosotros, junto con ciertos terceros, podemos utilizar tecnologías llamadas balizas (o “píxeles”) que comunican la información del dispositivo a un servidor. Las balizas se pueden integrar en contenido en línea, videos y correos electrónicos, y pueden permitir que un servidor lea ciertos tipos de información del dispositivo, saber cuándo ha visto un contenido específico o un mensaje de correo electrónico específico, determinar la hora y la fecha en la que vio la baliza, y la dirección IP de su dispositivo. Nosotros y ciertos terceros utilizamos balizas para diversos fines, los que incluyen el análisis del uso de nuestros Servicios y (en conjunto con las cookies) y la visualización del contenido y los anuncios más relevantes para usted.
+Al aceptar esta Política de Privacidad Global y acceder a nuestros Servicios y utilizarlos, usted da su consentimiento para el almacenamiento de cookies, otras tecnologías de almacenamiento locales, balizas y otra información acerca de sus dispositivos. También da su consentimiento para que nosotros y los terceros mencionados anteriormente accedamos a dichas cookies, tecnologías de almacenamiento locales, balizas e información.
+
+SEÑALES DE NO REALIZAR SEGUIMIENTO Y MECANISMOS SIMILARES
+Algunos navegadores web pueden transmitir señales de “no realizar seguimiento” a los sitios web con los que se comunica el usuario, aunque los navegadores web incorporan y activan esta funcionalidad de diferentes formas y no siempre aclaran si los usuarios tienen la intención de que estas señales se transmitan. Actualmente hay discrepancias, incluso entre los participantes de la organización líder en el establecimiento de normas de Internet, con relación a lo que los sitios web debieran hacer al recibir dichas señales, si las hubiera. Actualmente, Samsung no realiza acciones en respuesta a estas señales, sin embargo, podemos reevaluar nuestra respuesta ante esas señales siempre y cuando se establezca y acepte una norma.
+
+MÁS INFORMACIÓN
+Si tiene preguntas específicas, póngase en contacto con nosotros en:
+Privacy Office
+Samsung Electronics America, Inc.
+85 Challenger Road
+Ridgefield Park, NJ 07660
+o envíenos un formulario a través de la sección “Contáctenos” de Samsung.com
+
+
+AVISO DE PRIVACIDAD DEL SERVICIO DE PERSONALIZACIÓN
+Para utilizar el Servicio de Personalización, en primer lugar debe tener una Samsung account. Nuestra Política de Privacidad en https://account.samsung.com/membership/pp (“Política de Privacidad de Samsung”) se aplicará para el uso de su Samsung account y el Servicio de Personalización. Este Aviso de Privacidad proporciona información adicional acerca de cómo se puede recopilar, utilizar, compartir y almacenar su información personal relacionada con el Servicio de Personalización, y se debe leer en conjunto con la Política de Privacidad de Samsung. En caso de inconsistencias o conflictos entre los términos de este Aviso de Privacidad y la Política de Privacidad de Samsung, prevalecerán los términos de este Aviso de Privacidad.
+
+¿Qué es el Servicio de Personalización?
+Los dispositivos, las aplicaciones y los servicios de Samsung (cada uno de ellos un “Servicio” y, en conjunto, los “Servicios”) están diseñados para proporcionarle servicios personalizados mediante la predicción inteligente de sus deseos y necesidades. El Servicio de Personalización de Samsung le proporciona una experiencia de usuario mejorada, que incluye contenido y recomendaciones personalizadas, basada en la información obtenida acerca de usted y del uso que hace de los Servicios. Por ejemplo, el Servicio de Personalización puede mejorar su experiencia de usuario con los Servicios ofreciéndole consejos e información personalizada cuando utiliza el servicio de reconocimiento de voz de Samsung o al recordarle música que solía escuchar en días lluviosos y recomendársela luego. Además, si da la orden “Recordarme comprar una botella de agua cuando esté por llegar a casa”, el Servicio de Personalización puede recordar dicha orden y recordarle comprar una botella de agua cuando esté por llegar a casa.
+
+¿Qué tipos de información puede recopilar el Servicio de Personalización acerca de usted?
+Mientras más información entienda y aprenda el Servicio de Personalización acerca de usted, mayor capacidad tendrá este de proporcionarle contenidos e información personalizados en forma más rápida y exacta. El Servicio de Personalización está diseñado para ayudarlo a entender sus intereses, sus preferencias y su ubicación. Además, recopila y analiza la información acerca de usted de diversas formas, las que incluyen:
+• Información del dispositivo. El Servicio de Personalización puede recopilar información de identificación exclusiva de su dispositivo, información sobre los ajustes (como idioma y ajustes de bloqueo), información de estado (como conexiones con otros dispositivos) y otra información acerca de sus dispositivos. El Servicio de Personalización también puede revisar las aplicaciones instaladas o que actualmente se ejecutan en su dispositivo. Además, el Servicio de Personalización puede recopilar información acerca de cómo, cuándo y por cuánto tiempo utiliza los dispositivos conectados a su Samsung account, lo que incluye el uso de los Servicios y de aplicaciones y servicios de terceros en los dispositivos (como una lista de las aplicaciones en sus dispositivos, la música reproducida en sus dispositivos, los sitios web que visita y las búsquedas que realiza).
+• Información acerca de su música y sus fotos. El Servicio de Personalización puede recopilar y analizar información como títulos, géneros y artistas de acuerdo con sus reproducciones de música anteriores o su música guardada, además de información acerca de sus fotos, como los horarios y las ubicaciones en las que se tomaron las fotos guardadas.
+• Datos de contactos y comunicaciones. El Servicio de Personalización puede tener acceso a su lista de contactos, y puede recopilar y analizar su historial de llamadas y mensajes de texto entrantes y salientes para así brindarle servicios, tales como determinar sus relaciones con otros (por ejemplo, su familia y sus amigos), quiénes son sus contactos más importantes, quiénes se contactan con usted con mayor frecuencia y cuál es su método de contacto preferido; mostrar información acerca de sus contactos importantes (por ejemplo, las llamadas perdidas); y encontrar los contactos a los que recurre mediante el reconocimiento de voz.
+• Información del calendario. El Servicio de Personalización puede tener acceso al calendario de su dispositivo, y puede recopilar y analizar los datos del calendario para aprender sus preferencias, registrar ocasiones especiales e identificar su ubicación. 
+• Historial de navegación por Internet. El Servicio de Personalización puede tener acceso a, recopilar y analizar su historial de navegación por Internet (como los sitios web visitados, las palabras clave buscadas y los favoritos) para aprender sus intereses y preferencias; mostrar resultados de búsqueda más relevantes y proporcionar la información más apropiada en diferentes contextos; y brindarle otros servicios, tal como se describe en este Aviso de Privacidad. No se recopilará el historial de búsquedas de la navegación por Internet que realiza en modo Secreto (modo Incógnito o Privado)
+• Información de ubicación. El Servicio de Personalización puede tener acceso a, recopilar y analizar regularmente la información de su dispositivo en relación con su ubicación geográfica exacta e información de otro tipo relacionada con su ubicación a través de señales de Bluetooth y Wi-Fi, entradas del calendario y otras tecnologías y datos para ciertos fines, como proporcionarle notificaciones relacionadas con su ubicación o la información que solicita. Para que el Servicio de Personalización recopile información relacionada con su ubicación geográfica, debe tener activado el ajuste Ubicación en su dispositivo. Por lo tanto, en algunos casos, es posible que el Servicio de Personalización le solicite activar el ajuste Ubicación. 
+• Datos de Samsung account, Mi perfil y Servicios Samsung. El Servicio de Personalización puede recopilar y analizar la información almacenada en su Samsung account o asociada con ella (como el ID de la Samsung account, la información de contacto, el nombre, la fecha de nacimiento y el género) y la información registrada en Mi perfil. El Servicio de Personalización también puede recopilar y analizar la información relacionada con el uso que hace de los Servicios, como el historial de uso de las aplicaciones de Samsung, las órdenes de voz entregadas a través del servicio de reconocimiento de voz, las notificaciones establecidas en el Recordatorio y los datos del clima que se le proporcionan.
+• Información relacionada con las aplicaciones y los servicios de terceros conectados. Al permitir la conexión con una aplicación o un servicio de terceros, puede activar el Servicio de Personalización para utilizar los datos relacionados con el uso que hace de estas aplicaciones y servicios, y para proporcionarle características personalizadas. 
+
+Aparte de la información especificada anteriormente, el Servicio de Personalización también puede recopilar información acerca de usted, sus dispositivos y aplicaciones, y acerca del uso que hace de los Servicios en las formas que le describimos en el momento de la recopilación o con su consentimiento. El Servicio de Personalización le proporciona opciones relacionadas con la forma en que el Servicio de Personalización puede utilizar y analizar ciertos tipos de información personal, como su historial de llamadas y mensajes de texto, sus datos de ubicación geográfica y su historial de navegación por Internet. El Servicio de Personalización también le brinda la opción de negarse al uso de su información personal por parte del Servicio de Personalización para fines publicitarios. Para obtener más información, consulte la sección “Sus derechos y opciones” más adelante. 
+
+¿De qué forma se utiliza la información recopilada?
+El Servicio de Personalización analizará la información especificada anteriormente a través de un sistema automático, y proporcionará los datos analizados a los Servicios y las aplicaciones de terceros que usted autorice para los siguientes fines:
+• proporcionarle contenidos e información personalizados;
+• analizar métodos para brindarle mejores Servicios;
+• mejorar y desarrollar los Servicios;
+• mostrar anuncios personalizados acerca de productos y servicios que podrían ser de su interés; y
+• con su consentimiento por separado, comunicarnos con usted vía correo electrónico o notificaciones push acerca de productos y servicios ofrecidos por Samsung y terceros, que están personalizados según sus intereses.
+Puede suspender la recopilación y el uso de cierta información tal como se describe en la sección “Sus derechos y opciones” más adelante. Tenga en cuenta que, dado que cierta información es necesaria para que cada uno de los Servicios le proporcione el Servicio de Personalización, la experiencia de usuario óptima solo se puede garantizar si usted permite que el Servicio de Personalización tenga acceso a toda la información.
+
+Publicidad personalizada y marketing directo
+El Servicio de Personalización puede recopilar, analizar y compartir información acerca del uso que hace de los Servicios y de sus actividades en línea, a lo largo del tiempo y en sitios web y aplicaciones de terceros, así como entre dispositivos, para proporcionarle publicidad y comunicaciones de marketing directo (en conjunto, “Anuncios”) acerca de productos y servicios ofrecidos por Samsung y terceros que se adaptan a sus intereses. Donde lo exija la ley aplicable, obtendremos su consentimiento para el procesamiento de su información personal con fines de marketing directo. Puede desactivar al uso por parte del Servicio de Personalización de esta información para anuncios personalizados a través del menú de ajustes Mi perfil > Administrar Samsung account de su Samsung account al desactivar la opción “Anuncios publicitarios que usan el servicio de personalización”. Tenga en cuenta que es posible que al desactivar esta opción no deje de ver todos los anuncios publicitarios (incluidos los personalizados) que ofrece Samsung. Puede que continúe recibiendo Anuncios de Samsung si ha dado su consentimiento para recibirlos desde otros Servicios. Visite el menú Ajustes del Servicio correspondiente para obtener más información acerca de cómo negarse al uso de tales anuncios de otros Servicios.
+
+¿Cómo puedo eliminar la información obtenida por el Servicio de Personalización?
+La información recopilada y analizada por el Servicio de Personalización se eliminará después de que haya eliminado su Samsung account. También puede solicitar, en cualquier momento, la eliminación de categorías de datos específicas que el Servicio de Personalización ha recopilado y analizado, incluso antes de eliminar su Samsung account, en el menú Ajustes de privacidad de su Samsung account. Tenga en cuenta que, en algunos casos, puede que la eliminación total de la información guardada en nuestros servidores tarde un poco. 
+
+¿Qué ocurre si elimino información recopilada por el Servicio de Personalización o si suspendo la recopilación de parte de la información del Servicio de Personalización?
+Si elimina la información recopilada, la exactitud y/o la calidad del contenido personalizado que le proporciona el Servicio de Personalización podría mermar. Además, algunas de las características de personalización podrían requerir información que usted ha eliminado o a la que ha negado el acceso del Servicio de Personalización. En ese caso, puede que la única forma de volver a recibir dichas características sea permitiendo nuevamente que el Servicio de Personalización recopile y utilice la información pertinente.
+
+¿A quién divulgamos su información personal? 
+No divulgamos información personal acerca de usted a terceros a través del Servicio de Personalización, salvo según se describe en este Aviso de Privacidad y en la Política de Privacidad de Samsung. Podemos compartir su información personal con nuestras subsidiarias y filiales, así como con los proveedores de servicios externos que nos ayudan a proporcionarle el Servicio de Personalización. 
+
+Cómo protegemos su información personal
+Mantenemos protecciones administrativas, técnicas y físicas diseñadas para proteger la información personal que obtenemos a través de los Servicios y del Servicio de Personalización de su destrucción, interferencia, pérdida, alteración, acceso, divulgación o uso ilegal o no autorizado. 
+
+Sus derechos y opciones
+Samsung respeta las opciones que usted elige e intenta ofrecer diversos métodos que le permiten controlar su información. Usted puede, en cualquier momento, desactivar el Servicio de Personalización en la opción "Servicio de Personalización" del menú Ajustes de su Samsung account, en cuyo caso Samsung suspenderá la disposición de contenido e información personalizados, así como la recopilación y el análisis de su información por parte del Servicio de Personalización. Además, si modifica los ajustes descritos en la sección "Publicidad personalizada y marketing directo" anterior, es posible que ya no pueda utilizar la información recopilada y analizada por el Servicio de Personalización para fines publicitarios.
+Además, puede especificar las categorías de información que el Servicio de Personalización puede recopilar y analizar, así como el soporte del Servicio de Personalización para ciertos Servicios. Sin embargo, cualquier decisión que tome luego no tendrá impacto en la información que el Servicio de Personalización ya ha recopilado y analizado. Tampoco la desactivación del Servicio de Personalización será motivo para eliminar la información recopilada y analizada previamente por el Servicio de Personalización. Incluso si desactiva el Servicio de Personalización, aún puede utilizar las características predeterminadas de cada uno de los Servicios. Puede seleccionar diversas opciones, las que se describen más abajo:
+• Para modificar los ajustes del Servicio de Personalización en cada uno de los dispositivos registrados en su Samsung account, realice las siguientes acciones:
+  - Smartphones/tabletas: Ajustes > Nube y cuentas > Cuentas > Samsung account > Privacidad > Servicio de Personalización
+• Para modificar los ajustes del Servicio de Personalización en todos los dispositivos registrados en su Samsung account, realice las siguientes acciones:
+  - Sitio web: https://account.samsung.com > Configuración de datos personales
+  - Smartphones/tabletas: Ajustes > Nube y cuentas > Cuentas > Samsung account > Mi perfil > Administrar Samsung account > Servicio de Personalización
+Los ajustes específicos mencionados anteriormente pueden estar sujetos a cambios con los modelos de dispositivo nuevos o actualizados compatibles con el Servicio de Personalización. Tenga en cuenta que su experiencia de usuario personalizada puede cambiar como resultado de la desactivación del Servicio de Personalización.
+Puede que tenga derecho, de acuerdo con la ley aplicable, a oponerse a o a solicitar la restricción del procesamiento de su información personal, así como a solicitar acceso a su propia información personal y a la rectificación de la misma. Las solicitudes pueden enviarse a través del Departamento de Atención al Cliente en https://help.content.samsung.com.
+
+
+POLÍTICA DE PRIVACIDAD GLOBAL DE SAMSUNG: SUPLEMENTO DEL SMART TV
+El servicio de Smart TV de Samsung ofrece un conjunto de funciones que brindan contenido de video mejorado, experiencias de TV personalizadas, películas, conexiones a servicios de redes sociales y la capacidad de controlar e interactuar con su Smart TV mediante comandos de voz. Recopilamos, utilizamos, compartimos y almacenamos su información a través de su Smart TV y los dispositivos conectados al Smart TV de las formas descritas en la Política de Privacidad de Samsung. Este Suplemento ofrece detalles adicionales sobre las prácticas de privacidad de algunas funciones del Smart TV.
+El Smart TV está diseñado para permitirle que encuentre y acceda fácilmente a la programación de videos y otro contenido. Por ejemplo, puede acceder a información sobre programas de televisión en vivo que llegan a usted mediante su operador de cable o satélite y de ofertas de contenido de video pago que distribuyen proveedores de contenido de terceros mediante guías navegables disponibles en su Smart TV.
+En el caso de los programas de televisión en vivo, determinamos qué contenido está disponible para usted, en parte, según su código postal. Además, el Smart TV le ayuda a encontrar y disfrutar otro contenido del Smart TV más relevante para usted resaltando los programas y contenidos que probablemente le interesen o brindando servicios adicionales que mejorarán su experiencia de visualización. Ofrecemos estas recomendaciones y estos servicios adicionales teniendo en cuenta lo siguiente:
+• información sobre el contenido que ya vio, compró, descargó o transmitió a través de aplicaciones de Samsung en su Smart TV u otros dispositivos (con respecto a la información de contenido visto en TV, consulte la sección a continuación ‘Servicios de información de contenido visto’);
+• información acerca de aplicaciones a las que ha accedido a través de su Smart TV;
+• información sobre los clics en los botones “Me gusta”, “No me gusta”, “Ver ahora” y otros en su Smart TV;
+• los términos de consulta que ingresa en la función de búsqueda de su Smart TV, que incluye la búsqueda de contenido en video específico;
+• otro uso del Smart TV e información del dispositivo, que incluye, entre otras, la dirección IP, los datos de registro, la información que identifica su configuración de hardware o software, la información del navegador y las páginas que solicita.
+
+Servicios de información de contenido visto
+Para poder brindarle experiencias personalizadas del Smart TV, algunas de las funciones y los servicios que ofrecemos dependerán del historial de contenido visto en TV y en la información de uso del Smart TV.
+En el historial de contenido visto en TV se incluye información sobre redes, canales, sitios web visitados y programas vistos en su Smart TV y la cantidad de tiempo que pasó viendo ese contenido.
+Se pueden implementar el reconocimiento automático de contenido (ACR) y otras tecnologías para capturar esta información. Su Smart TV transfiere fragmentos de video o la información del sintonizador de TV para determinar los programas vistos.
+Puede cambiar la opción de privacidad en cualquier momento desde el menú de ajustes para desactivar la función o el servicio particular a su criterio. De esta manera, se dejará de recolectar información sobre el historial de contenido visto en TV de esa función o ese servicio en particular.
+Tenga en cuenta que la opción de privacidad que elija puede afectar la disponibilidad o la calidad del servicio basado en información específica del contenido visto.
+
+Servicios de anuncios publicitarios basados en intereses
+Los Servicios de anuncios publicitarios basados en intereses (los “Servicios de IBA”) está diseñado para ofrecer la posibilidad de obtener y ver anuncios publicitarios útiles, interactivos y basados en intereses sobre productos y servicios que ofrecen Samsung y terceros en su Samsung Smart TV o en diferentes plataformas y dispositivos de Samsung y de terceros, lo que incluye comerciales lineales, en la red, dispositivos móviles y tabletas.
+
+Para poder publicar anuncios más relevantes en sus dispositivos, el Servicio de IBA tomará en cuenta su historial de TV (incluida la información sobre redes, canales, sitios web visitados y programas vistos en su Samsung Smart TV y la cantidad de tiempo que ha pasado viéndolos), la información de uso de su Samsung Smart TV y otros datos estadísticos obtenidos de fuentes de datos confiables de terceros. Se puede implementar el reconocimiento automático de contenido (ACR) y otras tecnologías para capturar su historial de TV.
+
+Según la información anterior, creamos grupos de Samsung Smart TV que comparten intereses similares y usan estos grupos para el Servicio de IBA. La información arriba se usa para determinar los grupos a los cuales se incluye su Samsung Smart TV y, por lo tanto, los anuncios publicitarios que reciben sus dispositivos.
+
+Puede inhabilitar el Servicio de IBA en cualquier momento a través del menú de ajustes en su Samsung Smart TV.
+
+Tenga en cuenta que su opción de privacidad con respecto al Servicio de IBA no afectará si recibe o se le ofrecen otros tipos de anuncios publicitarios y marketing que no se basan específicamente en el historial de TV o la información de uso de su Samsung Smart TV. Estos otros tipos de anuncios publicitarios y marketing se basarán en otra información como la ubicación generalizada y otra información estimativa o inferida. Es posible que sean menos relevantes porque no se basan sus interesantes.
+
+Para obtener más información sobre los Servicios de IBA, consulte el Aviso de Privacidad de los Servicios de IBA en el margen inferior de este Suplemento.
+
+PSID
+El historial de contenido visto y la información de uso del Smart TV con el fin de reproducir anuncios publicitarios basados en intereses se vincularán a un identificador aleatorizado, no persistente y con posibilidad de restablecer, llamado Identificador de servicio personalizada o "PSID".
+Puede dirigirse al menú de ajustes para restablecer el PSID en cualquier momento en su Smart TV y, una vez restablecidos, el historial de contenido visto de su Smart TV y la información de uso del Smart TV con respecto a los anuncios publicitarios basados en intereses se desvincularán del PSID anterior. Tenga en cuenta que si restablece el PSID, la calidad de los anuncios publicitarios personalizados y basados en intereses puede no ser óptima.
+
+Reconocimiento de voz
+Puede controlar su Smart TV y utilizar muchas de sus funciones con comandos de voz.
+Si habilita el Reconocimiento de voz, puede interactuar con su Smart TV utilizando su voz. Para proporcionar la función Reconocimiento de voz, algunos comandos de voz se transmitirán (junto con información sobre su dispositivo, incluidos los identificadores de dispositivo) a nosotros y convertiremos sus comandos de voz en texto para brindarle las funciones de reconocimiento de Voz. Además, es posible que Samsung recopile los comandos de voz y textos afines para que podamos evaluar y mejorar las funciones. Samsung recopilará los comandos de voz solo cuando usted haga una solicitud de búsqueda específica en el Smart TV al hacer clic en el botón de activación en el control remoto o en la pantalla y al hablar en el micrófono del control remoto.
+Si no tiene activada la función Reconocimiento de voz, no podrá usar las funciones de reconocimiento de voz.
+Puede inhabilitar la recolección de datos del reconocimiento de voz en cualquier momento a través del menú Ajustes. Sin embargo, esto evita que utilice algunas funciones del reconocimiento de voz.
+
+Para obtener más información sobre el Reconocimiento de voz, consulte el Aviso de Privacidad del Reconocimiento de voz en el margen inferior de este Suplemento.
+
+Terceros
+Tenga en cuenta que cuando ve un video o accede a aplicaciones o contenido proporcionado por un tercero, lo que incluye su operador inalámbrico, dicho proveedor puede recopilar o recibir información acerca de su Smart TV (por ejemplo, su dirección IP e identificadores de dispositivo), la transacción solicitada (por ejemplo, su solicitud para comprar o alquilar el video), y su uso de la aplicación o el servicio. Samsung no es responsable de las prácticas de privacidad o seguridad de estos proveedores. Debe actuar con cautela y revisar las declaraciones de privacidad aplicables a los sitios web y servicios de terceros que utiliza.
+
+Funciones específicas por país
+Tenga en cuenta que es posible que una o más de las funciones descritas en este Suplemento del Smart TV no estén disponibles para usted, dependiendo de su lugar de residencia.
+
+POLÍTICA DE PRIVACIDAD GLOBAL DE SAMSUNG: SUPLEMENTO DEL DISPOSITIVO MÓVIL
+Los dispositivos móviles, vestibles y otras tecnologías y servicios relacionados de Samsung (en conjunto, nuestros “Dispositivos móviles”) ofrecen una amplia variedad de funciones, entre las que se encuentran aquellas que permiten a los usuarios monitorear y mejorar su estado físico y bienestar, mejorar su experiencia de usuario, hacer pagos móviles y controlar sus Dispositivos móviles con comandos de voz. Cuando utiliza nuestros Dispositivos móviles, recopilamos, utilizamos, compartimos y almacenamos su información de las formas descritas en la Política de Privacidad de Samsung. Este Suplemento entrega detalles adicionales sobre cómo utilizamos esa información para proporcionar nuestras funciones de Dispositivo móvil. Si acepta esta Política de Privacidad Global y utiliza el Dispositivo Móvil, significa que ha leído, comprendido y aceptado los términos de esta Política de Privacidad. Si no está de acuerdo con ellos, no use el Dispositivo Móvil.
+
+Información estándar acerca de su Dispositivo móvil
+Cuando activa su Dispositivo móvil o utiliza sus funciones conectadas a Internet, se recopila información. Esta incluye información acerca del Dispositivo móvil, como su dirección IP, la versión del SO, los ajustes regionales y de idioma, y los IMEI y otros identificadores únicos del dispositivo. También incluye la información acerca de cómo, cuándo y durante cuánto tiempo utiliza su Dispositivo móvil.
+Tal como se describe en la Política de Privacidad, utilizamos la información estándar acerca de su Dispositivo móvil para fines de operación, mantenimiento y mejora, y podemos compartir dicha información estándar acerca de su Dispositivo móvil con socios comerciales, como operadores inalámbricos o proveedores de servicios que ofrecen servicios en nuestro nombre.
+
+Terceros
+Tenga en cuenta que cuando utiliza una función proporcionada por un tercero, lo que incluye su operador inalámbrico, dicho proveedor puede recopilar o recibir información acerca de su Dispositivo móvil (por ejemplo, su dirección IP e identificadores de dispositivo), la transacción solicitada (por ejemplo, su solicitud para comprar o alquilar el contenido), y su uso de la aplicación o el servicio. Samsung no es responsable de las prácticas de privacidad o seguridad de estos proveedores. Debe actuar con cautela y revisar las declaraciones de privacidad aplicables a los sitios web y servicios de terceros que utiliza.
+
+Funciones específicas
+Tenga en cuenta que es posible que una o más de las funciones descritas en este Suplemento no estén disponibles para usted, dependiendo de la versión de su modelo, su proveedor de servicios o su lugar de residencia.
+
+Samsung Health
+La aplicación Samsung Health, las aplicaciones conectadas y los accesorios asociados (en conjunto, “Samsung Health”) son un complemento todo en uno diseñado para incentivar un estilo de vida saludable. Con Samsung Health, puede realizar seguimiento a sus actividades cotidianas; recibir entrenamiento para alcanzar sus objetivos e hitos diarios de estado físico; y medir y administrar factores como su frecuencia cardíaca, niveles de SpO2 y nivel de estrés.
+El objetivo de procesar datos para Samsung Health es proporcionar el servicio o la función que solicita, lo que incluye los servicios de copia de seguridad y sincronización para los usuarios de la Samsung account, realizar análisis de datos y estadísticas que le permitan mejorar su bienestar y mejorar Samsung Health y sus ofertas. Los datos se pueden recopilar a través de sensores en su Dispositivo móvil o cuando usted ingresa sus datos en el Dispositivo móvil aplicable o en una aplicación o un accesorio relacionado.
+Encontrará más información acerca de la forma en que procesamos su información en el Aviso de Privacidad de Samsung Health, que se puede ver en el menú Ajustes de la aplicación Samsung Health.
+
+Samsung Social
+Samsung Social (antes llamada Funciones mejoradas) es un conjunto de servicios diseñado para simplificar y mejorar las formas en las que puede compartir y conectarse con sus amigos.
+Con las funciones disponibles actualmente puede, por ejemplo, compartir su perfil y ver imágenes de sus amigos; además de compartir archivos y contenidos con sus amigos en Contactos.
+Para brindar estas funciones, debemos recopilar información sobre su nombre y número de teléfono de su lista de contactos y acceder a contenidos sobre usted compartidos con sus amigos.
+Podrá desactivar estas funciones o elegir cuál de los servicios desea utilizar a través de los Ajustes de Samsung account en el dispositivo móvil o las aplicaciones que usan funciones de Samsung Social.
+Además, según la forma en que decida utilizar Samsung Social, las Funciones mejoradas, puede elegir las categorías de datos que compartirá y los amigos con quienes las compartirá.
+
+Samsung Pay
+Samsung Pay es una forma fácil y segura de realizar compras con tarjeta de débito y crédito utilizando su Dispositivo móvil compatible. Para utilizar Samsung Pay e iniciar el proceso de registro de la tarjeta, se enviarán los datos de identificación y verificación a su banco desde su Dispositivo móvil. Estos incluyen la información de la Samsung account y los datos de uso de Samsung Pay, la información del dispositivo, la información de ubicación (es decir, dónde se encuentra al registrar su tarjeta) si los ajustes de ubicación están activados y la información de la tarjeta, además de la dirección de facturación. Esta información se envía al emisor de la tarjeta a través de nuestros servidores. El Dispositivo móvil se encarga de cifrar y enviar esta información a su banco a través de los servidores de Samsung. Nunca tenemos acceso a ninguna tarjeta o detalles bancarios.
+Una vez inscrito el Dispositivo móvil, todos los datos de la transacción se transmiten de forma segura entre el Dispositivo móvil y su emisor y banco. El historial de transacciones recientes está disponible en su Dispositivo móvil y solo es de conocimiento de usted, de su banco y del emisor de la tarjeta. No recopilamos información sobre las transacciones que realiza ni sobre el dispositivo o la cuenta utilizada para realizar transacciones. Sin embargo, podemos agregar y anonimizar la información recopilada sobre sus intentos de realizar compras con Samsung Pay para comprender la forma en que las personas utilizan Samsung Pay y así poder mejorar el servicio, haciéndolo más conveniente y útil para nuestros clientes.
+Encontrará más información acerca de la forma en que procesamos su información en el Aviso de Privacidad de Samsung Pay, que se puede ver en el menú Ajustes de la aplicación Samsung Pay.
+
+Servicios de voz
+Puede controlar su Dispositivo móvil y utilizar muchas de sus funciones con comandos de voz.
+Dependiendo de su modelo y región, puede ordenar a su Dispositivo móvil que active ciertas funciones como reproducir canciones de la lista de reproducción o realizar búsquedas en la web con S Voice. Además, puede controlar todo lo que ha hecho con la interfaz táctil utilizando el comando de voz con Bixby. También puede recibir ayuda de traducción de idiomas a través de S Translator, dictar notas a través de Nota de voz o activar funciones mientras conduce hablando con su Dispositivo móvil después de activar Car Mode.
+Para proporcionar los servicios de voz, algunos comandos de voz pueden ser transmitidos (junto con información sobre su dispositivo y su uso, incluidos los identificadores de dispositivo) a un proveedor de servicios de terceros que convierte sus comandos de voz en texto. Además, Samsung puede recopilar y su dispositivo puede capturar comandos de voz y textos asociados para que podamos proporcionarle Servicios de voz y evaluar y mejorar las funciones.
+
+Identificador para anuncios de Samsung
+Para que el contenido y la publicidad en su dispositivo móvil sean de mayor interés para usted, recopilaremos información acerca del uso que hace de su dispositivo y servicios móviles.
+La información acerca del uso de su dispositivo móvil que se recopile con fines de proporcionar marketing personalizado se vinculará a un identificador de dispositivo aleatorio, no persistente y que se puede restablecer, llamado identificador para anuncios de Samsung. Puede restablecer su identificador para anuncios de Samsung en cualquier momento, en el menú Ajustes de su dispositivo móvil. Al hacerlo, la información del uso previo con respecto al marketing personalizado se desvinculará y separará de lo que recopile el nuevo identificador para anuncios de Samsung.
+Sin embargo, si restablece su identificador para anuncios de Samsung, el marketing personalizado podría no adaptarse de la mejor manera a sus intereses personales. También puede optar por dejar de recibir marketing personalizado en cualquier momento, en el menú Ajustes de la aplicación del servicio Samsung correspondiente en su dispositivo móvil.
+Sin embargo, incluso si opta por dejar de recibir marketing personalizado, los demás tipos de anuncios y marketing que pudiera o no recibir en sus dispositivos móviles no se verán afectados. La única diferencia será que esos anuncios no se basarán en la información de uso de su dispositivo móvil.
+También considere que Samsung aún puede recopilar información acerca del uso que hace de su dispositivo móvil para otros fines, según se describe en el texto principal de la Política de Privacidad.
+
+Las impresoras y fotocopiadoras Samsung ahora son parte de la familia de productos HP. Consulte la Declaración de Privacidad de HP en el siguiente enlace: www.hp.com/go/privacy.

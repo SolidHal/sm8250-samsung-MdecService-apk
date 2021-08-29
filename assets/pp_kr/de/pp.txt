@@ -1,0 +1,18 @@
+Einwilligung zur Erfassung und Verwendung persönlicher Informationen
+
+In dieser Einwilligung zur Erfassung und Verwendung persönlicher Informationen werden die Daten beschrieben, die zur Bereitstellung grundlegender Smartphone-Funktionen wie Betriebssystem-Updates oder Software-Updates für Fehlerbehebungen usw. erforderlich sind.
+
+1. Von uns erfasste Daten
+• Erfasste Daten: IMEI, Bauteilinformationen, Gerätestatusdaten, Modellname, Kundencode, Zugriffsaufzeichnung, aktuelle Softwareversion des Geräts, Land, Informationen zum Mobilfunkanbieter und (ggf.) Gerätefehlerprotokoll
+
+2. Zwecke der Erfassung und Verwendung
+• Bereitstellung von Diensten
+Persönliche Informationen werden dazu verwendet, für die Dienste, Produkte oder Geräte drahtlos Fehlerbehebungen, Updates und Leistungsverbesserungen bei installierter Software bereitzustellen, ohne dass Kunden ein Kundenzentrum aufsuchen müssten, sowie dazu, Kundendienst, Wartungsdienste und Benutzersicherheitsdienste bereitzustellen.
+• Verbesserung von Diensten, Entwicklung neuer Dienste, Zustellung von Nachrichten usw.
+Persönliche Informationen werden verwendet, um Statistiken zum Gerätestatus und zu Fehlerprotokollen abzurufen und zu analysieren, bestehende/neue Dienste (Produkte) zu verbessern/zu entwickeln und über Push-Nachrichten Benachrichtigungen oder Werbematerial zu versenden.
+
+3. Aufbewahrungs- und Nutzungszeitraum
+Grundsätzlich werden Ihre persönlichen Informationen unverzüglich vernichtet, wenn die Zwecke, für die die Daten erfasst und verwendet wurden, erfüllt sind.
+Wenn es jedoch entsprechend den Bestimmungen einschlägiger Gesetze und Verordnungen erforderlich ist, dass das Unternehmen Ihre persönlichen Informationen aufbewahrt, ist das Unternehmen berechtigt, Ihre persönlichen Informationen im Einklang mit den anwendbaren Gesetzen und Verordnungen aufzubewahren.
+
+※ Sie sind berechtigt, dieser Einwilligung zur Erfassung und Verwendung persönlicher Informationen nicht zuzustimmen; in diesem Fall können Sie unsere Dienste jedoch nicht nutzen, da wir die oben genannten Daten benötigen, um die Dienste für Sie bereitzustellen.

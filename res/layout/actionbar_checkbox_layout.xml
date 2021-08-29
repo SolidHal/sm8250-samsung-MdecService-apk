@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="?actionBarSize" android:minHeight="?android:listPreferredItemHeight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/select_all_wrapper" android:paddingTop="@dimen/selection_mode_layout_padding_top" android:paddingBottom="@dimen/selection_mode_layout_padding_bottom" android:focusable="true" android:layout_width="@dimen/selection_mode_checkbox_layout_width" android:layout_height="?actionBarSize">
+        <CheckBox android:theme="@style/CmcAllCheckBoxTheme" android:id="@id/all_select_checkbox" android:focusable="false" android:clickable="false" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" />
+        <TextView android:textAppearance="@style/TextAppearance.AppCompat.Widget.ActionBar.Title" android:textSize="@dimen/selection_mode_all_text_size" android:textColor="@color/about_page_app_name_text_color" android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/remove_all" android:maxLines="1" android:includeFontPadding="true" android:layout_alignParentBottom="true" android:importantForAccessibility="no" />
+    </RelativeLayout>
+    <TextView android:textAppearance="@style/TextAppearance.AppCompat.Widget.ActionBar.Title" android:textColor="@color/about_page_app_name_text_color" android:layout_gravity="center_vertical" android:id="@id/selected_item_count" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/selection_mode_select_item_margin_top" android:maxLines="1" android:layout_marginStart="@dimen/selection_mode_select_item_margin_start" />
+</LinearLayout>

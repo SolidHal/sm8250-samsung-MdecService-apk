@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:tag="layout/activity_cmc_welcome_0" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:bind="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/welcome_start_end_padding" android:paddingEnd="@dimen/welcome_start_end_padding">
+        <View android:orientation="vertical" android:id="@id/top_empty_view_one" android:layout_width="fill_parent" android:layout_height="0.0dip" />
+        <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/welcome_top_layout" />
+        <View android:orientation="vertical" android:id="@id/empty_view_two" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/welcome_middle_layout" />
+        <View android:orientation="vertical" android:id="@id/empty_view_three" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/welcome_privacy_policy_layout" />
+        <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/welcome_bottom_layout" />
+    </LinearLayout>
+</ScrollView>

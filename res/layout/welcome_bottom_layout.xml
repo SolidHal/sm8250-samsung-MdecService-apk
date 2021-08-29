@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/bottom_layout" android:tag="layout/welcome_bottom_layout_0" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/continue_button" android:tag="binding_1" android:layout_marginTop="@dimen/welcome_page_agree_button_margin" android:layout_marginBottom="@dimen/welcome_page_agree_button_margin" android:includeFontPadding="false" android:onClick="onButtonClick" style="@style/SingleBottomButton" />
+</LinearLayout>

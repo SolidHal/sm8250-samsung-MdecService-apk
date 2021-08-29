@@ -1,0 +1,98 @@
+﻿Oznámení o ochraně soukromí služby Call & Message Continuity
+
+Datum účinnosti: 30. 03. 2018
+
+Společnost Samsung Electronics (UK) Limited („Samsung“ nebo „My“) a její přidružené společnosti respektují vaše soukromí. Toto Oznámení o ochraně soukromí se týká osobních informací, které shromažďujeme prostřednictvím služby Call & Message Continuity („Služba“). Netýkají se informací shromažďovaných jinými aplikacemi, webovými stránkami nebo službami poskytovanými společností Samsung nebo jejími přidruženými subjekty.
+
+Služba je komunikační služba pro více různých zařízení. Její funkce zahrnují přenos příchozích a odchozích hovorů, historii hovorů a zpráv a synchronizaci zpráv mezi primárním zařízením (například chytrým telefonem) a sekundárními zařízeními (například hodinkami, tabletem, laptopem a podobně), abyste mohli přijímat příchozí hovory a číst zprávy v sekundárních zařízeních a volat a odesílat nové zprávy pomocí primárního zařízení.
+
+Chcete-li tuto Službu používat, musíte se nejprve přihlásit k účtu Samsung account v primárním zařízení i v sekundárních zařízeních. Pokud jsou vaším sekundárním zařízením hodinky, musíte nastavit službu sítě tak, že si předplatíte tarif pro mobilní data prostřednictvím systému poskytovaného operátorem sítě, což vám umožní používat hodinky s vaším běžným telefonním číslem. Pokud je vaším sekundárním zařízením tablet podporující pouze data, před jeho použitím musíte nastavit připojení k síti Wi-Fi nebo k systému poskytovanému operátorem sítě. Na používání vašeho účtu Samsung account a služby Call & Message Continuity se vztahují naše Zásady ochrany osobních údajů uvedené na stránce https://account.samsung.com/membership/pp („Zásady ochrany osobních údajů společnosti Samsung“). Toto Oznámení o ochraně soukromí poskytuje další informace o tom, jakým způsobem se vaše osobní údaje používají ve spojení se Službou a měli byste si je přečíst spolu se Zásadami ochrany osobních údajů společnosti Samsung.
+
+V tomto Oznámení o ochraně soukromí jsou popsány typy informací shromažďovaných prostřednictvím Služby, jak můžeme tyto informace používat, jak dlouho je můžeme uchovávat nebo s kým je můžeme sdílet, a dále uvádíme možnosti, které máte k dispozici ohledně našeho používání těchto informací a uplatňování vašich práv. Také popisujeme opatření, kterými chráníme tyto informace, a způsob, jak nás můžete kontaktovat ohledně našich postupů při ochraně osobních údajů. Společnost Samsung je v rámci zpracování osobních údajů jejich správcem.
+
+Klepnutím na jeden z následujících odkazů přeskočíte na uvedenou sekci:
+
+•	Informace, které získáváme
+•	Jak používáme získané informace
+•	Sdílení informací
+•	Uchování osobních údajů
+•	Vaše volby
+•	Vaše práva
+•	Jak chráníme osobní informace
+•	Aktualizace našeho Oznámení o ochraně soukromí
+•	Jak nás můžete kontaktovat
+
+Informace, které získáváme
+
+Prostřednictvím Služby o vás získáváme informace různými způsoby. Mezi typy získávaných osobních informací patří:
+
+•	Informace o účtu Samsung account. Shromažďujeme informace přidružené k účtu Samsung account používané pro přístup ke Službě, například ID účtu Samsung account.
+
+•	Interakce se Službou. Shromažďujeme informace, které si interaktivně vyměňujete se Službou, včetně informací o volajících a příjemcích, informací o odesílatelích a příjemcích zpráv, obsahu odesílaných a přijímaných zpráv a historie hovorů a zpráv v aplikacích chytrého telefonu. Kromě toho shromažďujeme také další informace o využití, například dotykové interakce a jiné vstupy, a informace, které obdržíte ze Služby (například reakce a odpovědi). Pokud do Služby odešlete citlivé informace typu údaje o zdravotním stavu, například coby součást odeslaných nebo přijatých zpráv, budou rovněž shromážděny a zpracovány k níže uvedeným účelům. Takové informace nebudeme aktivně shromažďovat, aniž bychom předem získali váš zvláštní výslovný souhlas, nebo pokud to nevyžadují platné zákony.
+
+•	Informace o zařízeních a aplikacích. Automatizovanými prostředky shromažďujeme informace o vašich zařízeních, na kterých provozujete Službu, například číslo mobilního zařízení, síťovou MAC adresu, identifikátory zařízení a další jedinečné identifikátory.
+
+Jak používáme získané informace
+Informace získávané prostřednictvím Služby používáme k následujícím účelům:
+
+•	identifikace a ověření, abyste mohli používat určitou službu;
+•	poskytování Služby, která zahrnuje například přenos příchozích a odchozích hovorů mezi zařízeními a synchronizaci historie hovorů a zpráv v zařízeních (chytrém telefonu, hodinkách, tabletu, laptopu atd.);
+•	vylepšení a přizpůsobení vašeho používání Služby;
+•	reakce na vaše požadavky a dotazy;
+•	provozování, vyhodnocování a zdokonalování naší činnosti (včetně vyvíjení nových produktů; zdokonalování a vylepšování našich produktů a služeb; správy naší komunikace; analýzy našich produktů, zákaznické základny a služeb; provádění výzkumu trhu; provádění analýzy dat; vedení účetnictví, provádění auditu a jiných interních funkcí);
+•	povolení používat určité aplikace a služby třetích stran;
+•	ochrana před podvody a jinou kriminální činností, pohledávkami a jinými závazky, jejich identifikace a eliminace;
+•	zajištění shody s platnými zákonnými požadavky, relevantními průmyslovými standardy a našimi zásadami, včetně tohoto Oznámení o ochraně soukromí a Zásad ochrany osobních údajů společnosti Samsung, a jejich dodržování.
+
+Prostřednictvím Služby můžeme průběžně shromažďovat osobní informace o vašich online aktivitách v zařízeních, na kterých provozujete Službu a v aplikacích souvisejících se službami hovorů a zpráv pro chytré telefony. Ve Službě můžeme používat analytické služby třetích stran. Poskytovatelé, kteří spravují tyto analytické služby, nám pomáhají analyzovat vaše používání Služby a zlepšovat Službu. Získané informace mohou být předány nebo je mohou přímo shromažďovat tito poskytovatelé a jiné relevantní třetí strany, které informace používají, například k vyhodnocení používání Služby, pomoci při poskytování Služby a diagnostice technických problémů.
+
+
+Společnost Samsung zpracovává osobní údaje k výše uvedeným účelům. Právní základ společnosti Samsung pro zpracování osobních údajů zahrnuje zpracování, které je: nezbytné pro naplnění smlouvy mezi vámi a společností Samsung (například aby vám byla poskytována Služba a abyste byli identifikováni a ověřeni tak, abyste mohli využívat určitou službu); nezbytné pro splnění zákonných požadavků (například aby byla dodržena platná pravidla evidence a pro povinné předávání údajů soudním orgánům); nezbytné pro legitimní zájmy společnosti Samsung (například abychom mohli spravovat náš vztah s vámi a zlepšovat Službu); a založené na vašem zvláštním souhlasu (například abychom s vámi mohli komunikovat o našich produktech a službách a poskytovali vám marketingové informace), který může být následně kdykoli odvolán, jestliže nás budete kontaktovat postupem uvedeným v sekci Jak nás můžete kontaktovat tohoto Oznámení o ochraně soukromí, aniž by byla dotčena zákonnost zpracování na základě souhlasu před jeho odvoláním.
+
+Nezbytným požadavkem k uzavření smlouvy je, abyste nám poskytli osobní údaje ke zpracování, jak je popsáno v textu výše. Pokud nám neposkytnete osobní údaje, nebudeme vám moci nabídnout všechny funkce dostupné prostřednictvím Služby.
+
+Sdílení informací
+
+Prostřednictvím Služby nesdělíme žádné vaše osobní informace s výjimkou případů popsaných v tomto Oznámení o ochraně soukromí. Osobní údaje může používat a jinak zpracovávat omezený počet členů týmu Služby ve společnosti Samsung ve spojitosti s jejich pracovními povinnostmi nebo smluvními závazky. Vaše osobní informace můžeme sdílet s našimi pobočkami a přidruženými subjekty a s poskytovateli služeb, kteří poskytují služby naším jménem. Naše poskytovatele služeb neopravňujeme informace používat nebo zveřejňovat, s výjimkou použití nezbytného k poskytování služeb naším jménem nebo pro dodržení zákonných požadavků.
+
+Někteří takoví zaměstnanci, přidružené subjekty a nezávislí poskytovatelé služeb sídlí mimo oblast EHP, mezi které patří i země, které neposkytují stejnou úroveň ochrany údajů, jako země našich zákazníků. Jedná se například o Korejskou republiku, Spojené státy americké nebo Japonsko. Společnost Samsung podniká příslušné kroky, aby zajistila, že tito příjemci budou vázáni mlčenlivostí, a zavádí opatření, jako jsou smluvní klauzule o standardní ochraně údajů, aby zajistila, že veškeré předané osobní údaje zůstanou chráněné a zabezpečené. Kopii těchto klauzulí vám můžeme zaslat, pokud nás kontaktujete postupem uvedeným v sekci Jak nás můžete kontaktovat, která je součástí tohoto Oznámení o ochraně soukromí.
+
+Společnost Samsung, ale také naše pobočky, přidružené subjekty a nezávislí poskytovatelé služeb, může prozradit vaše osobní informace, (1) pokud k tomu bude vyzvána ze zákona nebo na základě soudního sporu (například soudním příkazem nebo obsílkou); (2) na základě požadavku státních orgánů, například soudních orgánů; (3) za účelem zajištění, uplatnění nebo ochrany našich zákonných práv; (4) když bude společnost přesvědčena, že to je nezbytné nebo vhodné kvůli zabránění fyzickým nebo jiným újmám, nebo finanční ztrátě; (5) v souvislosti s vyšetřováním podezřelé nebo skutečné nezákonné činnosti; (6) v případě, že společnost prodá nebo převede celý podnik nebo aktiva, nebo jejich část (včetně případu sloučení, akvizice, prodeje, převodu, reorganizace, rozpuštění nebo likvidace); nebo (7) jinak s vaším zvláštním souhlasem.
+
+
+Uchování osobních údajů
+
+Přijali jsme přiměřená opatření, která zajišťují, že jsou informace o vás uchovány pouze podle následující logiky:
+1. přinejmenším po dobu, po kterou jsou informace používány k poskytování Služby;
+2. jak to vyžaduje zákon, smlouva, nebo s ohledem na naše zákonné povinnosti;
+3. pouze po dobu nezbytně nutnou k účelu, za jakým byly informace shromážděny, nebo jak je vyžadováno příslušnou smlouvou nebo platnými zákony, nebo ke statistickým účelům, s použitím patřičných bezpečnostních opatření.
+
+Vaše volby
+
+V souvislosti s vašimi osobními informacemi, které shromažďujeme, vám nabízíme jisté možnosti. Pokud chcete změnit své předvolby, omezit komunikaci z naší strany nebo odeslat požadavek, kontaktujte nás postupem uvedeným v sekci Jak nás můžete kontaktovat tohoto Oznámení o ochraně soukromí.
+
+Možnosti, které máte k dispozici v souvislosti s vaším používáním Služby, naleznete v nastavení „Vzdálené připojení“ ve svém zařízení. Pamatujte si, že pokud nepovolíte Službu, pravděpodobně nebudete moci využívat všechny funkce dostupné prostřednictvím Služby.
+
+Vaše práva
+
+Máte právo vyžádat si podrobnosti o informacích, které o vás shromažďujeme, a požádat nás o opravu nepřesností v těchto informacích, vznést námitku nebo požadovat omezení jejich zpracování, a požádat o přístup k nim nebo o jejich vymazání či přenos. Podle zákonů v některých jurisdikcích můžeme odmítnout zpracovat požadavky, které se bezdůvodně opakují, vyžadují nepřiměřené technické úsilí, ohrožují osobní údaje jiných uživatelů, jsou mimořádně nepraktické nebo pokud k nim přístup není jinak vyžadován zákonem. Pokud chcete požádat o přístup k poskytnutým informacím, kontaktujte nás prostřednictvím stránky Podpora ochrany osobních údajů (https://www.samsung.com/request-desk).
+
+Pokud požadujete odstranění vašich osobních informací, berete na vědomí, že pravděpodobně nebudete mít přístup k poskytovaným službám a nebudete je moci využívat a že zbývající osobní informace mohou být nadále uchovány po nějakou dobu v záznamech a archivech společnosti Samsung v souladu s platnými zákony, ovšem společnost Samsung nebude tyto informace využívat ke komerčním účelům. Jste srozuměni s tím, že navzdory vašemu požadavku na odstranění si společnost Samsung vyhrazuje právo uchovat vaše osobní informace, nebo jejich relevantní část, v souladu s našimi zásadami uchování osobních údajů a platnými zákony, jestliže společnost Samsung pozastavila, omezila nebo ukončila váš přístup k webu z důvodu porušení Smluvních podmínek společnosti Samsung, je-li to nezbytné k ochraně práv, majetku nebo bezpečnosti společnosti Samsung, nebo jakékoli z jejích příslušných poboček, obchodních partnerů, zaměstnanců nebo zákazníků.
+
+Jak chráníme osobní informace
+
+Provádíme příslušná administrativní, technická a fyzická zabezpečení osobních informací, které získáváme prostřednictvím Služby, určená k ochraně proti náhodnému, nezákonnému nebo neautorizovanému zničení, narušení, ztrátě, změně, přístupu, zveřejnění nebo použití. Společnost Samsung rovněž využívá adekvátní postupy, které pomáhají zajistit, že jsou takové údaje spolehlivé z hlediska účelu použití a jsou přesné, úplné a aktuální.
+
+Aktualizace našeho Oznámení o ochraně soukromí
+
+Toto Oznámení o ochraně soukromí může být pravidelně aktualizováno, aby odráželo změny v našich postupech zpracování osobních informací týkajících se Služby nebo změny platných zákonů. Na náš web a/nebo do vašeho zařízení odešleme upozornění, kterým vás předem uvědomíme ohledně významných změn v našem Oznámení o ochraně soukromí a na začátku tohoto upozornění uvedeme datum poslední aktualizace.
+
+Jak nás můžete kontaktovat
+
+Pokud máte jakékoli konkrétní dotazy, kontaktujte nás (správce údajů pro EU) na adrese:
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+Rovněž nás můžete kontaktovat prostřednictvím stránky Podpora ochrany osobních údajů (https://www.samsung.com/request-desk).
+
+Pokud se domníváte, že naše zpracování vašich osobních údajů porušuje zákon, můžete podat stížnost u dozorčího orgánu.

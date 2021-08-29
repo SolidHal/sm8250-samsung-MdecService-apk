@@ -1,0 +1,98 @@
+﻿Notificação de Privacidade de Call & Message Continuity
+
+Data de Entrada em Vigor: 30/03/2018
+
+A Samsung Electronics (UK) Limited (“Samsung” ou “Nós”) e as suas empresas afiliadas respeitam as preocupações do Cliente sobre privacidade. A presente Notificação de Privacidade aplica-se às informações pessoais que a Samsung recolhe através do serviço Call & Message Continuity (o “Serviço”). Não é aplicável às informações recolhidas por outras aplicações, sites Web ou serviços fornecidos pela Samsung ou pelas respectivas entidades afiliadas.
+
+O Serviço é um serviço de comunicações multidispositivo. As suas funcionalidades incluem o reencaminhamento de chamadas recebidas e efectuadas, o histórico de chamadas e mensagens, bem como a sincronização de mensagens entre o dispositivo principal (por exemplo, o smartphone) e dispositivos secundários (por exemplo, o relógio, tablet, computador portátil, etc.) para que o Cliente possa receber chamadas e ler mensagens nos dispositivos secundários, bem como efectuar chamadas e enviar novas mensagens utilizando o respectivo dispositivo principal.
+
+Para utilizar o Serviço, o Cliente tem de ter primeiro sessão iniciada numa Samsung account no dispositivo principal e nos dispositivos secundários. Se o dispositivo secundário for um relógio, o Cliente terá de configurar um serviço de rede ao subscrever um plano de dados móveis através do sistema fornecido pela operadora de rede que lhe permitirá utilizar o relógio com o respectivo número de telefone habitual. Se o dispositivo secundário do Cliente for um tablet que suporte apenas dados, terá de configurar uma ligação com uma rede Wi-Fi ou com o sistema fornecido pela respectiva operadora de rede que permite a utilização do tablet. A Política de Privacidade da Samsung em https://account.samsung.com/membership/pp (“Política de Privacidade da Samsung”) será aplicada à utilização que o Cliente faz da respectiva Samsung account e de Call & Message Continuity. Esta Notificação de Privacidade fornece informações adicionais sobre como os dados pessoais do Cliente são utilizados relativamente ao Serviço e deverá ser lida em conjunto com a Política de Privacidade da Samsung.
+
+Na presente Notificação de Privacidade, a Samsung descreve os tipos de informações recolhidas através do Serviço, a forma como a Samsung poderá utilizar as informações, por quanto tempo a Samsung poderá manter as informações, com quem a Samsung poderá partilhá-las e as escolhas disponibilizadas ao Cliente relativamente à utilização que a Samsung faz das informações e na execução dos direitos do Cliente. A Samsung também descreve as medidas tomadas para salvaguardar as informações e indica ao Cliente como deve ser contactada sobre as práticas de privacidade da Samsung. A Samsung é o controlador de dados para o processamento de dados pessoais.
+
+Clique numa das ligações abaixo para ir para a secção listada:
+
+•	Informações Obtidas pela Samsung
+•	Modo Como a Samsung Utiliza as Informações Obtidas
+•	Partilha de Informações
+•	Retenção de Dados Pessoais
+•	Escolhas do Cliente
+•	Os Direitos do Cliente
+•	Modo Como a Samsung Protege Informações Pessoais
+•	Actualizações à Notificação de Privacidade da Samsung
+•	Como Contactar a Samsung
+
+Informações Obtidas pela Samsung
+
+Através do Serviço, a Samsung obtém informações sobre o Cliente de diversas formas. Os tipos de informações pessoais que a Samsung obtém incluem:
+
+•	Informações da Samsung account. A Samsung recolhe informações associadas à Samsung account do Cliente utilizada para aceder ao Serviço, como o ID da Samsung account do Cliente.
+
+•	As Interacções do Serviço. A Samsung recolhe informações que o Cliente troca através das respectivas interacções com o Serviço, incluindo informações sobre chamadores e destinatários, informações sobre os remetentes e os destinatários das mensagens, o conteúdo das mensagens que o Cliente envia e recebe, e o histórico de chamadas e mensagens do Cliente nas aplicações do smartphone. Além disso, outras informações sobre utilização, tais como as interacções de toque do Cliente e outras formas de introdução de dados, e as informações que o Cliente recebe do Serviço (tais como respostas) serão também recolhidas. Se o Cliente submeter informações ao Serviço que sejam confidenciais (por exemplo, informações de saúde), tais como mensagens que o Cliente envia ou recebe com informações confidenciais, essas informações também serão recolhidas e processadas para os fins definidos abaixo. A Samsung só recolherá activamente essas informações confidenciais depois de obter o consentimento explícito do Cliente em separado ou quando requerido pela lei aplicável.
+
+•	Informações sobre Dispositivos e Aplicações. A Samsung recolhe informações através de meios automatizados sobre os dispositivos do Cliente compatíveis com o Serviço, tais como o número móvel, o endereço MAC da rede, os identificadores de dispositivo e outros identificadores exclusivos.
+
+Modo Como a Samsung Utiliza as Informações Obtidas
+A Samsung utiliza as informações obtidas através do Serviço para:
+
+•	identificar e autenticar o Cliente para que este possa utilizar um determinado serviço;
+•	fornecer ao Cliente o Serviço, tal como o reencaminhamento de chamadas recebidas e efectuadas, e a sincronização do histórico de chamadas e mensagens nos dispositivos do Cliente (smartphone, relógio, tablet, computador portátil, etc.);
+•	melhorar e personalizar a experiência do Cliente com o Serviço;
+•	responder aos pedidos e perguntas do Cliente;
+•	operar, avaliar e melhorar o negócio da Samsung (incluindo o desenvolvimento de novos produtos; a optimização e o melhoramento dos produtos e dos serviços da Samsung; a gestão das comunicações da Samsung; a análise dos produtos, da base de clientes e dos serviços da Samsung; a realização de estudos de mercado; a execução de análises de dados e a execução de funções de contabilidade, auditoria e de outras funções internas);
+•	permitir que o Cliente interaja com e utilize determinadas aplicações e serviços de terceiros;
+•	proteger, identificar e prevenir fraudes e outras actividades criminais, medidas cautelares e outras responsabilidades e
+•	cumprir e aplicar os requisitos legais aplicáveis, normas relevantes da indústria e as políticas da Samsung, incluindo esta Notificação de Privacidade e a Política de Privacidade da Samsung.
+
+Através do Serviço, a Samsung poderá recolher ao longo do tempo informações pessoais sobre as actividades online do Cliente em dispositivos compatíveis com o Serviço e em aplicações relacionadas com serviços de chamadas e mensagens do smartphone. A Samsung poderá utilizar serviços de análises de terceiros no Serviço. Os fornecedores que administram estes serviços de análises ajudam a Samsung a analisar a utilização que o Cliente faz do Serviço e a melhorar o Serviço. As informações que a Samsung obtém poderão ser divulgadas ou recolhidas directamente por estes fornecedores e outros terceiros relevantes que utilizam as informações, por exemplo, para avaliar a utilização do Serviço, para ajudar a fornecer o Serviço e para diagnosticar problemas técnicos.
+
+
+A Samsung processa dados pessoais para os fins descritos acima. A base legal da Samsung para processar dados pessoais inclui o processamento que seja: necessário para o desempenho do contrato entre o Cliente e a Samsung (por exemplo, para fornecer ao Cliente o Serviço e para identificar e autenticar o Cliente para que este possa utilizar um determinado serviço); necessário para cumprir os requisitos legais (por exemplo, para cumprir as regras de contabilidade aplicáveis e para proceder a divulgações obrigatórias para a aplicação da lei); necessário para os interesses legítimos da Samsung (por exemplo, para gerir as relações entre a Samsung e o Cliente e para melhorar o Serviço); e que seja baseado na obtenção do consentimento do Cliente em separado (por exemplo, para informar o Cliente sobre os produtos e serviços da Samsung e fornecer ao Cliente as informações de marketing), que poderá ser subsequentemente retirado em qualquer altura contactando a Samsung conforme especificado na secção Como Contactar a Samsung desta Notificação de Privacidade sem afectar a legitimidade do processamento com base no consentimento antes da sua retirada.
+
+O Cliente deverá celebrar um contrato para fornecer à Samsung dados pessoais para o processamento conforme descrito acima. Se o Cliente não fornecer à Samsung os respectivos dados pessoais, esta não poderá fornecer ao Cliente todas as funcionalidades disponibilizadas através do Serviço.
+
+Partilha de Informações
+
+A Samsung não divulga informações pessoais sobre o Cliente através do Serviço, excepto conforme descrito nesta Notificação de Privacidade. Os membros limitados da equipa do Serviço na Samsung poderão aceder e de outro modo processar dados pessoais relativamente às respectivas responsabilidades profissionais ou obrigações contratuais. A Samsung poderá partilhar as informações pessoais do Cliente com as respectivas subsidiárias e afiliadas e com os fornecedores de serviços que executem serviços em nome da Samsung. A Samsung não autoriza os respectivos fornecedores de serviços a utilizarem ou a divulgarem as informações, excepto consoante necessário para executarem serviços em nome da Samsung ou para cumprirem os requisitos legais.
+
+Alguns destes membros da equipa, afiliadas e fornecedores de serviços de terceiros estão localizados fora do EEE, incluindo em países que poderão não fornecer o mesmo nível de protecção de dados que o país de origem dos clientes da Samsung, incluindo, por exemplo e sem limitação, a República da Coreia, os Estados Unidos da América e o Japão. A Samsung toma as medidas adequadas para garantir que esses destinatários ficam vinculados aos deveres de confidencialidade e a Samsung implementa medidas como cláusulas contratuais de protecção de dados padrão para garantir que quaisquer dados pessoais transferidos permanecem protegidos e seguros. Uma cópia destas cláusulas pode ser obtida contactando a Samsung conforme especificado na secção Como Contactar a Samsung da presente Notificação de Privacidade.
+
+A Samsung, as respectivas subsidiárias e afiliadas e os respectivos fornecedores de serviços de terceiros também poderão divulgar informações sobre o Cliente (1) se a Samsung for obrigada a tal por lei ou processo jurídico (como uma ordem judicial ou intimação); (2) em resposta a pedidos feitos por órgãos governamentais, como autoridades responsáveis pela aplicação da lei; (3) para estabelecer, exercer ou defender os direitos legais da Samsung; (4) quando a Samsung considerar que a divulgação é necessária ou apropriada para prevenir danos físicos ou outros, bem como perdas financeiras; (5) no que diz respeito a uma investigação de actividade ilegal suspeita ou real; (6) caso a Samsung venda ou transfira tudo ou uma parte do respectivo negócio ou activos (incluindo no caso de uma fusão, aquisição, venda, transferência, reorganização, dissolução ou liquidação); ou (7) de outro modo com o consentimento do Cliente em separado.
+
+
+Retenção de Dados Pessoais
+
+A Samsung tomará as medidas apropriadas para garantir que as informações sobre o Cliente serão apenas retidas com base na seguinte lógica:
+1. pelo menos no período durante o qual as informações são utilizadas para fornecer o Serviço ao Cliente;
+2. conforme necessário de acordo com as leis, um contrato ou no que respeita a obrigações legais da Samsung ou
+3. apenas enquanto forem necessárias para a finalidade para a qual foram recolhidas, são processadas, ou mais tempo, se for requerido ao abrigo de algum contrato, por uma lei aplicável ou para fins de estatística, de acordo com medidas de segurança apropriadas.
+
+Escolhas do Cliente
+
+A Samsung oferece ao Cliente determinadas opções relativamente às informações pessoais sobre o Cliente obtidas pela Samsung. Para actualizar as preferências do Cliente, limitar as comunicações que este recebe da Samsung ou submeter um pedido, entre em contacto com a Samsung conforme especificado na secção Como Contactar a Samsung desta Notificação de Privacidade.
+
+O Cliente deverá visitar as definições da “Ligação remota” no respectivo dispositivo para obter as opções que possam estar disponíveis para o Cliente relativamente à respectiva utilização do Serviço. Note que, se o Cliente não permitir o Serviço, o Cliente poderá não conseguir utilizar todas as funcionalidades disponíveis através do Serviço.
+
+Os Direitos do Cliente
+
+O Cliente tem o direito de solicitar detalhes sobre as informações que a Samsung recolhe sobre o Cliente e de pedir à Samsung para corrigir imprecisões nessas informações, de contestar ou de solicitar a restrição do processamento e de solicitar o acesso, a eliminação ou a portabilidade das respectivas informações. Ao abrigo das leis de algumas jurisdições, a Samsung poderá recusar-se a processar pedidos que sejam excessivamente repetitivos, requeiram esforços técnicos desproporcionados, comprometam a privacidade de outros, sejam extremamente difíceis de concretizar ou aos quais o acesso não seja exigido de outra forma pela lei local. Caso o Cliente pretenda efectuar um pedido de acesso às respectivas informações, deverá entrar em contacto com a Samsung visitando a Página Suporte da Privacidade (https://www.samsung.com/request-desk).
+
+Se o Cliente pedir a eliminação das informações pessoais, o Cliente confirma que não poderá aceder nem utilizar os Serviços da Empresa e que as informações pessoais residuais poderão continuar a aparecer nos registos e arquivos da Samsung durante algum tempo, em conformidade com a lei aplicável. No entanto, a Samsung não utilizará essas informações para fins comerciais. O Cliente compreende que, apesar do respectivo pedido de eliminação, a Samsung reserva-se o direito de manter as informações pessoais do Cliente, ou uma parte relevante das mesmas, em conformidade com a política de retenção de dados da Samsung e leis aplicáveis, caso a Samsung tenha suspendido, limitado ou cessado o acesso do Cliente ao site Web por violação dos Termos do Serviço da Samsung, quando necessário para proteger os direitos, a propriedade ou a segurança da Samsung, ou de qualquer outra das respectivas afiliadas, parceiros de negócio, colaboradores ou clientes.
+
+Modo Como a Samsung Protege Informações Pessoais
+
+A Samsung mantém medidas administrativas, técnicas e físicas apropriadas, concebidas para proteger as informações pessoais que a Samsung obtém através do Serviço contra a destruição, bem como a interferência, perda, alteração, acesso, divulgação ou utilização acidental, ilegítima ou não autorizada. A Samsung mantém também procedimentos razoáveis para ajudar a garantir que esses dados são fidedignos para a respectiva utilização prevista e exactos, completos e actuais.
+
+Actualizações à Notificação de Privacidade da Samsung
+
+A presente Notificação de Privacidade poderá ser actualizada periodicamente para reflectir alterações nas práticas de informações pessoais da Samsung relativamente ao Serviço ou alterações na lei aplicável. A Samsung publicará uma notificação no site Web da Samsung e/ou no dispositivo do Cliente para o informar com antecedência sobre alterações materiais na Notificação de Privacidade da Samsung e a indicar na parte superior da notificação a data da realização da actualização mais recente.
+
+Como Contactar a Samsung
+
+Se o Cliente tiver questões específicas, deve contactar a Samsung (Controlador de Dados da UE) através de:
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+O Cliente também poderá contactar a Samsung visitando a Página Suporte da Privacidade (https://www.samsung.com/request-desk).
+
+O Cliente poderá apresentar uma reclamação junto de uma autoridade de controlo se considerar que o processamento por parte da Samsung dos respectivos dados pessoais viola a lei aplicável.

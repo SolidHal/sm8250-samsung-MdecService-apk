@@ -1,0 +1,18 @@
+Consentimiento para la recopilación y el uso de información personal
+
+Este Consentimiento para la recopilación y el uso de información personal describe la información necesaria para proporcionar las funciones básicas del smartphone, tales como actualizaciones del sistema operativo o software para subsanación de errores, entre otros.
+
+1. Información que recopilamos
+• Información recopilada: IMEI, información de componentes, información de estado del dispositivo, nombre del modelo, código del cliente, registro de acceso, versión actual de software del dispositivo, país, información del operador comercial y registro de errores de dispositivo (cuando lo haya)
+
+2. Propósitos de la recopilación y del uso
+• Prestación de servicios
+La información personal se utiliza para prestar servicios inalámbricos de subsanación de errores, de actualizaciones y de mejora del rendimiento de software instalado para los servicios, los productos o los dispositivos, sin necesidad de que los clientes tengan que acudir a un centro de servicio, así como para proporcionar el servicio de atención al cliente, los servicios de mantenimiento y los servicios de protección de los usuarios.
+• Mejoras del servicio, desarrollo de nuevos servicios, envío de mensajes, etc.
+La información personal se utiliza para obtener y analizar estadísticas del estado del dispositivo y de los registros de errores con objeto de mejorar servicios existentes (productos) o desarrollar nuevos servicios (productos) y de enviar notificaciones o material promocional mediante mensajes de difusión.
+
+3. Retención y periodo de uso
+Normalmente, la información personal se elimina sin demora después de que se logren los fines por los que la información se había recopilado y usado.
+No obstante, si las disposiciones de las leyes y normativas pertinentes hacen necesario que la Empresa retenga su información personal, la Empresa lo hará conforme a las leyes y normativas aplicables.
+
+※ Puede decidir no aceptar el presente Consentimiento para la recopilación y el uso de información personal, pero si lo hace, no podrá utilizar nuestros servicios, ya que la información especificada anteriormente resulta necesaria para que podamos ofrecerle los servicios.

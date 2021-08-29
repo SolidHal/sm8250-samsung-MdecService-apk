@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:tag="contents_area" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="10.0dip">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:gravity="bottom" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="72.0dip">
+                <TextView android:gravity="start" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="9.0dip" android:text="@string/privacy_policy" android:layout_marginStart="@dimen/pp_content_side_margin" style="@style/pp_header_title_text" />
+                <View android:background="#16252525" android:layout_width="fill_parent" android:layout_height="3.0px" />
+            </LinearLayout>
+            <ScrollView android:scrollbarStyle="outsideInset" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="@dimen/pp_content_top_margin" android:layout_marginBottom="24.0dip" android:layout_weight="1.0" android:paddingEnd="@dimen/pp_content_end_margin" android:layout_marginStart="@dimen/pp_content_side_margin">
+                <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/pp_content_text_size" android:textColor="@color/pp_contents_text_color" android:gravity="start" android:id="@id/samsung_pp_content" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:includeFontPadding="false" android:shadowColor="#ffffffff" android:editable="false" android:lineSpacingExtra="@dimen/pp_contents_lineSpacingExtra" android:fontFamily="sec-roboto-light" />
+            </ScrollView>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:focusable="true" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="56.0dip" android:baselineAligned="false">
+            <LinearLayout android:gravity="center" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <LinearLayout android:gravity="center" android:paddingTop="8.0dip" android:paddingBottom="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:paddingStart="16.0dip" android:paddingEnd="16.0dip" android:layout_marginStart="2.0dip" android:layout_marginEnd="2.0dip">
+                    <TextView android:textSize="17.0dip" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="button_next" android:fontFamily="sec-roboto-light" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <LinearLayout android:gravity="center" android:paddingTop="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:paddingStart="16.0dip" android:paddingEnd="16.0dip" android:layout_marginStart="2.0dip" android:layout_marginEnd="2.0dip">
+                    <TextView android:textSize="17.0dip" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="button_next" android:fontFamily="sec-roboto-light" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

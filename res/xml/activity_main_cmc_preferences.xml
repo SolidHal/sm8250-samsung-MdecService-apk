@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:layout_width="fill_parent" android:layout_height="wrap_content" android:key="pd_sd_device_list"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory android:key="samsung_account_mobile_data_category" android:order="4">
+        <Preference android:title="@string/samsung_account_title" android:key="samsung_account" />
+        <SwitchPreferenceCompat android:title="@string/use_mobile_data" android:key="network_switch_pref" />
+    </PreferenceCategory>
+</PreferenceScreen>

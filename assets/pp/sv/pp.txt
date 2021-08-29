@@ -1,0 +1,98 @@
+﻿Sekretessmeddelande för Call & Message Continuity
+
+Effektivt datum: 2018-03-30
+
+Samsung Electronics (UK) Limited (”Samsung” eller ”Vi”) och dess samarbetspartner tar din sekretess på största allvar. Detta Sekretessmeddelande gäller den personliga information som vi samlar in via tjänsten Call & Message Continuity (”Tjänsten”). Det gäller inte information som samlas in av andra appar, webbplatser eller tjänster som tillhandahålls av Samsung eller dess samarbetspartner.
+
+Tjänsten är en kommunikationstjänst för flera enheter. Funktionerna omfattar vidarekoppling av inkommande och utgående samtal, samtals- och meddelandehistorik samt synkronisering av meddelanden mellan din huvudenhet (t.ex. din smartphone) och en annan enhet/andra enheter (t.ex. din klocka, surfplatta, bärbara dator osv.) så att du kan ta emot inkommande samtal och läsa meddelanden på dina enheter och ringa utgående samtal och skicka nya meddelanden med din huvudenhet.
+
+Om du vill använda Tjänsten måste du först logga in på ett Samsung account på både din huvudenhet och din(a) andra enhet(er). Och om din andra enhet är en klocka måste du ställa in en nätverkstjänst genom att skaffa ett mobildataavtal via systemet som tillhandahålls via din nätverksoperatör så att du kan använda klockan med ditt vanliga telefonnummer. Och om din andra enhet är en surfplatta som bara har stöd för data måste du ställa in en anslutning med ett Wi-Fi-nätverk eller med systemet som tillhandahålls via din nätverksoperatör så att du kan använda din surfplatta. Vår Sekretesspolicy, som finns på https://account.samsung.com/membership/pp (”Samsungs Sekretesspolicy”), gäller för din användning av ditt Samsung account och Call & Message Continuity. I detta Sekretessmeddelande finns ytterligare information om hur dina personliga data används i anslutning till Tjänsten, och det ska läsas i kombination med Samsungs Sekretesspolicy.
+
+I detta Sekretessmeddelande beskriver vi vilka typer av information som samlas in via Tjänsten, hur vi kan använda informationen, hur länge vi får behålla informationen, vilka vi får dela den med och vilka alternativ du har angående vår användning av informationen och om du vill utöva dina rättigheter. Vi beskriver även vilka åtgärder vi vidtar för att skydda informationen och informerar om hur du kan kontakta oss angående våra sekretessrutiner. Samsung är registeransvarig för behandlingen av personuppgifter.
+
+Klicka på någon av länkarna nedan för att gå till det angivna avsnittet:
+
+•	Information som vi erhåller
+•	Hur vi använder informationen vi erhåller
+•	Delning av information
+•	Bibehållande av personliga data
+•	Dina val
+•	Dina rättigheter
+•	Hur vi skyddar personlig information
+•	Uppdateringar av vårt Sekretessmeddelande
+•	Så kontaktar du oss
+
+Information som vi erhåller
+
+Genom Tjänsten erhåller vi information om dig på flera sätt. Vi erhåller flera typer av personlig information, bland annat följande:
+
+•	Information om Samsung account. Vi samlar in information som är kopplad till det Samsung account du använder med Tjänsten, t.ex. ditt Samsung account-id.
+
+•	Utbyte med Tjänsten. Vi samlar in information som du utbyter med Tjänsten, inklusive information om uppringare och mottagare, information om meddelandets avsändare och mottagare, innehållet i meddelanden som du skickar och tar emot, och din samtals- och meddelandehistorik i smartphoneappar. Vi samlar även in annan användningsinformation, däribland tryckinteraktioner och annan inmatning, samt informationen som du får från Tjänsten (t.ex. respons och svar). Om du skickar in information till Tjänsten som är känslig (t.ex. hälsoinformation), som meddelanden som du skickar eller tar emot som innehåller känslig information, samlas denna också in och behandlas för de syften som anges nedan. Vi samlar inte in sådan känslig information utan att först inhämta ditt uttryckliga separata samtycke, samt när detta är tillåtet enligt tillämplig lag.
+
+•	Enhets- och appinformation. Vi samlar automatiskt in information om dina enheter där Tjänsten är aktiverad, t.ex. mobiltelefonnumret, nätverkets MAC-adress, enhetsidentifierare och andra unika identifierare.
+
+Hur vi använder informationen vi erhåller
+Vi använder informationen som vi erhåller via Tjänsten för att:
+
+•	identifiera och autentisera dig så att du kan använda en viss tjänst
+•	tillhandahålla dig Tjänsten, t.ex. vidarekoppling av inkommande och utgående samtal mellan dina enheter och synkronisering av din samtalshistorik och dina meddelanden på dina enheter (klocka, surfplatta, bärbar dator osv.)
+•	förbättra och anpassa din upplevelse av Tjänsten
+•	svara på dina förfrågningar
+•	driva, utvärdera och förbättra vår verksamhet (däribland utveckla nya produkter, förbättra våra produkter och tjänster, hantera vår kommunikation, analysera våra produkter, vår kundbas och våra tjänster, utföra marknadsundersökningar, utföra dataanalys samt utföra redovisning, revision och andra interna funktioner)
+•	låta dig interagera med och använda vissa appar och tjänster från tredje part
+•	skydda mot, identifiera och förhindra bedrägeri och annan kriminell aktivitet, anspråk och annat ansvar
+•	följa och verkställa tillämpliga juridiska krav, relevanta branschstandarder samt våra policyer, däribland detta Sekretessmeddelande och Samsungs Sekretesspolicy.
+
+Genom Tjänsten kan vi samla in personlig information om dina onlineaktiviteter över tid på enheter där Tjänsten är aktiverat och i appar för smartphonesamtal- och meddelandetjänster. Vi kan använda analystjänster från tredje part i Tjänsten. Leverantörerna som administrerar dessa analystjänster hjälper oss att analysera din användning av Tjänsten och förbättra Tjänsten. Informationen vi erhåller kan lämnas ut till eller samlas in direkt av dessa leverantörer och annan relevant tredje part som använder informationen i syfte att t.ex. utvärdera användningen av Tjänsten, bidra till att tillhandahålla Tjänsten och felsöka tekniska problem.
+
+
+Samsung behandlar personuppgifter i de syften som beskrivs ovan. Samsungs rättsliga grund för behandling av personliga data innefattar behandling som är: nödvändig för att avtalet mellan dig och Samsung ska kunna uppfyllas (t.ex. att tillhandahålla dig Tjänsten samt att identifiera och autentisera dig så att du kan använda en viss Tjänst), nödvändig för att uppfylla juridiska krav (t.ex. att följa tillämpliga redovisningsregler och tillhandahålla obligatoriska upplysningar till brottsbekämpande myndighet), nödvändig för Samsungs legitima intressen (t.ex. att hantera vår relation till dig och förbättra Tjänsten), och baseras på erhållande av ditt separata samtycke (t.ex. för att kommunicera med dig om våra produkter och tjänster och tillhandahålla dig marknadsföringsinformation), vilket när det har getts kan dras tillbaka när som helst genom att kontakta oss enligt avsnittet Så kontaktar du oss i detta Sekretessmeddelande, utan att påverka lagligheten i den samtyckesbaserade behandlingen som skedde innan samtycket drogs tillbaka.
+
+För att ingå avtalet måste du förse oss med personuppgifter för behandling enligt vad som beskrivs ovan. Om du inte förser oss med personuppgifter kan vi inte tillhandahålla dig alla funktioner som är tillgängliga via Tjänsten.
+
+Delning av information
+
+Vi lämnar inte ut personlig information om dig via Tjänsten utöver vad som beskrivs i detta Sekretessmeddelande. Vissa utvalda medlemmar i teamet som arbetar med Tjänsten på Samsung kan komma åt och på andra sätt behandla personliga data i anslutning till deras arbetsuppgifter eller avtalsskyldigheter. Vi kan dela din personliga information med våra dotterbolag och samarbetspartner samt med tjänsteleverantörer som utför tjänster åt oss. Vi godkänner inte att våra tjänsteleverantörer använder eller lämnar ut informationen utöver vad som krävs för att utföra tjänster å våra vägnar eller för att uppfylla juridiska krav.
+
+Viss personal samt vissa samarbetspartners och tredjepartsleverantörer av tjänster finns utanför EES, däribland i länder som kanske inte tillhandahåller samma nivå av dataskydd som våra kunders hemländer gör, inklusive, men inte begränsat till, Republiken Korea, USA och Japan. Samsung vidtar lämpliga åtgärder för att säkerställa att sådana mottagare är bundna av sekretessplikt och Samsung implementerar rutiner, som standardklausuler för dataskydd i avtal, för att se till att alla personuppgifter som överförs är skyddade och säkra. Du kan erhålla en kopia av dessa klausuler genom att kontakta oss på det sätt som beskrivs i avsnittet Så kontaktar du oss i detta Sekretessmeddelande.
+
+Samsung, våra dotterbolag och filialer och våra tredjepartsleverantörer av tjänster kan också lämna ut information om dig (1) om det krävs att vi gör det enligt lag eller rättsligt förfarande (t.ex. ett domstolsbeslut eller en stämning), (2) som svar på förfrågningar från myndigheter, t.ex. brottsbekämpande myndigheter, (3) för att fastställa, utöva eller försvara våra juridiska rättigheter, (4) när vi anser att det är nödvändigt eller lämpligt att lämna ut information för att förhindra fysisk eller annan skada eller ekonomisk förlust, (5) i samband med en undersökning angående misstänkt eller faktiskt olaglig aktivitet, (6) om vi säljer eller överför hela eller delar av vår verksamhet eller våra tillgångar (inklusive i händelse av sammanslagning, förvärv, försäljning, överlåtelse, omorganisation, upplösning eller likvidation) eller (7) på annat sätt med ditt separata medgivande.
+
+
+Bibehållande av personliga data
+
+Vi vidtar rimliga åtgärder för att säkerställa att informationen om dig endast sparas baserat på följande logik:
+1. Minst så länge som informationen används för att tillhandahålla dig Tjänsten.
+2. Enligt gällande lagstiftning, ett kontrakt eller vad som krävs med hänsyn till våra lagstadgade förpliktelser.
+3. Endast så länge det är nödvändigt för det ändamål för vilket de samlades in, behandlas eller längre om så krävs enligt kontrakt, enligt gällande lagstiftning eller för statistiska ändamål, med förbehåll för lämpliga skyddsåtgärder.
+
+Dina val
+
+Vi erbjuder dig att göra vissa val kopplat till den personliga information vi erhåller om dig. Du kan uppdatera dina inställningar, begränsa vilka meddelanden du får av oss eller skicka in en begäran genom att kontakta oss enligt vad som anges i avsnittet Så kontaktar du oss i detta Sekretessmeddelande.
+
+Gå till ”Fjärranslutning” i inställningarna på din enhet om du vill se vilka val du kan göra kopplat till din användning av Tjänsten. Observera att om du inte ger Tjänsten åtkomst kanske du inte kan använda alla funktioner som Tjänsten ger tillgång till.
+
+Dina rättigheter
+
+Du har rätt att begära information om vilka uppgifter vi samlar in om dig och begära att vi korrigerar felaktigheter i den informationen, att motsätta dig behandlingen eller begära att den begränsas samt att begära åtkomst till informationen eller att den raderas eller flyttas. Enligt lagstiftningen i vissa jurisdiktioner kan vi neka till att behandla en begäran som återkommer orimligt ofta, som kräver oproportionerligt mycket tekniskt arbete, som riskerar andras sekretess, som inte är praktiskt möjlig eller om åtkomst inte berättigas enligt gällande lokal lagstiftning. Om du vill begära att få åtkomst till din information ska du kontakta oss via vår Sida för sekretessupport (https://www.samsung.com/request-desk).
+
+Om du begär att din personliga information ska raderas bekräftar du att du inte kan få åtkomst till eller använda Affärstjänsterna och att resterande personlig information kan ligga kvar i Samsungs register och arkiv under en viss tid, i enlighet med gällande lagstiftning. Samsung kommer dock inte att använda den informationen för kommersiella ändamål. Du är införstådd med att Samsung trots din begäran om radering förbehåller sig rätten att spara din personliga information, eller en relevant del av den, i linje med vår policy för datalagring och gällande lagstiftning, om Samsung har avbrutit, begränsat eller upphävt din tillgång till webbplatsen för brott mot Samsungs Tjänstevillkor, när så behövs för att skydda Samsungs rättigheter, egendom eller säkerhet, eller någon av våra respektive dotterbolags, affärspartners, anställdas eller kunders rättigheter, egendom eller säkerhet.
+
+Hur vi skyddar personlig information
+
+Vi upprätthåller lämpliga administrativa, tekniska och fysiska säkerhetsåtgärder som är utformade för att skydda personlig information som vi erhåller genom Tjänsten mot oavsiktlig, olaglig eller obehörig förstörelse, störning, förlust, förändring, åtkomst, utlämning eller användning. Samsung upprätthåller även rimliga rutiner för att säkerställa att sådana data är pålitliga och kan användas på avsett sätt samt är korrekta, fullständiga och aktuella.
+
+Uppdateringar av vårt Sekretessmeddelande
+
+Detta Sekretessmeddelande kan uppdateras då och då för att återspegla ändringar i våra rutiner gällande personlig information i förhållande till Tjänsten eller förändringar av tillämplig lag. Vi publicerar ett meddelande på vår webbplats och/eller din enhet för att i förväg meddela dig om väsentliga ändringar i Sekretessmeddelandet, och anger högst upp i meddelandet när det uppdaterades senast.
+
+Så kontaktar du oss
+
+Om du har specifika frågor kan du kontakta oss (Personuppgiftsansvarig för EU) på:
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS, Storbritannien
+Du kan också kontakta oss via vår Sida för sekretessupport (https://www.samsung.com/request-desk).
+
+Du kan skicka in ett klagomål till en tillsynsmyndighet om du anser att vår behandling av dina personuppgifter bryter mot tillämplig lag.

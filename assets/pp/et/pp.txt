@@ -1,0 +1,98 @@
+﻿Call & Message Continuity privaatsusteade
+
+Jõustumise kuupäev: 30.03.2018
+
+Samsung Electronics (UK) Limited („Samsung” või „meie”) ja sidusettevõtted mõistavad teie muret privaatsuse pärast. See privaatsusteade kehtib isikuandmetele, mida kogume teenuse Call & Message Continuity („teenus”) kaudu. Avaldus ei kehti teiste rakenduste, veebisaitide või Samsungi või selle sidusettevõtete pakutud teenuste kaudu kogutud andmetele.
+
+Teenus on mitme seadme vaheline suhtlusteenus. Selle funktsioonide hulka kuuluvad sissetulevate ja väljuvate kõnede edasisuunamine, kõne- ja sõnumiajalugu ning sõnumite sünkroonimine teie põhiseadme (nt nutitelefon) ja sekundaarse(te) seadme(te) vahel (nt kell, tahvelarvuti, sülearvuti jne), et saaksite vastu võtta sissetulevaid kõnesid ja lugeda sõnumeid oma sekundaarse(te)l seadme(te)l ja teha väljuvaid kõnesid ning saata sõnumeid oma põhiseadmega.
+
+Teenuse kasutamiseks peate kõigepealt sisse logima oma Samsung Accounti kontole nii põhiseadmel kui ka sekundaarse(te)l seadme(te)l. Kui teie sekundaarseks seadmeks on kell, peate seadistama võrguteenuse, liitudes oma võrguoperaatori pakutava süsteemi kaudu mobiilse andmeside paketiga; see võimaldab teil kella kasutada koos oma telefoninumbriga. Kui teie sekundaarseks seadmeks on tahvelarvuti, mis ainult toetab andmeid, peate tahvelarvuti kasutamiseks seadistama ühenduse Wi-Fi-võrguga või oma võrguoperaatori pakutava süsteemiga. Meie privaatsusavalduse leiate aadressil https://account.samsung.com/membership/pp („Samsungi privaatsusavaldus”) ja see kehtib teie Samsung Accounti konto ning teenuse Call & Message Continuity kasutamisel. Sellest privaatsusteatest leiate lisateavet selle kohta, kuidas teie isikuandmeid teenusega seoses kasutatakse, ja seda tuleks lugeda koos Samsungi privaatsusavaldusega.
+
+Selles privaatsusteates on kirjeldatud, mis liiki andmeid teenuse kaudu kogutakse, kuidas võime neid andmeid kasutada, kui kaua säilitame andmeid, kellega võime neid jagada ja millised on teie valikuvõimalused meiepoolse andmete kasutamise suhtes ning kuidas te saate oma õigusi kasutada. Me kirjeldame ka oma andmeturbe meetmeid ja anname teavet selle kohta, kuidas meiega privaatsuspraktikate asjus ühendust võtta. Samsung on isikuandmete vastutav töötleja.
+
+Klõpsake allolevatel linkidel, et liikuda loetletud jaotise juurde.
+
+•	Milliseid andmeid me saame?
+•	Kuidas me saadud andmeid kasutame?
+•	Andmete jagamine
+•	Isikuandmete säilitamine
+•	Teie valikud
+•	Teie õigused
+•	Kuidas me isikuandmeid kaitseme?
+•	Meie privaatsusteate uuendused
+•	Kuidas meiega ühendust võtta?
+
+Milliseid andmeid me saame?
+
+Teenuse kaudu saame teie kohta andmeid mitmel moel. Meieni jõuavad järgmist liiki isikuandmed.
+
+•	Samsung Accounti andmed. Me kogume andmeid, mis on seotud teie Samsung Accountiga, mida kasutate teenusele juurdepääsuks, näiteks teie Samsung Accounti ID.
+
+•	Teenusega suhtlemine. Me kogume andmeid, mida te vahetate läbi oma interaktsioonide teenusega, sh andmeid, mis puudutavad helistajaid ja kõnede vastuvõtjaid, sõnumite saatjaid ja vastuvõtjaid, teie saadetud ja vastuvõetud sõnumite sisu ning teie kõne- ja sõnumiajalugu nutitelefoni rakendustes. Peale selle kogutakse ka muud kasutusandmeid, nagu teie puuteinteraktsioonid ja muud sisestused ning andmed, mille saate teenuselt (nt tagasiside ja vastused). Kui te edastate teenusele tundlikku teavet (nt terviseteave), nagu saadetud ja saadud sõnumid, mis sisaldavad tundlikku teavet, siis kogutakse ja töödeldakse ka seda allpool määratud eesmärkidel. Me ei kogu aktiivselt sellist teavet teilt enne eraldi luba küsimata, v.a juhul kui kohalduv seadus seda nõuab.
+
+•	Seadme ja rakenduse teave. Me kogume automaatselt teavet teie seadmete kohta, mis toetavad teenust; selleks teabeks on näiteks mobiiltelefoni number, võrgu MAC-aadress, seadme identifikaatorid ja muud kordumatud identifikaatorid.
+
+Kuidas me saadud andmeid kasutame?
+Me kasutame teenuse kaudu saadud andmeid järgmisel otstarbel:
+
+•	teie isiku tuvastamiseks ja autentimiseks, et saaksite kasutada teenust;
+•	teile teenuse pakkumiseks, nt sissetulevate ja väljuvate kõnede edasisuunamiseks teie seadmetele ja teie seadmete (nutitelefon, kell, tahvelarvuti, sülearvuti jne) kõneajaloo ja sõnumite sünkroonimiseks;
+•	teie teenuse kasutuskogemuse täiustamiseks ja kohandamiseks;
+•	teie taotlustele ja järelpärimistele vastamiseks;
+•	äritegevusega tegelemiseks, selle hindamiseks ja parandamiseks (sealhulgas uute toodete arendamiseks; meie toodete ja teenuste täiustamiseks ja parandamiseks; meie suhtluse haldamiseks; toodete, kliendibaasi ning teenuste analüüsimiseks; turu-uuringute läbiviimiseks; andmete analüütika korraldamiseks ja raamatupidamis-, auditeerimis- ning muude sisefunktsioone puudutavate tegevustega tegelemiseks);
+•	võimaldamaks teil suhelda teatud kolmanda isiku rakenduste ja teenustega ning neid kasutada;
+•	pettuste ning muude kriminaalsete tegevuste, nõuete ja muude kohustuste ennetamiseks, tuvastamiseks ja nende vastu kaitsmiseks;
+•	kehtivate seadusnormide, vastavate tööstusstandardite ja meie poliitika, sh selle privaatsusteate ja Samsungi privaatsusavalduse järgimiseks ja kohaldamiseks.
+
+Teenuse kaudu võime koguda aja jooksul ja nutitelefoni kõnede ja sõnumite teenustega seotud rakendustes isikuandmeid teie tegevuste kohta veebis seadmetega, kus teenus on aktiveeritud. Me võime teenuse jaoks kasutada kolmanda isiku analüütikateenuseid. Nimetatud analüütikateenuste haldajad aitavad meil analüüsida teiepoolset teenuse kasutamist ja teenuse paremaks muuta. Nimetatud teenusepakkujatele võib meie kogutud andmeid avalikustada või lubada neil seda otse koguda, samuti asjakohastele kolmandatele isikutele, kes kasutavad andmeid näiteks teenuse kasutamise hindamiseks, teenuse osutamisele kaasaaitamiseks ja tehniliste probleemide tuvastamiseks.
+
+
+Samsung töötleb isikuandmeid eespool nimetatud eesmärkidel. Samsungi õiguslik alus isikuandmete töötlemiseks hõlmab andmetöötlust, mis on vajalik teie ja Samsungi vahelise lepingu täitmiseks (näiteks teile teenuse osutamiseks, teie tuvastamiseks ning isikusamastamiseks, et te saaksite teatud teenust kasutada), õiguslike nõuete järgmiseks (näiteks kohalduvatele raamatupidamiseeskirjadele vastamiseks ja seadusest tulenevate andmete avalikustamise kohustuste täitmiseks), Samsungi põhjendatud huvide kaitseks (näiteks meie omavahelise suhte haldamiseks ja teenuse parandamiseks) ja mis tugineb meie klientide nõusolekul (näiteks teiega suhtlemiseks meie toodete ja teenuste teemal ning teile turundusteabe edastamiseks), mida võib hiljem igal ajal tagasi võtta selle privaatsusteate jaotises „Kuidas meiega ühendust võtta?” täpsustatu kohaselt, ilma et see mõjutaks enne nõusoleku tagasivõtmist aset leidnud andmetöötluse seaduslikkust.
+
+Lepingu sõlmimiseks peate meile eelmainitud andmetöötluse jaoks esitama isikuandmeid. Kui te isikuandmeid ei edasta, ei saa me teile võimaldada kõiki teenuses saadaolevaid funktsioone.
+
+Andmete jagamine
+
+Me ei avalikusta teie isikuandmeid teenuses, välja arvatud privaatsusteates kirjeldatud juhtudel. Samsungi teenuse meeskonna piiratud arv töötajaid võivad saada juurdepääsu ja muul viisil töödelda isikuandmeid oma tööülesannete või lepinguliste ülesannete raames. Võime jagada teie isikuandmeid oma tütar- ja sidusettevõtetega ning meile teenuseid osutavate teenusepakkujatega. Me ei volita oma teenusepakkujaid andmeid kasutama ega avalikustama, välja arvatud juhul, kui see on teenuste osutamiseks vajalik meie nimel või seaduse järgimiseks.
+
+Mõni neist töötajatest, sidusettevõtjatest ja muudest teenusepakkujatest asub väljaspool EMP-d, sealhulgas riikides, kus andmekaitset ei pruugita pakkuda samal tasemel kui klientide asukohariigis, sealhulgas Korea Vabariigis, Ameerika Ühendriikides ning Jaapanis. Samsung võtab asjakohaseid meetmeid, et taolised andmete vastuvõtjad oleksid seotud konfidentsiaalsuskohustusega, ja rakendab abinõusid, nagu andmekaitse lepingu tüüptingimused, et tagada kõikide edastatud isikuandmete kaitse ning turve. Nimetatud tingimuste koopia saamiseks võtke meiega ühendust, nagu on kirjeldatud selle privaatsusteate jaotises „Kuidas meiega ühendust võtta?”.
+
+Samsung, meie tütar- ja sidusettevõtted ning meie kolmandatest isikutest teenusepakkujad võivad samuti avalikustada teid puudutavaid andmeid järgmistel juhtudel: 1) kui meil on selleks seadusest tulenev kohustus või kui seda nõutakse kohtukorralduse alusel (nt kohtumäärus või -kutse); 2) vastusena valitsusasutuste (nt õiguskaitseorganid) taotlustele; 3) et kehtestada, kasutada või kaitsta meie seaduslikke õigusi; 4) kui meie hinnangul on avalikustamine vajalik või asjakohane kehalise, rahalise või muu kahju vältimiseks; 5) seoses kahtlustatava või kinnitust leidnud ebaseadusliku tegevuse uurimisega; 6) kui müüme või võõrandame kogu oma äri ja varad või osa neist (sh ühinemise, soetamise, müügi, üleandmise, ümberkorraldamise, lõpetamise või likvideerimise tõttu); 7) muul juhul teie eraldi nõusolekul.
+
+
+Isikuandmete säilitamine
+
+Astume mõistlikke samme, et teie isikuandmeid säilitataks ainult järgmistel põhimõtetel:
+1. vähemalt ajaks, mil andmeid kasutatakse teile teenuse pakkumiseks;
+2. nagu on nõutud seaduse, lepingu või seoses meie õiguslike kohustusega või
+3. ainult seni, kuni see on vajalik andmete kogumise eesmärgil, nende töötlemise ajaks või kauemaks, kui seda nõuab mis tahes leping või kohaldatav seadus, või statistilisel eesmärgil, millele rakenduvad asjakohased turbemeetmed.
+
+Teie valikud
+
+Me pakume teile teatud valikuid seoses isikuandmetega, mida teilt saame. Teie eelistuste ajakohastamiseks, meilt saadud teavitamise piiramiseks või taotluse esitamiseks võtke meiega ühendust, nagu on täpsustatud selle privaatsusteate jaotises Kuidas meiega ühendust võtta?.
+
+Vaadake oma seadmes valiku „Kaugühendus” seadetest, mis valikud on teil teenuse kasutamiseks saadaval. Arvestage sellega, et kui te ei luba teenust, siis ei saa te kasutada kõiki teenusega seotud funktsioone.
+
+Teie õigused
+
+Teil on õigus küsida teie kohta kogutavate andmete üksikasju ja paluda meil parandada neis esinevad ebatäpsused, mitte nõustuda andmete töötlemisega või nõuda selle piiramist ning nõuda juurdepääsu andmetele, andmete kustutamist või ülekandmist. Mõne jurisdiktsiooni seaduste kohaselt võime keelduda menetlemast taotlusi, mis on ebamõistlikult korduvad, nõuavad ebaproportsionaalset tehnilist pingutust, ohustavad teiste privaatsust, on äärmiselt ebapraktilised, või taotlusi, mis puudutavad andmeid, millele kohalik seadus juurdepääsuõigust ei anna. Kui soovite esitada taotluse juurdepääsuks oma andmetele, võtke meiega ühendust, külastades privaatsusalase toe lehekülge (https://www.samsung.com/request-desk).
+
+Kui taotlete isikuandmete kustutamist, võtate teadmiseks, et võib juhtuda, et kaotate äriteenustele juurdepääsu või ei saa neid enam kasutada ja et teatud isikuandmed võivad kehtivate seaduste kohaselt jääda Samsungi kirjetesse ja arhiividesse mõneks ajaks alles, kuid Samsung ei kasutad neid andmeid ärilistel eesmärkidel. Mõistate, et olenemata teie esitatud kustutamistaotlusest jääb Samsungile õigus säilitada teie isikuandmeid või nende olulist osa, kooskõlas meie andmete säilitamise poliitika ja kohaldatavate seadustega, kui Samsung on peatanud, piiranud või lõpetanud Samsungi teenusetingimuste rikkumise tõttu teie juurdepääsu veebisaidile, kui Samsung peab kaitsma enda või oma tütarettevõtete, äripartnerite, töötajate või klientide õigusi, omandit või ohutust.
+
+Kuidas me isikuandmeid kaitseme?
+
+Meil on olemas asjakohased halduslikud, tehnilised ja füüsilised turvameetmed, et kaitsta teenuse kaudu saadud isikuandmeid juhusliku, ebaseadusliku või ilma loata hävitamise, sekkumise, kadumise, muutmise, juurdepääsu, avalikustamise või kasutamise vastu. Samsung rakendab mõistlikke meetmeid, et tagada nende andmete usaldusväärsus ettenähtud kasutuseks ning et andmed oleksid täpsed, täielikud ja kehtivad.
+
+Meie privaatsusteate uuendused
+
+Seda privaatsusteadet uuendatakse regulaarselt, et seoses teenusega arvestada muutustega meiepoolses isikuandmete töötlemises või muutustega kohalduvas seaduses. Me avaldame oma veebisaidil ja/või teie seadmel varakult teate meie privaatsusteate olulistest muudatustest, ning osutame teate päises, millal seda viimati värskendati.
+
+Kuidas meiega ühendust võtta?
+
+Kui teil on küsimusi, võtke meiega (ELi vastutav töötleja) ühendust järgmisel aadressil:
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+Saate meiega ühendust võtta, kui külastate privaatsusalase toe lehekülge aadressil (https://www.samsung.com/request-desk).
+
+Kui te leiate, et rikume teie isikuandmeid töödeldes kohaldatavat seadust, võite esitada kaebuse järelevalveasutusele.

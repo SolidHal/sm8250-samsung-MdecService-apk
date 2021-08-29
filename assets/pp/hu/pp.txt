@@ -1,0 +1,98 @@
+﻿A Call & Message Continuity Adatvédelmi közleménye
+
+Hatálybalépés napja: 2018. 03. 30.
+
+A Samsung Electronics (UK) Limited (a továbbiakban: „Samsung” vagy „mi” és ennek nyelvtani alakjai) és annak kapcsolt vállalkozásai tiszteletben tartják az Ön adatvédelemmel kapcsolatos aggályait. Jelen Adatvédelmi közlemény a Call & Message Continuity szolgáltatás (a továbbiakban: „Szolgáltatás”) segítségével általunk gyűjtött személyes adatokra vonatkozik. Nem vonatkozik a Samsung vagy annak kapcsolt szervezetei által biztosított egyéb alkalmazások, webhelyek vagy szolgáltatások által gyűjtött adatokra.
+
+A Szolgáltatás egy többeszközös kommunikációs szolgáltatás. Funkciói közé tartozik a bejövő és kimenő hívások továbbítása, a Korábbi hívások és üzenetek funkció, valamint az üzenetek szinkronizálása az elsődleges eszköz (pl. okostelefon) és a másodlagos eszköz(ök) (pl. óra, táblagép, laptop stb.) között, így a felhasználó fogadhatja bejövő hívásait és elolvashatja üzeneteit a másodlagos eszközén vagy eszközein, és hívást indíthat vagy új üzeneteket küldhet az elsődleges eszközéről.
+
+A Szolgáltatás használatához be kell jelentkeznie egy Samsung accountba az elsődleges és a másodlagos eszköz(ök)ön. Ha a másodlagos eszköz óra, akkor hálózati szolgáltatást kell beállítania egy mobilinternet-csomagra való előfizetéssel a mobilszolgáltató által biztosított rendszerben, amely lehetővé teszi az óra használatát a normál telefonszámával. Ha a másodlagos eszköz csak adatokat támogató táblagép, akkor kapcsolatot kell létesítenie egy Wi-Fi-hálózattal vagy a mobilszolgáltató által biztosított, a táblagép használatát lehetővé tevő rendszerrel. A Samsung account és a Call & Message Continuity használatára a https://account.samsung.com/membership/pp címen olvasható Adatvédelmi irányelveink (a továbbiakban: „a Samsung Adatvédelmi irányelvei”) érvényesek. A Samsung Adatvédelmi irányelveivel együtt értelmezendő jelen Adatvédelmi közlemény további információkkal szolgál arról, hogy miként használjuk személyes adatait a Szolgáltatással kapcsolatban.
+
+Jelen Adatvédelmi közlemény ismerteti a Szolgáltatáson keresztül gyűjtött adatok típusait, továbbá azt, hogy milyen módon használhatjuk, mennyi ideig őrizhetjük meg és kivel oszthatjuk meg ezeket az adatokat, valamint hogy milyen döntési lehetőségei vannak az adatai használatával és jogai gyakorlásával kapcsolatban. Ezenkívül leírjuk, hogy milyen intézkedéseket foganatosítunk az adatai védelme érdekében, és hogyan veheti fel velünk a kapcsolatot az adatvédelmi gyakorlatunkkal összefüggő ügyekben. A személyes adatok feldolgozója a Samsung adatkezelői minőségben.
+
+Az alábbi hivatkozásokra kattintva a megfelelő pontra ugorhat:
+
+•	Az általunk gyűjtött adatok
+•	Az általunk gyűjtött adatok használata
+•	Az adatok megosztása
+•	A személyes adatok megőrzése
+•	Az Ön döntési lehetőségei
+•	Az Ön jogai
+•	A személyes adatok védelme
+•	Az Adatvédelmi közlemény frissítései
+•	Kapcsolatfelvétel
+
+Az általunk gyűjtött adatok
+
+A Szolgáltatás segítségével többféle módon gyűjtünk adatokat. A következő típusú személyes adatokat gyűjtjük:
+
+•	A Samsung account adatai: Gyűjtjük a Szolgáltatáshoz való hozzáféréshez használt Samsung accountjával kapcsolatos adatokat, úgymint a Samsung accountja azonosítóját.
+
+•	A Szolgáltatással végzett műveletek: Gyűjtjük azon adatait, amelyeket a Szolgáltatással végzett műveletek során rendelkezésre bocsát, köztük a hívó és hívott partnerekkel, valamint az üzenetek feladóival és címzettjeivel kapcsolatos adatokat, a küldött és fogadott üzenetek tartalmát, továbbá a korábbi hívásai és üzenetei listáját az okostelefon alkalmazásaiból. Gyűjtjük továbbá az egyéb használati adatait, így az érintési műveleteit és egyéb beviteleit, valamint azokat az adatokat, amelyeket a Szolgáltatástól kap (reagálás, válaszok). A Szolgáltatásba küldött érzékeny (pl. egészségi) adatokat, úgymint az érzékeny adatokat tartalmazó küldött vagy fogadott üzeneteket is gyűjtjük és feldolgozzuk az alább ismertetett céloknak megfelelően. Ilyen adatokat csak abban az esetben gyűjtünk aktívan, ha ehhez előre megkapjuk a külön kifejezett hozzájárulását, vagy ha ezt az alkalmazandó jog előírja.
+
+•	Eszközök és alkalmazások adatai: A Szolgáltatást futtató eszközökről automatizált módokon adatokat gyűjtünk, úgymint a mobiltelefonszámot, a hálózati MAC-címet, az eszközazonosítókat és egyéb egyedi azonosítókat.
+
+Az általunk gyűjtött adatok használata
+A Szolgáltatáson keresztül gyűjtött adatokat a következő célokra használjuk:
+
+•	az Ön azonosítására és hitelesítésére, hogy használhasson bizonyos szolgáltatásokat;
+•	a Szolgáltatás biztosítására, például a bejövő és kimenő hívások továbbítására az eszközei között, valamint a híváslista és az üzenetek szinkronizálására az eszközei (okostelefon, óra, táblagép, laptop stb.) között;
+•	a Szolgáltatás által nyújtott élmény javításához és testreszabásához;
+•	a kéréseire és kérdéseire való válaszadáshoz;
+•	vállalkozásunk működtetéséhez, értékeléséhez és fejlesztéséhez (ideértve az új termékek fejlesztését; termékeink és szolgáltatásaink bővítését és javítását; a kommunikációink kezelését; a termékeink, ügyfélkörünk és szolgáltatásaink elemzését; piackutatások végzését; adatelemzést; valamint számvitel, könyvvizsgálat és egyéb belső műveletek végzését);
+•	bizonyos harmadik felek által biztosított alkalmazásokkal és szolgáltatásokkal folytatott interakciói, illetve ezek használatának elősegítéséhez;
+•	a csalások és egyéb törvényellenes tevékenységek, követelések és egyéb felelősségek azonosításához, megelőzéséhez, valamint az ezek ellen való védekezéshez; és
+•	a hatályos jogi előírásoknak, a vonatkozó ágazati szabványoknak és belső házirendeknek való megfeleléshez és azok betartatásához, ideértve a jelen Adatvédelmi közleményt, valamint a Samsung Adatvédelmi irányelveit.
+
+A Szolgáltatáson keresztül személyes adatokat gyűjthetünk a Szolgáltatást futtató eszközökön az okostelefonos hívási és üzenetküldő szolgáltatásokkal kapcsolatos alkalmazásokban végzett online tevékenységeinek időbeli alakulásáról. A Szolgáltatásban harmadik felek elemzési szolgáltatásait használhatjuk. Az ezeket az elemzési szolgáltatásokat biztosító vállalatok segítenek nekünk elemezni a Szolgáltatás használatát és fejleszteni a Szolgáltatást. Az általunk megszerzett adatokat átadhatjuk ezeknek a szolgáltatóknak vagy egyéb kapcsolódó harmadik feleknek, illetve közvetlenül ők is gyűjthetik ezeket az adatokat, és felhasználhatják azokat például a Szolgáltatás használatának felmérésére, a Szolgáltatás biztosításának segítésére és a műszaki problémák diagnosztizálására.
+
+
+A Samsung a személyes adatokat a fent ismertetett célok érdekében dolgozza fel. A Samsung jogalapja a személyes adatok feldolgozására olyan adatfeldolgozásokra vonatkozik, amelyek: szükségesek az Ön és a Samsung között létrejött szerződés teljesítéséhez (például ahhoz, hogy biztosítani tudjuk a Szolgáltatást az Ön számára, valamint hogy azonosítani és hitelesíteni tudjuk Önt bizonyos szolgáltatások használatához); szükségesek a törvényi előírások betartásához (például a vonatkozó könyvviteli szabályok betartásához és a hatóságoknak történő kötelező adatszolgáltatáshoz); szükségesek a Samsung jogos érdekeinek megvédéséhez (például az Önnel folytatott kapcsolatunk kezeléséhez és a Szolgáltatás fejlesztéséhez); vagy az Öntől kapott külön hozzájáruláson alapulnak (például az ahhoz adott hozzájáruláson, hogy kommunikáljunk Önnel a termékeinkkel és szolgáltatásainkkal kapcsolatban, és marketinginformációkat küldjünk Önnek), amely hozzájárulást bármikor visszavonhatja a jelen Adatvédelmi közlemény Kapcsolatfelvétel pontjában ismertetett módon anélkül, hogy ez befolyásolná a visszavonás előtt fennálló hozzájáruláson alapuló feldolgozás jogszerűségét.
+
+Ahhoz, hogy Ön és a Samsung között szerződés jöjjön létre, meg kell adnia a személyes adatait, hogy a fenti célokkal feldolgozhassuk őket. Ha nem adja meg személyes adatait, nem tudjuk a Szolgáltatás összes funkcióját biztosítani Önnek.
+
+Az adatok megosztása
+
+A Szolgáltatáson keresztül nem adunk át Önnel kapcsolatos személyes adatokat, kivéve a jelen Adatvédelmi közleményben leírt célokkal. A Szolgáltatás csapatának korlátozott számú tagjai a Samsungnál munkájuk vagy szerződéses kötelezettségeik részeként hozzáférhetnek a személyes adatokhoz, vagy más módon dolgozhatják fel azokat. A személyes adatokat megoszthatjuk leányvállalatainkkal, kapcsolt vállalkozásainkkal és külső szolgáltatóinkkal. A szolgáltatóinkat csak a megbízásunkból nyújtott szolgáltatások biztosítása és a törvényi előírások teljesítése erejéig jogosítjuk fel az adatok használatára és átadására.
+
+A fent említett személyek, kapcsolt vállalkozások és szolgáltató harmadik felek némelyike az EGT-n kívül működhet, ideértve olyan országokat is (ilyen lehet egyebek között a Koreai Köztársaság, az Amerikai Egyesült Államok és Japán), amelyek nem biztosítják ugyanazt a szintű adatvédelmet, mint ügyfeleink országai. A Samsung megteszi a megfelelő lépéseket annak biztosítása érdekében, hogy a személyes adatokat megkapó felekre titoktartási kötelezettség vonatkozzon, és intézkedéseket hoz – például szabványos adatvédelmi szerződési feltételek formájában – annak érdekében, hogy a személyes adatok minden átadása biztonságosan és védett módon történjen. E feltételekből úgy igényelhet egy példányt, hogy a jelen Adatvédelmi közlemény Kapcsolatfelvétel pontjában ismertetett módon felveszi velünk a kapcsolatot.
+
+A Samsung, a leányvállalatai és kapcsolt vállalkozásai, valamint a külső szolgáltatói Önnel kapcsolatos adatokat adhatnak át: (1) amennyiben erre törvény vagy jogi eljárás (például bírósági rendelet vagy idézés) kötelezi őket; (2) az állami szervek, például bűnüldöző hatóságok kérésére; (3) törvényes jogaik biztosítása, gyakorlása és védelme érdekében; (4) amennyiben megítélésük szerint ez szükséges vagy megfelelő a fizikai sérülés, egyéb ártalom vagy pénzügyi veszteség megelőzése érdekében; (5) feltételezetten vagy ténylegesen törvényellenes tevékenységgel kapcsolatos vizsgálat céljára; (6) abban az esetben, ha vállalkozásukat vagy eszközeiket teljes egészében vagy részlegesen eladják vagy átruházzák (ideértve az egyesülést, felvásárlást, eladást, átruházást, átszervezést, megszüntetést vagy felszámolást); vagy (7) az Ön külön beleegyezésével egyéb célra.
+
+
+A személyes adatok megőrzése
+
+Megtesszük a megfelelő lépéseket az adatok megőrzésével kapcsolatos alábbi alapelvek biztosítására:
+1. az adatokat legalább addig megőrizzük, amíg használatban vannak a Szolgáltatás biztosításához;
+2. az adatok megőrzése megfelel a jogszabályokban vagy szerződésben előírtaknak, illetve törvényes kötelezettségeinknek; vagy
+3. az adatokat csak annyi ideig őrizzük meg, amennyi a gyűjtésüket vagy feldolgozásukat indokoló célhoz szükséges, illetve amennyit a vonatkozó szerződések, jogszabályok vagy statisztikai célok szükségessé tesznek, a megfelelő biztosítékok mellett.
+
+Az Ön döntési lehetőségei
+
+Az Önre vonatkozóan gyűjtött személyes adatokkal kapcsolatban bizonyos döntési lehetőségeket biztosítunk. Beállításai módosításához, a tőlünk érkező kommunikáció korlátozásához vagy kérés küldéséhez vegye fel velünk a kapcsolatot a jelen Adatvédelmi közlemény Kapcsolatfelvétel pontjában leírt módon.
+
+A Szolgáltatás használatával kapcsolatos döntési lehetőségek megismeréséhez tekintse meg a „Távoli kapcsolódás” beállításokat az eszközén. Felhívjuk figyelmét, hogy ha nem engedélyezi a Szolgáltatást, akkor előfordulhat, hogy nem használhatja a Szolgáltatáson keresztül elérhető összes funkciót.
+
+Az Ön jogai
+
+Önnek jogában áll információt kérni az általunk Önről gyűjtött adatokról, kérni ezen adatok pontatlanságainak helyesbítését, kifogást emelni ezen adatok feldolgozása ellen, illetve kérni ennek korlátozását, továbbá kérni az ezen adatokhoz való hozzáférést, a törlésüket vagy hordozhatóságuk biztosítását. Bizonyos joghatóságok joga alapján visszautasíthatjuk az olyan kérések teljesítését, amelyek észszerűtlenül ismétlődnek, aránytalan műszaki ráfordítást igényelnek, veszélyeztetik mások személyes adatait, rendkívül nehezen hajthatók végre, illetve amelyek esetében a helyi jog nem követeli meg a hozzáférés biztosítását. Ha hozzáférést kíván igényelni az adataihoz, vegye fel velünk a kapcsolatot az Adatvédelmi támogatási oldalon (https://www.samsung.com/request-desk).
+
+Ön tudomásul veszi, hogy személyes adatai törlésének kérése esetén nem feltétlenül tud majd hozzáférni az Üzleti szolgáltatásokhoz, illetve használni azokat, és hogy személyes adatainak egy része az alkalmazandó jognak megfelelően bizonyos ideig a Samsung nyilvántartásában és archívumában maradhat, ezeket az adatokat azonban a Samsung nem használja fel üzleti célra. Ön tudomásul veszi, hogy a Samsung fenntartja magának a jogot, hogy adatmegőrzési irányelveinek és az alkalmazandó jog értelmében a törlési kérés ellenére megőrizze az Ön személyes adatait vagy azok megfelelő részét, amennyiben a Samsung Szolgáltatási feltételeinek megsértése miatt felfüggesztette, korlátozta vagy megszüntette az Ön hozzáférését a webhelyhez, feltéve hogy ez szükséges a Samsung vagy bármely kapcsolt vállalkozása, üzleti partnere, alkalmazottja vagy ügyfele jogainak, tulajdonának és biztonságának védelméhez.
+
+A személyes adatok védelme
+
+Megfelelő adminisztratív, technikai és fizikai védelmi megoldásokat alkalmazunk, amelyek védik a Szolgáltatáson keresztül gyűjtött személyes adatokat a véletlen, törvénytelen és illetéktelen megsemmisítés, elveszítés, módosítás, hozzáférés, átadás vagy használat ellen. A Samsung ezenkívül észszerű eljárásokat alkalmaz annak biztosítására, hogy a személyes adatok megbízhatóak legyenek a rendeltetésük szerinti használathoz, valamint pontosak, hiánytalanok és naprakészek legyenek.
+
+Az Adatvédelmi közlemény frissítései
+
+Időnként frissíthetjük a jelen Adatvédelmi közleményt, hogy az tükrözze a Szolgáltatás személyes adatokkal kapcsolatos gyakorlatainak vagy az alkalmazandó jog változásait. Az Adatvédelmi közlemény lényeges módosításaival kapcsolatos előzetes értesítéseket közzétesszük webhelyünkön és/vagy az eszközén, az értesítések tetején feltüntetve a legutóbbi módosítás idejét.
+
+Kapcsolatfelvétel
+
+Konkrét kérdéseivel forduljon hozzánk (mint európai uniós adatkezelőhöz) az alábbi címen:
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS, Egyesült Királyság
+Az Adatvédelmi támogatási oldalon (https://www.samsung.com/request-desk) is felveheti velünk a kapcsolatot.
+
+Ha úgy véli, hogy személyes adatainak feldolgozása sérti az alkalmazandó jogot, értesítheti a felügyelő hatóságot.

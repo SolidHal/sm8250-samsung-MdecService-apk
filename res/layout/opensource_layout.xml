@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/non_selectable_background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/list_left_right_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:tag="contents_area" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="10.0dip">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:gravity="bottom" android:orientation="vertical" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="72.0dip">
+                <TextView android:textSize="17.0sp" android:ellipsize="end" android:gravity="start" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="9.0dip" android:text="@string/open_source_licences" android:singleLine="true" />
+                <View android:background="#16252525" android:layout_width="fill_parent" android:layout_height="3.0px" />
+            </LinearLayout>
+            <ScrollView android:scrollbarStyle="outsideInset" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="14.0sp" android:gravity="start" android:id="@id/samsung_pp_content" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:includeFontPadding="false" android:shadowColor="#ffffffff" android:editable="false" android:lineSpacingExtra="3.0dip" android:fontFamily="sec-roboto-light" />
+            </ScrollView>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

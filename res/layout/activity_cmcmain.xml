@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout android:orientation="vertical" android:tag="layout/activity_cmcmain_0" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.material.appbar.AppBarLayout android:layout_width="fill_parent" android:layout_height="fill_parent" app:expanded="false" app:layout_behavior="com.google.android.material.appbar.AppBarLayout$Behavior" style="@style/Widget.Material.AppBarLayout">
+        <com.google.android.material.appbar.CollapsingToolbarLayout android:id="@id/collapsing_app_bar" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_scrollFlags="exitUntilCollapsed|scroll|snap" style="@style/Theme.Settings.CollapsingToolbar">
+            <androidx.appcompat.widget.Toolbar android:layout_gravity="bottom" android:id="@id/toolbar" android:layout_width="fill_parent" android:layout_height="?android:actionBarSize" android:paddingEnd="5.0dip" app:layout_collapseMode="pin" />
+        </com.google.android.material.appbar.CollapsingToolbarLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/scrollable_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false" android:fillViewport="true" app:layout_behavior="@string/sesl_appbar_scrolling_view_behavior">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false">
+            <LinearLayout android:orientation="horizontal" android:id="@id/content_start_pane" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.0" />
+            <LinearLayout android:orientation="vertical" android:id="@id/content_frame" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <com.samsung.android.cmcsettings.view.base.widget.SwitchBar android:id="@id/switch_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/master_switch_on_off_margin_bottom" />
+                <androidx.core.widget.NestedScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+                    <LinearLayout android:orientation="vertical" android:id="@id/main_fragment_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <LinearLayout android:orientation="vertical" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                            <FrameLayout android:id="@id/fragment_placeholder_suggestions" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                            <LinearLayout android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                                <LinearLayout android:tag="binding_3" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                                    <fragment android:id="@id/qr_fragment" android:layout_width="fill_parent" android:layout_height="fill_parent" class="com.samsung.android.cmcsettings.view.base.QrCodeGeneratorFragment" />
+                                </LinearLayout>
+                            </LinearLayout>
+                        </LinearLayout>
+                        <LinearLayout android:orientation="vertical" android:tag="binding_4" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                            <FrameLayout android:id="@id/fragment_placeholder_pd" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                        </LinearLayout>
+                        <LinearLayout android:orientation="vertical" android:tag="binding_5" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                            <FrameLayout android:id="@id/fragment_placeholder" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                        </LinearLayout>
+                        <LinearLayout android:orientation="vertical" android:tag="binding_6" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                            <FrameLayout android:id="@id/fragment_placeholder_sd" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                        </LinearLayout>
+                        <LinearLayout android:orientation="vertical" android:tag="binding_7" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                            <FrameLayout android:id="@id/fragment_placeholder_call_message" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                        </LinearLayout>
+                        <Space android:layout_width="fill_parent" android:layout_height="0.0dip" />
+                    </LinearLayout>
+                </androidx.core.widget.NestedScrollView>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/content_end_pane" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.0" />
+        </LinearLayout>
+    </LinearLayout>
+    <com.google.android.material.bottomnavigation.BottomNavigationView android:layout_gravity="bottom" android:id="@id/bottom_bar" android:background="@drawable/bottom_bar_background" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" app:menu="@menu/remove_bottom_menu" style="@style/BottomBarIconTextStyle" />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

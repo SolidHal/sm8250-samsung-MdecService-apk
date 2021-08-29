@@ -1,0 +1,98 @@
+﻿Notificare privind confidențialitatea pentru Call & Message Continuity
+
+Data intrării în vigoare: 30.03.2018
+
+Samsung Electronics (UK) Limited („Samsung” sau „Noi”) și companiile sale afiliate vă respectă preocupările legate de confidențialitate. Această Notificare privind confidențialitatea se aplică informațiilor personale pe care le colectăm prin intermediul serviciului Call & Message Continuity („Serviciul”). Nu se aplică informațiilor colectate de alte aplicații, site-uri web sau servicii furnizate de Samsung sau de entitățile afiliate.
+
+Serviciul este un serviciu de comunicare pe dispozitive multiple. Printre caracteristicile acestuia se numără releul pentru apeluri primite și efectuate, istoricul de apeluri și mesaje, precum și sincronizarea mesajelor între dispozitivul principal (de exemplu: smartphone) și dispozitivul(ele) secundar(e) (de exemplu: ceas, tabletă, laptop etc.), astfel încât să puteți primi apeluri și citi mesaje pe dispozitivul(ele) secundar(e) și să puteți efectua apeluri și trimite mesaje noi cu ajutorul dispozitivului principal.
+
+Pentru a utiliza Serviciul, trebuie mai întâi să vă conectați la un cont Samsung account atât pe dispozitivul principal, cât și pe dispozitivul(ele) secundar(e). În plus, dacă dispozitivul secundar este un ceas, trebuie să configurați un serviciu de rețea prin abonarea la un plan de date mobile, prin intermediul sistemului furnizat de operatorul de rețea, care vă permite să utilizați ceasul cu numărul de telefon obișnuit. Dacă dispozitivul secundar este o tabletă care acceptă numai date, trebuie să configurați o conexiune la o rețea Wi-Fi sau la sistemul furnizat de operatorul de rețea, care vă permite să utilizați tableta. Politica noastră de confidențialitate, de la adresa https://account.samsung.com/membership/pp („Politica de confidențialitate Samsung”), se aplică utilizării de către dvs. a Samsung account și a serviciului Call & Message Continuity. Această Notificare privind confidențialitatea oferă informații suplimentare despre modul în care datele dvs. personale sunt utilizate în legătură cu Serviciul și trebuie citită împreună cu Politica de confidențialitate Samsung.
+
+În această Notificare privind confidențialitatea sunt descrise tipurile de informații colectate prin intermediul Serviciului, modul în care este posibil să utilizăm aceste informații, perioada de timp alocată păstrării informațiilor, care sunt entitățile cu care este posibil să le partajăm și opțiunile care vă stau la dispoziție în legătură cu utilizarea informațiilor de către noi și cu exercitarea drepturilor dvs. Sunt descrise, de asemenea, măsurile pe care le luăm pentru a proteja informațiile și modul în care să ne contactați în legătură cu practicile noastre privind confidențialitatea. Samsung este operatorul de date pentru prelucrarea datelor personale.
+
+Faceți clic pe unul dintre linkurile de mai jos pentru a accesa secțiunea respectivă din listă:
+
+•	Informații pe care le obținem
+•	Cum utilizăm informațiile pe care le obținem
+•	Partajarea informațiilor
+•	Păstrarea datelor personale
+•	Alegerile dvs.
+•	Drepturile dvs.
+•	Cum protejăm informațiile personale
+•	Actualizări ale Notificării noastre privind confidențialitatea
+•	Informații de contact
+
+Informații pe care le obținem
+
+Prin intermediul Serviciului, obținem informații despre dvs. în diverse moduri. Tipurile de informații personale pe care le obținem includ:
+
+•	Informații cu privire la Samsung account. Colectăm informații asociate cu Samsung account pe care îl utilizați pentru a accesa Serviciul, cum ar fi ID-ul pentru Samsung account.
+
+•	Interacțiuni cu Serviciul. Colectăm informațiile pe care le schimbați în interacțiunea cu Serviciul, inclusiv informații despre apelanți și apelați, informații despre expeditorii și destinatarii mesajelor, conținutul mesajelor pe care le trimiteți și primiți, precum și istoricul apelurilor și mesajelor din aplicațiile de smartphone. Pe lângă acestea, vor fi colectate și alte informații de utilizare, cum ar fi interacțiunile tactile și alte metode de introducere și informațiile pe care le primiți de la Serviciu (cum ar fi răspunsuri). Dacă trimiteți către Serviciu informații de natură sensibilă (și anume informații despre sănătate), cum ar fi mesajele trimise sau primite care conțin informații sensibile, vor fi și acestea colectate și vor fi prelucrate în scopurile menționate în continuare. Nu vom colecta activ astfel de informații fără a obține, în prealabil, consimțământul dvs. explicit separat sau după cum se prevede în legislația în vigoare.
+
+•	Informații despre dispozitiv și aplicație. Colectăm informații prin mijloace automate despre dispozitivele care au activat Serviciul, cum ar fi numărul de mobil, adresa MAC de rețea, identificatorii dispozitivului și alți identificatori unici.
+
+Cum utilizăm informațiile pe care le obținem
+Utilizăm informațiile pe care le obținem prin intermediul Serviciului pentru:
+
+•	a vă identifica și autentifica, astfel încât să puteți utiliza un anumit serviciu;
+•	a vă oferi Serviciul, cum ar fi releul pentru apeluri primite și efectuate între dispozitivele dvs., precum și sincronizarea istoricului apelurilor și mesajelor de pe dispozitivele dvs. (smartphone, ceas, tabletă, laptop etc.);
+•	a îmbunătăți și personaliza experiența dvs. cu Serviciul;
+•	a răspunde la solicitările și întrebările dvs.;
+•	a opera, evalua și îmbunătăți activitatea noastră economică (inclusiv dezvoltarea de noi produse; îmbunătățirea produselor și serviciilor; gestionarea comunicațiilor; analizarea produselor, a bazei de clienți și a serviciilor; realizarea de studii de piață; analizarea datelor și efectuarea contabilității, auditurilor și a altor funcții interne);
+•	a vă permite să interacționați cu anumite aplicații și servicii terțe și să le utilizați;
+•	a identifica și preveni frauda și alte activități criminale, revendicări și alte răspunderi și a vă proteja împotriva acestora și pentru
+•	a respecta și aplica cerințele legale aplicabile, standardele industriale relevante și politicile noastre, inclusiv această Notificare privind confidențialitatea și Politica de confidențialitate Samsung.
+
+Prin intermediul Serviciului, putem colecta, de-a lungul timpului, informații personale despre activitățile dvs. online de pe dispozitivele cu Serviciul activat și din aplicațiile asociate serviciilor de apeluri și mesaje de pe smartphone. Putem utiliza servicii de analiză terțe în cadrul Serviciului. Furnizorii care administrează aceste servicii de analiză ne ajută să analizăm utilizarea de către dvs. a Serviciului și să îmbunătățim Serviciul. Informațiile pe care le obținem pot fi dezvăluite acestor furnizori sau altor părți terțe care utilizează informațiile sau pot fi colectate direct de aceste părți, de exemplu, pentru a evalua utilizarea Serviciului, pentru a ajuta la furnizarea Serviciului și pentru a diagnostica problemele tehnice.
+
+
+Samsung prelucrează datele personale în scopurile descrise anterior. Temeiul juridic al Samsung de a prelucra date personale include prelucrări care: sunt necesare pentru executarea contractului dintre dvs. și Samsung (de exemplu, pentru a vă oferi Serviciul și pentru a vă identifica și autentifica astfel încât să puteți utiliza un anumit serviciu); sunt necesare pentru respectarea cerințelor legale (de exemplu, pentru a respecta normele de contabilitate în vigoare și a face dezvăluiri obligatorii autorităților legale); sunt necesare pentru interesele legitime ale Samsung (de exemplu, pentru a gestiona relația dintre noi și dvs. și pentru a îmbunătăți Serviciul) și care se bazează pe obținerea consimțământului dvs. separat (de exemplu, pentru a vă trimite comunicate despre produsele și serviciile noastre și pentru a vă furniza informații de marketing), care poate fi retras ulterior în orice moment, contactându-ne după cum este specificat în paragraful Informații de contact din această Notificare privind confidențialitatea, fără ca acest lucru să afecteze legalitatea prelucrării în temeiul consimțământului oferit înainte de retragerea acestuia.
+
+Vi se solicită, ca o necesitate pentru încheierea unui contract, să ne furnizați datele personale pentru a fi prelucrate conform descrierii anterioare. Dacă nu ne furnizați datele personale, nu vă vom putea oferi toate caracteristicile disponibile prin intermediul Serviciului.
+
+Partajarea informațiilor
+
+Nu vom dezvălui informațiile dvs. personale prin intermediul Serviciului, cu excepția cazurilor descrise în această Notificare privind confidențialitatea. Un număr limitat de membri ai echipei Serviciului din cadrul Samsung poate accesa și prelucra în acest mod datele personale, conform responsabilităților sau obligațiilor contractuale ale acestora. Putem partaja informațiile dvs. personale cu filialele și afiliații noștri și cu furnizorii de servicii care prestează servicii pentru noi. Nu autorizăm furnizorii de servicii să utilizeze sau să dezvăluie informații, cu excepția cazurilor în care este necesar pentru prestarea serviciilor în numele nostru sau pentru respectarea cerințelor legale.
+
+O parte dintre membrii de personal, dintre afiliați și dintre furnizorii de servicii terțe se găsesc în afara SEE (Spațiul Economic European), inclusiv în țări care nu pot oferi același nivel de protecție a datelor ca țara de origine a clienților noștri, inclusiv, de exemplu, dar fără a se limita la Republica Coreea, Statele Unite ale Americii și Japonia. Samsung ia măsurile corespunzătoare pentru a se asigura că acești destinatari sunt obligați să respecte obligațiile de confidențialitate și implementează măsuri, cum ar fi clauzele contractuale standard de protecție a datelor, pentru a se asigura că toate datele personale transferate rămân protejate și securizate. O copie a acestor clauze poate fi obținută contactându-ne după cum este specificat în paragraful Informații de contact din această Notificare privind confidențialitatea.
+
+Samsung, filialele și afiliații noștri și furnizorii de servicii terțe pot, de asemenea, să dezvăluie informații despre dvs. (1) dacă sunt obligați să facă acest lucru prin lege sau în urma unui proces legal (cum ar fi o hotărâre judecătorească sau o citație); (2) ca răspuns la solicitările agențiilor guvernamentale, cum ar fi autoritățile de aplicare a legii; (3) pentru a stabili, exercita sau apăra propriile drepturi legale; (4) atunci când se consideră că dezvăluirea este necesară sau adecvată pentru prevenirea daunelor fizice sau a altor prejudicii sau a pierderilor financiare; (5) în legătură cu o investigație a unei activități ilegale suspectate sau reale; (6) în cazul în care activitatea comercială sau activele sunt vândute sau transferate parțial sau în întregime (inclusiv în caz de fuziune, achiziție, vânzare, transfer, reorganizare, dizolvare sau lichidare) sau (7) în alte scopuri, cu acordul dvs. separat.
+
+
+Păstrarea datelor personale
+
+Luăm măsuri rezonabile pentru a ne asigura că informațiile despre dvs. sunt păstrate numai în baza următorului proces logic:
+1. cel puțin pe durata în care informațiile sunt utilizate pentru a vă oferi Serviciul;
+2. în conformitate cu legislația în vigoare, cu cerințele unui contract sau cu obligațiile noastre legale sau
+3. numai pe durata necesară scopului pentru care acestea au fost colectate, prelucrate sau pe o perioadă mai lungă, dacă acest lucru este stipulat în conformitate cu cerințele oricărui contract, cu legislația în vigoare, ori în scopuri statistice, făcând obiectul unei protecții corespunzătoare.
+
+Alegerile dvs.
+
+Vă oferim anumite opțiuni în legătură cu informațiile personale pe care le obținem despre dvs. Pentru a actualiza preferințele, limita comunicările pe care le primiți de la noi sau trimite o solicitare, contactați-ne după cum este specificat în paragraful Informații de contact, din această notificare privind confidențialitatea.
+
+Accesați setările pentru „Conexiune la distanță” de pe dispozitivul dvs. pentru opțiuni care pot fi disponibile în legătură cu utilizarea de către dvs. a Serviciului. Rețineți că, dacă refuzați să permiteți Serviciul, este posibil să nu puteți utiliza toate caracteristicile disponibile prin intermediul Serviciului.
+
+Drepturile dvs.
+
+Aveți dreptul de a solicita detalii despre informațiile pe care le colectăm despre dvs. și de a ne solicita să corectăm inexactitățile din acele informații, de a vă opune sau de a solicita restricții privind prelucrarea și de a solicita accesul la, ștergerea sau portabilitatea informațiilor dvs. Conform legislației anumitor jurisdicții, putem refuza procesarea solicitărilor care sunt repetitive în mod nejustificat, necesită efort tehnic disproporționat, pun în pericol confidențialitatea altora, sunt extrem de nepractice sau pentru care accesul nu este prevăzut de legile locale. Dacă doriți să faceți o cerere pentru accesarea informațiilor dvs., contactați-ne prin accesarea paginii noastre Asistență pentru confidențialitate (https://www.samsung.com/request-desk).
+
+Dacă solicitați ștergerea informațiilor dvs. personale, confirmați faptul că este posibil să nu mai aveți acces sau să puteți utiliza Serviciile de afaceri, precum și faptul că informații personale reziduale pot exista în continuare pe o anumită perioadă de timp în înregistrările și arhivele Samsung, în conformitate cu legislația în vigoare, însă Samsung nu va utiliza aceste informații în scopuri comerciale. Înțelegeți că, în ciuda cererii dvs. de ștergere a informațiilor, Samsung își rezervă dreptul de a păstra informațiile dvs. personale sau o parte relevantă a acestora, în conformitate cu politica noastră de păstrare a datelor și legislația în vigoare, dacă Samsung a suspendat, limitat sau întrerupt accesul dvs. la site-ul web pentru încălcarea Condițiilor de utilizare Samsung, atunci când acest lucru este necesar pentru a proteja drepturile, proprietatea sau securitatea Samsung sau a oricăror afiliați, parteneri de afaceri, angajați sau clienți corespunzători.
+
+Cum protejăm informațiile personale
+
+Menținem măsuri de protecție administrative, tehnice și fizice adecvate, menite să protejeze informațiile personale pe care le obținem prin intermediul Serviciului, împotriva distrugerii, interferenței, pierderii, modificării, accesului, dezvăluirii sau utilizării accidentale, ilegale sau neautorizate. Samsung menține, de asemenea, proceduri rezonabile, pentru a se asigura că aceste date sunt fiabile pentru utilizarea căreia îi sunt destinate și că sunt exacte, complete și actuale.
+
+Actualizări ale Notificării noastre privind confidențialitatea
+
+Această Notificare privind confidențialitatea poate fi actualizată periodic pentru a reflecta modificările din practicile noastre cu privire la informațiile personale care vizează Serviciul sau modificările aduse legislației în vigoare. Vom publica o notificare pe site-ul nostru web și/sau pe dispozitivul dvs. pentru a vă informa din timp cu privire la modificările semnificative aduse Notificării noastre privind confidențialitatea și vom indica în partea de sus a notificării care este cea mai recentă dată a actualizării.
+
+Informații de contact
+
+Dacă aveți întrebări specifice, contactați-ne la (operator de date UE):
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+De asemenea, ne puteți contacta prin accesarea paginii noastre Asistență pentru confidențialitate (https://www.samsung.com/request-desk).
+
+Puteți să depuneți o plângere la o autoritate de supraveghere, în cazul în care considerați că prelucrarea de către noi a datelor dvs. personale încalcă legea în vigoare.

@@ -1,0 +1,20 @@
+﻿Consent to the Collection and Use of Personal Information
+
+This Consent to the Collection and Use of Personal Information describes the information required to provide basic smartphone features such as OS updates or software updates for bug fixes, etc.
+
+1. Information We Collect
+• Information Collected: IMEI, component information, device status information, model name, customer code, access recording, device’s current software version, country, business operator information, and device error log (if any)
+
+2. Purposes of Collection and Use
+• Provision of Services
+Personal information is used to provide bug fixes, updates, and performance improvements of installed software for the services, products, or devices, wirelessly without requiring customers to visit a service centre, and to provide customer support (CS), maintenance services, and user protection services.
+• Service Improvements, New Service Development, and Message Delivery, etc.
+Personal information is used to retrieve and analyse statistics of device statuses and error logs, to improve/develop existing/new services (products), and to send notifications or promotional materials through push messages.
+
+3. Retention and Usage Period
+In principle, your personal information shall be destroyed without delay after the purposes for which the information was collected and used are achieved.
+However, if the provisions of relevant laws and regulations make it necessary for the Company to retain your personal information, the Company may retain your personal information in accordance with the applicable laws and regulations.
+
+※ You may refuse to agree to this Consent to the Collection and Use of Personal Information, but you will not be able to use our services, since the information specified above is necessary for us to provide you with the services.
+
+[Version : P2.01.00]

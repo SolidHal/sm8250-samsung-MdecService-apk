@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/switch_container" android:background="@drawable/sec_switchbar_background" android:clickable="true" android:layout_width="fill_parent" android:layout_height="@dimen/sec_widget_switchbar_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/sec_widget_switchbar_margin_start" android:paddingEnd="@dimen/sec_widget_switchbar_margin_end">
+        <TextView android:textSize="@dimen/sec_widget_switchbar_text_size" android:textColor="@color/white" android:layout_gravity="center_vertical" android:id="@id/switch_text" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/switch_on_text" android:layout_weight="1.0" android:fontFamily="sec-roboto-light" android:textAlignment="viewStart" style="@style/TextAppearance.Switch" />
+        <ProgressBar android:layout_gravity="center_vertical" android:id="@id/indeterminateProgressBarInSwitch" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="24.0dip" android:indeterminate="true" android:indeterminateDrawable="@drawable/master_switch_progress_material" android:paddingEnd="-12.0dip" android:layout_marginEnd="12.0dip" />
+        <androidx.appcompat.widget.SwitchCompat android:layout_gravity="center_vertical" android:id="@id/switchWidget" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/SwitchBarStyle" />
+    </LinearLayout>
+</LinearLayout>

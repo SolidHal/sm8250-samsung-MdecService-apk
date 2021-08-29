@@ -1,0 +1,18 @@
+﻿Autorização para Recolha e Utilização de Informações Pessoais
+
+Esta Autorização para Recolha e Utilização de Informações Pessoais descreve as informações necessárias para facultar funcionalidades básicas do smartphone, como actualizações do SO ou actualizações de software para correcções de erros, etc.
+
+1. Informações Recolhidas pela Samsung
+• Informações Recolhidas: IMEI, informações de componentes, informações sobre o estado do dispositivo, nome do modelo, código de cliente, registo de acesso, versão do software actual do dispositivo, país, informação do operador da empresa e registo de erros do dispositivo (caso exista)
+
+2. Objectivos da Recolha e Utilização
+• Fornecimento de Serviços
+As informações pessoais são utilizadas para disponibilizar correcções de erros, actualizações e melhoramentos de desempenho de software instalado para os serviços, produtos ou dispositivos, sem fios, sem que os clientes tenham de visitar um centro de assistência técnica e para fornecer suporte ao cliente (CS), serviços de manutenção e serviços de protecção dos utilizadores.
+• Melhoramentos de Serviços, Desenvolvimento de Novos Serviços e Entrega de Mensagens, etc.
+As informações pessoais são utilizadas para obter e analisar estatísticas de estados de dispositivos e registos de erros, para melhorar/desenvolver serviços (produtos) existentes/novos e para enviar notificações ou materiais promocionais através de mensagens push.
+
+3. Retenção e Período de Utilização
+Em princípio, as informações pessoais do utilizador serão destruídas de imediato após o objectivo para o qual as informações foram recolhidas e utilizadas ter sido cumprido.
+No entanto, se as disposições das leis e dos regulamentos relevantes determinarem que a Empresa deve reter as informações pessoais do utilizador, a Empresa poderá reter essas informações pessoais em conformidade com as leis e os regulamentos aplicáveis.
+
+※ O utilizador poderá recusar aceitar esta Autorização para Recolha e Utilização de Informações Pessoais, mas não poderá utilizar os nossos serviços, dado que as informações especificadas acima são necessárias para lhe possamos facultar os serviços.

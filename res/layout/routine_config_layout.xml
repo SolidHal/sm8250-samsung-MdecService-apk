@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:padding="@dimen/routine_config_popup_side_padding" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RadioGroup android:orientation="vertical" android:id="@id/radio_group" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <RadioButton android:textSize="@dimen/routine_config_action_text_size" android:id="@id/turn_on" android:paddingTop="@dimen/routine_config_action_padding" android:paddingBottom="@dimen/routine_config_action_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/routine_cmc_on" />
+        <RadioButton android:textSize="@dimen/routine_config_action_text_size" android:id="@id/turn_off" android:paddingTop="@dimen/routine_config_action_padding" android:paddingBottom="@dimen/routine_config_action_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/routine_cmc_off" />
+    </RadioGroup>
+</LinearLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:key="sd_pref_screen"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/connected_services" android:key="services_category" android:order="1">
+        <com.samsung.android.cmcsettings.view.base.preferences.CallMessageSwitchPreference android:title="@string/call" android:key="call_preference" />
+        <com.samsung.android.cmcsettings.view.base.preferences.CallMessageSwitchPreference android:title="@string/message" android:key="message_preference" />
+    </PreferenceCategory>
+</PreferenceScreen>

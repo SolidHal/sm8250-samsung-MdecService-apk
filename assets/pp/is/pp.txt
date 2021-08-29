@@ -1,0 +1,98 @@
+﻿Tilkynning um persónuvernd vegna Call & Message Continuity
+
+Dagsetning gildistöku: 30/03/2018
+
+Samsung Electronics (UK) Limited („Samsung“ eða „Við“) og hlutdeildarfélög þess leggja áherslu á persónuvernd þína. Þessi tilkynning um persónuvernd gildir um persónuupplýsingar sem við söfnum í gegnum þjónustuna Call & Message Continuity („þjónustan“). Hún gildir ekki um upplýsingar sem safnað er af öðrum forritum, vefsvæðum eða þjónustu frá Samsung eða hlutdeildarfélögum þess.
+
+Þjónustan er samskiptaþjónusta sem notuð er í mörgum tækjum. Hún býður meðal annars upp á áframsendingu móttekinna og hringdra símtala, símtala- og skilaboðaferil og skilaboðasamstillingu á milli aðaltækis (t.d. snjallsíma) og aukatækis/-tækja (t.d. úr, spjaldtölva, fartölva o.s.frv.), sem gerir þér kleift að svara símtölum sem berast, lesa skilaboð í aukatækinu/-tækjunum, hringja símtöl og senda ný skilaboð með aðaltækinu.
+
+Þú þarft að skrá þig inn á Samsung account í aðaltækinu og aukatæki/-tækjum til að nota þjónustuna. Ef aukatækið er úr þarftu að setja upp netþjónustu með því að fá þér farsímagagnaáskrift í kerfi símafyrirtækisins sem gerir þér kleift að nota úrið með venjulega símanúmerinu þínu. Ef aukatækið er spjaldtölva sem styður aðeins gögn þarftu að setja upp tengingu við Wi-Fi net eða við kerfi símafyrirtækisins sem gerir þér kleift að nota spjaldtölvuna. Persónuverndarstefna okkar á https://account.samsung.com/membership/pp („persónuverndarstefna Samsung“) gildir um notkun þína á Samsung account og Call & Message Continuity. Þessi tilkynning um persónuvernd veitir frekari upplýsingar um hvernig persónulegu gögnin þín eru notuð í tengslum við þjónustuna og hana ætti að lesa með persónuverndarstefnu Samsung.
+
+Í þessari tilkynningu um persónuvernd lýsum við gerðum upplýsinga sem safnað er í gegnum þjónustuna, hvernig við kunnum að nota þær, hversu lengi við geymum upplýsingarnar, með hverjum við kunnum að deila þeim og hvaða kostir standa þér til boða í sambandi við notkun okkar á upplýsingunum og réttindi þín. Við lýsum einnig aðgerðunum sem við beitum til að vernda þessar upplýsingar og segjum þér hvernig þú getur haft samband við okkur í tengslum við starfsvenjur okkar varðandi persónuvernd. Samsung er ábyrgðaraðili gagna fyrir vinnslu á persónuupplýsingum.
+
+Smelltu á einn af tenglunum hér að neðan til að fara í skráðan hluta:
+
+•	Upplýsingar sem við fáum
+•	Hvernig við notum þær upplýsingar sem við fáum
+•	Miðlun upplýsinga
+•	Varðveisla persónulegra gagna
+•	Þitt val
+•	Réttindi þín
+•	Hvernig við verndum persónuupplýsingar
+•	Uppfærslur á tilkynningu okkar um persónuvernd
+•	Hvernig á að hafa samband við okkur
+
+Upplýsingar sem við fáum
+
+Við söfnum upplýsingum um þig á ýmsa vegu í gegnum þjónustuna. Gerðir persónuupplýsinga sem við fáum eru meðal annars:
+
+•	Upplýsingar Samsung account. Við söfnum upplýsingum sem tengjast Samsung account sem notaðar eru til að fá aðgang að þjónustunni, t.d. Samsung account auðkenni þínu.
+
+•	Samskipti þjónustunnar. Við söfnum upplýsingum sem þú veitir í samskiptum þínum við þjónustuna, þar á meðal upplýsingum um þá sem hringja og viðtakendur, upplýsingum um sendendur og viðtakendur skilaboða, innihald skilaboða sem þú sendir og tekur á móti og símtala- og skilaboðaferil þinn í snjallsímaforritum. Við söfnum einnig öðrum upplýsingum um notkun, svo sem um snertisamskipti þín og annað inntak, og upplýsingunum sem þú færð frá þjónustunni (t.d. viðbrögð og svör). Ef þú sendir þjónustunni viðkvæmar upplýsingar (t.d. heilsufarsupplýsingar), svo sem skilaboð sem þú sendir eða tekur á móti og innihalda viðkvæmar upplýsingar, verður þeim einnig safnað og unnið úr þeim í þeim tilgangi sem lýst er hér að neðan. Við munum ekki safna slíkum upplýsingum án þess að fá sérstakt yfirlýst samþykki frá þér eða eins og kveðið er á um í gildandi lögum.
+
+•	Upplýsingar um tæki og forrit. Við söfnum upplýsingum með sjálfvirkum hætti um tæki þar sem þjónustan hefur verið virkjuð, t.d. farsímanúmer, MAC-vistfang netkerfis, tækisauðkenni og önnur einkvæm auðkenni.
+
+Hvernig við notum þær upplýsingar sem við fáum
+Við notum upplýsingarnar sem við fáum í gegnum þjónustuna til að:
+
+•	greina og sannvotta þig til þess að þú getir notað tiltekna þjónustu;
+•	veita þér þjónustuna til að þú getir t.d. áframsent móttekin og hringd símtöl á milli tækja og samstillt símtalaferil og skilaboð í tækjunum þínum (snjallsíma, úri, spjaldtölvu, fartölvu, o.s.frv.);
+•	bæta og sérsníða þjónustunafyrir þig;
+•	svara beiðnum og fyrirspurnum frá þér;
+•	starfrækja, meta og bæta rekstur okkar (þ.m.t. að þróa nýjar vörur; bæta vörur okkar og þjónustu; stjórna samskiptaupplýsingum okkar; greina vörur okkar, viðskiptavinahóp og þjónustuna; framkvæma markaðsrannsóknir; framkvæma gagnagreiningu; og sinna bókhaldi, endurskoðun og öðrum innri aðgerðum);
+•	gera þér kleift að eiga í samskiptum við og nota tiltekin forrit og þjónustu þriðju aðila;
+•	verjast, auðkenna og koma í veg fyrir svik og aðra glæpastarfsemi, kröfur og aðra bótaskyldu; og
+•	til að fara að og framfylgja viðeigandi lagaskilyrðum, viðeigandi stöðlum og stefnumótun, þ.m.t. þessari tilkynningu um persónuvernd og persónuverndarstefnu Samsung.
+
+Í gegnum þjónustuna kunnum við að safna persónuupplýsingum um aðgerðir þínar á netinu í tækjum þar sem þjónustan hefur verið virkjuð yfir ákveðinn tíma og í öllum forritum sem tengjast símtala- og skilaboðaþjónustu í snjallsímum. Við kunnum að nota greiningarþjónustu frá þriðja aðila í þjónustunni. Veiturnar sem stjórna þessari greiningarþjónustu hjálpa okkur að greina notkun þína á þjónustunni og bæta þjónustuna. Upplýsingarnar sem við fáum eru hugsanlega aðgengilegar eða er safnað beint af þessum veitum og öðrum viðeigandi þriðju aðilum sem nota upplýsingarnar, t.d. til að meta notkun þjónustunnar, hjálpa til við að veita þjónustuna eða greina tæknileg vandamál.
+
+
+Samsung vinnur úr persónuupplýsingum í ofangreindum tilgangi. Lagalegar forsendur Samsung fyrir vinnslu persónuupplýsinga eru vinnsla sem er: nauðsynleg fyrir framkvæmd samningsins á milli þín og Samsung (t.d. til að veita þér þjónustuna og til að greina og sannvotta þig til þess að þú getir notað tiltekna þjónustu); nauðsynleg til að uppfylla lagaleg skilyrði (t.d. til að uppfylla gildandi reglur um bókhald og til að upplýsa löggæsluyfirvöld); nauðsynleg fyrir lögmæta hagsmuni Samsung (t.d. til að halda utan um samband okkar við þig og til að bæta þjónustuna); og byggð á sérstöku samþykki þínu (t.d. til að við getum átt samskipti við þig um vörur og þjónustu okkar og sent þér markaðssetningarefni), en þú getur dregið þetta leyfi til baka hvenær sem er með því að hafa samband við okkur eins og tilgreint er í hlutanum „Hvernig á að hafa samband við okkur“ í þessari tilkynningu um persónuvernd, án þess að það hafi áhrif á lögmæti vinnslu sem byggir á þessu leyfi áður en það var afturkallað.
+
+Þú þarft að veita okkur persónuleg gögn til að vinna úr, en það er nauðsynlegt ef þú vilt gera samning við okkur, eins og lýst er hér að framan. Ef þú veitir okkur ekki persónuleg gögn munum við ekki geta boðið þér upp á alla eiginleikana sem í boði eru í þjónustunni.
+
+Miðlun upplýsinga
+
+Við veitum engar persónuupplýsingar um þig í gegnum þjónustuna nema að því leyti sem lýst er í þessari tilkynningu um persónuvernd. Takmarkaður fjöldi meðlima í teymi þjónustunnar hjá Samsung hefur aðgang að og getur unnið með persónuleg gögn í tengslum við starfsábyrgð og samningsbundnar skyldur sínar. Við kunnum að deila persónuupplýsingum þínum með dótturfélögum og hlutdeildarfélögum okkar og með símafyrirtækjum sem þjónusta okkur. Símafyrirtæki okkar hafa ekki leyfi til að nota eða birta þessar upplýsingar nema það sé nauðsynlegt til að sinna þjónustu fyrir hönd okkar eða til að uppfylla lagaskilyrði.
+
+Eitthvað af þessu starfsfólki, hlutdeildarfélögum og símafyrirtækjum þriðju aðila er staðsett fyrir utan Evrópska efnahagssvæðið, þar á meðal í löndum sem bjóða hugsanlega ekki upp á sömu gagnavernd og heimaland viðskiptavina okkar, þar á meðal, til dæmis og án takmarkana, í Suður-Kóreu, Bandaríkjunum og Japan. Samsung grípur til viðeigandi aðgerða til að tryggja að slíkir viðtakendur séu bundnir trúnaðarskyldu og Samsung innleiðir aðgerðir eins og samningsákvæði um hefðbundna gagnavernd til að tryggja að öll flutt persónuleg gögn haldist örugg. Afrit af þessum ákvæðum má nálgast með því að hafa samband við okkur eins og tilgreint er í hlutanum Hvernig á að hafa samband við okkur í þessari tilkynningu um persónuvernd.
+
+Samsung, dótturfélög okkar og hlutdeildarfélög sem og símafyrirtæki þriðju aðila kunna einnig að birta upplýsingar um þig (1) ef þess er krafist af lögum eða lagaferli (svo sem dómsúrskurði eða stefnu); (2) til að bregðast við beiðnum frá opinberum stofnunum, eins og löggæsluyfirvöldum; (3) til að koma á, nýta eða verja lagaleg réttindi okkar; (4) þegar við teljum að birting sé nauðsynleg eða viðeigandi til að koma í veg fyrir líkamlegan skaða eða fjártap; (5) í tengslum við rannsókn á grunuðu eða raunverulegu ólöglegu athæfi; (6) ef til þess kemur að við seljum eða flytjum öll viðskipti eða eignir okkar eða hluta þeirra (þ.m.t. þegar um er að ræða samruna, yfirtöku, sölu, flutning, endurskipulagningu, niðurlagningu eða félagsslit); eða (7) á annan hátt með þínu samþykki.
+
+
+Varðveisla persónulegra gagna
+
+Við grípum til viðeigandi ráðstafana til að tryggja að upplýsingar um þig séu aðeins varðveittar á eftirfarandi forsendum:
+1. í að minnsta kosti þann tíma sem upplýsingarnar eru notaðar til að veita þér þjónustuna;
+2. eins lengi og lög eða samningur kveður á um eða með tilliti til lögboðinnar skyldu; eða
+3. aðeins eins lengi og er nauðsynlegt fyrir tilgang söfnunar þeirra og vinnslu eða lengur ef þess er þörf vegna samnings, gildandi laga eða í tölfræðilegum tilgangi, að viðhöfðum viðeigandi öryggisráðstöfunum.
+
+Þitt val
+
+Við bjóðum upp á tiltekna valkosti í tengslum við persónuupplýsingar þínar. Til að uppfæra kjörstillingar þínar, takmarka samskipti og skilaboð sem þú færð frá okkur eða senda inn beiðni skaltu hafa samband við okkur eins og tilgreint er í hlutanum Hvernig á að hafa samband við okkur í þessari tilkynningu um persónuvernd.
+
+Farðu í stillinguna „Fjartenging“ í tækinu þínu til að skoða valkostina sem kunna að vera í boði í tengslum við notkun þína á þjónustunni. Athugaðu að ef þú gefur þjónustunni ekki leyfi er ekki víst að þú getir notað alla eiginleikana sem þjónustan býður upp á.
+
+Réttindi þín
+
+Þú hefur rétt á að krefjast upplýsinga um það hvaða upplýsingum við söfnum um þig og að biðja okkur um að leiðrétta villur í þeim upplýsingum. Þú hefur einnig rétt á að mótmæla eða biðja um takmörkun á vinnslu og biðja um aðgang að, eyðingu eða flutning á upplýsingum þínum. Í samræmi við lög sumra lögsagnarumdæma getur verið að við höfnum að vinna úr beiðnum sem eru óþarflega tíðar, krefjast óhóflegrar tæknivinnu, setja persónuvernd annarra í hættu, eru sérlega óhagkvæmar eða sem lög krefjast að öðru leyti ekki aðgang að. Ef þú vilt senda beiðni um aðgang að upplýsingunum þínum skaltu hafa samband við okkur með því að fara á þjónustusíðuna fyrir persónuvernd (https://www.samsung.com/request-desk).
+
+Ef þú biður um að persónuupplýsingum sé eytt staðfestir þú að þú getir hugsanlega ekki fengið aðgang að eða notað fyrirtækjaþjónustuna og að leifar af persónuupplýsingum kunni að verða eftir í skrám og söfnum Samsung í nokkurn tíma, í samræmi við gildandi lög, en Samsung mun ekki nota þessar upplýsingar í viðskiptalegum tilgangi. Þú gerir þér grein fyrir að þrátt fyrir beiðni þína um eyðingu áskilur Samsung sér rétt til þess að halda eftir persónuupplýsingum þínum, eða viðeigandi hluta þeirra, í samræmi við varðveislustefnu okkar og gildandi lög, ef Samsung hefur takmarkað, lokað á eða sett aðgang þinn að vefsvæðinu í bið vegna þess að þú hefur brotið gegn þjónustuskilmálum Samsung, þegar nauðsyn krefur til að verja réttindi, eign eða öryggi Samsung eða einhverra hlutdeildarfélaga, viðskiptafélaga, starfsmanna eða viðskiptavina.
+
+Hvernig við verndum persónuupplýsingar
+
+Við viðhöldum viðeigandi stjórnsýslulegri, tæknilegri og efnislegri vernd sem ætlað er að vernda þær persónuupplýsingar sem við fáum í gegnum þjónustuna gegn óviljandi, ólöglegri eða óleyfilegri eyðingu, truflun, tapi, breytingum, aðgangi, upplýsingagjöf eða notkun. Samsung viðheldur einnig ásættanlegum verklagsreglum til að tryggja að slík gögn séu áreiðanleg fyrir fyrirhugaða notkun þeirra og séu einnig nákvæm, tæmandi og uppfærð.
+
+Uppfærslur á tilkynningu okkar um persónuvernd
+
+Þessi tilkynning um persónuvernd kann að verða uppfærð reglulega til að endurspegla breytingar á verklagi okkar varðandi persónuupplýsingar, með hliðsjón af þjónustunni eða breytingum á gildandi lögum. Við munum setja fram tilkynningu á vefsvæði okkar og/eða senda tilkynningu í tækið þitt til að tilkynna þér fyrirfram um breytingar á efni tilkynningar okkar um persónuvernd og tilgreina efst í tilkynningunni hvenær hún var síðast uppfærð.
+
+Hvernig á að hafa samband við okkur
+
+Ef þú hefur einhverjar sérstakar spurningar skaltu hafa samband við okkur (ábyrgðaraðila gagna fyrir ESB):
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+Þú getur líka haft samband við okkur með því að fara á þjónustusíðuna fyrir persónuvernd (https://www.samsung.com/request-desk).
+
+Þú getur lagt fram kvörtun hjá eftirlitsstofnun ef þú telur að vinnsla okkar á persónuupplýsingum þínum brjóti í bága við gildandi lög.

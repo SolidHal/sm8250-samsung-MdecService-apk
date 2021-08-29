@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/mid_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/intro_image_margin" android:layout_marginBottom="@dimen/intro_image_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/intro_image_view" android:layout_width="fill_parent" android:layout_height="@dimen/welcome_page_intro_image_height" android:src="@drawable/intro_devices_mobile" android:contentDescription="@string/app_name_no_did" android:importantForAccessibility="no" />
+</LinearLayout>

@@ -1,0 +1,98 @@
+﻿Njoftimi i Privatësisë për Call & Message Continuity
+
+Data e hyrjes në fuqi: 30/03/2018
+
+Samsung Electronics (UK) Limited (“Samsung” ose “Ne”) dhe filialet përkatëse i respektojmë shqetësimet e tua për privatësinë. Ky Njoftim i Privatësisë vlen për informacionin personal që ne mbledhim përmes shërbimit Call & Message Continuity (“Shërbimi”). Nuk vlen për informacionin e mbledhur nga app-e, uebsajte ose shërbime të tjera të ofruara nga Samsung-u ose filialet e saj.
+
+Shërbimi është një shërbim komunikimi multi-pajisje. Funksionalitetet e tij përfshijnë mbështetjen e thirrjeve hyrëse dhe dalëse, historinë e thirrjeve dhe të mesazheve dhe sinkronizimin e mesazheve mes pajisjes sate parësore (p.sh. telefonit tënd inteligjent) dhe pajisjes(ve) dytësore (p.sh. ora, tableta, laptopi, etj.) në mënyrë që ti të mund të marrësh thirrje hyrëse dhe të lexosh mesazhe në pajisjen(t) dytësore dhe të bësh thirrje dalëse e të dërgosh mesazhe të reja duke përdorur pajisjen tënde parësore.
+
+Për ta përdorur Shërbimin, duhet më parë të hysh me sign-in te një Samsung account edhe në pajisjen tënde parësore dhe në pajisjen(t) dytësore. Dhe në qoftë se pajisja jote dytësore është orë, duhet të cilësosh një shërbim rrjeti duke u abonuar te një plan të dhënash celulare përmes sistemit të ofruar nga operatori yt i rrjetit, i tillë që të lejon ta përdorësh orën me numrin tënd të rregullt të telefonit. Në qoftë se pajisja jote dytësore është tabletë që vetëm mbështet të dhëna, duhet të konfigurosh një lidhje me një rrjet Wi-Fi ose me sistemin e ofruar nga operatori yt i rrjetit, i tillë që të lejon ta përdorësh tabletën. Politika jonë e Privatësisë në https://account.samsung.com/membership/pp (“Politika e Privatësisë e Samsung-ut”) do të zbatohet ndaj përdorimit prej teje të Samsung account dhe të Call & Message Continuity. Ky Njoftim i Privatësisë ofron informacion të mëtejshëm rreth mënyrës si përdoren të dhënat e tua personale në lidhje me Shërbimin, dhe duhet lexuar në bashkëlidhje me Politikën e Privatësisë të Samsung-ut.
+
+Në këtë Njoftim të Privatësisë, ne përshkruajmë llojet e informacionit që mblidhen përmes Shërbimit, si mund ta përdorim informacionin, sa gjatë mund ta mbajmë informacionin, me kë lejohemi ta përbashkojmë dhe vendimet që mund të marrësh ti, në lidhje me përdorimin prej nesh të informacionit dhe ushtrimin e të drejtave të tua. Ne gjithashtu përshkruajmë masat që marrim për të mbrojtur informacionin dhe të tregojmë si të na kontaktosh në lidhje me praktikat tona të privatësisë. Samsung-u është kontrolluesi i të dhënave për përpunimin e të dhënave personale.
+
+Kliko mbi një nga linket më poshtë, për të kaluar te seksioni i listuar:
+
+•	Informacioni që marrim
+•	Si e përdorim informacionin që marrim
+•	Përbashkimi i informacionit
+•	Mbajtja e të dhënave personale
+•	Vendimet e tua
+•	Të drejtat e tua
+•	Si e mbrojmë ne informacionin personal
+•	Përditësimet e Njoftimit tonë të Privatësisë
+•	Si të kontaktosh me ne
+
+Informacioni që marrim
+
+Përmes Shërbimit, ne marrim informacion rreth teje me mënyra të ndryshme. Llojet e informacionit personal që mbledhim përfshijnë:
+
+•	Informacionin për Samsung account. Ne mbledhim informacion të bashkëlidhur me Samsung account, që përdoret për akses te Shërbimi, të tillë si ID-në e Samsung account.
+
+•	Ndërveprimet e Shërbimit. Ne mbledhim informacionin që ti shkëmben përmes ndërveprimeve të tua me Shërbimin, përfshi informacionin për thirrësit dhe marrësit e thirrjeve, informacionin për dërguesit dhe marrësit e mesazheve, përmbajtjen e mesazheve që ti dërgon dhe merr dhe historinë e thirrjeve dhe mesazheve të tua në aplikacionet për telefona inteligjentë. Veç kësaj, do të mblidhen edhe informacione të tjera të përdorimit, të tilla si ndërveprimet me prekje dhe futje të tjera, si dhe informacioni që ti merr nga Shërbimi (të tilla si përgjigjet dhe shpjegimet). Nëse ti i jep Shërbimit informacion me natyrë delikate (p.sh. për shëndetin), nëpërmjet mesazheve që ti dërgon dhe merr dhe që përmbajnë informacion me natyrë delikate, edhe ky do të mblidhet dhe do të përpunohet për synimet e parashtruara më poshtë. Ne nuk do ta mbledhim këtë lloj informacioni pa marrë paraprakisht dhe veçan pëlqimin tënd eksplicit, ose siç e kërkon ligji i zbatueshëm.
+
+•	Informacionin për pajisjet dhe app-et. Ne mbledhim informacion me mënyra të automatizuara rreth pajisjeve të tua të aftësuara për Shërbimin, të tillë si numrin celular, adresën MAC të rrjetit, identifikuesit e pajisjes dhe identifikues të tjerë unikë.
+
+Si e përdorim informacionin që marrim
+Informacionin që mbledhim përmes Shërbimit ne e përdorim:
+
+•	të identifikuar dhe autentifikuar ty, në mënyrë që ti të mund të përdorësh një shërbim të caktuar;
+•	për të të ofruar Shërbimin, të tillë si mbështetjen e thirrjeve hyrëse dhe dalëse midis pajisjeve të tua dhe sinkronizimin e historisë së thirrjeve dhe mesazheve të tua në pajisjet e tua (telefon inteligjent, orë, tabletë, laptop, etj.);
+•	për të përmirësuar dhe personalizuar eksperiencën tënde me Shërbimin;
+•	për t’iu përgjigjur kërkesave dhe pyetjeve të tua;
+•	për të vënë në punë, vlerësuar dhe përmirësuar biznesin tonë (përfshi zhvillimin e produkteve të reja; përmirësimin dhe fuqizimin e produkteve tona dhe shërbimeve; menaxhimin e komunikimeve tona; analizën e produkteve tona, bazës së klientëve dhe shërbimeve; kryerjen e studimeve të tregut; kryerjen e analizës së të dhënave; dhe kryerjen e funksioneve të financës, auditimit dhe funksioneve të tjera të brendshme);
+•	për të të lejuar të ndërveprosh dhe të përdorësh app-e dhe shërbime të caktuara nga palë të treta;
+•	për të mbrojtur, për t’i identifikuar dhe parandaluar mashtrimet dhe veprimtari të tjera kriminale, kërkesat për zhdëmtime dhe përgjegjshmëri të tjera; dhe
+•	për të përmbushur dhe zbatuar kërkesa ligjore të zbatueshme, standarde industriale përkatëse dhe politikat tona, përfshi këtë Njoftim të Privatësisë dhe Politikën e Privatësisë të Samsung-ut.
+
+Përmes Shërbimit, ne mund të mbledhim informacion personal rreth aktiviteteve të tua në linjë në pajisjet e aftësuara për Shërbimin në rrjedhë të kohës dhe përmes app-eve të ndërlidhura me shërbimet e thirrjeve dhe mesazheve për telefona inteligjentë. Ne mund të përdorim shërbime të analizës nga palë të treta për Shërbimin. Ofruesit që i administrojnë këto shërbime të analizës na ndihmojnë për të analizuar përdorimin prej teje të Shërbimit dhe përmirësuar Shërbimin. Informacioni që marrim mund t’u komunikohet këtyre ofruesve dhe palëve të tjera të treta përkatëse ose të mblidhet drejtpërdrejt prej tyre, për ta përdorur, mes të tjerash, për të vlerësuar përdorimin e Shërbimit, për të ndihmuar dhënien e Shërbimit, dhe për të diagnostikuar probleme teknike.
+
+
+Samsung-u i përpunon të dhënat personale për synimet e përshkruara më lart. Baza ligjore e Samsung-ut për të përpunuar të dhëna personale përfshin një përpunim që është: i nevojshëm për funksionimin e kontratës midis teje dhe Samsung-ut (për shembull, që ty të të ofrohet Shërbimi dhe që ti të mund të identifikohesh dhe autentifikohesh, në mënyrë që të mund të përdorësh një shërbim të caktuar); i nevojshëm për të përmbushur kërkesat ligjore (për shembull, për të ndjekur rregullat përkatëse të financës dhe për informim të detyrueshëm të organeve të rendit); i nevojshëm për interesat legjitime të Samsung-ut (për shembull, për të menaxhuar marrëdhënien tonë me ty dhe për të përmirësuar Shërbimin); dhe në bazë të marrjes prej teje të pëlqimit veçan (për shembull, për të komunikuar me ty rreth produkteve dhe shërbimeve tona dhe për të ofruar informacion marketingu), pëlqim i cili mund të tërhiqet pastaj në çdo kohë duke na kontaktuar siç specifikohet në seksionin Si të kontaktosh me ne të këtij Njoftimi të Privatësisë, pa e prekur kjo ligjshmërinë e përpunimit të bazuar në pëlqimin para se ky i fundit të tërhiqej.
+
+Ty të kërkohet, si kusht i domosdoshëm për të lidhur kontratë, që të na japësh të dhënat personale për t’i përpunuar, siç përshkruhet më lart. Në qoftë se ti nuk na jep të dhënat personale, ne nuk do të mund të të ofrojmë të gjitha funksionalitetet e përdorshme nëpërmjet Shërbimit.
+
+Përbashkimi i informacionit
+
+Ne nuk komunikojmë informacion personal rreth teje përmes Shërbimit, përveçse në rastet e përshkruara në këtë Njoftim të Privatësisë. Disa pak anëtarë të ekipit të Shërbimit në Samsung mund të marrin akses dhe të përpunojnë të dhëna personale në kontekstin e përgjegjësive të tyre të detyrës ose detyrimeve kontraktuale. Ne mund të përbashkojmë informacionin personal që kemi për ty me degët dhe filialet tona dhe me ofruesit e shërbimit që kryejnë shërbime për ne. Ne nuk autorizojmë ofruesit tanë të shërbimit që të përdorin ose të komunikojnë informacionin, përveçse sipas nevojës, për të kryer shërbime për llogarinë tonë ose për të përmbushur kërkesat ligjore.
+
+Disa nga këta punonjës, filiale dhe ofrues shërbimi palë të treta gjenden jashtë Zonës Ekonomike Europiane (EEA), përfshi në vende që mund të mos ofrojnë të njëjtin nivel mbrojtjeje të dhënash si vendet nga vijnë dhe ku jetojnë klientët tanë, përfshi për shembull, Republikën e Koresë, Shtetet e Bashkuara të Amerikës dhe Japoninë, por jo vetëm. Samsung-u merr masat e duhura për t’u siguruar që marrës të tillë të respektojnë detyrimet e fshehtësisë dhe Samsung-u vë në jetë masa të tilla si dispozita kontraktuale standard për mbrojtjen e të dhënave, për t’u siguruar që çdo e dhënë e transferuar të mbetet e mbrojtur dhe e sigurt. Një kopje e këtyre dispozitave mund të sigurohet duke na kontaktuar, siç përcaktohet në seksionin Si të kontaktosh me ne të këtij Njoftimi të Privatësisë.
+
+Samsung-u, filialet dhe degët tona dhe ofruesit tanë të shërbimit palë të treta mund të komunikojnë informacion rreth teje edhe në rastet kur (1) na kërkohet që ta bëjmë këtë nga ligji ose një procedurë ligjore (si një urdhër i gjykatës ose fletë-thirrje gjyqi); (2) në përgjigje të kërkesave nga agjencitë qeveritare, si autoritetet e ruajtjes së rendit; (3) për të përcaktuar, ushtruar ose mbrojtur të drejtat tona ligjore; (4) kur ne besojmë se ky komunikim është i nevojshëm ose i përshtatshëm për të parandaluar lëndime fizike ose dëmtime të tjera ose humbje financiare; (5) në lidhje me një hetim të veprimtarisë së paligjshme të dyshuar ose faktike; (6) kur ne shesim ose transferojmë krejt biznesin tonë dhe asetet ose një pjesë të tyre (përfshi rastin e një shkrirjeje, marrjeje në zotërim, shitjeje, transferimi, riorganizimi, shpërndarjeje ose likuidimi); ose (7) për ndonjë arsye tjetër me pëlqimin tënd veçan.
+
+
+Mbajtja e të dhënave personale
+
+Ne ndërmarrim masat e duhura për të siguruar që informacioni rreth teje po mbahet vetëm në bazë të logjikës së mëposhtme:
+1. së paku për aq kohë sa informacioni përdoret për të të ofruar ty Shërbimin;
+2. siç e kërkon ligji, një kontratë ose detyrimet tona statutare; ose
+3. për aq kohë sa kjo është e nevojshme për synimet për të cilat informacioni u mblodh, po përpunohet ose edhe më gjatë, nëse kjo kërkohet nga ndonjë kontratë, nga ligjet në fuqi ose për synime statistikore, të cilat u nënshtrohen garancive të duhura.
+
+Vendimet e tua
+
+Ne të ofrojmë disa opsione, në lidhje me informacionin personal që marrim rreth teje. Për t’i përditësuar preferencat, kufizuar komunikimet që merr prej nesh ose paraqitur një kërkesë, na kontakto siç specifikohet në seksionin Si të kontaktosh me ne të këtij Njoftimi të Privatësisë.
+
+Vizito cilësimet e “Lidhjes në distancë” në pajisjen tënde për të parë çfarë zgjedhjesh janë në dispozicion për ty, sa i takon përdorimit prej teje të Shërbimit. Mbaj parasysh se, nëse refuzon ta lejosh Shërbimin, mund të mos jesh në gjendje t’i përdorësh të gjitha funksionalitetet që të vë në dispozicion Shërbimi.
+
+Të drejtat e tua
+
+Ti ke të drejtë të kërkosh hollësi për informacionin që ne mbledhim rreth teje dhe të na kërkosh të korrigjojmë pasaktësi në atë informacion, si dhe të kundërshtosh ose të kërkosh bllokimin e përpunimit dhe të kërkosh akses tek informacioni yt, ose fshirjen e tij, ose portabilitetin. Nën ligjet e disa juridiksioneve, ne mund të refuzojmë përpunimin e kërkesave që përsëriten në mënyrë të paarsyeshme, kanë nevojë për përpjekje teknike të tepruara, vënë në rrezik privatësinë e të tjerëve, janë tejet jopraktike ose për të cilat aksesi përndryshe nuk kërkohet nga ligji vendës. Nëse dëshiron të bësh një kërkesë për akses në informacionin për ty, na kontakto duke vizituar faqen tonë të Mbështetjes për Privatësinë (https://www.samsung.com/request-desk).
+
+Në qoftë se kërkon heqjen e informacionit personal, ti e ke të qartë se nuk do të jesh në gjendje të aksesosh ose të përdorësh Shërbimet e Biznesit dhe se pak informacion personal mund të mbetet në regjistrimet dhe arkivat e Samsung-ut për një farë kohe, në pajtim me ligjin e zbatueshëm, por Samsung-u nuk do ta përdorë atë informacion për synime komerciale. Ti e kupton se, pavarësisht kërkesës sate për heqje, Samsung-u ruan të drejtën për ta mbajtur informacionin tënd personal, ose një pjesë relevante të tij, në pajtim me politikën tonë të mbajtjes së të dhënave dhe ligjet përkatëse të zbatueshme, në qoftë se Samsung-u ka pezulluar, kufizuar ose ndërprerë aksesin prej teje në uebsajt, për shkak të shkeljes së Termave të Shërbimit të Samsung-ut, kur kjo është e nevojshme për të mbrojtur të drejtat, pronën ose sigurinë e Samsung-ut, të cilësdo prej filialeve tona përkatëse, partnerëve të biznesit, punonjësve ose klientëve.
+
+Si e mbrojmë ne informacionin personal
+
+Ne marrim masat e duhura të sigurisë administrative, teknike dhe fizike për të mbrojtur informacionin personal që na vjen në zotërim përmes Shërbimit, prej shkatërrimit, interferencës, humbjes, modifikimit, aksesit, komunikimit ose përdorimit aksidental, të paligjshëm ose të paautorizuar. Samsung-u ndërmerr edhe procedura të arsyeshme për të garantuar që këto të dhëna janë të besueshme sa i përket përdorimit të tyre të synuar, si dhe që janë të sakta, të plota dhe aktuale.
+
+Përditësimet e Njoftimit tonë të Privatësisë
+
+Ky Njoftim i Privatësisë mund të përditësohet periodikisht për të pasqyruar ndryshimet në praktikat tona të informacionit personal, në lidhje me Shërbimin ose ndryshimet në ligjin e zbatueshëm. Ne do të publikojmë një njoftim në uebsajtin tonë dhe/ose pajisjen tënde për të të njoftuar paraprakisht për ndryshimet materiale në Njoftimin tonë të Privatësisë dhe do të tregojmë, në krye të njoftimit, se kur është përditësuar ky më së fundi.
+
+Si të kontaktosh me ne
+
+Po të kesh pyetje të veçanta, lutemi na kontakto (Kontrollori i të dhënave i BE) në:
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+Mund edhe të na kontaktosh duke vizituar faqen tonë të Mbështetjes për Privatësinë (https://www.samsung.com/request-desk).
+
+Mund të paraqitësh një ankesë pranë një autoriteti mbikëqyrës, në qoftë se mendon se përpunimi prej nesh i të dhënave të tua personale e shkel ligjin e zbatueshëm.

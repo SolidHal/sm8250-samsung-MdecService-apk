@@ -1,0 +1,98 @@
+﻿Privacykennisgeving voor Call & Message Continuity
+
+Ingangsdatum: 30/03/2018
+
+Samsung Electronics (UK) Limited (“Samsung” of “we”) en haar gelieerde ondernemingen respecteren uw zorgen omtrent privacy. Deze Privacykennisgeving is van toepassing op de persoonlijke gegevens die we verzamelen door middel van de Call & Message Continuity-service (de “Service”). Deze kennisgeving is niet van toepassing op informatie die is verzameld door andere apps, websites of services die worden geleverd door Samsung of haar gelieerde ondernemingen.
+
+De Service is een communicatieservice voor meerdere apparaten. De functies ervan zijn onder meer het wisselen tussen inkomende en uitgaande oproepen, oproep- en berichthistorie, en synchronisatie van berichten tussen uw primaire apparaat (bijv. uw smartphone) en uw secundaire appara(a)t(en) (bijv. uw horloge, tablet, laptop enz.), zodat u inkomende oproepen kunt ontvangen en berichten kunt lezen op uw secundaire appara(a)t(en) en uitgaande oproepen kunt verrichten en nieuwe berichten kunt verzenden met behulp van uw primaire apparaat.
+
+Als u de Service wilt gebruiken, moet u eerst zijn ingelogd bij een Samsung account op zowel uw primaire apparaat als uw secundaire appara(a)t(en). Als uw secundaire apparaat een horloge is, moet u een netwerkservice instellen door u aan te melden voor een mobiel gegevensabonnement via het door uw netwerkoperator geboden systeem waarmee u uw horloge kunt gebruiken met behulp van uw reguliere telefoonnummer. Als uw secundaire apparaat een tablet is die alleen gegevens ondersteunt, moet u een verbinding instellen met een Wi-Fi-netwerk of met het door uw netwerkoperator geboden systeem waarmee u uw tablet kunt gebruiken. Ons privacybeleid op https://account.samsung.com/membership/pp (het “Samsung-privacybeleid”) is van toepassing op het gebruik van uw Samsung account en Call & Message Continuity. Deze Privacykennisgeving biedt aanvullende informatie over de wijze waarop uw persoonlijke gegevens worden gebruikt in verband met de Service en dient te worden gelezen in combinatie met het Samsung-privacybeleid.
+
+In deze Privacykennisgeving beschrijven we welke soorten gegevens worden verzameld door middel van de Service, hoe we deze gegevens mogelijk gebruiken, hoe lang we de gegevens mogelijk bewaren en met wie we de gegevens mogelijk delen, evenals over welke opties u beschikt met betrekking tot ons gebruik van de gegevens en het uitoefenen van uw rechten. Daarnaast beschrijven we welke maatregelen we nemen om de gegevens te beschermen en vertellen we u hoe u contact met ons kunt opnemen over onze privacypraktijken. Samsung is verantwoordelijk voor de verwerking van de persoonlijke gegevens.
+
+Klik op een van de koppelingen hieronder om naar de vermelde sectie te gaan:
+
+•	Gegevens die we verkrijgen
+•	Hoe we de verkregen gegevens gebruiken
+•	Delen van gegevens
+•	Bewaren van persoonlijke gegevens
+•	Uw opties
+•	Uw rechten
+•	Hoe we persoonlijke gegevens beschermen
+•	Wijzigingen in onze Privacykennisgeving
+•	Contact met ons opnemen
+
+Gegevens die we verkrijgen
+
+We verkrijgen op verschillende manieren gegevens over u door middel van de Service. We verkrijgen onder andere de volgende typen persoonlijke gegevens:
+
+•	Gegevens van uw Samsung account. We verzamelen gegevens van uw Samsung account die worden gebruikt om toegang te verkrijgen tot de Service, zoals uw Samsung account-id.
+
+•	Interacties met de Service. We verzamelen gegevens die u uitwisselt door middel van uw interacties met de Service, met inbegrip van informatie over bellers en ontvangers, informatie over afzenders en ontvangers van berichten, de inhoud van berichten die u verstuurt en ontvangt, en de oproep- en berichthistorie op uw smartphone-toepassingen. Daarnaast worden ook overige gebruiksgegevens verzameld, zoals aanraakhandelingen en andere input, alsook de informatie die u ontvangt van de Service (zoals reacties en antwoorden). Indien u gegevens inzendt naar de Service die van gevoelige aard zijn (zoals informatie over uw gezondheid), bijv. in de vorm van door u verstuurde of ontvangen berichten die gevoelige informatie bevatten, worden deze eveneens verzameld en verwerkt voor de hieronder genoemde doeleinden. Wij verzamelen dergelijke informatie niet actief, behalve wanneer wij eerst uw afzonderlijke uitdrukkelijke toestemming hebben verkregen of indien dit in overeenstemming is met het toepasselijk recht.
+
+•	Gegevens over apparaten en apps. We verzamelen automatisch gegevens over uw apparaten waarop de Service wordt gebruikt, zoals het mobiele nummer, het netwerk-MAC-adres, apparaat-id’s en overige unieke id’s.
+
+Hoe we de verkregen gegevens gebruiken
+We gebruiken de gegevens die we verkrijgen door middel van de Service om:
+
+•	u te identificeren en te verifiëren zodat u een bepaalde service kunt gebruiken;
+•	u de Service te leveren, zoals het wisselen tussen inkomende en uitgaande oproepen tussen uw apparaten evenals het synchroniseren van uw oproephistorie en van berichten op uw apparaten (smartphone, horloge, tablet, laptop enz.);
+•	uw beleving van de Service te verbeteren en aan te passen;
+•	te reageren op uw verzoeken en vragen;
+•	onze bedrijfsactiviteiten uit te voeren, te evalueren en te verbeteren (onder andere door nieuwe producten te ontwikkelen; onze producten en services uit te breiden en te verbeteren; onze communicatie te beheren; onze producten, ons klantenbestand en onze services te analyseren; marktonderzoek uit te voeren; gegevensanalyse te verrichten; de administratie bij te houden en boekhoudkundige controles en andere interne functies uit te voeren);
+•	het voor u mogelijk te maken te werken met en gebruik te maken van apps en services van derden;
+•	bescherming te bieden tegen fraude en andere criminele activiteiten, claims en andere risico’s en deze te herkennen en te voorkomen; en
+•	toepasselijke wettelijke vereisten, relevante industrienormen en onze beleidsregels, met inbegrip van deze Privacykennisgeving en het Samsung-privacybeleid na te leven en de handhaving daarvan af te dwingen.
+
+Door middel van de Service kunnen we persoonlijke gegevens verzamelen over uw online activiteiten in de loop der tijd op apparaten waarop de Service wordt gebruikt, en op diverse apps met betrekking tot de oproep- en berichtservices van uw smartphone. Ook kunnen we gebruikmaken van analyseservices van derden in de Service. De leveranciers die deze analyseservices beheren, helpen ons bij het analyseren van uw gebruik van de Service en bij het verbeteren van de Service. De gegevens die we verkrijgen, kunnen worden bekendgemaakt aan of rechtstreeks worden verzameld door deze providers en andere relevante derden die de gegevens bijvoorbeeld gebruiken om de Service te evalueren, te helpen bij het leveren van de Service en technische problemen te onderzoeken.
+
+
+Samsung verwerkt persoonlijke gegevens voor de hierboven beschreven doeleinden. De wettelijke basis op grond waarvan Samsung persoonlijke gegevens verwerkt, omvat onder andere verwerking die: noodzakelijk is voor de uitvoering van het contract tussen u en Samsung (bijvoorbeeld om de Service aan u te leveren en om u te identificeren en uw identiteit te verifiëren zodat u bepaalde services kunt gebruiken); noodzakelijk is om te voldoen aan wettelijke vereisten (bijvoorbeeld om te voldoen aan de toepasselijke boekhoudkundige voorschriften en om verplichte bekendmakingen te doen aan wetshandhavende instanties); noodzakelijk is voor de legitieme belangen van Samsung (bijvoorbeeld om onze relatie met u te beheren en de Service te verbeteren); en is gebaseerd op afzonderlijk van u verkregen instemming (bijvoorbeeld om te communiceren met u over onze producten en services en u te voorzien van marketinginformatie) die vervolgens op enig moment kan worden ingetrokken, zoals beschreven in de paragraaf Contact met ons opnemen in deze Privacykennisgeving, zonder gevolgen voor de wettigheid van de verwerking op grond van de instemming alvorens deze werd ingetrokken.
+
+U bent verplicht, als voorwaarde om een contract aan te gaan, om ter verwerking ons persoonlijke gegevens te verstrekken, zoals hierboven beschreven. Indien u geen persoonlijke gegevens aan ons verstrekt, zijn we niet in staat alle voorzieningen aan u te leveren die beschikbaar zijn door middel van de Service.
+
+Delen van gegevens
+
+We maken geen persoonlijke gegevens van u bekend door middel van de Service, uitgezonderd zoals beschreven in deze Privacykennisgeving. Een beperkt aantal leden van het Service-team van Samsung kan toegang verkrijgen tot persoonlijke gegevens en deze anderszins verwerken in het kader van hun verantwoordelijkheden of hun contractuele verplichtingen. We kunnen uw persoonlijke gegevens delen met onze dochterondernemingen en gelieerde ondernemingen, en met serviceproviders die services voor ons uitvoeren. We geven geen toestemming aan onze serviceproviders om de gegevens te gebruiken of bekend te maken, uitgezonderd voor zover dit noodzakelijk is om de services namens ons uit te voeren of te voldoen aan wettelijke vereisten.
+
+Sommige van deze personeelsleden, gelieerde ondernemingen en externe serviceproviders zijn gevestigd buiten de EER, onder andere in landen die mogelijk niet dezelfde mate van gegevensbescherming bieden als het thuisland van onze klanten, waaronder (zonder beperking) Zuid-Korea, de Verenigde Staten en Japan. Samsung neemt passende maatregelen om erop toe te zien dat dergelijke ontvangers gebonden zijn aan geheimhoudingsverplichtingen en Samsung implementeert maatregelen, zoals standaard contractbepalingen inzake bescherming van persoonsgegevens, om ervoor te zorgen dat overgedragen persoonsgegevens beschermd en beveiligd worden. Een kopie van deze bepalingen kan worden verkregen door contact met ons op te nemen zoals beschreven in de paragraaf Contact met ons opnemen in deze Privacykennisgeving.
+
+Samsung, onze dochterondernemingen en gelieerde ondernemingen, en onze externe serviceproviders kunnen ook informatie over u bekendmaken (1) wanneer we daartoe verplicht zijn op grond van de wet of een wettelijk proces (bijvoorbeeld een gerechtelijk bevel of dagvaarding); (2) in reactie op een verzoek van een overheidsinstelling, zoals een wetshandhavende instantie; (3) om onze wettelijke rechten te laten gelden, uit te oefenen of te verdedigen; (4) wanneer we geloven dat bekendmaking noodzakelijk of passend is om fysieke of andere schade dan wel financiële verliezen te voorkomen; (5) in verband met een onderzoek naar vermoede of daadwerkelijke illegale activiteiten; (6) in het geval dat we ons bedrijf of onze bedrijfsmiddelen geheel of gedeeltelijk verkopen of overdragen (onder andere in het geval van een fusie, overname, verkoop, overdracht, reorganisatie, opheffing of liquidatie); of (7) anderszins met uw afzonderlijke toestemming.
+
+
+Bewaren van persoonlijke gegevens
+
+Wij nemen passende stappen om te waarborgen dat de informatie over u alleen wordt bewaard als deze uitgaat van de volgende logica:
+1. de informatie wordt bewaard voor ten minste de duur dat deze wordt gebruikt om u de Service te leveren;
+2. de informatie wordt bewaard voor zover verplicht op grond van de wet, een contract of onze wettelijke verplichtingen; of
+3. de informatie wordt bewaard zolang als nodig is voor de doeleinden waarvoor de gegevens worden verzameld of verwerkt, of langer indien dit vereist is op grond van enig ander contract of de toepasselijke wetgeving dan wel voor statistische doeleinden, dit laatste met inachtneming van passende waarborgen.
+
+Uw opties
+
+We bieden u bepaalde opties met betrekking tot de persoonlijke gegevens die we over u verkrijgen. U kunt uw voorkeuren bijwerken, de communicatie die u van ons ontvangt beperken, of een verzoek indienen door contact met ons op te nemen zoals beschreven in de paragraaf Contact met ons opnemen in deze Privacykennisgeving.
+
+Raadpleeg de instellingen voor Verbinding op afstand op uw apparaat voor opties die mogelijk voor u beschikbaar zijn in verband met uw gebruik van de Service. Let op: indien u de Service niet toestaat bepaalde gegevens te verzamelen of te delen, kunt u mogelijk niet gebruikmaken van alle functionaliteit die beschikbaar is via de Service.
+
+Uw rechten
+
+U hebt het recht om details op te vragen over de informatie die wij over u verzamelen en om een verzoek in te dienen om onjuistheden in die informatie te corrigeren, bezwaar te maken tegen of te vragen om beperking van de verwerking, en toegang te vragen tot uw informatie of te vragen om uw informatie te wissen of over te dragen. Op grond van de wetgeving van bepaalde jurisdicties kunnen we weigeren verzoeken te verwerken die onredelijk repetitief zijn, een disproportionele technische inspanning vereisen, de privacy van anderen in het gedrang brengen of extreem onpraktisch zijn, of waarvoor toegang niet vereist wordt door de lokale wetgeving. Als u een verzoek om toegang tot uw informatie wilt indienen, neem dan contact met ons op door de Ondersteuningspagina voor privacy te bezoeken (https://www.samsung.com/request-desk).
+
+Als u een verzoek indient om uw persoonlijke gegevens te wissen, erkent u dat u niet langer toegang hebt tot of gebruik kunt maken van de zakelijke Services en dat uw particuliere persoonlijke gegevens nog altijd voor enige tijd bewaard kunnen blijven in de records of archieven van Samsung, overeenkomstig de toepasselijke wetgeving, maar dat Samsung die gegevens niet langer voor commerciële doeleinden zal gebruiken. U erkent dat Samsung, ondanks uw verzoek om uw gegevens te wissen, zich het recht voorbehoudt om uw persoonlijke gegevens of een relevant deel daarvan te bewaren overeenkomstig het beleid inzake gegevensbehoud en de geldige wetgeving, indien Samsung uw toegang tot de website heeft opgeschort, beperkt, of beëindigd wegens inbreuk op de Servicevoorwaarden van Samsung, mocht dit nodig zijn om de rechten, bezittingen of veiligheid van Samsung of een van haar respectieve gelieerde ondernemingen, zakenpartners, werknemers of klanten te beschermen.
+
+Hoe we persoonlijke gegevens beschermen
+
+We hanteren passende administratieve, technische en fysieke maatregelen die zijn ontworpen om de persoonlijke gegevens die we verkrijgen door middel van de Service te beschermen tegen onbedoeld(e), onwettig(e) of ongeautoriseerd(e) vernietiging, manipulatie, verlies, wijziging, toegang, bekendmaking of gebruik. Samsung hanteert verder redelijke procedures om erop toe te zien dat de gegevens betrouwbaar zijn voor het beoogde gebruik en waarheidsgetrouw, volledig en actueel zijn.
+
+Wijzigingen in onze Privacykennisgeving
+
+Deze Privacykennisgeving kan van tijd tot tijd worden bijgewerkt in overeenstemming met onze praktijken met betrekking tot persoonlijke gegevens in het kader van de Service, of wijzigingen in het toepasselijk recht. We zullen een kennisgeving publiceren op onze website en/of op uw apparaat om u vooraf in kennis te stellen van wezenlijke wijzigingen in onze Privacykennisgeving en bovenaan de kennisgeving aangeven wanneer deze voor het laatst is bijgewerkt.
+
+Contact met ons opnemen
+
+Als u specifieke vragen hebt over uw gegevens, kunt u contact met ons (gegevensverzamelaar voor de EU) opnemen via:
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+Ook kunt u contact met ons opnemen door de Ondersteuningspagina voor privacy te bezoeken (https://www.samsung.com/request-desk).
+
+U kunt een klacht indienen bij een toezichthoudende instantie indien u vindt dat onze verwerking van uw persoonlijke gegevens inbreuk maakt op het toepasselijk recht.
