@@ -1663,7 +1663,7 @@
     .line 6
     sget-object v7, Landroid/provider/ContactsContract$Data;->CONTENT_URI:Landroid/net/Uri;
 
-    invoke-static {}, Landroid/app/ActivityManager;->semGetCurrentUser()I
+    invoke-static {}, Landroid/app/ActivityManager;->getCurrentUser()I
 
     move-result v8
 

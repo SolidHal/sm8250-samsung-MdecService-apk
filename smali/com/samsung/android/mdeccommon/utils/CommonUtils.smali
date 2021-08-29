@@ -140,7 +140,7 @@
     invoke-static {v2, v1}, Lcom/samsung/android/mdeccommon/utils/CommonUtils;->storeDumpLog(Ljava/lang/String;Ljava/lang/String;)V
 
     .line 10
-    invoke-static {}, Lcom/samsung/android/mdeccommon/utils/SemUtils;->semGetCurrentUser()I
+    invoke-static {}, Lcom/samsung/android/mdeccommon/utils/SemUtils;->getCurrentUser()I
 
     move-result v1
 
@@ -867,7 +867,7 @@
     .line 6
     :cond_1
     :try_start_2
-    invoke-static {}, Landroid/app/ActivityManager;->semGetCurrentUser()I
+    invoke-static {}, Landroid/app/ActivityManager;->getCurrentUser()I
 
     move-result v1
 
@@ -990,7 +990,7 @@
     invoke-static {v0, v1}, Lcom/samsung/android/mdeccommon/tools/MdecLogger;->i(Ljava/lang/String;Ljava/lang/String;)V
 
     .line 2
-    invoke-static {}, Lcom/samsung/android/mdeccommon/utils/SemUtils;->semGetCurrentUser()I
+    invoke-static {}, Lcom/samsung/android/mdeccommon/utils/SemUtils;->getCurrentUser()I
 
     move-result v0
 

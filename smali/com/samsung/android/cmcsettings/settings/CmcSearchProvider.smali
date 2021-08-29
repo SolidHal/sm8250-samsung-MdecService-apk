@@ -52,7 +52,7 @@
     new-array v1, v1, [Ljava/lang/Object;
 
     .line 4
-    invoke-static {}, Landroid/app/ActivityManager;->semGetCurrentUser()I
+    invoke-static {}, Landroid/app/ActivityManager;->getCurrentUser()I
 
     move-result v2
 

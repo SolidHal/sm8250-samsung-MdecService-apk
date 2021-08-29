@@ -70,7 +70,7 @@
     if-eqz p2, :cond_2
 
     .line 2
-    invoke-static {}, Landroid/app/ActivityManager;->semGetCurrentUser()I
+    invoke-static {}, Landroid/app/ActivityManager;->getCurrentUser()I
 
     move-result p2
 

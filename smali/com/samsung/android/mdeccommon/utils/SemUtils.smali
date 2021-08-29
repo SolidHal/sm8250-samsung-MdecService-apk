@@ -189,11 +189,11 @@
     return-void
 .end method
 
-.method public static semGetCurrentUser()I
+.method public static getCurrentUser()I
     .locals 1
 
     .line 1
-    invoke-static {}, Landroid/app/ActivityManager;->semGetCurrentUser()I
+    invoke-static {}, Landroid/app/ActivityManager;->getCurrentUser()I
 
     move-result v0
 
