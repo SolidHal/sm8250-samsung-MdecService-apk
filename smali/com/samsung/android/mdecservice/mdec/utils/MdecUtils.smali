@@ -1262,7 +1262,7 @@
     .locals 2
 
     .line 1
-    invoke-static {}, Landroid/os/SemSystemProperties;->getSalesCode()Ljava/lang/String;
+    invoke-static {}, Landroid/os/SystemProperties;->getSalesCode()Ljava/lang/String;
 
     move-result-object v0
 
@@ -1290,7 +1290,7 @@
     const-string v1, ""
 
     .line 1
-    invoke-static {v0, v1}, Landroid/os/SemSystemProperties;->get(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+    invoke-static {v0, v1}, Landroid/os/SystemProperties;->get(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
 
     move-result-object v0
 
@@ -2938,7 +2938,7 @@
     const-string v0, "ro.build.characteristics"
 
     .line 1
-    invoke-static {v0}, Landroid/os/SemSystemProperties;->get(Ljava/lang/String;)Ljava/lang/String;
+    invoke-static {v0}, Landroid/os/SystemProperties;->get(Ljava/lang/String;)Ljava/lang/String;
 
     move-result-object v0
 

@@ -749,7 +749,7 @@
     .locals 1
 
     .line 1
-    invoke-static {}, Landroid/os/SemSystemProperties;->getSalesCode()Ljava/lang/String;
+    invoke-static {}, Landroid/os/SystemProperties;->getSalesCode()Ljava/lang/String;
 
     move-result-object v0
 
