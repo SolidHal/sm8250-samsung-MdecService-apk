@@ -200,11 +200,11 @@
     return v0
 .end method
 
-.method public static semGetIntForUser(Landroid/content/ContentResolver;Ljava/lang/String;II)I
+.method public static getIntForUser(Landroid/content/ContentResolver;Ljava/lang/String;II)I
     .locals 0
 
     .line 1
-    invoke-static {p0, p1, p2, p3}, Landroid/provider/Settings$System;->semGetIntForUser(Landroid/content/ContentResolver;Ljava/lang/String;II)I
+    invoke-static {p0, p1, p2, p3}, Landroid/provider/Settings$System;->getIntForUser(Landroid/content/ContentResolver;Ljava/lang/String;II)I
 
     move-result p0
 

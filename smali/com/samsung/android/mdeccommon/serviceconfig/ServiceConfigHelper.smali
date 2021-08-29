@@ -344,7 +344,7 @@
 
     const/4 v2, 0x0
 
-    invoke-static {p0, v1, v2, p1}, Lcom/samsung/android/mdeccommon/utils/SemUtils;->semGetIntForUser(Landroid/content/ContentResolver;Ljava/lang/String;II)I
+    invoke-static {p0, v1, v2, p1}, Lcom/samsung/android/mdeccommon/utils/SemUtils;->getIntForUser(Landroid/content/ContentResolver;Ljava/lang/String;II)I
 
     move-result p0
 
